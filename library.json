@@ -1,72 +1,1180 @@
 [
   {
-    "name": "Maggie Smith",
-    "slugs": { "IT": "Maggie_Smith", "EN": "Maggie_Smith" },
-    "bio": "Una delle più grandi attrici britanniche, vincitrice di due Premi Oscar, tre Golden Globe e innumerevoli BAFTA. Resa immortale al grande pubblico per i ruoli di Minerva McGranitt nella saga di 'Harry Potter' e Violet Crawley in 'Downton Abbey'. È scomparsa serenamente a 89 anni per cause naturali, circondata dall'affetto della sua famiglia in ospedale.",
-    "birthDate": "1934-12-28",
-    "deathDate": "2024-09-27"
+    "name": "Max Weber",
+    "slugs": {
+      "IT": "Max_Weber",
+      "EN": "Max_Weber"
+    },
+    "bio": "Maximilian Carl Emil Weber è stato un sociologo, filosofo, economista, giurista e storico tedesco.",
+    "birthDate": "1864-04-21",
+    "deathDate": "1920-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Weber%20in%201918.png"
   },
   {
-    "name": "Alain Delon",
-    "slugs": { "IT": "Alain_Delon", "EN": "Alain_Delon" },
-    "bio": "Leggenda del cinema francese e sex symbol globale del Novecento. Ha recitato in capolavori immortali come 'Il Gattopardo' e 'Rocco e i suoi fratelli', definendo l'epoca d'oro del cinema europeo. È deceduto a 88 anni nella sua tenuta di Douchy, dopo aver lottato a lungo contro un linfoma a lenta evoluzione.",
-    "birthDate": "1935-11-08",
-    "deathDate": "2024-08-18"
+    "name": "Marcel Proust",
+    "slugs": {
+      "IT": "Marcel_Proust",
+      "EN": "Marcel_Proust"
+    },
+    "bio": "Valentin Louis Georges Eugène Marcel Proust è stato uno scrittore, saggista, critico letterario e poeta francese, la cui opera più nota è il monumentale romanzo Alla ricerca del tempo perduto pubblicato in sette volumi tra il 1913 e il 1927.",
+    "birthDate": "1871-07-10",
+    "deathDate": "1922-11-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%201895.jpg"
   },
   {
-    "name": "Akira Toriyama",
-    "slugs": { "IT": "Akira_Toriyama", "EN": "Akira_Toriyama" },
-    "bio": "Maestro assoluto e mangaka giapponese, creatore dell'iconico universo di 'Dragon Ball' e 'Dr. Slump'. Ha definito l'immaginario collettivo di intere generazioni, vendendo centinaia di milioni di copie in tutto il mondo. È venuto a mancare inaspettatamente a 68 anni a causa di un ematoma subdurale acuto.",
-    "birthDate": "1955-04-05",
-    "deathDate": "2024-03-01"
+    "name": "Sarah Bernhardt",
+    "slugs": {
+      "IT": "Sarah_Bernhardt",
+      "EN": "Sarah_Bernhardt"
+    },
+    "bio": "Sarah Bernhardt, nata Henriette Rosine Bernard, è stata una celebre attrice teatrale e cinematografica francese.",
+    "birthDate": "1844-10-23",
+    "deathDate": "1923-03-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Sarah%20Bernhardt%20as%20Do%C3%B1a%20Sol%20in%20Hernani%20%28cropped%29.png"
   },
   {
-    "name": "Carl Weathers",
-    "slugs": { "IT": "Carl_Weathers", "EN": "Carl_Weathers" },
-    "bio": "Ex giocatore di football e attore statunitense, è entrato nella storia del cinema per aver interpretato l'indimenticabile Apollo Creed nella saga di 'Rocky' al fianco di Sylvester Stallone, e per ruoli in 'Predator' e 'The Mandalorian'. È scomparso nel sonno a 76 anni a causa di malattie cardiovascolari.",
-    "birthDate": "1948-01-14",
-    "deathDate": "2024-02-01"
+    "name": "Lenin",
+    "slugs": {
+      "IT": "Lenin",
+      "EN": "Lenin"
+    },
+    "bio": "Lenin, pseudonimo di Vladimir Il'ič Ul'janov, è stato un rivoluzionario, politico, filosofo e scrittore russo, poi sovietico, talvolta menzionato come Vladimir Lenin o come Nikolaj Lenin.",
+    "birthDate": "1870-04-22",
+    "deathDate": "1924-01-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Lenin%20in%20July%201920%20by%20Pavel%20Zhukov.jpg"
   },
   {
-    "name": "Matthew Perry",
-    "slugs": { "IT": "Matthew_Perry", "EN": "Matthew_Perry" },
-    "bio": "Attore brillante e amatissimo dal grande pubblico per il ruolo di Chandler Bing nell'iconica sitcom 'Friends'. Dopo una vita segnata dalla lotta pubblica contro le dipendenze, per cui aveva creato fondazioni di recupero, è stato trovato senza vita a 54 anni, annegato accidentalmente a causa degli effetti acuti della ketamina.",
-    "birthDate": "1969-08-19",
-    "deathDate": "2023-10-28"
+    "name": "Woodrow Wilson",
+    "slugs": {
+      "IT": "Thomas_Woodrow_Wilson",
+      "EN": "Thomas_Woodrow_Wilson"
+    },
+    "bio": "Thomas Woodrow Wilson è stato un politico statunitense, 28º Presidente degli Stati Uniti d'America dal 1913 al 1921.",
+    "birthDate": "1856-12-28",
+    "deathDate": "1924-02-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Woodrow%20Wilson%2C%20Harris%20%26%20Ewing%20bw%20photo%20portrait%2C%201919.jpg"
   },
   {
-    "name": "Queen Elizabeth II",
-    "slugs": { "IT": "Elisabetta_II_del_Regno_Unito", "EN": "Elizabeth_II" },
-    "bio": "Regina del Regno Unito per oltre 70 anni, il regno più lungo della storia britannica. Ha rappresentato una figura di incrollabile dedizione e stabilità attraversando enormi stravolgimenti storici, dalla Guerra Fredda all'era digitale. È morta serenamente a 96 anni per cause naturali (vecchiaia) nel Castello di Balmoral.",
-    "birthDate": "1926-04-21",
-    "deathDate": "2022-09-08"
+    "name": "Franz Kafka",
+    "slugs": {
+      "IT": "Franz_Kafka",
+      "EN": "Franz_Kafka"
+    },
+    "bio": "Franz Kafka è stato uno scrittore ebreo boemo di lingua tedesca.",
+    "birthDate": "1883-07-03",
+    "deathDate": "1924-06-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Kafka%2C%201923.jpg"
   },
   {
-    "name": "John Lennon",
-    "slugs": { "IT": "John_Lennon", "EN": "John_Lennon" },
-    "bio": "Membro fondatore dei Beatles, paroliere geniale e attivista pacifista globale. Con brani immortali e profondi come 'Imagine' ha ispirato intere generazioni sognando un mondo senza barriere. La sua vita fu spezzata a 40 anni a New York, assassinato con colpi di pistola alla schiena da uno squilibrato fuori dal suo appartamento (il Dakota Building).",
-    "birthDate": "1940-10-09",
-    "deathDate": "1980-12-08"
+    "name": "Roald Amundsen",
+    "slugs": {
+      "IT": "Roald_Amundsen",
+      "EN": "Roald_Amundsen"
+    },
+    "bio": "Roald Engelbregt Gravning Amundsen è stato un esploratore norvegese delle regioni polari. Condusse la prima spedizione capace di raggiungere il Polo sud nel 1911-1912.",
+    "birthDate": "1872-07-16",
+    "deathDate": "1928-06-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Amundsen%20in%20fur%20skins.jpg"
+  },
+  {
+    "name": "Arthur Conan Doyle",
+    "slugs": {
+      "IT": "Arthur_Conan_Doyle",
+      "EN": "Arthur_Conan_Doyle"
+    },
+    "bio": "Sir Arthur Ignatius Conan Doyle è stato uno scrittore e drammaturgo britannico, considerato, insieme a Edgar Allan Poe, il fondatore dei due generi letterari del giallo e del fantastico.\n\n",
+    "birthDate": "1859-05-22",
+    "deathDate": "1930-07-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Conan%20Doyle%20by%20Walter%20Benington%2C%201914.png"
+  },
+  {
+    "name": "Thomas Edison",
+    "slugs": {
+      "IT": "Thomas_Edison",
+      "EN": "Thomas_Edison"
+    },
+    "bio": "Thomas Alva Edison è stato un inventore e imprenditore statunitense.",
+    "birthDate": "1847-02-11",
+    "deathDate": "1931-10-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg"
+  },
+  {
+    "name": "Marie Curie",
+    "slugs": {
+      "IT": "Marie_Curie",
+      "EN": "Marie_Curie"
+    },
+    "bio": "Maria Salomea Skłodowska-Curie è stata una fisica, chimica e matematica polacca naturalizzata francese.",
+    "birthDate": "1867-11-07",
+    "deathDate": "1934-07-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Curie%20%281900%29%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Rudyard Kipling",
+    "slugs": {
+      "IT": "Rudyard_Kipling",
+      "EN": "Rudyard_Kipling"
+    },
+    "bio": "Joseph Rudyard Kipling è stato uno scrittore, poeta e giornalista britannico, vincitore del Premio Nobel per la letteratura nel 1907, a 41 anni, il più giovane e il primo scrittore di lingua inglese. Dopo la sua morte, le sue ceneri furono interrate nel Poets' Corner, una sezione del transetto meridionale dell'Abbazia di Westminster.",
+    "birthDate": "1865-12-30",
+    "deathDate": "1936-01-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kipling%20nd.jpg"
+  },
+  {
+    "name": "Maksim Gor'kij",
+    "slugs": {
+      "IT": "Maksim_Gor'kij",
+      "EN": "Maksim_Gor'kij"
+    },
+    "bio": "Maksim Gor'kij, pseudonimo di Aleksej Maksimovič Peškov è stato uno scrittore e drammaturgo russo.",
+    "birthDate": "1868-03-28",
+    "deathDate": "1936-06-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxim%20Gorky%20LOC%20Restored%20edit1.jpg"
+  },
+  {
+    "name": "Ernest Rutherford",
+    "slugs": {
+      "IT": "Ernest_Rutherford",
+      "EN": "Ernest_Rutherford"
+    },
+    "bio": "Ernest Rutherford, I Barone Rutherford di Nelson, è stato un fisico neozelandese naturalizzato britannico, considerato il padre della fisica nucleare. Fu il precursore della teoria orbitale dell'atomo, avendo scoperto lo scattering Rutherford nell'esperimento della lamina d'oro sottile.\nVinse il premio Nobel per la chimica nel 1908. In ricordo del suo importante contributo alla chimica, l'elemento chimico Rutherfordio prende il suo nome.",
+    "birthDate": "1871-08-30",
+    "deathDate": "1937-10-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Rutherford%20LOC.jpg"
+  },
+  {
+    "name": "Mustafa Kemal Atatürk",
+    "slugs": {
+      "IT": "Mustafa_Kemal_Atatürk",
+      "EN": "Mustafa_Kemal_Atatürk"
+    },
+    "bio": "Mustafa Kemal Atatürk è stato un generale e politico turco, fondatore e primo presidente della Repubblica Turca (1923-1938). Dal 1916 fu chiamato Mustafa Kemal \"Paşa\", dal 1934 Kemal \"Atatürk\".",
+    "birthDate": "1881-01-01",
+    "deathDate": "1938-11-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ataturk1930s.jpg"
+  },
+  {
+    "name": "Sigmund Freud",
+    "slugs": {
+      "IT": "Sigmund_Freud",
+      "EN": "Sigmund_Freud"
+    },
+    "bio": "Sigismund Schlomo Freud, noto come Sigmund Freud, è stato un neurologo, psicoanalista e filosofo austriaco, fondatore della psicoanalisi, la più antica tra le correnti della psicologia dinamica.",
+    "birthDate": "1856-05-06",
+    "deathDate": "1939-09-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%2C%20by%20Max%20Halberstadt%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Lev Trockij",
+    "slugs": {
+      "IT": "Lev_Trockij",
+      "EN": "Lev_Trockij"
+    },
+    "bio": "Lev Trockij, storicamente italianizzato in Leone Trotzki, nato Lev Davidovič Bronštejn, è stato un politico, rivoluzionario, politologo e militare sovietico proveniente dall'Ucraina; insieme a Lenin fu una delle figure centrali della Rivoluzione d'ottobre e del gruppo dirigente della nascente URSS.\nInfluente membro del Partito Comunista dell'Unione Sovietica e ideologicamente marxista, i suoi scritti e il suo pensiero ispirarono la scuola ideologica conosciuta come trockismo.",
+    "birthDate": "1879-11-07",
+    "deathDate": "1940-08-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D0%B2%20%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg"
+  },
+  {
+    "name": "James Joyce",
+    "slugs": {
+      "IT": "James_Joyce",
+      "EN": "James_Joyce"
+    },
+    "bio": "James Augustine Aloysius Joyce è stato uno scrittore, poeta e drammaturgo irlandese.",
+    "birthDate": "1882-02-02",
+    "deathDate": "1941-01-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20by%20Alex%20Ehrenzweig%2C%201915%20cropped.jpg"
+  },
+  {
+    "name": "Rabindranath Tagore",
+    "slugs": {
+      "IT": "Rabindranath_Tagore",
+      "EN": "Rabindranath_Tagore"
+    },
+    "bio": "Rabindranath Tagore è stato un poeta, drammaturgo, scrittore e filosofo indiano di etnia bengalese, anche soprannominato Gurudev, Kobiguru, o Biswokobi.",
+    "birthDate": "1861-05-07",
+    "deathDate": "1941-08-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabindranath%20Tagore%20in%201909.jpg"
+  },
+  {
+    "name": "Nikola Tesla",
+    "slugs": {
+      "IT": "Nikola_Tesla",
+      "EN": "Nikola_Tesla"
+    },
+    "bio": "Nikola Tesla è stato un inventore, fisico e ingegnere elettrotecnico serbo, nato nel territorio dell'attuale Croazia, allora facente parte dell'Impero austro-ungarico e naturalizzato statunitense nel 1891.",
+    "birthDate": "1856-07-10",
+    "deathDate": "1943-01-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20circa%201890.jpeg"
+  },
+  {
+    "name": "Franklin Delano Roosevelt",
+    "slugs": {
+      "IT": "Franklin_Delano_Roosevelt",
+      "EN": "Franklin_Delano_Roosevelt"
+    },
+    "bio": "Franklin Delano Roosevelt, menzionato anche come Franklin D. Roosevelt o solo con le iniziali FDR è stato un politico statunitense, 32º presidente degli Stati Uniti d'America dal 1933 al 1945 che ha guidato gli Stati Uniti fuori dalla Grande depressione e ha vinto la seconda guerra mondiale, rendendo l'America una superpotenza globale.",
+    "birthDate": "1882-01-30",
+    "deathDate": "1945-04-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/FDR%201944%20Color%20Portrait.jpg"
+  },
+  {
+    "name": "Benito Mussolini",
+    "slugs": {
+      "IT": "Benito_Mussolini",
+      "EN": "Benito_Mussolini"
+    },
+    "bio": "Benito Amilcare Andrea Mussolini è stato un politico e giornalista italiano. Fu il fondatore del fascismo ed il primo tra i dittatori fascisti dell'Europa novecentesca.",
+    "birthDate": "1883-07-29",
+    "deathDate": "1945-04-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20mezzobusto.jpg"
+  },
+  {
+    "name": "Adolf Hitler",
+    "slugs": {
+      "IT": "Adolf_Hitler",
+      "EN": "Adolf_Hitler"
+    },
+    "bio": "Adolf Hitler è stato un politico austriaco naturalizzato tedesco, cancelliere del Reich in Germania dal 1933 e Führer dal 1934, instaurando un regime dittatoriale fino alla morte nel 1945.",
+    "birthDate": "1889-04-20",
+    "deathDate": "1945-04-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Hitler%20cropped%20restored%203x4.jpg"
+  },
+  {
+    "name": "John Maynard Keynes",
+    "slugs": {
+      "IT": "John_Maynard_Keynes",
+      "EN": "John_Maynard_Keynes"
+    },
+    "bio": "John Maynard Keynes, 1º barone Keynes di Tilton, è stato un economista britannico, padre della macroeconomia.",
+    "birthDate": "1883-06-05",
+    "deathDate": "1946-04-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg"
+  },
+  {
+    "name": "Henry Ford",
+    "slugs": {
+      "IT": "Henry_Ford",
+      "EN": "Henry_Ford"
+    },
+    "bio": "Henry Ford è stato un imprenditore statunitense.",
+    "birthDate": "1863-07-30",
+    "deathDate": "1947-04-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20ford%201919.jpg"
+  },
+  {
+    "name": "Max Planck",
+    "slugs": {
+      "IT": "Max_Planck",
+      "EN": "Max_Planck"
+    },
+    "bio": "Max Planck, nato Marx Karl Ernst Ludwig Planck è stato un fisico tedesco, iniziatore della fisica quantistica e premio Nobel nel 1918.",
+    "birthDate": "1858-04-23",
+    "deathDate": "1947-10-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Planck.png"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "slugs": {
+      "IT": "Mahatma_Gandhi",
+      "EN": "Mahatma_Gandhi"
+    },
+    "bio": "Mohāndās Karamchand Gāndhī è stato un politico, filosofo e avvocato indiano. È comunemente noto con l'appellativo onorifico di Mahatma",
+    "birthDate": "1869-10-02",
+    "deathDate": "1948-01-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20studio%2C%201931.jpg"
+  },
+  {
+    "name": "George Orwell",
+    "slugs": {
+      "IT": "George_Orwell",
+      "EN": "George_Orwell"
+    },
+    "bio": "George Orwell, pseudonimo di Eric Arthur Blair, è stato uno scrittore, giornalista, saggista, attivista e critico letterario britannico.",
+    "birthDate": "1903-06-25",
+    "deathDate": "1950-01-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Orwell%2C%20c.%201940%20%2841928180381%29.jpg"
+  },
+  {
+    "name": "George Bernard Shaw",
+    "slugs": {
+      "IT": "George_Bernard_Shaw",
+      "EN": "George_Bernard_Shaw"
+    },
+    "bio": "George Bernard Shaw è stato uno scrittore, drammaturgo, linguista e critico musicale irlandese.",
+    "birthDate": "1856-07-26",
+    "deathDate": "1950-11-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Bernard%20Shaw%201936.jpg"
+  },
+  {
+    "name": "Iosif Stalin",
+    "slugs": {
+      "IT": "Iosif_Stalin",
+      "EN": "Iosif_Stalin"
+    },
+    "bio": "Iosif Vissarionovič Džugašvili, detto Iosif Stalin o Stalin, è stato un militare e uomo di Stato sovietico che governò l'Unione Sovietica dal 1922 instaurando una dittatura che durò fino alla sua morte nel 1953.\nGeorgiano di umili origini, Stalin visse una giovinezza avventurosa come attivista rivoluzionario socialista prima di assumere un ruolo importante di dirigente all'interno della fazione bolscevica del Partito Operaio Socialdemocratico Russo guidata da Lenin.\nFu un capace organizzatore, dotato di grande energia e di durezza di modi e di metodi, strettamente fedele alle direttive di Lenin, e divenne uno dei capi della rivoluzione d'ottobre e dell'URSS, lo Stato socialista che da essa nacque.\nIl suo ruolo e il suo potere personale crebbero di molto durante la guerra civile russa in cui svolse compiti politico-militari estremamente importanti, entrando spesso in rivalità con Trockij.",
+    "birthDate": "1878-12-18",
+    "deathDate": "1953-03-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Stalin%20in%201932%20%284%29%20%28cropped%29%282%29.jpg"
+  },
+  {
+    "name": "Alan Turing",
+    "slugs": {
+      "IT": "Alan_Turing",
+      "EN": "Alan_Turing"
+    },
+    "bio": "Alan Mathison Turing è stato un matematico, logico, crittografo e filosofo britannico, considerato uno dei padri dell'informatica e uno dei più grandi matematici del XX secolo.",
+    "birthDate": "1912-06-23",
+    "deathDate": "1954-06-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Turing%20%281951%29%20%28crop%29.jpg"
+  },
+  {
+    "name": "Frida Kahlo",
+    "slugs": {
+      "IT": "Frida_Kahlo",
+      "EN": "Frida_Kahlo"
+    },
+    "bio": "Magdalena Carmen Frida Kahlo y Calderón nota come Frida Kahlo è stata una pittrice messicana.",
+    "birthDate": "1907-07-06",
+    "deathDate": "1954-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Henri Matisse",
+    "slugs": {
+      "IT": "Henri_Matisse",
+      "EN": "Henri_Matisse"
+    },
+    "bio": "Henri Émile Benoît Matisse è stato un pittore, grafico, disegnatore e scultore francese.",
+    "birthDate": "1869-12-31",
+    "deathDate": "1954-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Matisse%201933%20May%2020.jpg"
+  },
+  {
+    "name": "Albert Einstein",
+    "slugs": {
+      "IT": "Albert_Einstein",
+      "EN": "Albert_Einstein"
+    },
+    "bio": "Albert Einstein è stato un fisico tedesco naturalizzato svizzero e statunitense.",
+    "birthDate": "1879-03-14",
+    "deathDate": "1955-04-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg"
+  },
+  {
+    "name": "Frank Lloyd Wright",
+    "slugs": {
+      "IT": "Frank_Lloyd_Wright",
+      "EN": "Frank_Lloyd_Wright"
+    },
+    "bio": "Frank Lloyd Wright è stato un architetto statunitense, tra i più importanti del XX secolo.",
+    "birthDate": "1867-06-08",
+    "deathDate": "1959-04-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20Wright%20LC-USZ62-36384.jpg"
+  },
+  {
+    "name": "Albert Camus",
+    "slugs": {
+      "IT": "Albert_Camus",
+      "EN": "Albert_Camus"
+    },
+    "bio": "Albert Camus è stato uno scrittore, filosofo, saggista, drammaturgo, giornalista e attivista politico francese.",
+    "birthDate": "1913-11-07",
+    "deathDate": "1960-01-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Camus%2C%20gagnant%20de%20prix%20Nobel%2C%20portrait%20en%20buste%2C%20pos%C3%A9%20au%20bureau%2C%20faisant%20face%20%C3%A0%20gauche%2C%20cigarette%20de%20tabagisme.jpg"
+  },
+  {
+    "name": "Ernest Hemingway",
+    "slugs": {
+      "IT": "Ernest_Hemingway",
+      "EN": "Ernest_Hemingway"
+    },
+    "bio": "Ernest Miller Hemingway è stato uno scrittore e giornalista statunitense. \nFu autore di romanzi e di racconti.",
+    "birthDate": "1899-07-21",
+    "deathDate": "1961-07-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ErnestHemingway.jpg"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "slugs": {
+      "IT": "Marilyn_Monroe",
+      "EN": "Marilyn_Monroe"
+    },
+    "bio": "Marilyn Monroe, pseudonimo di Norma Jeane Mortenson Baker, nata Norma Jeane Mortenson, è stata un'attrice, cantante, modella e produttrice cinematografica statunitense, tra le più celebri della storia del cinema.",
+    "birthDate": "1926-06-01",
+    "deathDate": "1962-08-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20in%20How%20to%20Marry%20a%20Millionaire.jpg"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "slugs": {
+      "IT": "Marilyn_Monroe",
+      "EN": "Marilyn_Monroe"
+    },
+    "bio": "Marilyn Monroe, pseudonimo di Norma Jeane Mortenson Baker, nata Norma Jeane Mortenson, è stata un'attrice, cantante, modella e produttrice cinematografica statunitense, tra le più celebri della storia del cinema.",
+    "birthDate": "1926-06-01",
+    "deathDate": "1962-08-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marilyn%20Monroe%20in%20How%20to%20Marry%20a%20Millionaire.jpg"
+  },
+  {
+    "name": "Niels Bohr",
+    "slugs": {
+      "IT": "Niels_Bohr",
+      "EN": "Niels_Bohr"
+    },
+    "bio": "Niels Henrik David Bohr è stato un fisico danese.",
+    "birthDate": "1885-10-07",
+    "deathDate": "1962-11-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Bohr.jpg"
   },
   {
     "name": "John F. Kennedy",
-    "slugs": { "IT": "John_Fitzgerald_Kennedy", "EN": "John_F._Kennedy" },
+    "slugs": {
+      "IT": "John_Fitzgerald_Kennedy",
+      "EN": "John_F._Kennedy"
+    },
     "bio": "35º Presidente degli Stati Uniti d'America, simbolo assoluto di carisma, rinnovamento e speranza durante gli anni più tesi della Guerra Fredda. È stato assassinato a 46 anni a Dallas, colpito alla testa da un cecchino mentre sfilava su un'auto scoperta in un corteo presidenziale.",
     "birthDate": "1917-05-29",
     "deathDate": "1963-11-22"
   },
   {
     "name": "C.S. Lewis",
-    "slugs": { "IT": "C._S._Lewis", "EN": "C._S._Lewis" },
+    "slugs": {
+      "IT": "C._S._Lewis",
+      "EN": "C._S._Lewis"
+    },
     "bio": "Celebre scrittore, saggista e teologo britannico. Professore a Oxford e amico intimo di J.R.R. Tolkien, è conosciuto in tutto il mondo per aver scritto la monumentale saga fantasy 'Le cronache di Narnia'. È deceduto a 64 anni nella sua casa, lo stesso giorno dell'assassinio di JFK, a causa di un'insufficienza renale.",
     "birthDate": "1898-11-29",
     "deathDate": "1963-11-22"
   },
   {
     "name": "Aldous Huxley",
-    "slugs": { "IT": "Aldous_Huxley", "EN": "Aldous_Huxley" },
+    "slugs": {
+      "IT": "Aldous_Huxley",
+      "EN": "Aldous_Huxley"
+    },
     "bio": "Scrittore, saggista e filosofo britannico dalla mente brillante. È ricordato universalmente per il suo capolavoro distopico 'Il mondo nuovo' (Brave New World). È morto a 69 anni per un cancro alla laringe, spirando serenamente sotto l'effetto dell'LSD.",
     "birthDate": "1894-07-26",
     "deathDate": "1963-11-22"
+  },
+  {
+    "name": "John Fitzgerald Kennedy",
+    "slugs": {
+      "IT": "John_Fitzgerald_Kennedy",
+      "EN": "John_Fitzgerald_Kennedy"
+    },
+    "bio": "John Fitzgerald Kennedy, detto Jack o JFK, è stato un politico statunitense, 35º presidente degli Stati Uniti d'America dal 1961 al 1963.",
+    "birthDate": "1917-05-29",
+    "deathDate": "1963-11-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20F.%20Kennedy%2C%20White%20House%20color%20photo%20portrait.jpg"
+  },
+  {
+    "name": "Jawaharlal Nehru",
+    "slugs": {
+      "IT": "Jawaharlal_Nehru",
+      "EN": "Jawaharlal_Nehru"
+    },
+    "bio": "Paṇḍit Jawaharlal Nehru è stato un politico indiano, primo ministro indiano dal 1947 al 1964 e una delle personalità politiche più in vista del mondo nella sua epoca. Erede spirituale di Gandhi, egli diede una fisionomia politica al movimento nazionalista della nonviolenza del grande capo spirituale dell'India, e seppe condurre felicemente in porto la battaglia per l'indipendenza.",
+    "birthDate": "1889-11-14",
+    "deathDate": "1964-05-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal%20Nehru%2C%201947.jpg"
+  },
+  {
+    "name": "Winston Churchill",
+    "slugs": {
+      "IT": "Winston_Churchill",
+      "EN": "Winston_Churchill"
+    },
+    "bio": "Sir Winston Leonard Spencer Churchill è stato un politico, storico, giornalista, scrittore e militare britannico.",
+    "birthDate": "1874-11-30",
+    "deathDate": "1965-01-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Winston%20Churchill%20-%2019086236948%20%28restored%29.jpg"
+  },
+  {
+    "name": "Le Corbusier",
+    "slugs": {
+      "IT": "Le_Corbusier",
+      "EN": "Le_Corbusier"
+    },
+    "bio": "Le Corbusier, pseudonimo di Charles-Édouard Jeanneret-Gris, è stato un architetto, urbanista, pittore e designer svizzero naturalizzato francese.",
+    "birthDate": "1887-10-06",
+    "deathDate": "1965-08-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Corbusier%20%281964%29.jpg"
+  },
+  {
+    "name": "Walt Disney",
+    "slugs": {
+      "IT": "Walt_Disney",
+      "EN": "Walt_Disney"
+    },
+    "bio": "Walter Elias Disney, detto Walt, è stato un animatore, imprenditore, produttore cinematografico, regista e doppiatore statunitense.",
+    "birthDate": "1901-12-05",
+    "deathDate": "1966-12-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG"
+  },
+  {
+    "name": "Che Guevara",
+    "slugs": {
+      "IT": "Che_Guevara",
+      "EN": "Che_Guevara"
+    },
+    "bio": "Ernesto Guevara de la Serna, più noto come il Che, Che Guevara o semplicemente Che, è stato un rivoluzionario, guerrigliero, scrittore, politico e medico argentino.",
+    "birthDate": "1928-06-14",
+    "deathDate": "1967-10-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara%20-%20Guerrillero%20Heroico%20by%20Alberto%20Korda.jpg"
+  },
+  {
+    "name": "Jurij Gagarin",
+    "slugs": {
+      "IT": "Jurij_Gagarin",
+      "EN": "Jurij_Gagarin"
+    },
+    "bio": "Jurij Alekseevič Gagarin è stato un cosmonauta, aviatore e politico sovietico, primo uomo a volare nello spazio, portando a termine con successo la propria missione il 12 aprile 1961 a bordo della Vostok 1 e segnando in tal modo una pietra miliare nella corsa allo spazio.",
+    "birthDate": "1934-03-09",
+    "deathDate": "1968-03-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuri%20Gagarin%20portrait%20%28colored%29.png"
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "slugs": {
+      "IT": "Martin_Luther_King",
+      "EN": "Martin_Luther_King"
+    },
+    "bio": "Martin Luther King Jr., nato Michael King Jr., è stato un attivista, politico e pastore protestante statunitense, leader del movimento per i diritti civili degli afroamericani.",
+    "birthDate": "1929-01-15",
+    "deathDate": "1968-04-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Luther%20King%2C%20Jr..jpg"
+  },
+  {
+    "name": "Dwight Eisenhower",
+    "slugs": {
+      "IT": "Dwight_D._Eisenhower",
+      "EN": "Dwight_D._Eisenhower"
+    },
+    "bio": "Dwight David Eisenhower, noto anche con il nomignolo di Ike, è stato un generale e politico statunitense, 34º presidente degli Stati Uniti d'America dal 1953 al 1961.",
+    "birthDate": "1890-10-14",
+    "deathDate": "1969-03-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwight%20D.%20Eisenhower%2C%20official%20photo%20portrait%2C%20May%2029%2C%201959.jpg"
+  },
+  {
+    "name": "Bertrand Russell",
+    "slugs": {
+      "IT": "Bertrand_Russell",
+      "EN": "Bertrand_Russell"
+    },
+    "bio": "Bertrand Arthur William Russell, III conte Russell, è stato un nobile, filosofo, logico, matematico, attivista e saggista britannico.",
+    "birthDate": "1872-05-18",
+    "deathDate": "1970-02-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bertrand%20Russell%20photo.jpg"
+  },
+  {
+    "name": "Charles de Gaulle",
+    "slugs": {
+      "IT": "Charles_de_Gaulle",
+      "EN": "Charles_de_Gaulle"
+    },
+    "bio": "Charles André Joseph Marie de Gaulle, comunemente chiamato il Generale de Gaulle, è stato un generale e politico francese.",
+    "birthDate": "1890-11-22",
+    "deathDate": "1970-11-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Charles%20de%20Gaulle%20in%201945.jpg"
+  },
+  {
+    "name": "Louis Armstrong",
+    "slugs": {
+      "IT": "Louis_Armstrong",
+      "EN": "Louis_Armstrong"
+    },
+    "bio": "Louis Daniel Armstrong, noto anche con il soprannome di Satchmo o Pops, è stato un trombettista, cantante e attore statunitense.",
+    "birthDate": "1901-08-04",
+    "deathDate": "1971-07-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Armstrong%20restored.jpg"
+  },
+  {
+    "name": "Harry Truman",
+    "slugs": {
+      "IT": "Harry_S._Truman",
+      "EN": "Harry_S._Truman"
+    },
+    "bio": "Harry S. Truman è stato un politico e militare statunitense, 33º presidente degli Stati Uniti d'America dal 1945 al 1953.",
+    "birthDate": "1884-05-08",
+    "deathDate": "1972-12-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/TRUMAN%2058-766-06%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Lyndon B. Johnson",
+    "slugs": {
+      "IT": "Lyndon_B._Johnson",
+      "EN": "Lyndon_B._Johnson"
+    },
+    "bio": "Lyndon Baines Johnson, anche chiamato con le iniziali LBJ, è stato un politico statunitense, 36º presidente degli Stati Uniti d'America dal 1963 al 1969. In precedenza 37º vicepresidente dal 1961 al 1963, assunse la presidenza dopo l'assassinio di John Fitzgerald Kennedy a Dallas il 22 novembre 1963. Democratico del Texas, nella sua carriera politica fu anche deputato e leader di maggioranza al Senato dal 1955 al 1961; fu una delle sole tre persone ad aver ricoperto tutte le quattro cariche federali.",
+    "birthDate": "1908-08-27",
+    "deathDate": "1973-01-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyndon%20B.%20Johnson%2C%20photo%20portrait%2C%20leaning%20on%20chair%2C%20color%20cropped.jpg"
+  },
+  {
+    "name": "Pablo Picasso",
+    "slugs": {
+      "IT": "Pablo_Picasso",
+      "EN": "Pablo_Picasso"
+    },
+    "bio": "Pablo Diego José Francisco de Paula Juan Nepomuceno Maria de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso, noto semplicemente come Pablo Picasso o Pablo Ruiz y Picasso, è stato un pittore, scultore e litografo spagnolo, tra i più influenti del XX secolo.",
+    "birthDate": "1881-10-25",
+    "deathDate": "1973-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20picasso%201.jpg"
+  },
+  {
+    "name": "Pablo Picasso",
+    "slugs": {
+      "IT": "Pablo_Picasso",
+      "EN": "Pablo_Picasso"
+    },
+    "bio": "Pablo Diego José Francisco de Paula Juan Nepomuceno Maria de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso, noto semplicemente come Pablo Picasso o Pablo Ruiz y Picasso, è stato un pittore, scultore e litografo spagnolo, tra i più influenti del XX secolo.",
+    "birthDate": "1881-10-25",
+    "deathDate": "1973-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Picasso%2C%201908%20%28background%20retouched%29.jpg"
+  },
+  {
+    "name": "J. R. R. Tolkien",
+    "slugs": {
+      "IT": "J._R._R._Tolkien",
+      "EN": "J._R._R._Tolkien"
+    },
+    "bio": "John Ronald Reuel Tolkien è stato uno scrittore, filologo, glottoteta e linguista britannico.",
+    "birthDate": "1892-01-03",
+    "deathDate": "1973-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20R.%20R.%20Tolkien%2C%20ca.%201925.jpg"
+  },
+  {
+    "name": "Agatha Christie",
+    "slugs": {
+      "IT": "Agatha_Christie",
+      "EN": "Agatha_Christie"
+    },
+    "bio": "Agatha Mary Clarissa Christie, nata Agatha Mary Clarissa Miller, è stata una scrittrice e drammaturga britannica.",
+    "birthDate": "1890-09-15",
+    "deathDate": "1976-01-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Agatha%20Christie%20in%20Nederland%20%28detectiveschrijfster%29%2C%20bij%20aankomst%20op%20Schiphol%20me%2C%20Bestanddeelnr%20916-8898%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Mao Zedong",
+    "slugs": {
+      "IT": "Mao_Zedong",
+      "EN": "Mao_Zedong"
+    },
+    "bio": "Mao Zedong o Mao Tse-tung è stato un rivoluzionario, politico, militare, poeta cinese e presidente del Partito Comunista Cinese dal 1943 fino alla sua morte.",
+    "birthDate": "1893-12-26",
+    "deathDate": "1976-09-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Tse%20Tung.jpg"
+  },
+  {
+    "name": "Elvis Presley",
+    "slugs": {
+      "IT": "Elvis_Presley",
+      "EN": "Elvis_Presley"
+    },
+    "bio": "Elvis Aaron Presley è stato un cantante e attore statunitense.",
+    "birthDate": "1935-01-08",
+    "deathDate": "1977-08-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20Publicity%20Photo%20for%20The%20Trouble%20with%20Girls%201968.jpg"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "slugs": {
+      "IT": "Charlie_Chaplin",
+      "EN": "Charlie_Chaplin"
+    },
+    "bio": "Sir Charles Spencer Chaplin Jr., detto Charlie, è stato un attore, comico, regista, sceneggiatore, compositore e produttore cinematografico britannico, autore di oltre novanta film e tra i più importanti e influenti cineasti del XX secolo.",
+    "birthDate": "1889-04-16",
+    "deathDate": "1977-12-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Chaplin%20portrait%20Getty%201739411952.jpg"
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "slugs": {
+      "IT": "Jean-Paul_Sartre",
+      "EN": "Jean-Paul_Sartre"
+    },
+    "bio": "Jean-Paul-Charles-Aymard Sartre è stato un filosofo, scrittore, drammaturgo e critico letterario francese, considerato uno dei più importanti rappresentanti dell'esistenzialismo, che in lui prende la forma di un umanesimo ateo in cui ogni individuo è radicalmente libero e responsabile delle sue scelte, ma in una prospettiva soggettivista e relativista.\n\n",
+    "birthDate": "1905-06-21",
+    "deathDate": "1980-04-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Government%20Press%20Office%20%28GPO%29%20-%20Jean%20Paul%20Sartre%20and%20Simone%20De%20Beauvoir%20welcomed%20by%20Avraham%20Shlonsky%20and%20Leah%20Goldberg%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "slugs": {
+      "IT": "Alfred_Hitchcock",
+      "EN": "Alfred_Hitchcock"
+    },
+    "bio": "Sir Alfred Joseph Hitchcock è stato un regista e produttore cinematografico britannico naturalizzato statunitense.",
+    "birthDate": "1899-08-13",
+    "deathDate": "1980-04-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hitchcock%2C%20Alfred%2002.jpg"
+  },
+  {
+    "name": "John Lennon",
+    "slugs": {
+      "IT": "John_Lennon",
+      "EN": "John_Lennon"
+    },
+    "bio": "Membro fondatore dei Beatles, paroliere geniale e attivista pacifista globale. Con brani immortali e profondi come 'Imagine' ha ispirato intere generazioni sognando un mondo senza barriere. La sua vita fu spezzata a 40 anni a New York, assassinato con colpi di pistola alla schiena da uno squilibrato fuori dal suo appartamento (il Dakota Building).",
+    "birthDate": "1940-10-09",
+    "deathDate": "1980-12-08"
+  },
+  {
+    "name": "Huang Xianfan",
+    "slugs": {
+      "IT": "Huang_Xianfan",
+      "EN": "Huang_Xianfan"
+    },
+    "bio": "Huang Xianfan è stato uno storico, etnologo e antropologo cinese, considerato il padre della zhuangologia cinese..",
+    "birthDate": "1899-11-13",
+    "deathDate": "1982-01-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Xianfan%20Graduation%20Photo.jpg"
+  },
+  {
+    "name": "Huang Xianfan",
+    "slugs": {
+      "IT": "Huang_Xianfan",
+      "EN": "Huang_Xianfan"
+    },
+    "bio": "Huang Xianfan è stato uno storico, etnologo e antropologo cinese, considerato il padre della zhuangologia cinese..",
+    "birthDate": "1899-11-13",
+    "deathDate": "1982-01-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Xianfan%27s%20Graduation%20Photo.jpg"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "slugs": {
+      "IT": "Simone_de_Beauvoir",
+      "EN": "Simone_de_Beauvoir"
+    },
+    "bio": "Simone de Beauvoir, all'anagrafe Simone Lucie Ernestine Marie Bertrand de Beauvoir è stata una scrittrice, saggista, filosofa, insegnante e femminista francese, importante esponente dell'esistenzialismo.",
+    "birthDate": "1908-01-09",
+    "deathDate": "1986-04-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20de%20Beauvoir2.png"
+  },
+  {
+    "name": "Jorge Luis Borges",
+    "slugs": {
+      "IT": "Jorge_Luis_Borges",
+      "EN": "Jorge_Luis_Borges"
+    },
+    "bio": "Jorge Francisco Isidoro Luis Borges Acevedo, noto semplicemente come Jorge Luis Borges, è stato uno scrittore, poeta, saggista e traduttore argentino.",
+    "birthDate": "1899-08-24",
+    "deathDate": "1986-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Luis%20Borges%201951%2C%20by%20Grete%20Stern%20%28full%29.jpg"
+  },
+  {
+    "name": "Andy Warhol",
+    "slugs": {
+      "IT": "Andy_Warhol",
+      "EN": "Andy_Warhol"
+    },
+    "bio": "Andy Warhol, nato Andrew Warhola Jr., è stato un pittore, grafico, illustratore, scultore, sceneggiatore, produttore cinematografico, produttore televisivo, regista, direttore della fotografia e attore statunitense, figura predominante del movimento della Pop art e uno dei più influenti artisti del XX secolo.",
+    "birthDate": "1928-08-06",
+    "deathDate": "1987-02-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Warhol%20at%20the%20Jewish%20Museum%20%28by%20Bernard%20Gotfryd%29%20%E2%80%93%20LOC.jpg"
+  },
+  {
+    "name": "Salvador Dalí",
+    "slugs": {
+      "IT": "Salvador_Dalí",
+      "EN": "Salvador_Dalí"
+    },
+    "bio": "Salvador Dalí, marchese di Púbol, all'anagrafe Salvador Domingo Felipe Jacinto Dalí i Domènech, è stato un pittore, scultore, saggista, fotografo, cineasta, designer, sceneggiatore e mistico spagnolo.",
+    "birthDate": "1904-05-11",
+    "deathDate": "1989-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Dal%C3%AD%201939.jpg"
+  },
+  {
+    "name": "Freddie Mercury",
+    "slugs": {
+      "IT": "Freddie_Mercury",
+      "EN": "Freddie_Mercury"
+    },
+    "bio": "Freddie Mercury, pseudonimo di Farrokh Bulsara, è stato un cantautore e compositore britannico di origini parsi, co-fondatore e frontman dei Queen.",
+    "birthDate": "1946-09-05",
+    "deathDate": "1991-11-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Freddie%20Mercury%20at%20Sheraton%20Hotel%20Buenos%20Aires.jpg"
+  },
+  {
+    "name": "Marlene Dietrich",
+    "slugs": {
+      "IT": "Marlene_Dietrich",
+      "EN": "Marlene_Dietrich"
+    },
+    "bio": "Marlene Dietrich, pseudonimo di Marie Magdalene Dietrich, è stata un'attrice e cantante tedesca naturalizzata statunitense.",
+    "birthDate": "1901-12-27",
+    "deathDate": "1992-05-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Dietrich%20in%20No%20Highway%20%281951%29%20%28Cropped%29.png"
+  },
+  {
+    "name": "Richard Nixon",
+    "slugs": {
+      "IT": "Richard_Nixon",
+      "EN": "Richard_Nixon"
+    },
+    "bio": "Richard Milhous Nixon è stato un politico statunitense, 37º Presidente degli Stati Uniti d'America dal 1969 al 1974.",
+    "birthDate": "1913-01-09",
+    "deathDate": "1994-04-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Nixon%20presidential%20portrait.jpg"
+  },
+  {
+    "name": "Madre Teresa di Calcutta",
+    "slugs": {
+      "IT": "Madre_Teresa_di_Calcutta",
+      "EN": "Madre_Teresa_di_Calcutta"
+    },
+    "bio": "Madre Teresa di Calcutta, spesso nota semplicemente come Madre Teresa, è stata una religiosa albanese naturalizzata indiana di fede cattolica, fondatrice della congregazione religiosa delle Missionarie della carità.",
+    "birthDate": "1910-08-26",
+    "deathDate": "1997-09-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa%20090.jpg"
+  },
+  {
+    "name": "Akira Kurosawa",
+    "slugs": {
+      "IT": "Akira_Kurosawa",
+      "EN": "Akira_Kurosawa"
+    },
+    "bio": "Akira Kurosawa è stato un regista, sceneggiatore, montatore, produttore cinematografico e scrittore giapponese, considerato tra i maggiori cineasti della storia del cinema.",
+    "birthDate": "1910-03-23",
+    "deathDate": "1998-09-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
+  },
+  {
+    "name": "Ronald Reagan",
+    "slugs": {
+      "IT": "Ronald_Reagan",
+      "EN": "Ronald_Reagan"
+    },
+    "bio": "Ronald Wilson Reagan è stato un politico, sindacalista e attore statunitense, 40º presidente degli Stati Uniti d'America dal 1981 al 1989.",
+    "birthDate": "1911-02-06",
+    "deathDate": "2004-06-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20Reagan%201981%20presidential%20portrait.jpg"
+  },
+  {
+    "name": "Papa Giovanni Paolo II",
+    "slugs": {
+      "IT": "Papa_Giovanni_Paolo_II",
+      "EN": "Papa_Giovanni_Paolo_II"
+    },
+    "bio": "San Papa Giovanni Paolo II è stato il 264º papa della Chiesa cattolica e vescovo di Roma, 6º sovrano dello Stato della Città del Vaticano, oltre agli altri titoli propri del romano pontefice, dal 16 ottobre 1978 fino alla morte.",
+    "birthDate": "1920-05-18",
+    "deathDate": "2005-04-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20John%20Paul%20II%20smile.jpg"
+  },
+  {
+    "name": "Gerald Ford",
+    "slugs": {
+      "IT": "Gerald_Ford",
+      "EN": "Gerald_Ford"
+    },
+    "bio": "Gerald Rudolph Ford Jr., nato Leslie Lynch King Jr., è stato un politico statunitense, 38º presidente degli Stati Uniti d'America dal 1974 al 1977.",
+    "birthDate": "1913-07-14",
+    "deathDate": "2006-12-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20Ford%20presidential%20portrait%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Osama bin Laden",
+    "slugs": {
+      "IT": "Osama_bin_Laden",
+      "EN": "Osama_bin_Laden"
+    },
+    "bio": "Osāma bin Muḥammad bin ʿAwwāḍ bin Lāden, più noto come Osāma bin Lāden o Bin Lāden, in arabo  أسامة بن محمد بن عوض بن لادن‎?, Usāma b. Muhammad b. ʿAwwaḍ b. Lādin, è stato un terrorista saudita, fondamentalista islamico sunnita.",
+    "birthDate": "1957-03-10",
+    "deathDate": "2011-05-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Osama%20bin%20Laden%20portrait.jpg"
+  },
+  {
+    "name": "Steve Jobs",
+    "slugs": {
+      "IT": "Steve_Jobs",
+      "EN": "Steve_Jobs"
+    },
+    "bio": "Steven Paul Jobs, detto Steve, è stato un imprenditore e inventore statunitense.",
+    "birthDate": "1955-02-24",
+    "deathDate": "2011-10-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg"
+  },
+  {
+    "name": "Mu'ammar Gheddafi",
+    "slugs": {
+      "IT": "Muʿammar_Gheddafi",
+      "EN": "Muʿammar_Gheddafi"
+    },
+    "bio": "Mu'ammar Muhammad Abu Minyar 'Abd al-Salam al-Qadhdhafi, semplificato come Muʿammar Gheddafi, è stato un rivoluzionario, politico e militare libico.",
+    "birthDate": "1942-06-07",
+    "deathDate": "2011-10-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muammar%20al-Gaddafi%20in%202010%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Neil Armstrong",
+    "slugs": {
+      "IT": "Neil_Armstrong",
+      "EN": "Neil_Armstrong"
+    },
+    "bio": "Neil Alden Armstrong è stato un astronauta e aviatore statunitense, primo uomo a posare piede sulla Luna alle 02:56:15 UTC del 21 luglio 1969.",
+    "birthDate": "1930-08-05",
+    "deathDate": "2012-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Armstrong%20pose.jpg"
+  },
+  {
+    "name": "Hugo Chávez",
+    "slugs": {
+      "IT": "Hugo_Chávez",
+      "EN": "Hugo_Chávez"
+    },
+    "bio": "Hugo Rafael Chávez Frías è stato un politico e militare venezuelano. È stato presidente del Venezuela dal 1999 fino alla sua morte, tranne durante la breve parentesi del colpo di Stato scoppiato nel paese nel 2002.",
+    "birthDate": "1954-07-28",
+    "deathDate": "2013-03-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Ch%C3%A1vez%20%2802-04-2010%29%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "slugs": {
+      "IT": "Margaret_Thatcher",
+      "EN": "Margaret_Thatcher"
+    },
+    "bio": "Margaret Hilda Thatcher, baronessa Thatcher, nata Roberts, è stata una politica britannica.",
+    "birthDate": "1925-10-13",
+    "deathDate": "2013-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Thatcher%20%281983%29.jpg"
+  },
+  {
+    "name": "Sung Jae-gi",
+    "slugs": {
+      "IT": "Sung_Jae-gi",
+      "EN": "Sung_Jae-gi"
+    },
+    "bio": "Sung Jae-gi è stato un attivista e filosofo sudcoreano.",
+    "birthDate": "1967-09-11",
+    "deathDate": "2013-07-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sungjaegi2013.png"
+  },
+  {
+    "name": "Nelson Mandela",
+    "slugs": {
+      "IT": "Nelson_Mandela",
+      "EN": "Nelson_Mandela"
+    },
+    "bio": "Nelson Rolihlahla Mandela è stato un politico e attivista sudafricano, presidente del Sudafrica dal 1994 al 1999.",
+    "birthDate": "1918-07-18",
+    "deathDate": "2013-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Mandela%201994.jpg"
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "slugs": {
+      "IT": "Gabriel_García_Márquez",
+      "EN": "Gabriel_García_Márquez"
+    },
+    "bio": "Gabriel José de la Concordia García Márquez, noto semplicemente come Gabriel García Márquez, è stato uno scrittore, giornalista e saggista colombiano naturalizzato messicano, insignito del Premio Nobel per la letteratura nel 1982.",
+    "birthDate": "1927-03-06",
+    "deathDate": "2014-04-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garcia%20Marquez.jpg"
+  },
+  {
+    "name": "Muhammad Ali",
+    "slugs": {
+      "IT": "Muhammad_Ali",
+      "EN": "Muhammad_Ali"
+    },
+    "bio": "Muhammad Ali, nato Cassius Marcellus Clay Jr., è stato un pugile statunitense.",
+    "birthDate": "1942-01-17",
+    "deathDate": "2016-06-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Ali%2C%20gtfy.00140.jpg"
+  },
+  {
+    "name": "Fidel Castro",
+    "slugs": {
+      "IT": "Fidel_Castro",
+      "EN": "Fidel_Castro"
+    },
+    "bio": "Fidel Alejandro Castro Ruz è stato un rivoluzionario e politico cubano che ha governato Cuba dal 1959 al 2008.",
+    "birthDate": "1926-08-13",
+    "deathDate": "2016-11-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%201950s.jpg"
+  },
+  {
+    "name": "Stephen Hawking",
+    "slugs": {
+      "IT": "Stephen_Hawking",
+      "EN": "Stephen_Hawking"
+    },
+    "bio": "Stephen William Hawking, CBE CH è stato un cosmologo, fisico, astrofisico, matematico e divulgatore scientifico britannico, fra i più autorevoli e conosciuti fisici teorici al mondo, noto soprattutto per i suoi studi sui buchi neri, sulla cosmologia quantistica e sull'origine dell'universo.",
+    "birthDate": "1942-01-08",
+    "deathDate": "2018-03-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Relative%20time%20%282886233692%29%20%28Stephen%20Hawking%20cropped%29.jpg"
+  },
+  {
+    "name": "Stephen Hawking",
+    "slugs": {
+      "IT": "Stephen_Hawking",
+      "EN": "Stephen_Hawking"
+    },
+    "bio": "Stephen William Hawking, CBE CH è stato un cosmologo, fisico, astrofisico, matematico e divulgatore scientifico britannico, fra i più autorevoli e conosciuti fisici teorici al mondo, noto soprattutto per i suoi studi sui buchi neri, sulla cosmologia quantistica e sull'origine dell'universo.",
+    "birthDate": "1942-01-08",
+    "deathDate": "2018-03-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Hawking.StarChild.jpg"
+  },
+  {
+    "name": "Kofi Annan",
+    "slugs": {
+      "IT": "Kofi_Annan",
+      "EN": "Kofi_Annan"
+    },
+    "bio": "Kofi Atta Annan è stato un diplomatico e alto ufficiale delle Nazioni Unite ghanese.",
+    "birthDate": "1938-04-08",
+    "deathDate": "2018-08-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kofi%20Annan%202012%20%28cropped%29.jpg"
+  },
+  {
+    "name": "George H. W. Bush",
+    "slugs": {
+      "IT": "George_H._W._Bush",
+      "EN": "George_H._W._Bush"
+    },
+    "bio": "George Herbert Walker Bush, comunemente chiamato George H. W. Bush, George Bush Sr. o in Italia semplicemente Bush padre, è stato un politico, diplomatico e imprenditore statunitense, 41º presidente degli Stati Uniti d'America dal 1989 al 1993 e 43º vicepresidente degli Stati Uniti d'America dal 1981 al 1989 sotto il presidente Ronald Reagan.",
+    "birthDate": "1924-06-12",
+    "deathDate": "2018-11-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20H.%20W.%20Bush%20presidential%20portrait%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Diego Maradona",
+    "slugs": {
+      "IT": "Diego_Armando_Maradona",
+      "EN": "Diego_Armando_Maradona"
+    },
+    "bio": "Diego Armando Maradona è stato un calciatore, allenatore di calcio e dirigente sportivo argentino, di ruolo centrocampista, campione del mondo nel 1986 e vicecampione del mondo nel 1990 con la nazionale argentina.",
+    "birthDate": "1960-10-30",
+    "deathDate": "2020-11-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maradona%201986%20vs%20italy.jpg"
+  },
+  {
+    "name": "Michail Gorbačëv",
+    "slugs": {
+      "IT": "Michail_Gorbačëv",
+      "EN": "Michail_Gorbačëv"
+    },
+    "bio": "Michail Sergeevič Gorbačëv, spesso traslitterato anche come Mikhail Gorbachev o Gorbaciov, è stato un politico sovietico, dal 1991 russo.",
+    "birthDate": "1931-03-02",
+    "deathDate": "2022-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GorbachevMS.jpg"
+  },
+  {
+    "name": "Queen Elizabeth II",
+    "slugs": {
+      "IT": "Elisabetta_II_del_Regno_Unito",
+      "EN": "Elizabeth_II"
+    },
+    "bio": "Regina del Regno Unito per oltre 70 anni, il regno più lungo della storia britannica. Ha rappresentato una figura di incrollabile dedizione e stabilità attraversando enormi stravolgimenti storici, dalla Guerra Fredda all'era digitale. È morta serenamente a 96 anni per cause naturali (vecchiaia) nel Castello di Balmoral.",
+    "birthDate": "1926-04-21",
+    "deathDate": "2022-09-08"
+  },
+  {
+    "name": "Elisabetta II del Regno Unito",
+    "slugs": {
+      "IT": "Elisabetta_II_del_Regno_Unito",
+      "EN": "Elisabetta_II_del_Regno_Unito"
+    },
+    "bio": "Elisabetta II è stata regina del Regno Unito di Gran Bretagna e Irlanda del Nord e degli altri reami del Commonwealth dal 6 febbraio 1952 fino alla sua morte.",
+    "birthDate": "1926-04-21",
+    "deathDate": "2022-09-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg"
+  },
+  {
+    "name": "Pelé",
+    "slugs": {
+      "IT": "Pelé",
+      "EN": "Pelé"
+    },
+    "bio": "Pelé, pseudonimo di Edson Arantes do Nascimento, è stato un calciatore e dirigente sportivo brasiliano, di ruolo centrocampista o attaccante. È considerato uno dei più grandi calciatori di tutti i tempi.",
+    "birthDate": "1940-10-23",
+    "deathDate": "2022-12-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pele%20con%20brasil%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Papa Benedetto XVI",
+    "slugs": {
+      "IT": "Papa_Benedetto_XVI",
+      "EN": "Papa_Benedetto_XVI"
+    },
+    "bio": "Papa Benedetto XVI, in latino Benedictus PP. XVI; in tedesco Benedikt XVI, è stato il 265º papa della Chiesa cattolica e vescovo di Roma, 7º sovrano dello Stato della Città del Vaticano, primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 19 aprile 2005 al 28 febbraio 2013.",
+    "birthDate": "1927-04-16",
+    "deathDate": "2022-12-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg"
+  },
+  {
+    "name": "Matthew Perry",
+    "slugs": {
+      "IT": "Matthew_Perry",
+      "EN": "Matthew_Perry"
+    },
+    "bio": "Attore brillante e amatissimo dal grande pubblico per il ruolo di Chandler Bing nell'iconica sitcom 'Friends'. Dopo una vita segnata dalla lotta pubblica contro le dipendenze, per cui aveva creato fondazioni di recupero, è stato trovato senza vita a 54 anni, annegato accidentalmente a causa degli effetti acuti della ketamina.",
+    "birthDate": "1969-08-19",
+    "deathDate": "2023-10-28"
+  },
+  {
+    "name": "Carl Weathers",
+    "slugs": {
+      "IT": "Carl_Weathers",
+      "EN": "Carl_Weathers"
+    },
+    "bio": "Ex giocatore di football e attore statunitense, è entrato nella storia del cinema per aver interpretato l'indimenticabile Apollo Creed nella saga di 'Rocky' al fianco di Sylvester Stallone, e per ruoli in 'Predator' e 'The Mandalorian'. È scomparso nel sonno a 76 anni a causa di malattie cardiovascolari.",
+    "birthDate": "1948-01-14",
+    "deathDate": "2024-02-01"
+  },
+  {
+    "name": "Akira Toriyama",
+    "slugs": {
+      "IT": "Akira_Toriyama",
+      "EN": "Akira_Toriyama"
+    },
+    "bio": "Maestro assoluto e mangaka giapponese, creatore dell'iconico universo di 'Dragon Ball' e 'Dr. Slump'. Ha definito l'immaginario collettivo di intere generazioni, vendendo centinaia di milioni di copie in tutto il mondo. È venuto a mancare inaspettatamente a 68 anni a causa di un ematoma subdurale acuto.",
+    "birthDate": "1955-04-05",
+    "deathDate": "2024-03-01"
+  },
+  {
+    "name": "Alain Delon",
+    "slugs": {
+      "IT": "Alain_Delon",
+      "EN": "Alain_Delon"
+    },
+    "bio": "Leggenda del cinema francese e sex symbol globale del Novecento. Ha recitato in capolavori immortali come 'Il Gattopardo' e 'Rocco e i suoi fratelli', definendo l'epoca d'oro del cinema europeo. È deceduto a 88 anni nella sua tenuta di Douchy, dopo aver lottato a lungo contro un linfoma a lenta evoluzione.",
+    "birthDate": "1935-11-08",
+    "deathDate": "2024-08-18"
+  },
+  {
+    "name": "Maggie Smith",
+    "slugs": {
+      "IT": "Maggie_Smith",
+      "EN": "Maggie_Smith"
+    },
+    "bio": "Una delle più grandi attrici britanniche, vincitrice di due Premi Oscar, tre Golden Globe e innumerevoli BAFTA. Resa immortale al grande pubblico per i ruoli di Minerva McGranitt nella saga di 'Harry Potter' e Violet Crawley in 'Downton Abbey'. È scomparsa serenamente a 89 anni per cause naturali, circondata dall'affetto della sua famiglia in ospedale.",
+    "birthDate": "1934-12-28",
+    "deathDate": "2024-09-27"
+  },
+  {
+    "name": "Jimmy Carter",
+    "slugs": {
+      "IT": "Jimmy_Carter",
+      "EN": "Jimmy_Carter"
+    },
+    "bio": "James Earl Carter Jr., detto Jimmy, è stato un politico e filantropo statunitense, 39º presidente degli Stati Uniti d'America dal 1977 al 1981.",
+    "birthDate": "1924-10-01",
+    "deathDate": "2024-12-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JimmyCarterPortrait2.jpg"
+  },
+  {
+    "name": "Papa Francesco",
+    "slugs": {
+      "IT": "Papa_Francesco",
+      "EN": "Papa_Francesco"
+    },
+    "bio": "Papa Francesco è stato il 266º papa della Chiesa cattolica e vescovo di Roma, 8º sovrano dello Stato della Città del Vaticano e primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 13 marzo 2013 fino alla morte.",
+    "birthDate": "1936-12-17",
+    "deathDate": "2025-04-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg"
   }
 ]
