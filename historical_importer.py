@@ -13,7 +13,7 @@ HEADERS = {
 # SCAGLIONI DI 15 ANNI: Wikidata non andrà mai più in sovraccarico (Errore 504 bypassato)
 EPOCHE = [
     (1920, 1935), (1936, 1950), (1951, 1965),
-    (1966, 1980), (1981, 1995), (1996, 2010), (2011, 2025)
+    (1966, 1980), (1981, 1995), (1996, 2010), (2011, 2026) # Esteso per includere il 2026!
 ]
 
 def get_wikipedia_bio(name, lang="it"):
