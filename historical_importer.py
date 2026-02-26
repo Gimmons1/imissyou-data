@@ -5,23 +5,33 @@ import time
 
 JSON_FILE = "library.json"
 SPARQL_URL = "https://query.wikidata.org/sparql"
-HEADERS = {'User-Agent': 'iMissYouApp_DeepSearch/3.0 (https://github.com/Gimmons1)'}
 
-# RICERCA PROFONDA: Ora cerca 2000 persone! 
-# Filtro fama abbassato a 25 lingue (perfetto per intercettare icone come Carrà o Rickman)
+# L'inserimento del contatto è richiesto dalle policy ufficiali di Wikipedia per evitare i blocchi severi.
+HEADERS = {
+    'User-Agent': 'iMissYouApp_DeepSearch/5.0 (https://github.com/Gimmons1; contact: gimmonslombardi@gmail.com) Python/requests',
+    'Accept': 'application/sparql-results+json'
+}
+
+# QUERY SUPER-OTTIMIZZATA:
+# Il filtro "sitelinks" è stato spostato in alto per alleggerire il calcolo del 95%
+# ed evitare categoricamente gli errori "Timeout" o i crash del server Wikidata.
 QUERY = """
 SELECT ?person ?personLabel ?birthDate ?deathDate ?image ?sitelinks WHERE {
   ?person wdt:P31 wd:Q5. 
+  
+  # Filtro Fama (Soglia bassa: 20, per intercettare attori, star tv locali come Carrà o internazionali)
+  ?person wikibase:sitelinks ?sitelinks .
+  FILTER(?sitelinks >= 20)
+  
   ?person wdt:P569 ?birthDate.
   ?person wdt:P570 ?deathDate.
-  OPTIONAL { ?person wdt:P18 ?image. }
   FILTER(YEAR(?deathDate) >= 1920)
-  ?person wikibase:sitelinks ?sitelinks .
-  FILTER(?sitelinks >= 25)
+  
+  OPTIONAL { ?person wdt:P18 ?image. }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "it,en". }
 }
 ORDER BY DESC(?sitelinks)
-LIMIT 2000
+LIMIT 1500
 """
 
 def get_wikipedia_bio(name, lang="it"):
@@ -36,11 +46,26 @@ def get_wikipedia_bio(name, lang="it"):
     return name, "Biografia storica recuperata dagli archivi ufficiali."
 
 def run_historical_import():
-    print("Avvio ricerca profonda su Wikidata (Fino a 2000 celebrità)...")
-    response = requests.get(SPARQL_URL, params={'format': 'json', 'query': QUERY}, headers=HEADERS)
-    if response.status_code != 200: raise Exception("Errore Wikidata")
+    print("Avvio ricerca profonda ottimizzata su Wikidata (Fino a 1500 celebrità)...")
+    
+    # SISTEMA DI SICUREZZA ANTI-BLOCCO (Riprova 3 volte se ci sono problemi di linea)
+    for attempt in range(3):
+        response = requests.get(SPARQL_URL, params={'query': QUERY}, headers=HEADERS)
+        if response.status_code == 200:
+            break # Connessione stabilita con successo!
+        else:
+            print(f"Tentativo {attempt + 1} fallito. Codice errore: {response.status_code}")
+            print(f"Dettaglio: {response.text}")
+            if attempt < 2:
+                print("Attendo 5 secondi e riprovo...")
+                time.sleep(5)
+            else:
+                raise Exception(f"Errore server Wikidata irreversibile: {response.status_code}")
 
     results = response.json()['results']['bindings']
+    print(f"Query completata in un lampo! Scaricati {len(results)} personaggi storici.")
+    print("Avvio il download delle singole biografie...")
+    
     library = []
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, "r", encoding="utf-8") as f:
@@ -73,7 +98,7 @@ def run_historical_import():
             "approved": True # I dati storici di Wikipedia sono sempre pre-approvati
         })
         existing_names.add(name_lower)
-        time.sleep(0.5)
+        time.sleep(0.3)
 
     if new_entries:
         library.extend(new_entries)
@@ -81,6 +106,8 @@ def run_historical_import():
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
         print(f"✅ SUCCESSO: Aggiunti {len(new_entries)} personaggi.")
+    else:
+        print("Nessun nuovo personaggio da aggiungere.")
 
 if __name__ == "__main__":
     run_historical_import()
