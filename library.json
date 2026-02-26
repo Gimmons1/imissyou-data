@@ -1176,5 +1176,17 @@
     "birthDate": "1936-12-17",
     "deathDate": "2025-04-21",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg"
+  },
+  {
+    "name": "Eva Schloss",
+    "slugs": {
+      "IT": "Eva_Schloss",
+      "EN": "Eva_Schloss"
+    },
+    "bio": "Eva Schloss, nata Geiringer, MBE, è stata una deportata e scrittrice ebrea austriaca, figliastra di Otto Frank e, di conseguenza, sorella acquisita di Margot e Anna Frank. [Rilevato da corriere.it]",
+    "birthDate": "1900-01-01",
+    "deathDate": "2026-02-26",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Eva_Schloss_5.jpg",
+    "approved": false
   }
 ]
