@@ -1,39 +1,56 @@
-name: Aggiorna Biblioteca Memoria
+name: Aggiorna e Importa Biblioteca
 
 on:
   schedule:
-    # Esegue lo script ogni 6 ore
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Permette l'avvio manuale dal sito GitHub
+    - cron: '0 */6 * * *' # Script segugio notizie nuove ogni 6 ore
+  workflow_dispatch:
+    inputs:
+      job_type:
+        description: 'Scegli cosa eseguire'
+        required: true
+        default: 'news_updater'
+        type: choice
+        options:
+          - news_updater
+          - historical_importer
 
-# Permessi necessari per creare la Pull Request senza errori
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  build:
+  update_news:
+    if: github.event.inputs.job_type == 'news_updater' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del codice sorgente
-        uses: actions/checkout@v3
-
-      - name: Configurazione Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      - name: Installazione librerie (Requests e Feedparser)
-        run: pip install requests feedparser
-
-      - name: Esecuzione script Segugio
-        run: python updater.py
-
-      - name: Creazione Pull Request per Validazione Admin
-        uses: peter-evans/create-pull-request@v5
+      - run: pip install requests feedparser
+      - run: python updater.py
+      - uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "🤖 Aggiornamento automatico biblioteca"
           title: "Verifica nuovi decessi rilevati"
-          body: "Lo script ha cercato su ANSA e BBC e ha trovato potenziali notizie. Controlla il file library.json e approva per pubblicare nell'app."
+          body: "Trovati potenziali decessi nelle ultime notizie dalle agenzie stampa. Controlla il file JSON e approva per pubblicare."
           branch: "update-library"
           delete-branch: true
+
+  import_history:
+    if: github.event.inputs.job_type == 'historical_importer'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python historical_importer.py
+      - name: Salva i dati storici sul repository
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add library.json
+          # Esegue il commit e push solo se ci sono state effettivamente delle modifiche
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📚 Importazione storica da Wikidata completata" && git push)
