@@ -1,64 +1,41 @@
-name: Aggiorna e Importa Biblioteca
+name: Aggiorna Biblioteca Memoria
 
 on:
   schedule:
-    # Gira automaticamente ogni 3 ore (0, 3, 6, 9, 12, 15, 18, 21)
-    - cron: '0 */3 * * *'
+    # Esegue lo script in automatico ogni 6 ore
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-    inputs:
-      job_type:
-        description: 'Scegli cosa eseguire'
-        required: true
-        default: 'news_updater'
-        type: choice
-        options:
-          - news_updater
-          - historical_importer
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  update_news:
-    # Esegue il segugio delle notizie se attivato dal timer o manualmente
-    if: github.event.inputs.job_type == 'news_updater' || github.event_name == 'schedule'
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - name: Checkout del codice sorgente
+        uses: actions/checkout@v3
+
+      - name: Configurazione Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - name: Installa dipendenze
+
+      - name: Installazione librerie
         run: pip install requests feedparser
-      - name: Esegui Segugio Globale
+
+      - name: Esecuzione script Segugio (Ricerca nuovi decessi)
         run: python updater.py
-      - name: Crea Pull Request per Validazione Admin
+
+      - name: Esecuzione Riparatore Immagini (Riparazione automatica foto)
+        run: python auto_fixer.py
+
+      - name: Creazione Pull Request per Validazione Admin
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: "🤖 Radar Globale: Rilevati potenziali decessi"
-          title: "Revisione Decessi Internazionali"
-          body: "Il segugio ha analizzato le testate mondiali (NYT, BBC, ANSA, ecc.) e ha trovato nuovi dati. Controlla e approva per pubblicare nell'app."
+          commit-message: "🤖 Aggiornamento e Riparazione Automatica"
+          title: "Verifica nuovi decessi e foto aggiornate"
+          body: "Il sistema cloud ha trovato nuove notizie o ha riparato foto mancanti attingendo dagli archivi Wikimedia. Controlla e approva per aggiornare l'App."
           branch: "update-library"
           delete-branch: true
-
-  import_history:
-    # Esegue l'importatore storico solo se richiesto manualmente
-    if: github.event.inputs.job_type == 'historical_importer'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-      - name: Installa dipendenze
-        run: pip install requests
-      - name: Esegui Importatore Storico
-        run: python historical_importer.py
-      - name: Salva i dati direttamente sul repository
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "📚 Importazione storica da Wikidata completata"
-          file_pattern: "library.json"
