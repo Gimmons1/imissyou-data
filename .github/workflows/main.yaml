@@ -1,21 +1,23 @@
-name: Aggiorna Biblioteca Memoria
+name: Riparatore Immagini Automatico
 
 on:
   schedule:
-    # Esegue lo script in automatico ogni 6 ore
+    # Esegue il controllo in automatico ogni 6 ore
     - cron: '0 */6 * * *'
   workflow_dispatch:
+    # Questo permette di avviarlo manualmente con un click!
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
-  build:
+  fix_images:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del codice sorgente
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Configurazione Python
         uses: actions/setup-python@v4
@@ -23,19 +25,13 @@ jobs:
           python-version: '3.9'
 
       - name: Installazione librerie
-        run: pip install requests feedparser
+        run: pip install requests
 
-      - name: Esecuzione script Segugio (Ricerca nuovi decessi)
-        run: python updater.py
-
-      - name: Esecuzione Riparatore Immagini (Riparazione automatica foto)
+      - name: Esecuzione Riparatore Immagini (Ricerca foto mancanti)
         run: python auto_fixer.py
 
-      - name: Creazione Pull Request per Validazione Admin
-        uses: peter-evans/create-pull-request@v5
+      - name: Salva le immagini direttamente nel database
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit-message: "🤖 Aggiornamento e Riparazione Automatica"
-          title: "Verifica nuovi decessi e foto aggiornate"
-          body: "Il sistema cloud ha trovato nuove notizie o ha riparato foto mancanti attingendo dagli archivi Wikimedia. Controlla e approva per aggiornare l'App."
-          branch: "update-library"
-          delete-branch: true
+          commit_message: "🔧 Auto-Fix: Immagini mancanti riparate e aggiunte"
+          file_pattern: "library.json"
