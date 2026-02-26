@@ -52,16 +52,8 @@ jobs:
       - run: pip install requests
       - run: python historical_importer.py
       
-      # PLUGIN UFFICIALE INFALLIBILE PER IL SALVATAGGIO
       - name: Salva i dati sul repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📚 Importazione storica da Wikidata completata"
           file_pattern: "library.json"
-
-### Prova del 9!
-1. Clicca di nuovo su **Run workflow** (selezionando `historical_importer`) su GitHub per far rigirare lo script con il nuovo sistema di salvataggio infallibile.
-2. Quando finisce, clicca fisicamente sul file `library.json` dal sito di GitHub. Se vedi che è lunghissimo e ci sono decine e decine di nomi, **l'importazione ha avuto successo!**
-3. A quel punto apri l'app nel simulatore: con la modifica al codice Swift, aggirerà la cache e scaricherà tutto subito.
-
-*(Nota bene: l'app si apre sempre sulla pagina di **Oggi**. Ricordati di scorrere la timeline in alto verso sinistra per viaggiare indietro nel tempo e vedere i morti storici estratti dagli anni '20 al 2024!)*
