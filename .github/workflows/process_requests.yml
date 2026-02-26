@@ -1,0 +1,43 @@
+name: Processa Richieste App
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process_request:
+    # Si avvia SOLO se il titolo inizia con "REQUEST:"
+    if: startsWith(github.event.issue.title, 'REQUEST:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configurazione Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Esegui lo script di ricerca
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: python request_processor.py
+
+      - name: Salva il nuovo personaggio nel database
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✨ Aggiunto nuovo personaggio su richiesta dell'utente"
+          file_pattern: "library.json"
+
+      - name: Chiudi il Ticket
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "✅ Richiesta elaborata. Il personaggio è stato cercato negli archivi di Wikipedia e aggiunto all'App!"
