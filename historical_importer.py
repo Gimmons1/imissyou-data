@@ -6,14 +6,17 @@ import time
 JSON_FILE = "library.json"
 SPARQL_URL = "https://query.wikidata.org/sparql"
 HEADERS = {
-    'User-Agent': 'iMissYouApp_DeepSearch/7.0 (https://github.com/Gimmons1)',
+    'User-Agent': 'iMissYouApp_ModernSearch/8.0 (https://github.com/Gimmons1)',
     'Accept': 'application/sparql-results+json'
 }
 
-# SCAGLIONI DI 15 ANNI: Wikidata non andrà mai più in sovraccarico (Errore 504 bypassato)
+# FOCUS SOLO SULL'ERA MODERNA: Molto più veloce e mirato alle star recenti.
 EPOCHE = [
-    (1920, 1935), (1936, 1950), (1951, 1965),
-    (1966, 1980), (1981, 1995), (1996, 2010), (2011, 2026) # Esteso per includere il 2026!
+    (1980, 1989),
+    (1990, 1999),
+    (2000, 2009),
+    (2010, 2018),
+    (2019, 2026)
 ]
 
 def get_wikipedia_bio(name, lang="it"):
@@ -25,10 +28,10 @@ def get_wikipedia_bio(name, lang="it"):
             return data.get("titles", {}).get("canonical", ""), data.get("extract", "")
     except:
         pass
-    return name, "Biografia storica recuperata dagli archivi ufficiali."
+    return name, "Biografia recuperata dagli archivi ufficiali."
 
 def run_historical_import():
-    print("Avvio ricerca storica a fette temporali (Anti-504)...")
+    print("Avvio ricerca rapida: Figure di spicco dal 1980 al 2026...")
     
     library = []
     if os.path.exists(JSON_FILE):
@@ -40,30 +43,31 @@ def run_historical_import():
     new_entries = []
 
     for inizio, fine in EPOCHE:
-        print(f"\n--- Analizzo gli anni dal {inizio} al {fine} ---")
+        print(f"\n--- Ricerca Star & Leader: {inizio} - {fine} ---")
         
+        # Filtro sitelinks >= 28 per garantire solo veri VIP di livello internazionale
         query = f"""
         SELECT ?person ?personLabel ?birthDate ?deathDate ?image ?sitelinks WHERE {{
           ?person wdt:P31 wd:Q5. 
           ?person wdt:P570 ?deathDate.
           FILTER(YEAR(?deathDate) >= {inizio} && YEAR(?deathDate) <= {fine})
           ?person wikibase:sitelinks ?sitelinks .
-          FILTER(?sitelinks >= 25)
+          FILTER(?sitelinks >= 28)
           ?person wdt:P569 ?birthDate.
           OPTIONAL {{ ?person wdt:P18 ?image. }}
           SERVICE wikibase:label {{ bd:serviceParam wikibase:language "it,en". }}
         }}
         ORDER BY DESC(?sitelinks)
-        LIMIT 250
+        LIMIT 350
         """
         
         success = False
-        for attempt in range(4): # 4 tentativi di sicurezza per blocco
+        for attempt in range(3):
             try:
                 response = requests.get(SPARQL_URL, params={'query': query}, headers=HEADERS, timeout=(10, 30))
                 if response.status_code == 200:
                     results = response.json()['results']['bindings']
-                    print(f" -> Trovate {len(results)} persone per questa epoca. Avvio scaricamento...")
+                    print(f" -> Trovate {len(results)} figure di spicco. Elaborazione in corso...")
                     
                     for item in results:
                         name = item['personLabel']['value'].strip()
@@ -83,27 +87,25 @@ def run_historical_import():
                             "imageUrl": img, "approved": True
                         })
                         existing_names.add(name_lower)
-                        time.sleep(0.2)
+                        time.sleep(0.2) # Pausa breve per non sovraccaricare Wikipedia
                     success = True
                     break
                 else:
-                    print(f"Server occupato ({response.status_code}). Attendo 8 secondi...")
-                    time.sleep(8)
-            except Exception as e:
-                print("Timeout di rete temporaneo. Attendo 8 secondi...")
-                time.sleep(8)
+                    time.sleep(5)
+            except Exception:
+                time.sleep(5)
                 
         if not success:
-            print(f"Impossibile scansionare l'epoca {inizio}-{fine}, passo alla successiva.")
+            print(f"Impossibile scansionare l'epoca {inizio}-{fine}.")
 
     if new_entries:
         library.extend(new_entries)
         library.sort(key=lambda x: x['deathDate'])
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"\n✅ SUCCESSO: Aggiunti {len(new_entries)} personaggi.")
+        print(f"\n✅ SUCCESSO: {len(new_entries)} VIP aggiunti alla biblioteca!")
     else:
-        print("\nNessun nuovo personaggio trovato.")
+        print("\nNessun nuovo VIP trovato.")
 
 if __name__ == "__main__":
     run_historical_import()
