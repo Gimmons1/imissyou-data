@@ -1,37 +1,50 @@
-name: Riparatore Immagini Automatico
+name: Administratio Bibliothecae
 
 on:
   schedule:
-    # Esegue il controllo in automatico ogni 6 ore
+    # Executio automatica (omni 6 hora)
     - cron: '0 */6 * * *'
   workflow_dispatch:
-    # Questo permette di avviarlo manualmente con un click!
+    inputs:
+      job_type:
+        description: 'Elige scriptum (Auto-Fixer vel Historical)'
+        required: true
+        default: 'auto_fixer'
+        type: choice
+        options:
+          - auto_fixer
+          - historical_importer
 
 permissions:
   contents: write
 
 jobs:
-  fix_images:
+  run_script:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del codice sorgente
+      - name: Checkout repositorii
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Configurazione Python
+      - name: Configuratio Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Installazione librerie
+      - name: Installatio bibliothecarum
         run: pip install requests
 
-      - name: Esecuzione Riparatore Immagini (Ricerca foto mancanti)
+      - name: Executio Auto-Fixer
+        if: github.event.inputs.job_type == 'auto_fixer' || github.event_name == 'schedule'
         run: python auto_fixer.py
 
-      - name: Salva le immagini direttamente nel database
+      - name: Executio Importatoris Historici
+        if: github.event.inputs.job_type == 'historical_importer'
+        run: python historical_importer.py
+
+      - name: Salva data in bibliotheca (Commit)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔧 Auto-Fix: Immagini mancanti riparate e aggiunte"
+          commit_message: "🤖 Renovatio Bibliothecae (Imagines/Historia)"
           file_pattern: "library.json"
