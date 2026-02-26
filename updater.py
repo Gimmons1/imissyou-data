@@ -2,9 +2,13 @@ import requests
 import feedparser
 import json
 import os
+import socket
 from datetime import datetime
 
-# --- CONFIGURAZIONE CENTRALE OPERATIVA GLOBALE ---
+# TAGLIOLA DI RETE: Nessun giornale può bloccare lo script per più di 10 secondi!
+socket.setdefaulttimeout(10.0)
+
+# Fonti mondiali affidabili per intercettare i decessi
 FEEDS = [
     "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",
     "https://www.corriere.it/rss/cultura.xml",
@@ -28,12 +32,12 @@ KEYWORDS = [
 ]
 
 JSON_FILE = "library.json"
-HEADERS = {'User-Agent': 'iMissYouApp_GlobalSentinel/4.0 (https://github.com/Gimmons1)'}
+HEADERS = {'User-Agent': 'iMissYouApp_GlobalSentinel/5.0 (https://github.com/Gimmons1)'}
 
 def get_wikipedia_details(name, lang="it"):
     url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{name.replace(' ', '_')}"
     try:
-        response = requests.get(url, headers=HEADERS, timeout=8) # Timeout stretto!
+        response = requests.get(url, headers=HEADERS, timeout=(5, 5))
         if response.status_code == 200:
             data = response.json()
             return {
@@ -46,14 +50,12 @@ def get_wikipedia_details(name, lang="it"):
     return None
 
 def fetch_feed_safe(url):
-    """Scarica il feed in modo sicuro con un timeout. Evita i caricamenti infiniti su GitHub Actions."""
     try:
-        # Se un giornale è down, aspettiamo massimo 10 secondi poi passiamo al prossimo
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = requests.get(url, headers=HEADERS, timeout=(5, 10))
         if response.status_code == 200:
             return feedparser.parse(response.content)
-    except Exception as e:
-        print(f" [!] Impossibile raggiungere la fonte ({url.split('/')[2]}) - Salto.")
+    except Exception:
+        print(f" [!] Giornale non raggiungibile in tempo ({url.split('/')[2]}) - Lo salto.")
     return None
 
 def run_updater():
@@ -74,7 +76,7 @@ def run_updater():
         feed = fetch_feed_safe(feed_url)
         
         if not feed:
-            continue # Salta al prossimo giornale se questo non risponde
+            continue
             
         for entry in feed.entries:
             title = entry.title.lower()
@@ -98,7 +100,7 @@ def run_updater():
                             "birthDate": "1900-01-01",
                             "deathDate": datetime.now().strftime("%Y-%m-%d"),
                             "imageUrl": info["img"],
-                            "approved": False # Le nuove notizie vanno nel Pannello Admin dell'App
+                            "approved": False
                         }
                         new_entries.append(new_person)
                         existing_names.append(potential_name.lower())
@@ -108,9 +110,9 @@ def run_updater():
         library.extend(new_entries)
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"--- Completato: Trovate {len(new_entries)} novità da approvare nell'App ---")
+        print(f"--- Completato: Trovate {len(new_entries)} novità da approvare ---")
     else:
-        print("--- Scansione completata: Nessun nuovo decesso nelle ultime ore ---")
+        print("--- Scansione completata: Nessun nuovo decesso ---")
 
 if __name__ == "__main__":
     run_updater()
