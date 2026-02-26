@@ -1,5 +1,65 @@
 [
   {
+    "name": "Benito Pérez Galdós",
+    "slugs": {
+      "IT": "Benito_Pérez_Galdós",
+      "EN": "Benito_Pérez_Galdós"
+    },
+    "bio": "Benito María de los Dolores Pérez Galdós è stato uno scrittore e drammaturgo spagnolo, una delle figure più emblematiche della letteratura realista della Spagna ottocentesca, unanimemente considerato lo scrittore spagnolo più importante dopo Cervantes.",
+    "birthDate": "1843-05-10",
+    "deathDate": "1920-01-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Benito%20Perez%20Galdos%20-%20Kaulak%20%284.3%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Amedeo Modigliani",
+    "slugs": {
+      "IT": "Amedeo_Modigliani",
+      "EN": "Amedeo_Modigliani"
+    },
+    "bio": "Amedeo Clemente Modigliani, noto anche con i soprannomi di Modì e Dedo, è stato un pittore e scultore italiano, celebre per i suoi sensuali nudi femminili e per i ritratti caratterizzati da volti stilizzati, colli affusolati e gli sguardi spesso assenti.",
+    "birthDate": "1884-07-12",
+    "deathDate": "1920-01-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%201918%20restored.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleksandr Vasil'evič Kolčak",
+    "slugs": {
+      "IT": "Aleksandr_Vasil'evič_Kolčak",
+      "EN": "Aleksandr_Vasil'evič_Kolčak"
+    },
+    "bio": "Aleksandr Vasil'evič Kolčak, in russo Александр Васильевич Колчак?, è stato un esploratore, ammiraglio e politico russo, comandante in capo di parte delle forze antibolsceviche dell'Armata Bianca durante la guerra civile russa assumendo poteri dittatoriali.",
+    "birthDate": "1874-11-16",
+    "deathDate": "1920-02-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kolchak07.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Edwin Peary",
+    "slugs": {
+      "IT": "Robert_Edwin_Peary",
+      "EN": "Robert_Edwin_Peary"
+    },
+    "bio": "Robert Edwin Peary è stato un esploratore statunitense che ha sostenuto di aver raggiunto per primo il polo nord anche se Frederick Cook, inizialmente suo collaboratore nelle spedizioni, dichiarò di aver raggiunto il polo un anno prima di Peary.",
+    "birthDate": "1856-05-06",
+    "deathDate": "1920-02-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertPeary.jpg",
+    "approved": true
+  },
+  {
+    "name": "Srinivasa Ramanujan",
+    "slugs": {
+      "IT": "Srinivasa_Ramanujan",
+      "EN": "Srinivasa_Ramanujan"
+    },
+    "bio": "Srinivasa Aiyangar Ramanujan è stato un matematico indiano.",
+    "birthDate": "1887-12-22",
+    "deathDate": "1920-04-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Srinivasa%20Ramanujan%20-%20OPC%20-%202%20%28cleaned%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Max Weber",
     "slugs": {
       "IT": "Max_Weber",
@@ -9,6 +69,222 @@
     "birthDate": "1864-04-21",
     "deathDate": "1920-06-14",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Weber%20in%201918.png"
+  },
+  {
+    "name": "Wilhelm Wundt",
+    "slugs": {
+      "IT": "Wilhelm_Wundt",
+      "EN": "Wilhelm_Wundt"
+    },
+    "bio": "Wilhelm Maximilian Wundt è stato uno psicologo, fisiologo e filosofo tedesco. \nÈ divenuto per la storia della psicologia \"il padre fondatore\" della disciplina, che cercò di separare dalla filosofia, grazie al suo contributo teorico e sperimentale, esteso all'ambito della Sociologia.",
+    "birthDate": "1832-08-16",
+    "deathDate": "1920-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Wundt.jpg",
+    "approved": true
+  },
+  {
+    "name": "Theobald von Bethmann-Hollweg",
+    "slugs": {
+      "IT": "Theobald_von_Bethmann-Hollweg",
+      "EN": "Theobald_von_Bethmann-Hollweg"
+    },
+    "bio": "Theobald von Bethmann-Hollweg è stato un politico tedesco.",
+    "birthDate": "1856-11-29",
+    "deathDate": "1921-01-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Theobald%20von%20Bethmann%20Hollweg%20by%20E.%20Bieber.jpg",
+    "approved": true
+  },
+  {
+    "name": "Pëtr Alekseevič Kropotkin",
+    "slugs": {
+      "IT": "Pëtr_Alekseevič_Kropotkin",
+      "EN": "Pëtr_Alekseevič_Kropotkin"
+    },
+    "bio": "Pëtr Alekseevič Kropotkin, in russo Пётр Алексеевич Кропоткин?\nin inglese Peter Kropotkin, è stato un filosofo, biologo, geografo, zoologo, militante e teorico dell'anarchia russo.\nLibertario, fautore di un'analisi sociologica e di una proposta poggiata su basi scientifiche dell'evoluzione sociale nelle comunità umane, con una propaganda fondata sui fatti, è stato uno dei primi sostenitori dell'anarco-comunismo.",
+    "birthDate": "1842-12-09",
+    "deathDate": "1921-02-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kropotkin1.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gabriel Lippmann",
+    "slugs": {
+      "IT": "Gabriel_Lippmann",
+      "EN": "Gabriel_Lippmann"
+    },
+    "bio": "Gabriel Jonas Lippmann è stato un fisico francese.",
+    "birthDate": "1845-08-16",
+    "deathDate": "1921-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Lippmann2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Enrico Caruso",
+    "slugs": {
+      "IT": "Enrico_Caruso",
+      "EN": "Enrico_Caruso"
+    },
+    "bio": "Enrico Caruso è stato un tenore italiano.",
+    "birthDate": "1873-02-24",
+    "deathDate": "1921-08-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Caruso%20tenor.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleksandr Aleksandrovič Blok",
+    "slugs": {
+      "IT": "Aleksandr_Aleksandrovič_Blok",
+      "EN": "Aleksandr_Aleksandrovič_Blok"
+    },
+    "bio": "Aleksandr Aleksandrovič Blok è stato un poeta e drammaturgo russo, forse il più grande poeta dell'epoca d'argento russa.",
+    "birthDate": "1880-11-28",
+    "deathDate": "1921-08-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Blok.jpeg",
+    "approved": true
+  },
+  {
+    "name": "Ivan Vazov",
+    "slugs": {
+      "IT": "Ivan_Vazov",
+      "EN": "Ivan_Vazov"
+    },
+    "bio": "Ivan Minčov Vazov è stato un poeta, romanziere, drammaturgo e politico bulgaro.",
+    "birthDate": "1850-07-09",
+    "deathDate": "1921-09-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BASA-937K-1-410-7-Ivan%20Vazov%20%28cropped%29.JPG",
+    "approved": true
+  },
+  {
+    "name": "Camille Saint-Saëns",
+    "slugs": {
+      "IT": "Camille_Saint-Saëns",
+      "EN": "Camille_Saint-Saëns"
+    },
+    "bio": "Charles Camille Saint-Saëns è stato un compositore, pianista e organista francese.",
+    "birthDate": "1835-10-09",
+    "deathDate": "1921-12-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Saint-Saens%20b%20Meurisse%201921.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vladimir Galaktionovič Korolenko",
+    "slugs": {
+      "IT": "Vladimir_Galaktionovič_Korolenko",
+      "EN": "Vladimir_Galaktionovič_Korolenko"
+    },
+    "bio": "Vladimir Galaktionovič Korolenko è stato uno scrittore russo della seconda metà dell'Ottocento.",
+    "birthDate": "1853-07-27",
+    "deathDate": "1921-12-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Korolenko%20bw.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ernest Shackleton",
+    "slugs": {
+      "IT": "Ernest_Shackleton",
+      "EN": "Ernest_Shackleton"
+    },
+    "bio": "Ernest Henry Shackleton è stato un esploratore irlandese di origine anglo-irlandese.\nÈ considerato uno dei principali protagonisti della cosiddetta \"epoca eroica dell'esplorazione antartica\".",
+    "birthDate": "1873-02-15",
+    "deathDate": "1922-01-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Shackleton%20before%201909.jpg",
+    "approved": true
+  },
+  {
+    "name": "Papa Benedetto XV",
+    "slugs": {
+      "IT": "Papa_Benedetto_XV",
+      "EN": "Papa_Benedetto_XV"
+    },
+    "bio": "Benedetto XV è stato il 258º vescovo di Roma e papa della Chiesa cattolica dal 1914 fino alla morte. Fu fermo oppositore della prima guerra mondiale.",
+    "birthDate": "1854-11-21",
+    "deathDate": "1922-01-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Benedictus%20XV%2C%20by%20Nicola%20Perscheid%2C%201915%20%28retouched%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fredrik Bajer",
+    "slugs": {
+      "IT": "Fredrik_Bajer",
+      "EN": "Fredrik_Bajer"
+    },
+    "bio": "Fredrik Bajer è stato uno scrittore, pacifista e insegnante danese, vincitore, con Klas Pontus Arnoldson del Premio Nobel per la pace nel 1908.",
+    "birthDate": "1837-04-21",
+    "deathDate": "1922-01-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederik%20Bajer%20by%20E.%20M%C3%B8ller.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nellie Bly",
+    "slugs": {
+      "IT": "Nellie_Bly",
+      "EN": "Nellie_Bly"
+    },
+    "bio": "Nellie Bly, pseudonimo di Elizabeth Jane Cochran, è stata una giornalista statunitense.",
+    "birthDate": "1864-05-05",
+    "deathDate": "1922-01-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nellie%20Bly%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Carlo I d'Austria",
+    "slugs": {
+      "IT": "Carlo_I_d'Austria",
+      "EN": "Carlo_I_d'Austria"
+    },
+    "bio": "Carlo I d'Austria è stato l'ultimo imperatore d'Austria, re d'Ungheria e Boemia, e monarca della Casa d'Asburgo-Lorena e Austria-Este.\nSuccesse al prozio, Francesco Giuseppe I, nel 1916 per poi dover abdicare nel novembre del 1918, a seguito della sconfitta dell'Impero nella Grande Guerra. Beatificato da papa Giovanni Paolo II il 3 ottobre 2004, la sua memoria liturgica ricorre il 21 ottobre.",
+    "birthDate": "1887-08-17",
+    "deathDate": "1922-04-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20karl%20of%20austria-hungary%201917.png",
+    "approved": true
+  },
+  {
+    "name": "Charles Louis Alphonse Laveran",
+    "slugs": {
+      "IT": "Charles_Louis_Alphonse_Laveran",
+      "EN": "Charles_Louis_Alphonse_Laveran"
+    },
+    "bio": "Charles Louis Alphonse Laveran è stato un medico francese, vincitore del Premio Nobel per la medicina nel 1907.",
+    "birthDate": "1845-06-18",
+    "deathDate": "1922-05-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Laveran%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alexander Graham Bell",
+    "slugs": {
+      "IT": "Alexander_Graham_Bell",
+      "EN": "Alexander_Graham_Bell"
+    },
+    "bio": "Alexander Graham Bell è stato un ingegnere, inventore e scienziato britannico naturalizzato statunitense.\nÈ stato il primo a brevettare un telefono funzionale ed è noto nella cultura popolare e in gran parte della comunità scientifica come l'inventore di tale apparecchio; altri a cui è stata attribuita l'invenzione del telefono sono Charles Bourseul, Innocenzo Manzetti, Antonio Meucci, Johann Philipp Reis ed Elisha Gray.",
+    "birthDate": "1847-03-03",
+    "deathDate": "1922-08-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Graham%20Bell.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ismail Enver",
+    "slugs": {
+      "IT": "Ismail_Enver",
+      "EN": "Ismail_Enver"
+    },
+    "bio": "Ismail Enver, noto anche come Ismail Pascià o Enver Pasha o Enver Bey, è stato un generale e politico ottomano.",
+    "birthDate": "1881-11-22",
+    "deathDate": "1922-08-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Enver.jpg",
+    "approved": true
+  },
+  {
+    "name": "Michael Collins",
+    "slugs": {
+      "IT": "Michael_Collins",
+      "EN": "Michael_Collins"
+    },
+    "bio": "Michael Collins può riferirsi a:Michael Collins (1771-1832) – vescovo cattolico irlandese\nMichael Collins (1890-1922) – patriota e politico irlandese\nMichael Collins – film del 1996 ispirato alla figura di Michael Collins\nMichael Collins (1921-1979) – attore britannico\nMichael Collins (1930-2021) – astronauta statunitense\nMichael Collins – astronomo statunitense\nMichael Collins (1961) – scrittore britannico\nMichael Collins (1961) – calciatore statunitense\nMichael Collins (1977) – calciatore nordirlandese\nMichael Collins (1986) – calciatore irlandese\nMichael Collins (1986) – rugbista a 15 gallese\nMichael Collins (1993) – rugbista a 15 neozelandese",
+    "birthDate": "1890-10-16",
+    "deathDate": "1922-08-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Collins%201921.jpg",
+    "approved": true
   },
   {
     "name": "Marcel Proust",
@@ -22,6 +298,66 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%201895.jpg"
   },
   {
+    "name": "Eliezer Ben Yehuda",
+    "slugs": {
+      "IT": "Eliezer_Ben_Yehuda",
+      "EN": "Eliezer_Ben_Yehuda"
+    },
+    "bio": "Eliezer Ben Yehuda è stato un giornalista e filologo russo, attivo nella Palestina Ottomana.",
+    "birthDate": "1858-01-07",
+    "deathDate": "1922-12-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eliezer%20in%20his%20house%20in%20Talpiot%20neighbourhood%20%28id.34235242%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jaroslav Hašek",
+    "slugs": {
+      "IT": "Jaroslav_Hašek",
+      "EN": "Jaroslav_Hašek"
+    },
+    "bio": "Jaroslav Hašek è stato uno scrittore, umorista e giornalista ceco.\nDivenne universalmente celebre soprattutto grazie al suo romanzo Il buon soldato Sc'vèik, un'infinita collezione di avvenimenti comici legati a un soldato nella prima guerra mondiale. Il romanzo, una feroce satira antimilitarista, pur rimasto incompleto, è stato tradotto in sessanta lingue.",
+    "birthDate": "1883-04-30",
+    "deathDate": "1923-01-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%20%D0%93%D0%B0%D1%88%D0%B5%D0%BA.jpg",
+    "approved": true
+  },
+  {
+    "name": "Katherine Mansfield",
+    "slugs": {
+      "IT": "Katherine_Mansfield",
+      "EN": "Katherine_Mansfield"
+    },
+    "bio": "Katherine Mansfield è stata una scrittrice neozelandese, saggista e giornalista, considerata una delle più influenti e importanti autrici del movimento modernista.\nScrisse racconti e poesie che esplorano le ansie e le paure, la caducità delle esperienze umane e la sessualità. Lasciò la natia Nuova Zelanda per trasferirsi in Inghilterra, dove divenne amica di D. H. Lawrence, Virginia Woolf, Ottoline Morrell e altri che orbitavano nel Bloomsbury Group. Malata di tubercolosi, morì a soli 34 anni in Francia.",
+    "birthDate": "1888-10-14",
+    "deathDate": "1923-01-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Katherine%20Mansfield%20%28no%20signature%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wilhelm Conrad Röntgen",
+    "slugs": {
+      "IT": "Wilhelm_Conrad_Röntgen",
+      "EN": "Wilhelm_Conrad_Röntgen"
+    },
+    "bio": "Wilhelm Conrad Röntgen è stato un fisico tedesco.",
+    "birthDate": "1845-03-27",
+    "deathDate": "1923-02-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Conrad%20R%C3%B6ntgen%20%281888-1900%29%2C%2088374%20p.jpg",
+    "approved": true
+  },
+  {
+    "name": "Johannes Diderik van der Waals",
+    "slugs": {
+      "IT": "Johannes_Diderik_van_der_Waals",
+      "EN": "Johannes_Diderik_van_der_Waals"
+    },
+    "bio": "Johannes Diderik van der Waals è stato un fisico e matematico olandese.",
+    "birthDate": "1837-11-23",
+    "deathDate": "1923-03-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20der%20Waals.jpg",
+    "approved": true
+  },
+  {
     "name": "Sarah Bernhardt",
     "slugs": {
       "IT": "Sarah_Bernhardt",
@@ -31,6 +367,66 @@
     "birthDate": "1844-10-23",
     "deathDate": "1923-03-26",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Sarah%20Bernhardt%20as%20Do%C3%B1a%20Sol%20in%20Hernani%20%28cropped%29.png"
+  },
+  {
+    "name": "Pancho Villa",
+    "slugs": {
+      "IT": "Pancho_Villa",
+      "EN": "Pancho_Villa"
+    },
+    "bio": "Pancho Villa o Francisco Villa, pseudonimo di José Doroteo Arango Arámbula, è stato un rivoluzionario, generale e politico messicano, eroe popolare della rivoluzione messicana del 1910.",
+    "birthDate": "1878-06-05",
+    "deathDate": "1923-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20bandolier%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Warren G. Harding",
+    "slugs": {
+      "IT": "Warren_G._Harding",
+      "EN": "Warren_G._Harding"
+    },
+    "bio": "Warren Gamaliel Harding è stato un politico statunitense, 29º Presidente degli Stati Uniti d'America dal 1921 al 1923, anno della sua morte.",
+    "birthDate": "1865-11-02",
+    "deathDate": "1923-08-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20G%20Harding%20portrait%20as%20senator%20June%201920.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vilfredo Pareto",
+    "slugs": {
+      "IT": "Vilfredo_Pareto",
+      "EN": "Vilfredo_Pareto"
+    },
+    "bio": "Vilfredo Federico Damaso Pareto è stato un economista, sociologo e ingegnere italiano.",
+    "birthDate": "1848-07-15",
+    "deathDate": "1923-08-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vilfredo%20Pareto%201870s2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Andrew Bonar Law",
+    "slugs": {
+      "IT": "Andrew_Bonar_Law",
+      "EN": "Andrew_Bonar_Law"
+    },
+    "bio": "Andrew Bonar Law è stato un politico britannico.\nHa fatto parte del Partito Conservatore.\nÈ stato Primo ministro del Regno Unito dal 23 ottobre 1922 al 22 maggio 1923.",
+    "birthDate": "1858-09-16",
+    "deathDate": "1923-10-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/A.%20Bonar%20Law%20LCCN2014715818%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gustave Eiffel",
+    "slugs": {
+      "IT": "Gustave_Eiffel",
+      "EN": "Gustave_Eiffel"
+    },
+    "bio": "Alexandre Gustave Eiffel è stato un ingegnere e imprenditore francese.",
+    "birthDate": "1832-12-15",
+    "deathDate": "1923-12-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Eiffel%201888%20Nadar2.jpg",
+    "approved": true
   },
   {
     "name": "Lenin",
@@ -66,6 +462,522 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Kafka%2C%201923.jpg"
   },
   {
+    "name": "Alfred Marshall",
+    "slugs": {
+      "IT": "Alfred_Marshall",
+      "EN": "Alfred_Marshall"
+    },
+    "bio": "Alfred Marshall è stato un economista inglese, uno dei più influenti del suo tempo.",
+    "birthDate": "1842-07-26",
+    "deathDate": "1924-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Marshall.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joseph Conrad",
+    "slugs": {
+      "IT": "Joseph_Conrad",
+      "EN": "Joseph_Conrad"
+    },
+    "bio": "Joseph Conrad, nato Józef Teodor Konrad Korzeniowski, è stato uno scrittore e navigatore polacco naturalizzato britannico.",
+    "birthDate": "1857-12-03",
+    "deathDate": "1924-08-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Conrad-remastered%20to%20black%20and%20white.png",
+    "approved": true
+  },
+  {
+    "name": "Anatole France",
+    "slugs": {
+      "IT": "Anatole_France",
+      "EN": "Anatole_France"
+    },
+    "bio": "Anatole France, pseudonimo di Jacques François-Anatole Thibault, è stato uno scrittore francese, Premio Nobel per la letteratura nell'anno 1921.",
+    "birthDate": "1844-04-16",
+    "deathDate": "1924-10-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatole%20France%20young%20years.jpg",
+    "approved": true
+  },
+  {
+    "name": "Frances Hodgson Burnett",
+    "slugs": {
+      "IT": "Frances_Hodgson_Burnett",
+      "EN": "Frances_Hodgson_Burnett"
+    },
+    "bio": "Frances Hodgson Burnett è stata una commediografa e scrittrice britannica.",
+    "birthDate": "1849-11-24",
+    "deathDate": "1924-10-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frances%20Burnett.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gabriel Fauré",
+    "slugs": {
+      "IT": "Gabriel_Fauré",
+      "EN": "Gabriel_Fauré"
+    },
+    "bio": "Gabriel Urbain Fauré è stato un compositore e organista francese.\nInsieme a Debussy, Ravel e Saint-Saëns, è considerato uno dei grandi musicisti francesi della fine del XIX secolo e dell'inizio del XX secolo.",
+    "birthDate": "1845-05-12",
+    "deathDate": "1924-11-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Faur%C3%A9Pirou1905.jpg",
+    "approved": true
+  },
+  {
+    "name": "Giacomo Puccini",
+    "slugs": {
+      "IT": "Giacomo_Puccini",
+      "EN": "Giacomo_Puccini"
+    },
+    "bio": "Giacomo Puccini è stato un compositore italiano, considerato uno dei maggiori e più significativi operisti di tutti i tempi.",
+    "birthDate": "1858-12-22",
+    "deathDate": "1924-11-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GiacomoPuccini.jpg",
+    "approved": true
+  },
+  {
+    "name": "Carl Spitteler",
+    "slugs": {
+      "IT": "Carl_Spitteler",
+      "EN": "Carl_Spitteler"
+    },
+    "bio": "Carl Friedrich Georg Spitteler è stato un poeta, critico letterario e insegnante svizzero.",
+    "birthDate": "1845-04-24",
+    "deathDate": "1924-12-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitteler%201919.jpg",
+    "approved": true
+  },
+  {
+    "name": "Oliver Heaviside",
+    "slugs": {
+      "IT": "Oliver_Heaviside",
+      "EN": "Oliver_Heaviside"
+    },
+    "bio": "Oliver Heaviside è stato un matematico, fisico e ingegnere britannico.",
+    "birthDate": "1850-05-18",
+    "deathDate": "1925-02-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Heaviside2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hjalmar Branting",
+    "slugs": {
+      "IT": "Hjalmar_Branting",
+      "EN": "Hjalmar_Branting"
+    },
+    "bio": "Karl Hjalmar Branting è stato un politico svedese del Partito Socialdemocratico dei Lavoratori di Svezia (SAP), primo ministro della Svezia dal 1920 al 1925 e vincitore del Premio Nobel per la pace nel 1921, assieme a Christian Lange.",
+    "birthDate": "1860-11-23",
+    "deathDate": "1925-02-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjalmar%20Branting%20by%20Goodwin.jpg",
+    "approved": true
+  },
+  {
+    "name": "Friedrich Ebert",
+    "slugs": {
+      "IT": "Friedrich_Ebert",
+      "EN": "Friedrich_Ebert"
+    },
+    "bio": "Friedrich Ebert è stato un politico tedesco, primo presidente della Repubblica di Weimar dall'11 febbraio 1919 al 28 febbraio 1925.",
+    "birthDate": "1871-02-04",
+    "deathDate": "1925-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Ebert.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sun Yat-sen",
+    "slugs": {
+      "IT": "Sun_Yat-sen",
+      "EN": "Sun_Yat-sen"
+    },
+    "bio": "Sun Yat-sen [syːn˥ jɐt˨.siːn˥] è stato un politico cinese. È comunemente conosciuto in Cina come Sun Zhongshan, o anche Sun Wen.",
+    "birthDate": "1866-11-12",
+    "deathDate": "1925-03-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+    "approved": true
+  },
+  {
+    "name": "George Curzon, I marchese Curzon di Kedleston",
+    "slugs": {
+      "IT": "George_Curzon,_I_marchese_Curzon_di_Kedleston",
+      "EN": "George_Curzon,_I_marchese_Curzon_di_Kedleston"
+    },
+    "bio": "George Nathaniel Curzon, primo marchese Curzon di Kedleston, è stato un politico e nobile britannico.",
+    "birthDate": "1859-01-11",
+    "deathDate": "1925-03-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Curzon2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Rudolf Steiner",
+    "slugs": {
+      "IT": "Rudolf_Steiner",
+      "EN": "Rudolf_Steiner"
+    },
+    "bio": "Rudolf Joseph Lorenz Steiner è stato un filosofo e teosofo austriaco.",
+    "birthDate": "1861-02-27",
+    "deathDate": "1925-03-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Steiner%20um%201905.jpg",
+    "approved": true
+  },
+  {
+    "name": "H. Rider Haggard",
+    "slugs": {
+      "IT": "H._Rider_Haggard",
+      "EN": "H._Rider_Haggard"
+    },
+    "bio": "Sir Henry Rider Haggard è stato uno scrittore e funzionario britannico.",
+    "birthDate": "1856-06-22",
+    "deathDate": "1925-05-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Rider%20Haggard%2003.jpg",
+    "approved": true
+  },
+  {
+    "name": "Felix Klein",
+    "slugs": {
+      "IT": "Felix_Klein",
+      "EN": "Felix_Klein"
+    },
+    "bio": "Felix Christian Klein è stato un matematico tedesco.",
+    "birthDate": "1849-04-25",
+    "deathDate": "1925-06-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1912%20circa%20Max%20Liebermann%20oil%20on%20canvas%20portrait%20Felix%20Klein%2C%20Kunstsammlung%20der%20Universit%C3%A4t%20G%C3%B6ttingen.jpg",
+    "approved": true
+  },
+  {
+    "name": "Erik Satie",
+    "slugs": {
+      "IT": "Erik_Satie",
+      "EN": "Erik_Satie"
+    },
+    "bio": "Éric Alfred Leslie Satie, detto Erik, è stato un compositore e pianista francese.",
+    "birthDate": "1866-05-17",
+    "deathDate": "1925-07-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Satie-erik-4ff9d0bde1749.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gottlob Frege",
+    "slugs": {
+      "IT": "Gottlob_Frege",
+      "EN": "Gottlob_Frege"
+    },
+    "bio": "Friedrich Ludwig Gottlob Frege è stato un matematico, logico e filosofo tedesco, padre della moderna logica matematica, e poi polemicamente proclamato anche padre della filosofia analitica dal lavoro esegetico di Michael Dummett, nonché studioso di epistemologia, filosofia della matematica e di filosofia del linguaggio.",
+    "birthDate": "1848-11-08",
+    "deathDate": "1925-07-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20frege.jpg",
+    "approved": true
+  },
+  {
+    "name": "Władysław Reymont",
+    "slugs": {
+      "IT": "Władysław_Reymont",
+      "EN": "Władysław_Reymont"
+    },
+    "bio": "Władysław Stanisław Reymont è stato uno scrittore polacco.",
+    "birthDate": "1867-05-07",
+    "deathDate": "1925-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wladyslaw%20Reymont%201897%20%2871364799%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sergej Aleksandrovič Esenin",
+    "slugs": {
+      "IT": "Sergej_Aleksandrovič_Esenin",
+      "EN": "Sergej_Aleksandrovič_Esenin"
+    },
+    "bio": "Sergéj Aleksándrovič Esénin è stato un poeta russo.",
+    "birthDate": "1895-10-03",
+    "deathDate": "1925-12-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergey%20Yesenin%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Camillo Golgi",
+    "slugs": {
+      "IT": "Camillo_Golgi",
+      "EN": "Camillo_Golgi"
+    },
+    "bio": "Bartolomeo Camillo Emilio Golgi è stato uno scienziato e medico italiano.",
+    "birthDate": "1843-07-07",
+    "deathDate": "1926-01-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Camillo%20Golgi%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Heike Kamerlingh Onnes",
+    "slugs": {
+      "IT": "Heike_Kamerlingh_Onnes",
+      "EN": "Heike_Kamerlingh_Onnes"
+    },
+    "bio": "Heike Kamerlingh Onnes è stato un fisico olandese, figura fondamentale nel campo della fisica delle basse temperature, premio Nobel per la Fisica nel 1913.",
+    "birthDate": "1853-09-21",
+    "deathDate": "1926-02-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamerlingh%20portret.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mehmet VI",
+    "slugs": {
+      "IT": "Mehmet_VI",
+      "EN": "Mehmet_VI"
+    },
+    "bio": "Mehmed VI in italiano conosciuto come Maometto VI, fu il trentaseiesimo e ultimo sultano dell'impero ottomano dal 1918 al 1922. Fu inoltre il centesimo califfo dell'Islam.",
+    "birthDate": "1861-01-14",
+    "deathDate": "1926-05-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9bah%20%26%20Joaillier%20-%20Sultan%20Mehmed%20VI.jpg",
+    "approved": true
+  },
+  {
+    "name": "Antoni Gaudí",
+    "slugs": {
+      "IT": "Antoni_Gaudí",
+      "EN": "Antoni_Gaudí"
+    },
+    "bio": "Antoni Gaudí y Cornet è stato un architetto spagnolo di cultura catalana. Massimo esponente del modernismo catalano, pur essendo la personalità meno organica a tale movimento artistico, di cui comunque condivideva i presupposti ideologici e tematici, li ha completati con una ispirazione personale basata principalmente su forme naturali.",
+    "birthDate": "1852-06-25",
+    "deathDate": "1926-06-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD%20%281878%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mary Cassatt",
+    "slugs": {
+      "IT": "Mary_Cassatt",
+      "EN": "Mary_Cassatt"
+    },
+    "bio": "Mary Stevenson Cassatt è stata una pittrice statunitense.\nVisse molto tempo in Francia dove diventò amica e allieva di Degas, esponendo poi le proprie opere insieme a quelle degli artisti del movimento impressionista.\nCassatt realizzò molti dipinti che ritraggono la vita sociale e privata delle donne della sua epoca, ponendo una particolare attenzione all'intimo legame che si realizza tra le madri e i loro bambini.",
+    "birthDate": "1844-05-22",
+    "deathDate": "1926-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1914%20Mary%20Cassatt.jpg",
+    "approved": true
+  },
+  {
+    "name": "Feliks Ėdmundovič Dzeržinskij",
+    "slugs": {
+      "IT": "Feliks_Ėdmundovič_Dzeržinskij",
+      "EN": "Feliks_Ėdmundovič_Dzeržinskij"
+    },
+    "bio": "Feliks Ėdmundovič Dzeržinskij è stato un politico e rivoluzionario sovietico.",
+    "birthDate": "1877-09-11",
+    "deathDate": "1926-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Feliks%20Dzier%C5%BCy%C5%84ski.jpg",
+    "approved": true
+  },
+  {
+    "name": "Viktor Michajlovič Vasnecov",
+    "slugs": {
+      "IT": "Viktor_Michajlovič_Vasnecov",
+      "EN": "Viktor_Michajlovič_Vasnecov"
+    },
+    "bio": "Viktor Michajlovič Vasnecov è stato un pittore russo.\nNoto per essere specializzato in soggetti di carattere storico e mitologico ed è considerato una figura chiave del movimento neorusso.",
+    "birthDate": "1848-05-15",
+    "deathDate": "1926-07-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/NikDmKuznetsov%20Vasnetsov.jpg",
+    "approved": true
+  },
+  {
+    "name": "Rodolfo Valentino",
+    "slugs": {
+      "IT": "Rodolfo_Valentino",
+      "EN": "Rodolfo_Valentino"
+    },
+    "bio": "Rodolfo Valentino, o Rudolph Valentino, o semplicemente Rudy, pseudonimo di Rodolfo Pietro Filiberto Raffaello Guglielmi, è stato un attore e ballerino italiano.\nFu uno dei più grandi divi del cinema muto della sua epoca, noto anche per esser stato il sex symbol di quegli anni, tanto che gli fu dato l'appellativo di Latin Lover. Nonostante il successo negli Stati Uniti, Valentino non avviò le pratiche per la naturalizzazione, conservando la cittadinanza italiana fino alla morte, avvenuta a soli trentuno anni.",
+    "birthDate": "1895-05-06",
+    "deathDate": "1926-08-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Last%20Photo%20of%20Rudolph%20Valentino%22%201926.jpg",
+    "approved": true
+  },
+  {
+    "name": "Rudolf Christoph Eucken",
+    "slugs": {
+      "IT": "Rudolf_Christoph_Eucken",
+      "EN": "Rudolf_Christoph_Eucken"
+    },
+    "bio": "Rudolf Christoph Eucken è stato un filosofo e scrittore tedesco, vincitore del Premio Nobel per la letteratura nel 1908.",
+    "birthDate": "1846-01-05",
+    "deathDate": "1926-09-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eucken-im-Alter.png",
+    "approved": true
+  },
+  {
+    "name": "Harry Houdini",
+    "slugs": {
+      "IT": "Harry_Houdini",
+      "EN": "Harry_Houdini"
+    },
+    "bio": "Harry Houdini, pseudonimo di Erik Weisz, è stato un illusionista e attore ungherese naturalizzato statunitense. È stato uno dei più famosi illusionisti ed escapologi della storia, divenuto celebre grazie alle sue fughe impossibili.",
+    "birthDate": "1874-03-24",
+    "deathDate": "1926-10-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Houdini%20by%20LaPine%20Studios%2C%201915.png",
+    "approved": true
+  },
+  {
+    "name": "Claude Monet",
+    "slugs": {
+      "IT": "Claude_Monet",
+      "EN": "Claude_Monet"
+    },
+    "bio": "Oscar-Claude Monet /ɔsˈkaʁ klod mɔˈnε/ è stato un pittore francese, considerato uno dei fondatori dell'impressionismo francese e certamente il più coerente e prolifico del movimento. I suoi lavori si distinguono per la rappresentazione della sua immediata percezione dei soggetti, in modo particolare per quanto riguarda la paesaggistica e la pittura en plein air.",
+    "birthDate": "1840-11-14",
+    "deathDate": "1926-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%201899%20Nadar%20crop.jpg",
+    "approved": true
+  },
+  {
+    "name": "Taisho del Giappone",
+    "slugs": {
+      "IT": "Taisho del Giappone",
+      "EN": "Taisho del Giappone"
+    },
+    "bio": "Biografia storica recuperata dagli archivi ufficiali.",
+    "birthDate": "1879-08-31",
+    "deathDate": "1926-12-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Taish%C5%8D.jpg",
+    "approved": true
+  },
+  {
+    "name": "Rainer Maria Rilke",
+    "slugs": {
+      "IT": "Rainer_Maria_Rilke",
+      "EN": "Rainer_Maria_Rilke"
+    },
+    "bio": "Rainer Maria Rilke, nome completo René Karl Wilhelm Johann Josef Maria Rilke, è stato uno scrittore, poeta e drammaturgo austriaco di origine boema.",
+    "birthDate": "1875-12-04",
+    "deathDate": "1926-12-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Maria%20Rilke%201900.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jerome K. Jerome",
+    "slugs": {
+      "IT": "Jerome_K._Jerome",
+      "EN": "Jerome_K._Jerome"
+    },
+    "bio": "Jerome Klapka Jerome è stato uno scrittore, giornalista e umorista britannico.",
+    "birthDate": "1859-05-02",
+    "deathDate": "1927-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jerome%20K.%20Jerome%2002.jpg",
+    "approved": true
+  },
+  {
+    "name": "Albrecht Kossel",
+    "slugs": {
+      "IT": "Albrecht_Kossel",
+      "EN": "Albrecht_Kossel"
+    },
+    "bio": "Ludwig Karl Martin Leonhard Albrecht Kossel è stato un medico, chimico e fisiologo tedesco.",
+    "birthDate": "1853-09-16",
+    "deathDate": "1927-07-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Kossel%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ryūnosuke Akutagawa",
+    "slugs": {
+      "IT": "Ryūnosuke_Akutagawa",
+      "EN": "Ryūnosuke_Akutagawa"
+    },
+    "bio": "Ryūnosuke Akutagawa è stato uno scrittore e poeta giapponese, autore del racconto Rashōmon da cui è stato tratto l'omonimo film di Akira Kurosawa.",
+    "birthDate": "1892-03-01",
+    "deathDate": "1927-07-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Akutagawa%20Ryunosuke%20photo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Isadora Duncan",
+    "slugs": {
+      "IT": "Isadora_Duncan",
+      "EN": "Isadora_Duncan"
+    },
+    "bio": "Angela Isadora Duncan è stata una danzatrice statunitense, considerata una tra le più significative precorritrici della cosiddetta \"danza moderna\", che contribuì ad avviare.",
+    "birthDate": "1877-05-26",
+    "deathDate": "1927-09-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Isadora%20Duncan%20portrait%20cropped.jpg",
+    "approved": true
+  },
+  {
+    "name": "Willem Einthoven",
+    "slugs": {
+      "IT": "Willem_Einthoven",
+      "EN": "Willem_Einthoven"
+    },
+    "bio": "Willem Einthoven è stato un fisiologo olandese, inventore, nel 1903, dell'elettrocardiografia (ECG) ossia della registrazione, mediante l'apparecchio detto elettrocardiografo, dell'attività elettrica del cuore che viene rappresentata sotto forma di un tracciato detto elettrocardiogramma, il cui concetto base è il Triangolo di Einthoven.",
+    "birthDate": "1860-05-21",
+    "deathDate": "1927-09-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20W.%20%28Willem%29%20Einthoven%2C%20professor%20of%20Physiology%20and%20Histology%20at%20Leiden%20University%20Icones%20332.tiff",
+    "approved": true
+  },
+  {
+    "name": "Svante Arrhenius",
+    "slugs": {
+      "IT": "Svante_Arrhenius",
+      "EN": "Svante_Arrhenius"
+    },
+    "bio": "Svante August Arrhenius è stato un chimico e fisico svedese, premio Nobel per la chimica nel 1903 per la sua teoria sul trasferimento di ioni visti come responsabili del passaggio di elettricità.",
+    "birthDate": "1859-02-19",
+    "deathDate": "1927-10-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Arrhenius2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Thomas Hardy",
+    "slugs": {
+      "IT": "Thomas_Hardy",
+      "EN": "Thomas_Hardy"
+    },
+    "bio": "Thomas Hardy è stato un poeta e scrittore britannico.\nDivenne famoso per i suoi romanzi improntati alla nuova corrente letteraria del realismo, ma con notevoli influenze romantiche. Quasi tutti i suoi romanzi si svolgono nel Wessex, una contea inesistente, regno anglosassone medievale e narrano di storie d'amore tormentate con risvolti tragici. L'opera che lo fece conoscere è Via dalla pazza folla.",
+    "birthDate": "1840-06-02",
+    "deathDate": "1928-01-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomashardy%20restored.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hendrik Lorentz",
+    "slugs": {
+      "IT": "Hendrik_Lorentz",
+      "EN": "Hendrik_Lorentz"
+    },
+    "bio": "Hendrik Antoon Lorentz è stato un fisico olandese.",
+    "birthDate": "1853-07-18",
+    "deathDate": "1928-02-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/H%20A%20Lorentz%20%28Nobel%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Herbert Henry Asquith",
+    "slugs": {
+      "IT": "Herbert_Henry_Asquith",
+      "EN": "Herbert_Henry_Asquith"
+    },
+    "bio": "Herbert Henry Asquith, I Conte di Oxford e Asquith, KG KC PC, è stato un politico britannico.",
+    "birthDate": "1852-09-12",
+    "deathDate": "1928-02-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Henry%20Asquith.jpg",
+    "approved": true
+  },
+  {
+    "name": "Max Scheler",
+    "slugs": {
+      "IT": "Max_Scheler",
+      "EN": "Max_Scheler"
+    },
+    "bio": "Max Scheler è stato un filosofo tedesco.",
+    "birthDate": "1874-08-22",
+    "deathDate": "1928-05-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Scheler.jpg",
+    "approved": true
+  },
+  {
+    "name": "Emmeline Pankhurst",
+    "slugs": {
+      "IT": "Emmeline_Pankhurst",
+      "EN": "Emmeline_Pankhurst"
+    },
+    "bio": "Emmeline Pankhurst, nata Goulden, è stata un'attivista e politica britannica che guidò il movimento delle suffragette del Regno Unito, aiutando le donne ad ottenere il diritto di voto, fu anche membro dell’ordine della Penna bianca.",
+    "birthDate": "1858-07-15",
+    "deathDate": "1928-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emmeline%20Pankhurst%2C%20seated%20%281913%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Roald Amundsen",
     "slugs": {
       "IT": "Roald_Amundsen",
@@ -75,6 +987,174 @@
     "birthDate": "1872-07-16",
     "deathDate": "1928-06-18",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Amundsen%20in%20fur%20skins.jpg"
+  },
+  {
+    "name": "Leoš Janáček",
+    "slugs": {
+      "IT": "Leoš_Janáček",
+      "EN": "Leoš_Janáček"
+    },
+    "bio": "Leoš Janáček,, è stato un compositore, musicologo, teorico della musica, librettista, studioso del folklore, editore, organista e pianista ceco.\nÈ ritenuto uno dei massimi compositori dell'inizio del XX secolo ed è noto in particolare per la sua Sinfonietta, la Messa Glagolitica e per i suoi lavori operistici.",
+    "birthDate": "1854-07-03",
+    "deathDate": "1928-08-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Leo%C5%A1%20Jan%C3%A1%C4%8Dek.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wilhelm Wien",
+    "slugs": {
+      "IT": "Wilhelm_Wien",
+      "EN": "Wilhelm_Wien"
+    },
+    "bio": "Wilhelm Wien è stato un fisico tedesco.",
+    "birthDate": "1864-01-13",
+    "deathDate": "1928-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wien2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ferdinand Foch",
+    "slugs": {
+      "IT": "Ferdinand_Foch",
+      "EN": "Ferdinand_Foch"
+    },
+    "bio": "Ferdinand Foch è stato un generale francese. Foch, generale dotato di grande spirito offensivo, capace di progettare ambiziose operazioni strategiche spesso rivelatesi impraticabili nella realtà concreta della guerra di trincea, venne considerato l'artefice della vittoria e raggiunse grande prestigio in tutto il mondo dopo la fine della prima guerra mondiale.",
+    "birthDate": "1851-10-02",
+    "deathDate": "1929-03-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Foch%20by%20Melcy%2C%201921.png",
+    "approved": true
+  },
+  {
+    "name": "Karl Benz",
+    "slugs": {
+      "IT": "Karl_Benz",
+      "EN": "Karl_Benz"
+    },
+    "bio": "Karl Friedrich Benz è stato un ingegnere tedesco, considerato l'inventore dell'autovettura.",
+    "birthDate": "1844-11-25",
+    "deathDate": "1929-04-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Benz%20c.%201889.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hugo von Hofmannsthal",
+    "slugs": {
+      "IT": "Hugo_von_Hofmannsthal",
+      "EN": "Hugo_von_Hofmannsthal"
+    },
+    "bio": "Hugo von Hofmannsthal è stato uno scrittore, poeta, drammaturgo e librettista austriaco.",
+    "birthDate": "1874-02-01",
+    "deathDate": "1929-07-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hofmannsthal%201893.jpg",
+    "approved": true
+  },
+  {
+    "name": "Richard Adolf Zsigmondy",
+    "slugs": {
+      "IT": "Richard_Adolf_Zsigmondy",
+      "EN": "Richard_Adolf_Zsigmondy"
+    },
+    "bio": "Richard Adolf Zsigmondy è stato un chimico austriaco, pioniere nello studio dei colloidi.",
+    "birthDate": "1865-04-01",
+    "deathDate": "1929-09-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Adolf%20Zsigmondy%20LOC.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gustav Stresemann",
+    "slugs": {
+      "IT": "Gustav_Stresemann",
+      "EN": "Gustav_Stresemann"
+    },
+    "bio": "Gustav Stresemann è stato un politico tedesco, Cancelliere del Reich e ministro degli Esteri (1923-29) nel periodo della Repubblica di Weimar e Premio Nobel per la pace nel 1926 con Aristide Briand.",
+    "birthDate": "1878-05-10",
+    "deathDate": "1929-10-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1989-040-27%2C%20Gustav%20Stresemann.jpg",
+    "approved": true
+  },
+  {
+    "name": "Georges Clemenceau",
+    "slugs": {
+      "IT": "Georges_Clemenceau",
+      "EN": "Georges_Clemenceau"
+    },
+    "bio": "Georges Eugène Benjamin Clemenceau /ʒɔʁʒ klemɑ̃ˈso/ è stato un politico francese, primo ministro dal 1906 al 1909 e dal 1917 al 1920 e uno degli artefici del trattato di Versailles.",
+    "birthDate": "1841-09-28",
+    "deathDate": "1929-11-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Clemenceau%20par%20Nadar.jpg",
+    "approved": true
+  },
+  {
+    "name": "D. H. Lawrence",
+    "slugs": {
+      "IT": "David_Herbert_Lawrence",
+      "EN": "David_Herbert_Lawrence"
+    },
+    "bio": "David Herbert Richards Lawrence è stato uno scrittore, poeta, drammaturgo, saggista e pittore britannico.\nComunemente noto come D. H. Lawrence, è considerato tra le figure più emblematiche del XX secolo. Insieme a diversi scrittori dell'epoca, fu tra i più grandi innovatori della letteratura anglosassone, soprattutto per le tematiche affrontate.",
+    "birthDate": "1885-09-11",
+    "deathDate": "1930-03-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/D%20H%20Lawrence%20passport%20photograph.jpg",
+    "approved": true
+  },
+  {
+    "name": "William Howard Taft",
+    "slugs": {
+      "IT": "William_Howard_Taft",
+      "EN": "William_Howard_Taft"
+    },
+    "bio": "William Howard Taft è stato un politico e magistrato statunitense, 27º presidente degli Stati Uniti d'America dal 1909 al 1913.",
+    "birthDate": "1857-09-15",
+    "deathDate": "1930-03-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cabinet%20card%20of%20William%20Howard%20Taft%20by%20Pach%20Brothers%20-%20Cropped%20to%20image.jpg",
+    "approved": true
+  },
+  {
+    "name": "Miguel Primo de Rivera",
+    "slugs": {
+      "IT": "Miguel_Primo_de_Rivera",
+      "EN": "Miguel_Primo_de_Rivera"
+    },
+    "bio": "Miguel Primo de Rivera y Orbaneja è stato un generale e politico spagnolo. Governò la Spagna come dittatore dal 15 settembre 1923 al 28 gennaio 1930.",
+    "birthDate": "1870-01-08",
+    "deathDate": "1930-03-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Primo%20de%20Rivera%2C%20Kaulak%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Arthur James Balfour",
+    "slugs": {
+      "IT": "Arthur_James_Balfour",
+      "EN": "Arthur_James_Balfour"
+    },
+    "bio": "Arthur James Balfour, I conte di Balfour, è stato un politico britannico.",
+    "birthDate": "1848-07-25",
+    "deathDate": "1930-03-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/A.J.%20Balfour%20LCCN2014682753%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vladimir Vladimirovič Majakovskij",
+    "slugs": {
+      "IT": "Vladimir_Vladimirovič_Majakovskij",
+      "EN": "Vladimir_Vladimirovič_Majakovskij"
+    },
+    "bio": "Vladimir Vladimirovič Majakovskij è stato un poeta, scrittore, drammaturgo, regista teatrale, attore, pittore, grafico e giornalista sovietico, cantore della rivoluzione d'ottobre e maggior interprete del nuovo corso intrapreso dalla cultura russa post-rivoluzionaria.",
+    "birthDate": "1893-07-19",
+    "deathDate": "1930-04-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Majakovszkij.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fridtjof Nansen",
+    "slugs": {
+      "IT": "Fridtjof_Nansen",
+      "EN": "Fridtjof_Nansen"
+    },
+    "bio": "Fridtjof Nansen è stato un esploratore, scienziato e politico norvegese, noto anche come Federico Nansen.",
+    "birthDate": "1861-10-10",
+    "deathDate": "1930-05-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fridtjof%20Nansen%20LOC%2003377u-3.jpg",
+    "approved": true
   },
   {
     "name": "Arthur Conan Doyle",
@@ -88,6 +1168,150 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Conan%20Doyle%20by%20Walter%20Benington%2C%201914.png"
   },
   {
+    "name": "Allvar Gullstrand",
+    "slugs": {
+      "IT": "Allvar_Gullstrand",
+      "EN": "Allvar_Gullstrand"
+    },
+    "bio": "Allvar Gullstrand è stato un oculista svedese, vincitore del Premio Nobel per la medicina nel 1911.",
+    "birthDate": "1862-06-05",
+    "deathDate": "1930-07-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Allvar%20Gullstrand.png",
+    "approved": true
+  },
+  {
+    "name": "Il'ja Efimovič Repin",
+    "slugs": {
+      "IT": "Il'ja_Efimovič_Repin",
+      "EN": "Il'ja_Efimovič_Repin"
+    },
+    "bio": "Il'ja Efimovič Repin è stato un pittore e scultore russo di origine ucraina.",
+    "birthDate": "1844-08-05",
+    "deathDate": "1930-09-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20%281909%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred Wegener",
+    "slugs": {
+      "IT": "Alfred_Wegener",
+      "EN": "Alfred_Wegener"
+    },
+    "bio": "Alfred Lothar Wegener è stato un geologo, meteorologo ed esploratore tedesco.",
+    "birthDate": "1880-11-01",
+    "deathDate": "1930-11-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Wegener%20ca.1924-30.jpg",
+    "approved": true
+  },
+  {
+    "name": "Christiaan Eijkman",
+    "slugs": {
+      "IT": "Christiaan_Eijkman",
+      "EN": "Christiaan_Eijkman"
+    },
+    "bio": "Christiaan Eijkman è stato un medico e patologo olandese, Premio Nobel per la medicina nel 1929, assieme Frederick Gowland Hopkins.",
+    "birthDate": "1858-08-11",
+    "deathDate": "1930-11-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Christiaan%20Eijkman.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mary Harris Jones",
+    "slugs": {
+      "IT": "Mary_Harris_Jones",
+      "EN": "Mary_Harris_Jones"
+    },
+    "bio": "Mary Harris Jones, nota come Mother Jones,, è stata una sindacalista e operaia statunitense di origine irlandese, membro dell'IWW.",
+    "birthDate": "1830-05-01",
+    "deathDate": "1930-11-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20Jones%20no.%203.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fritz Pregl",
+    "slugs": {
+      "IT": "Fritz_Pregl",
+      "EN": "Fritz_Pregl"
+    },
+    "bio": "Fritz Pregl è stato un chimico e fisiologo sloveno.",
+    "birthDate": "1869-09-03",
+    "deathDate": "1930-12-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fritz%20Pregl.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joseph Joffre",
+    "slugs": {
+      "IT": "Joseph_Joffre",
+      "EN": "Joseph_Joffre"
+    },
+    "bio": "Joseph Jacques Césaire Joffre è stato un generale francese.",
+    "birthDate": "1852-01-12",
+    "deathDate": "1931-01-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Joffre.jpg",
+    "approved": true
+  },
+  {
+    "name": "Anna Pavlovna Pavlova",
+    "slugs": {
+      "IT": "Anna_Pavlovna_Pavlova",
+      "EN": "Anna_Pavlovna_Pavlova"
+    },
+    "bio": "Anna Matveevna Pavlova, meglio nota col patronimico Pavlovna, è stata una ballerina russa.",
+    "birthDate": "1881-01-31",
+    "deathDate": "1931-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20pavlova%20-c.%201905.jpg",
+    "approved": true
+  },
+  {
+    "name": "Otto Wallach",
+    "slugs": {
+      "IT": "Otto_Wallach",
+      "EN": "Otto_Wallach"
+    },
+    "bio": "Otto Wallach è stato un chimico tedesco, premiato con il Nobel nel 1910 per il suo lavoro sui composti alifatici.",
+    "birthDate": "1847-01-01",
+    "deathDate": "1931-02-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Wallach%201910.jpg",
+    "approved": true
+  },
+  {
+    "name": "Erik Axel Karlfeldt",
+    "slugs": {
+      "IT": "Erik_Axel_Karlfeldt",
+      "EN": "Erik_Axel_Karlfeldt"
+    },
+    "bio": "Erik Axel Karlfeldt è stato un poeta svedese.",
+    "birthDate": "1864-07-20",
+    "deathDate": "1931-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20Erik%20Axel%20Karlfeldt%20i%20Zorng%C3%A5rdens%20matsal%20%281906%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Khalil Gibran",
+    "slugs": {
+      "IT": "Khalil_Gibran",
+      "EN": "Khalil_Gibran"
+    },
+    "bio": "Gibran Khalil Gibran, detto Khalil o Kahlil Gibran, è stato un poeta, pittore e aforista libanese naturalizzato statunitense.",
+    "birthDate": "1883-01-06",
+    "deathDate": "1931-04-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kahlil%20Gibran%201913.jpg",
+    "approved": true
+  },
+  {
+    "name": "Albert Abraham Michelson",
+    "slugs": {
+      "IT": "Albert_Abraham_Michelson",
+      "EN": "Albert_Abraham_Michelson"
+    },
+    "bio": "Albert Abraham Michelson è stato un fisico statunitense.",
+    "birthDate": "1852-12-19",
+    "deathDate": "1931-05-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Abraham%20Michelson2.jpg",
+    "approved": true
+  },
+  {
     "name": "Thomas Edison",
     "slugs": {
       "IT": "Thomas_Edison",
@@ -97,6 +1321,258 @@
     "birthDate": "1847-02-11",
     "deathDate": "1931-10-18",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg"
+  },
+  {
+    "name": "Arthur Schnitzler",
+    "slugs": {
+      "IT": "Arthur_Schnitzler",
+      "EN": "Arthur_Schnitzler"
+    },
+    "bio": "Arthur Schnitzler è stato un medico, scrittore e drammaturgo austriaco, considerato uno dei più importanti esponenti del Modernismo Viennese.",
+    "birthDate": "1862-05-15",
+    "deathDate": "1931-10-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Schnitzler%201912.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gustave Le Bon",
+    "slugs": {
+      "IT": "Gustave_Le_Bon",
+      "EN": "Gustave_Le_Bon"
+    },
+    "bio": "Gustave Le Bon è stato un antropologo, psicologo e sociologo francese.",
+    "birthDate": "1841-05-07",
+    "deathDate": "1931-12-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Le%20Bon%20about%201900.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aristide Briand",
+    "slugs": {
+      "IT": "Aristide_Briand",
+      "EN": "Aristide_Briand"
+    },
+    "bio": "Aristide Briand è stato un politico e diplomatico francese.",
+    "birthDate": "1862-03-28",
+    "deathDate": "1932-03-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aristide%20Briand%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "George Eastman",
+    "slugs": {
+      "IT": "George_Eastman",
+      "EN": "George_Eastman"
+    },
+    "bio": "",
+    "birthDate": "1854-07-12",
+    "deathDate": "1932-03-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Colorpictureofgeorgeastman.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wilhelm Ostwald",
+    "slugs": {
+      "IT": "Wilhelm_Ostwald",
+      "EN": "Wilhelm_Ostwald"
+    },
+    "bio": "Wilhelm Friedrich Ostwald è stato un chimico tedesco del Baltico.",
+    "birthDate": "1853-09-02",
+    "deathDate": "1932-04-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostwald.jpg",
+    "approved": true
+  },
+  {
+    "name": "Giuseppe Peano",
+    "slugs": {
+      "IT": "Giuseppe_Peano",
+      "EN": "Giuseppe_Peano"
+    },
+    "bio": "Giuseppe Peano è stato un matematico, logico e glottoteta italiano.\nFra i maggiori matematici del periodo a cavallo fra XIX e XX secolo, fu anche l'ideatore del latino sine flexione, una lingua ausiliaria internazionale derivata dalla semplificazione del latino classico.",
+    "birthDate": "1858-08-27",
+    "deathDate": "1932-04-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Peano.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ronald Ross",
+    "slugs": {
+      "IT": "Ronald_Ross",
+      "EN": "Ronald_Ross"
+    },
+    "bio": "Ronald Ross è stato un medico britannico, vincitore del Premio Nobel per la medicina nel 1902.\nLa sua scoperta del parassita della malaria nella zanzara Anopheles ha portato alla realizzazione che la malaria è stata trasmessa da Anopheles, e ha gettato le basi per la lotta contro la malattia.",
+    "birthDate": "1857-05-13",
+    "deathDate": "1932-09-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20Ross.jpg",
+    "approved": true
+  },
+  {
+    "name": "Eduard Bernstein",
+    "slugs": {
+      "IT": "Eduard_Bernstein",
+      "EN": "Eduard_Bernstein"
+    },
+    "bio": "Eduard Bernstein è stato un politico, filosofo e scrittore tedesco, teorico del revisionismo del marxismo.",
+    "birthDate": "1850-01-06",
+    "deathDate": "1932-12-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernstein%20Eduard%201895.jpg",
+    "approved": true
+  },
+  {
+    "name": "Calvin Coolidge",
+    "slugs": {
+      "IT": "Calvin_Coolidge",
+      "EN": "Calvin_Coolidge"
+    },
+    "bio": "John Calvin Coolidge Jr. è stato un politico statunitense, 30º presidente degli Stati Uniti d'America dal 1923 al 1929.",
+    "birthDate": "1872-07-04",
+    "deathDate": "1933-01-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Calvin%20Coolidge%20cph.3g10777%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "John Galsworthy",
+    "slugs": {
+      "IT": "John_Galsworthy",
+      "EN": "John_Galsworthy"
+    },
+    "bio": "John Galsworthy è stato uno scrittore e drammaturgo inglese, premio Nobel per la letteratura.",
+    "birthDate": "1867-08-14",
+    "deathDate": "1933-01-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Galsworthy%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Konstantinos Kavafis",
+    "slugs": {
+      "IT": "Konstantinos_Kavafis",
+      "EN": "Konstantinos_Kavafis"
+    },
+    "bio": "Konstantinos Petrou Kavafis, noto in Italia anche come Costantino Kavafis, è stato un poeta e giornalista greco.\n Tra le figure più illustri della letteratura greca moderna, compose un canone di 154 poesie, ponendosi all'intersezione tra la moderna espressività poetica europea e le antiche immagini e idealizzazioni dell'Ellenismo.",
+    "birthDate": "1863-04-29",
+    "deathDate": "1933-04-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstantinos%20Kavafis.jpg",
+    "approved": true
+  },
+  {
+    "name": "Clara Zetkin",
+    "slugs": {
+      "IT": "Clara_Zetkin",
+      "EN": "Clara_Zetkin"
+    },
+    "bio": "Clara Eissner Zetkin è stata una politica tedesca.",
+    "birthDate": "1857-07-05",
+    "deathDate": "1933-06-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/C%20Zetkin%201.jpg",
+    "approved": true
+  },
+  {
+    "name": "Faysal I re d'Iraq",
+    "slugs": {
+      "IT": "Faysal_I_d'Iraq",
+      "EN": "Faysal_I_d'Iraq"
+    },
+    "bio": "Fayṣal ibn al-Ḥusayn ibn ʿAlī è stato il primo re dell'Iraq dal 1921 fino alla sua morte e re della Siria dal 1918 al 1920.",
+    "birthDate": "1885-05-20",
+    "deathDate": "1933-09-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Faisal%20I%2C%20King%20of%20Syria%20and%20King%20of%20Iraq.jpg",
+    "approved": true
+  },
+  {
+    "name": "Annie Besant",
+    "slugs": {
+      "IT": "Annie_Besant",
+      "EN": "Annie_Besant"
+    },
+    "bio": "Annie Besant, nata Wood, è stata un'attivista, saggista, esoterista, oratrice socialista, libera pensatrice e teosofa britannica, che partecipò alle lotte del sindacato. Fu una sostenitrice dei diritti delle donne e dell'autogoverno irlandese e indiano. È conosciuta per i suoi numerosi scritti esoterici.",
+    "birthDate": "1847-10-01",
+    "deathDate": "1933-09-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Annie%20Besant%2C%20LoC.jpg",
+    "approved": true
+  },
+  {
+    "name": "Anatolij Vasil'evič Lunačarskij",
+    "slugs": {
+      "IT": "Anatolij_Vasil'evič_Lunačarskij",
+      "EN": "Anatolij_Vasil'evič_Lunačarskij"
+    },
+    "bio": "Anatolij Vasil'evič Lunačarskij è stato un politico, scrittore e rivoluzionario russo, poi sovietico.",
+    "birthDate": "1875-11-23",
+    "deathDate": "1933-12-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatoliy%20Lunacharskiy%201925.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fritz Haber",
+    "slugs": {
+      "IT": "Fritz_Haber",
+      "EN": "Fritz_Haber"
+    },
+    "bio": "Fritz Haber è stato un chimico tedesco, che ottenne il Premio Nobel per la sintesi dell'ammoniaca. Viene anche tristemente ricordato come il padre del famigerato Zyklon B, che venne utilizzato in diversi campi di sterminio durante la Seconda Guerra Mondiale. È anche considerato il padre delle armi chimiche.",
+    "birthDate": "1868-12-09",
+    "deathDate": "1934-01-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Professor%20Fritz%20Haber%2C%20een%20chemicus%20uit%20Duitsland%20%28foto%201918-%201934%29%2C%20SFA002023057.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alberto I del Belgio",
+    "slugs": {
+      "IT": "Alberto_I_del_Belgio",
+      "EN": "Alberto_I_del_Belgio"
+    },
+    "bio": "Alberto I del Belgio, nome completo Albert Léopold Clément Marie Meinrad, principe del Belgio, fu re dei Belgi dal 23 dicembre 1909 fino alla sua morte. Fu il padre dell'ultima regina d'Italia Maria José e a partire dalla Prima guerra mondiale venne soprannominato il Re soldato o il Re cavaliere per il suo ruolo in prima linea negli scontri e per l'aspetto galante e per i modi raffinati.",
+    "birthDate": "1875-04-08",
+    "deathDate": "1934-02-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20I%20Koning%20der%20Belgen.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edward Elgar",
+    "slugs": {
+      "IT": "Edward_Elgar",
+      "EN": "Edward_Elgar"
+    },
+    "bio": "Sir Edward William Elgar,, I Baronetto, OM, GCVO, è stato un compositore e direttore d'orchestra britannico.",
+    "birthDate": "1857-06-02",
+    "deathDate": "1934-02-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Elgar%201857%20-%201934.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lev Semënovič Vygotskij",
+    "slugs": {
+      "IT": "Lev_Semënovič_Vygotskij",
+      "EN": "Lev_Semënovič_Vygotskij"
+    },
+    "bio": "Lev Semënovič Vygotskij in russo Лев Семёнович Выго́тский? è stato uno psicologo e pedagogista sovietico, padre della scuola storico-culturale.",
+    "birthDate": "1896-11-17",
+    "deathDate": "1934-06-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lev-Semyonovich-Vygotsky-1896-1934.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kurt von Schleicher",
+    "slugs": {
+      "IT": "Kurt_von_Schleicher",
+      "EN": "Kurt_von_Schleicher"
+    },
+    "bio": "Kurt Ferdinand Friedrich Hermann von Schleicher è stato un politico e generale tedesco, ultimo cancelliere della repubblica di Weimar.",
+    "birthDate": "1882-04-07",
+    "deathDate": "1934-06-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-B0527-0001-020%2C%20Kurt%20von%20Schleicher.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ernst Röhm",
+    "slugs": {
+      "IT": "Ernst_Röhm",
+      "EN": "Ernst_Röhm"
+    },
+    "bio": "Ernst Julius Günther Röhm è stato un generale e politico tedesco, colonnello generale (Stabschef) delle SA.",
+    "birthDate": "1887-11-28",
+    "deathDate": "1934-07-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-15282A%2C%20Ernst%20R%C3%B6hm.jpg",
+    "approved": true
   },
   {
     "name": "Marie Curie",
@@ -110,6 +1586,222 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Curie%20%281900%29%20%28cropped%29.jpg"
   },
   {
+    "name": "Nestor Ivanovič Machno",
+    "slugs": {
+      "IT": "Nestor_Ivanovič_Machno",
+      "EN": "Nestor_Ivanovič_Machno"
+    },
+    "bio": "Nestor Ivanovič Machno è stato un anarchico e rivoluzionario ucraino.",
+    "birthDate": "1888-11-07",
+    "deathDate": "1934-07-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1921.%20%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80%20%D0%9C%D0%B0%D1%85%D0%BD%D0%BE%20%D0%B2%20%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BB%D0%B8%D1%86%20%D0%B2%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8.jpg",
+    "approved": true
+  },
+  {
+    "name": "Engelbert Dollfuss",
+    "slugs": {
+      "IT": "Engelbert_Dollfuß",
+      "EN": "Engelbert_Dollfuß"
+    },
+    "bio": "Engelbert Dollfuß è stato un politico austriaco, cancelliere durante l'austrofascismo, dal 1932 al 1934.",
+    "birthDate": "1892-10-04",
+    "deathDate": "1934-07-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Engelbert%20Dollfuss.png",
+    "approved": true
+  },
+  {
+    "name": "Paul von Hindenburg",
+    "slugs": {
+      "IT": "Paul_von_Hindenburg",
+      "EN": "Paul_von_Hindenburg"
+    },
+    "bio": "Paul Ludwig Hans Anton von Beneckendorff und von Hindenburg è stato un generale e politico tedesco.",
+    "birthDate": "1847-10-02",
+    "deathDate": "1934-08-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20von%20Hindenburg%20in%201933.jpg",
+    "approved": true
+  },
+  {
+    "name": "Raymond Poincaré",
+    "slugs": {
+      "IT": "Raymond_Poincaré",
+      "EN": "Raymond_Poincaré"
+    },
+    "bio": "Raymond Poincaré /ʁɛˈmõ pwɛ̃kaˈʁe/ è stato un politico francese.",
+    "birthDate": "1860-08-20",
+    "deathDate": "1934-10-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Poincar%C3%A9%201914.jpg",
+    "approved": true
+  },
+  {
+    "name": "Santiago Ramón y Cajal",
+    "slugs": {
+      "IT": "Santiago_Ramón_y_Cajal",
+      "EN": "Santiago_Ramón_y_Cajal"
+    },
+    "bio": "Santiago Ramón y Cajal è stato un medico, istologo e patologo spagnolo, premio Nobel per la medicina nel 1906.",
+    "birthDate": "1852-05-01",
+    "deathDate": "1934-10-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cajal-mi.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sergej Mironovič Kirov",
+    "slugs": {
+      "IT": "Sergej_Mironovič_Kirov",
+      "EN": "Sergej_Mironovič_Kirov"
+    },
+    "bio": "Sergej Mironovič Kirov, cognome vero Kostrikov è stato un rivoluzionario, politico e funzionario sovietico.",
+    "birthDate": "1886-03-27",
+    "deathDate": "1934-12-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergei%20Kirov%201934.jpg",
+    "approved": true
+  },
+  {
+    "name": "John James Rickard Macleod",
+    "slugs": {
+      "IT": "John_James_Rickard_Macleod",
+      "EN": "John_James_Rickard_Macleod"
+    },
+    "bio": "John James Rickard Macleod è stato un medico britannico, che vinse il premio Nobel per la medicina nel 1923.",
+    "birthDate": "1876-09-06",
+    "deathDate": "1935-03-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.J.R.%20Macleod%20ca.%201928.png",
+    "approved": true
+  },
+  {
+    "name": "Emmy Noether",
+    "slugs": {
+      "IT": "Emmy_Noether",
+      "EN": "Emmy_Noether"
+    },
+    "bio": "Amalie Emmy Noether è stata una matematica tedesca.\nSi occupò di fisica matematica, teoria degli anelli e algebra astratta e il suo nome è legato all'omonimo teorema del 1915, che mette in luce nel campo della fisica teorica una profonda connessione tra simmetrie e leggi di conservazione.",
+    "birthDate": "1882-03-23",
+    "deathDate": "1935-04-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/EmmyNoether%20MFO3096.jpg",
+    "approved": true
+  },
+  {
+    "name": "Józef Piłsudski",
+    "slugs": {
+      "IT": "Józef_Piłsudski",
+      "EN": "Józef_Piłsudski"
+    },
+    "bio": "Józef Klemens Piłsudski è stato un rivoluzionario, generale, politico e dittatore polacco.",
+    "birthDate": "1867-12-05",
+    "deathDate": "1935-05-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20Pilsudski1.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kazimir Severinovič Malevič",
+    "slugs": {
+      "IT": "Kazimir_Severinovič_Malevič",
+      "EN": "Kazimir_Severinovič_Malevič"
+    },
+    "bio": "Kazimir Severinovič Malevič è stato un pittore, insegnante e urbanista russo poi sovietico, di origini polacche, nato nel Governatorato di Kiev dell'Impero russo. Fu un pioniere dell'astrattismo geometrico e della avanguardia russa.\nStudiò all'Accademia privata di Rerberg a Mosca. Nel 1913 fondò l'avanguardia artistica chiamata suprematismo.",
+    "birthDate": "1879-02-23",
+    "deathDate": "1935-05-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Casimir%20Malevich%20photo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Thomas Edward Lawrence",
+    "slugs": {
+      "IT": "Thomas_Edward_Lawrence",
+      "EN": "Thomas_Edward_Lawrence"
+    },
+    "bio": "Il tenente colonnello Thomas Edward Lawrence è stato un agente segreto, militare, archeologo e scrittore britannico, nativo del Galles. Conosciuto con lo pseudonimo di Lawrence T. d'Arabia, ebbe diversi altri alias, tra cui quelli di T. E. Smith, T. E. Shaw e John Hume Ross. Ricordato per essere stato uno dei capi della rivolta araba durante la prima guerra mondiale, per la sua attività militare fu decorato con la Legion d'onore.",
+    "birthDate": "1888-08-16",
+    "deathDate": "1935-05-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Te%20lawrence.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jane Addams",
+    "slugs": {
+      "IT": "Jane_Addams",
+      "EN": "Jane_Addams"
+    },
+    "bio": "Jane Laura Addams è stata una scrittrice e attivista statunitense, pacifista, femminista.",
+    "birthDate": "1860-09-06",
+    "deathDate": "1935-05-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ADDAMS%2C%20JANE%2021664v%20%28cropped2%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred Dreyfus",
+    "slugs": {
+      "IT": "Alfred_Dreyfus",
+      "EN": "Alfred_Dreyfus"
+    },
+    "bio": "Alfred Dreyfus è stato un militare francese.",
+    "birthDate": "1859-10-09",
+    "deathDate": "1935-07-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Dreyfus%20%281859-1935%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Henri Barbusse",
+    "slugs": {
+      "IT": "Henri_Barbusse",
+      "EN": "Henri_Barbusse"
+    },
+    "bio": "Henri Barbusse è stato uno scrittore, giornalista e attivista politico comunista francese.",
+    "birthDate": "1873-05-17",
+    "deathDate": "1935-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D1%80%D0%B8%20%D0%91%D0%B0%D1%80%D0%B1%D1%8E%D1%81%20%281928%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Konstantin Ėduardovič Ciolkovskij",
+    "slugs": {
+      "IT": "Konstantin_Ėduardovič_Ciolkovskij",
+      "EN": "Konstantin_Ėduardovič_Ciolkovskij"
+    },
+    "bio": "Konstantin Ėduardovič Ciolkovskij, traslitterazione anglosassone Tsiolkovsky, è stato un ingegnere e scienziato russo, pioniere dell'astronautica.",
+    "birthDate": "1857-09-17",
+    "deathDate": "1935-09-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%20%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fernando Pessoa",
+    "slugs": {
+      "IT": "Fernando_Pessoa",
+      "EN": "Fernando_Pessoa"
+    },
+    "bio": "Fernando António Nogueira Pessoa è stato un poeta, scrittore e aforista portoghese.",
+    "birthDate": "1888-06-13",
+    "deathDate": "1935-11-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/216%202310-Fernando-Pessoa.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Richet",
+    "slugs": {
+      "IT": "Charles_Robert_Richet",
+      "EN": "Charles_Robert_Richet"
+    },
+    "bio": "Charles Robert Richet è stato un medico e fisiologo francese Premio Nobel per la medicina nel 1913.",
+    "birthDate": "1850-08-26",
+    "deathDate": "1935-12-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Robert%20Richet%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Victor Grignard",
+    "slugs": {
+      "IT": "Victor_Grignard",
+      "EN": "Victor_Grignard"
+    },
+    "bio": "François Auguste Victor Grignard è stato un chimico francese, Premio Nobel nel 1912 insieme a Paul Sabatier.",
+    "birthDate": "1871-05-06",
+    "deathDate": "1935-12-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Viktor-grignard%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Rudyard Kipling",
     "slugs": {
       "IT": "Rudyard_Kipling",
@@ -119,6 +1811,102 @@
     "birthDate": "1865-12-30",
     "deathDate": "1936-01-18",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kipling%20nd.jpg"
+  },
+  {
+    "name": "Giorgio V del Regno Unito",
+    "slugs": {
+      "IT": "Giorgio_V_del_Regno_Unito",
+      "EN": "Giorgio_V_del_Regno_Unito"
+    },
+    "bio": "Giorgio V è stato re di Gran Bretagna e Irlanda e dei Dominion britannici d'oltremare, nonché imperatore d'India dal 6 maggio 1910 fino alla sua morte, periodo in cui l'impero britannico diventò il più grande di tutti i tempi.",
+    "birthDate": "1865-06-03",
+    "deathDate": "1936-01-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20George%201923%20LCCN2014715558%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ivan Pavlov",
+    "slugs": {
+      "IT": "Ivan_Pavlov",
+      "EN": "Ivan_Pavlov"
+    },
+    "bio": "Ivan Petrovič Pavlov è stato un medico, fisiologo ed etologo russo, il cui nome è legato alla scoperta sui cani del riflesso condizionato, da lui annunciata nel 1903.",
+    "birthDate": "1849-09-26",
+    "deathDate": "1936-02-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Pavlov%20NLM3.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Jules Henri Nicolle",
+    "slugs": {
+      "IT": "Charles_Jules_Henri_Nicolle",
+      "EN": "Charles_Jules_Henri_Nicolle"
+    },
+    "bio": "Charles Jules Henri Nicolle è stato un medico e biologo francese, vincitore del Premio Nobel per la medicina nel 1928.",
+    "birthDate": "1866-09-21",
+    "deathDate": "1936-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Jules%20Henri%20Nicolle.%20Photograph.%20Wellcome%20V0026919.jpg",
+    "approved": true
+  },
+  {
+    "name": "Eleutherios Venizelos",
+    "slugs": {
+      "IT": "Eleutherios_Venizelos",
+      "EN": "Eleutherios_Venizelos"
+    },
+    "bio": "Eleutherios Kyriakou Venizelos è stato un politico greco.",
+    "birthDate": "1864-08-23",
+    "deathDate": "1936-03-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82%20%CE%92%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Bárány",
+    "slugs": {
+      "IT": "Robert_Bárány",
+      "EN": "Robert_Bárány"
+    },
+    "bio": "Robert Bárány è stato un medico e otologo austriaco naturalizzato svedese, di origine ungherese, pioniere nello studio delle funzioni del labirinto, situato nell'orecchio interno e sede dell'equilibrio e Premio Nobel per la medicina nel 1914.",
+    "birthDate": "1876-04-22",
+    "deathDate": "1936-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%C3%A1r%C3%A1ny%20av%20Lars%20Emil%20Finn.png",
+    "approved": true
+  },
+  {
+    "name": "Oswald Spengler",
+    "slugs": {
+      "IT": "Oswald_Spengler",
+      "EN": "Oswald_Spengler"
+    },
+    "bio": "Oswald Spengler è stato un filosofo, storico e scrittore tedesco, autore, tra le altre opere, de Il tramonto dell'Occidente.",
+    "birthDate": "1880-05-29",
+    "deathDate": "1936-05-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-R06610%2C%20Oswald%20Spengler.jpg",
+    "approved": true
+  },
+  {
+    "name": "Karl Kraus",
+    "slugs": {
+      "IT": "Karl_Kraus",
+      "EN": "Karl_Kraus"
+    },
+    "bio": "Karl Kraus è stato uno scrittore, giornalista, aforista, umorista, saggista, commediografo, poeta e autore satirico austriaco.",
+    "birthDate": "1874-04-28",
+    "deathDate": "1936-06-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Kraus.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gilbert Keith Chesterton",
+    "slugs": {
+      "IT": "Gilbert_Keith_Chesterton",
+      "EN": "Gilbert_Keith_Chesterton"
+    },
+    "bio": "Gilbert Keith Chesterton, spesso citato come G. K. Chesterton, è stato uno scrittore, giornalista, critico letterario, critico d'arte e poeta britannico.",
+    "birthDate": "1874-05-29",
+    "deathDate": "1936-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Chesterton.jpg",
+    "approved": true
   },
   {
     "name": "Maksim Gor'kij",
@@ -132,6 +1920,282 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxim%20Gorky%20LOC%20Restored%20edit1.jpg"
   },
   {
+    "name": "Grazia Deledda",
+    "slugs": {
+      "IT": "Grazia_Deledda",
+      "EN": "Grazia_Deledda"
+    },
+    "bio": "Grazia Deledda, in lingua sarda Gràssia o Gràtzia Deledda, è stata una scrittrice italiana, vincitrice del Premio Nobel per la letteratura 1926. È ricordata come la seconda donna, dopo la svedese Selma Lagerlöf, a ricevere il premio in questa disciplina e l'unica donna italiana.",
+    "birthDate": "1871-09-27",
+    "deathDate": "1936-08-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Grazia%20Deledda%201926.jpg",
+    "approved": true
+  },
+  {
+    "name": "Federico García Lorca",
+    "slugs": {
+      "IT": "Federico_García_Lorca",
+      "EN": "Federico_García_Lorca"
+    },
+    "bio": "Federico García Lorca è stato un poeta, drammaturgo e regista teatrale spagnolo.",
+    "birthDate": "1898-06-05",
+    "deathDate": "1936-08-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Garc%C3%ADa%20Lorca.%20Huerta%20de%20San%20Vicente%2C%20Granada.jpg",
+    "approved": true
+  },
+  {
+    "name": "Grigorij Evseevič Zinov'ev",
+    "slugs": {
+      "IT": "Grigorij_Evseevič_Zinov'ev",
+      "EN": "Grigorij_Evseevič_Zinov'ev"
+    },
+    "bio": "Ovsei-Gershon Aronovich Radomyslsky, noto anche con lo pseudonimo di Grigòrij Evsèevič Zinòv'ev, è stato un rivoluzionario e politico sovietico.",
+    "birthDate": "1883-09-23",
+    "deathDate": "1936-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigory%20Zinoviev%20circa%201920.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lev Borisovič Kamenev",
+    "slugs": {
+      "IT": "Lev_Borisovič_Kamenev",
+      "EN": "Lev_Borisovič_Kamenev"
+    },
+    "bio": "Lev Borisovič Kamenev, pseudonimo di Rozenfel'd - in russo Лев Борисович Каменев (Розенфельд)? -, è stato un rivoluzionario e politico russo, processato e condannato a morte nel periodo delle Grandi purghe.",
+    "birthDate": "1883-07-18",
+    "deathDate": "1936-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lev%20Kamenev%201920s%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Premchand",
+    "slugs": {
+      "IT": "Premchand",
+      "EN": "Premchand"
+    },
+    "bio": "Munshi Premchand, pseudonimo di Dhanpat Rai Srivastava, è stato uno scrittore indiano, una delle più grandi figure letterarie della letteratura hindī e urdu moderna.",
+    "birthDate": "1880-07-31",
+    "deathDate": "1936-10-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Prem%20chand.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lu Xun",
+    "slugs": {
+      "IT": "Lu_Xun",
+      "EN": "Lu_Xun"
+    },
+    "bio": "Lu Xun, o Lu Hsün in Wade-Giles, 鲁迅 in cinese moderno e in pinyin Lŭ Xùn, è stato uno scrittore, saggista, poeta e critico letterario cinese.",
+    "birthDate": "1881-09-25",
+    "deathDate": "1936-10-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/LuXun1930.jpg",
+    "approved": true
+  },
+  {
+    "name": "Luigi Pirandello",
+    "slugs": {
+      "IT": "Luigi_Pirandello",
+      "EN": "Luigi_Pirandello"
+    },
+    "bio": "Luigi Pirandello è stato un drammaturgo, scrittore e poeta italiano, insignito del Premio Nobel per la letteratura nel 1934.",
+    "birthDate": "1867-06-28",
+    "deathDate": "1936-12-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Luigi%20Pirandello%201932.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nikolaj Ostrovskij",
+    "slugs": {
+      "IT": "Nikolaj_Ostrovskij",
+      "EN": "Nikolaj_Ostrovskij"
+    },
+    "bio": "Nikolaj Alekseevič Ostrovskij, in russo Николай Алексеевич Островский? e in ucraino Микола Олексійович Остро́вський?, Mykola Oleksijovyč Ostrovs'kyj, è stato uno scrittore sovietico.",
+    "birthDate": "1904-09-29",
+    "deathDate": "1936-12-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/N%20Ostrovskiy.jpg",
+    "approved": true
+  },
+  {
+    "name": "Miguel de Unamuno",
+    "slugs": {
+      "IT": "Miguel_de_Unamuno",
+      "EN": "Miguel_de_Unamuno"
+    },
+    "bio": "Miguel de Unamuno y Jugo è stato un poeta, filosofo, scrittore, drammaturgo e politico spagnolo di origini basche che, rinnovandoli, ha portato sul piano filosofico i motivi più tipici dell'ispanismo, seppure in opere non sistematiche e quasi sempre di carattere letterario. \nCanonicamente, viene fatto rientrare nel movimento letterario chiamato Generazione del '98, espressione del modernismo letterario spagnolo.",
+    "birthDate": "1864-09-29",
+    "deathDate": "1936-12-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20de%20Unamuno%20Meurisse%201925.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lou von Salomé",
+    "slugs": {
+      "IT": "Lou_von_Salomé",
+      "EN": "Lou_von_Salomé"
+    },
+    "bio": "Lou von Salomé, nata Louise von Salomé, riportato anche Luíza Gustavovna Salomé o Lioulia von Salomé, nota dopo il matrimonio come Lou Andreas-Salomé, è stata una scrittrice, psicoanalista, biografa e memorialista tedesca di origine russa, tedesco-baltica e francese.\n\n",
+    "birthDate": "1861-02-12",
+    "deathDate": "1937-02-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lou%20Andreas-Salom%C3%A9%20-%20Foto%20Atelier%20Elvira.jpg",
+    "approved": true
+  },
+  {
+    "name": "Evgenij Ivanovič Zamjatin",
+    "slugs": {
+      "IT": "Evgenij_Ivanovič_Zamjatin",
+      "EN": "Evgenij_Ivanovič_Zamjatin"
+    },
+    "bio": "Evgenij Ivanovič Zamjatin, talvolta traslitterato come Yevgenij Zamyatin, è stato uno scrittore e critico letterario russo.\nTra gli autori più influenti del primo Novecento russo, fuori della Russia è celebre soprattutto per il suo romanzo distopico Noi, che influenzò i successivi Il mondo nuovo, Antifona  e 1984. Zamjatin fu però soprattutto autore di racconti e povest', che talvolta assumevano il tono di favole satiriche nei confronti del regime comunista sovietico.",
+    "birthDate": "1884-02-01",
+    "deathDate": "1937-03-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Zamjatin.jpg",
+    "approved": true
+  },
+  {
+    "name": "H.P. Lovecraft",
+    "slugs": {
+      "IT": "H.P._Lovecraft",
+      "EN": "H.P._Lovecraft"
+    },
+    "bio": "Howard Phillips Lovecraft, detto H.P. Lovecraft, è stato uno scrittore, poeta, critico letterario e saggista statunitense, riconosciuto tra i maggiori scrittori di letteratura horror insieme a Edgar Allan Poe e considerato da molti uno dei precursori della fantascienza angloamericana. Le sue opere, una contaminazione tra horror, fantascienza soft, dark fantasy e low fantasy, sono state spesso descritte, anche da lui stesso, col termine weird fiction, venendo riconosciute tra le principali origini del moderno genere letterario del new weird.",
+    "birthDate": "1890-08-20",
+    "deathDate": "1937-03-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/H.%20P.%20Lovecraft%2C%20June%201934.jpg",
+    "approved": true
+  },
+  {
+    "name": "Austen Chamberlain",
+    "slugs": {
+      "IT": "Austen_Chamberlain",
+      "EN": "Austen_Chamberlain"
+    },
+    "bio": "Sir Joseph Austen Chamberlain è stato un politico britannico, figlio di Joseph Chamberlain e fratellastro maggiore del futuro primo ministro del Regno Unito Neville Chamberlain. Ricoprì per due volte la carica di Cancelliere dello Scacchiere e negoziò il patto di Locarno.",
+    "birthDate": "1863-10-16",
+    "deathDate": "1937-03-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1930%20Austen%20Chamberlain.jpg",
+    "approved": true
+  },
+  {
+    "name": "Antonio Gramsci",
+    "slugs": {
+      "IT": "Antonio_Gramsci",
+      "EN": "Antonio_Gramsci"
+    },
+    "bio": "Antonio Sebastiano Francesco Gramsci è stato un politico e giornalista italiano.",
+    "birthDate": "1891-01-22",
+    "deathDate": "1937-04-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gramsci.png",
+    "approved": true
+  },
+  {
+    "name": "John Davison Rockefeller",
+    "slugs": {
+      "IT": "John_Davison_Rockefeller",
+      "EN": "John_Davison_Rockefeller"
+    },
+    "bio": "John Davison Rockefeller è stato un imprenditore statunitense.",
+    "birthDate": "1839-07-08",
+    "deathDate": "1937-05-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20J.%20D.%20Rockefeller.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred Adler",
+    "slugs": {
+      "IT": "Alfred_Adler",
+      "EN": "Alfred_Adler"
+    },
+    "bio": "Alfred Adler è stato uno psichiatra, psicoanalista, psicologo e psicoterapeuta austriaco.",
+    "birthDate": "1870-02-07",
+    "deathDate": "1937-05-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/AlfredAdler.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jean Harlow",
+    "slugs": {
+      "IT": "Jean_Harlow",
+      "EN": "Jean_Harlow"
+    },
+    "bio": "Jean Harlow, pseudonimo di Harlean Carpenter, è stata un'attrice statunitense.",
+    "birthDate": "1911-03-03",
+    "deathDate": "1937-06-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Harlow-publicity.jpg",
+    "approved": true
+  },
+  {
+    "name": "J. M. Barrie",
+    "slugs": {
+      "IT": "J._M._Barrie",
+      "EN": "J._M._Barrie"
+    },
+    "bio": "James Matthew Barrie, I baronetto, è stato uno scrittore e drammaturgo britannico, maggiormente noto come J. M. Barrie, la cui fama è dovuta alla creazione del personaggio di Peter Pan.",
+    "birthDate": "1860-05-09",
+    "deathDate": "1937-06-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Matthew%20Barrie00.jpg",
+    "approved": true
+  },
+  {
+    "name": "George Gershwin",
+    "slugs": {
+      "IT": "George_Gershwin",
+      "EN": "George_Gershwin"
+    },
+    "bio": "George Gershwin, nato Jacob Gershowitz, è stato un compositore, pianista e direttore d'orchestra statunitense.",
+    "birthDate": "1898-09-26",
+    "deathDate": "1937-07-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Gershwin%201937.jpg",
+    "approved": true
+  },
+  {
+    "name": "Guglielmo Marconi",
+    "slugs": {
+      "IT": "Guglielmo_Marconi",
+      "EN": "Guglielmo_Marconi"
+    },
+    "bio": "Guglielmo Giovanni Maria Marconi è stato un inventore, imprenditore e politico italiano.",
+    "birthDate": "1874-04-25",
+    "deathDate": "1937-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Guglielmo%20Marconi.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edith Wharton",
+    "slugs": {
+      "IT": "Edith_Wharton",
+      "EN": "Edith_Wharton"
+    },
+    "bio": "Edith Wharton è stata una scrittrice e poetessa statunitense.",
+    "birthDate": "1862-01-24",
+    "deathDate": "1937-08-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Newbold%20Jones%20Wharton%20%28cropped%2003%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Pierre de Coubertin",
+    "slugs": {
+      "IT": "Pierre_de_Coubertin",
+      "EN": "Pierre_de_Coubertin"
+    },
+    "bio": "Charles Pierre de Frédy, barone di Coubertin, noto come Pierre de Coubertin, è stato un dirigente sportivo, pedagogo e storico francese, conosciuto per essere stato il fondatore dei Giochi olimpici moderni.",
+    "birthDate": "1863-01-01",
+    "deathDate": "1937-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Baron%20Pierre%20de%20Coubertin.jpg",
+    "approved": true
+  },
+  {
+    "name": "Tomáš Masaryk",
+    "slugs": {
+      "IT": "Tomáš_Masaryk",
+      "EN": "Tomáš_Masaryk"
+    },
+    "bio": "Tomáš Garrigue Masaryk è stato un sociologo, filosofo e politico cecoslovacco, famoso per essere stato il fondatore e primo presidente della Cecoslovacchia. Fondò anche l'Università di Brno, che in seguito fu rinominata Masarykova univerzita in suo onore.",
+    "birthDate": "1850-03-07",
+    "deathDate": "1937-09-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MasarykFotoPrvniPoselstviTGM.jpg",
+    "approved": true
+  },
+  {
     "name": "Ernest Rutherford",
     "slugs": {
       "IT": "Ernest_Rutherford",
@@ -141,6 +2205,198 @@
     "birthDate": "1871-08-30",
     "deathDate": "1937-10-19",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Rutherford%20LOC.jpg"
+  },
+  {
+    "name": "Ramsay MacDonald",
+    "slugs": {
+      "IT": "Ramsay_MacDonald",
+      "EN": "Ramsay_MacDonald"
+    },
+    "bio": "James Ramsay MacDonald è stato un politico britannico.",
+    "birthDate": "1866-10-12",
+    "deathDate": "1937-11-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Ramsay%20MacDonald%20LCCN2014715885%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nils Gustaf Dalén",
+    "slugs": {
+      "IT": "Nils_Gustaf_Dalén",
+      "EN": "Nils_Gustaf_Dalén"
+    },
+    "bio": "Nils Gustaf Dalén è stato un fisico svedese.",
+    "birthDate": "1869-11-30",
+    "deathDate": "1937-12-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Gustaf%20Dal%C3%A9n.jpg",
+    "approved": true
+  },
+  {
+    "name": "Erich Ludendorff",
+    "slugs": {
+      "IT": "Erich_Ludendorff",
+      "EN": "Erich_Ludendorff"
+    },
+    "bio": "Erich Friedrich Wilhelm Ludendorff è stato un generale tedesco.",
+    "birthDate": "1865-04-09",
+    "deathDate": "1937-12-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Erich%20Ludendorff.jpg",
+    "approved": true
+  },
+  {
+    "name": "Maurice Ravel",
+    "slugs": {
+      "IT": "Maurice_Ravel",
+      "EN": "Maurice_Ravel"
+    },
+    "bio": "Joseph Maurice Ravel è stato un compositore, pianista e direttore d'orchestra francese.",
+    "birthDate": "1875-03-07",
+    "deathDate": "1937-12-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maurice%20Ravel%201925.jpg",
+    "approved": true
+  },
+  {
+    "name": "Georges Méliès",
+    "slugs": {
+      "IT": "Georges_Méliès",
+      "EN": "Georges_Méliès"
+    },
+    "bio": "Marie-Georges-Jean Méliès, conosciuto come Georges Méliès, è stato un regista cinematografico, attore e illusionista francese.",
+    "birthDate": "1861-12-08",
+    "deathDate": "1938-01-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9li%C3%A8s%20portrait%20%28cropped%29.png",
+    "approved": true
+  },
+  {
+    "name": "Gabriele D'Annunzio",
+    "slugs": {
+      "IT": "Gabriele_D'Annunzio",
+      "EN": "Gabriele_D'Annunzio"
+    },
+    "bio": "Gabriele D'Annunzio, allo stato civile Gabriele d'Annunzio, è stato uno scrittore, poeta, drammaturgo, militare, politico, giornalista e patriota italiano, simbolo del decadentismo e dell'estetismo e celebre figura della prima guerra mondiale, dal 1924 insignito dal re Vittorio Emanuele III del titolo di Principe di Montenevoso.",
+    "birthDate": "1863-03-12",
+    "deathDate": "1938-03-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriele%20D%27Annunzio%201922.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nikolaj Ivanovič Bucharin",
+    "slugs": {
+      "IT": "Nikolaj_Ivanovič_Bucharin",
+      "EN": "Nikolaj_Ivanovič_Bucharin"
+    },
+    "bio": "Nikolaj Ivanovič Bucharin, in russo Николай Иванович Бухарин?, è stato un rivoluzionario, politico e intellettuale russo.",
+    "birthDate": "1888-10-09",
+    "deathDate": "1938-03-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bucharin.bra.jpg",
+    "approved": true
+  },
+  {
+    "name": "César Vallejo",
+    "slugs": {
+      "IT": "César_Vallejo",
+      "EN": "César_Vallejo"
+    },
+    "bio": "César Abraham Vallejo Mendoza è stato un poeta e scrittore peruviano.",
+    "birthDate": "1892-03-16",
+    "deathDate": "1938-04-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Vallejo%20%281930%29%20-%20Restored.jpg",
+    "approved": true
+  },
+  {
+    "name": "Muhammad Iqbal",
+    "slugs": {
+      "IT": "Muhammad_Iqbal",
+      "EN": "Muhammad_Iqbal"
+    },
+    "bio": "Sir Muhammad Iqbal è stato un poeta, filosofo, politico, barrister e opinionista pakistano.",
+    "birthDate": "1877-11-09",
+    "deathDate": "1938-04-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Iqbal%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edmund Husserl",
+    "slugs": {
+      "IT": "Edmund_Husserl",
+      "EN": "Edmund_Husserl"
+    },
+    "bio": "Edmund Gustav Albrecht Husserl, è stato un filosofo e matematico austriaco naturalizzato tedesco, fondatore della fenomenologia e membro della Scuola di Brentano.",
+    "birthDate": "1859-04-08",
+    "deathDate": "1938-04-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Husserl%201910s.jpg",
+    "approved": true
+  },
+  {
+    "name": "Carl von Ossietzky",
+    "slugs": {
+      "IT": "Carl_von_Ossietzky",
+      "EN": "Carl_von_Ossietzky"
+    },
+    "bio": "Carl von Ossietzky è stato un giornalista tedesco, vincitore del Premio Nobel per la pace nel 1935.",
+    "birthDate": "1889-10-03",
+    "deathDate": "1938-05-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-93516-0010%2C%20Carl%20von%20Ossietzky.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Edouard Guillaume",
+    "slugs": {
+      "IT": "Charles_Edouard_Guillaume",
+      "EN": "Charles_Edouard_Guillaume"
+    },
+    "bio": "Charles Edouard Guillaume è stato un fisico svizzero, nato in Svizzera nel canton Neuchâtel, Premio Nobel per la fisica nel 1920.",
+    "birthDate": "1861-02-15",
+    "deathDate": "1938-06-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%201920.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ernst Ludwig Kirchner",
+    "slugs": {
+      "IT": "Ernst_Ludwig_Kirchner",
+      "EN": "Ernst_Ludwig_Kirchner"
+    },
+    "bio": "Ernst Ludwig Kirchner è stato un pittore e scultore tedesco tra i massimi esponenti del gruppo Die Brücke e, più in generale, dell'espressionismo tedesco.",
+    "birthDate": "1880-05-06",
+    "deathDate": "1938-06-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirchner%201919%20portrait.jpg",
+    "approved": true
+  },
+  {
+    "name": "Konstantin Sergeevič Stanislavskij",
+    "slugs": {
+      "IT": "Konstantin_Sergeevič_Stanislavskij",
+      "EN": "Konstantin_Sergeevič_Stanislavskij"
+    },
+    "bio": "Konstantin Sergeevič Stanislavskij, pseudonimo di Konstantin Sergeevič Alekseev,, è stato un attore, regista teatrale e insegnante russo e poi sovietico, teorico del teatro, noto per essere l'ideatore del metodo Stanislavskij.",
+    "birthDate": "1863-01-17",
+    "deathDate": "1938-08-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantin%20Stanislavski.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleksandr Ivanovič Kuprin",
+    "slugs": {
+      "IT": "Aleksandr_Ivanovič_Kuprin",
+      "EN": "Aleksandr_Ivanovič_Kuprin"
+    },
+    "bio": "Aleksandr Ivanovič Kuprin è stato uno scrittore russo.",
+    "birthDate": "1870-09-07",
+    "deathDate": "1938-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuprin.jpg",
+    "approved": true
+  },
+  {
+    "name": "Karl Kautsky",
+    "slugs": {
+      "IT": "Karl_Kautsky",
+      "EN": "Karl_Kautsky"
+    },
+    "bio": "Karl Johann Kautsky è stato un filosofo, politologo, economista e politico austriaco, esponente della filosofia marxista e tra i più importanti teorici del marxismo ortodosso, oltreché il suo maggior rappresentante a seguito della morte di Friedrich Engels. Fu inoltre l'editore del quarto volume del magnum opus di Karl Marx, Il Capitale.",
+    "birthDate": "1854-10-16",
+    "deathDate": "1938-10-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Kautsky.jpg",
+    "approved": true
   },
   {
     "name": "Mustafa Kemal Atatürk",
@@ -154,6 +2410,138 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ataturk1930s.jpg"
   },
   {
+    "name": "Karel Čapek",
+    "slugs": {
+      "IT": "Karel_Čapek",
+      "EN": "Karel_Čapek"
+    },
+    "bio": "Karel Čapek è stato un giornalista, scrittore e drammaturgo ceco.",
+    "birthDate": "1890-01-09",
+    "deathDate": "1938-12-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20%C4%8Capek%20podepisuje%20prvn%C3%AD%20v%C3%BDtisky%20Pov%C4%9Btron%C4%9B%2C%20Pestr%C3%BD%20t%C3%BDden%2027.1.1934.jpg",
+    "approved": true
+  },
+  {
+    "name": "Osip Ėmil'evič Mandel'štam",
+    "slugs": {
+      "IT": "Osip_Ėmil'evič_Mandel'štam",
+      "EN": "Osip_Ėmil'evič_Mandel'štam"
+    },
+    "bio": "Osip Ėmil'evič Mandel'štam è stato un poeta, letterato e saggista russo.\nProsatore e saggista, esponente di spicco dell'acmeismo e vittima delle grandi purghe staliniane è da molti considerato il maggiore poeta russo del Novecento.",
+    "birthDate": "1891-01-14",
+    "deathDate": "1938-12-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Osip%20Mandelstam%20Russian%20writer.jpg",
+    "approved": true
+  },
+  {
+    "name": "Amelia Earhart",
+    "slugs": {
+      "IT": "Amelia_Earhart",
+      "EN": "Amelia_Earhart"
+    },
+    "bio": "Amelia Mary Earhart è stata un'aviatrice statunitense.",
+    "birthDate": "1897-07-24",
+    "deathDate": "1939-01-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Amelia%20Earhart%201935.jpg",
+    "approved": true
+  },
+  {
+    "name": "William Butler Yeats",
+    "slugs": {
+      "IT": "William_Butler_Yeats",
+      "EN": "William_Butler_Yeats"
+    },
+    "bio": "William Butler Yeats è stato un poeta, drammaturgo, scrittore e spiritualista irlandese.\nSpesso indicato come W. B. Yeats, fu anche senatore dello Stato Libero d'Irlanda negli anni venti.",
+    "birthDate": "1865-03-13",
+    "deathDate": "1939-01-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Butler%20Yeats%20by%20George%20Charles%20Beresford.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edward Sapir",
+    "slugs": {
+      "IT": "Edward_Sapir",
+      "EN": "Edward_Sapir"
+    },
+    "bio": "Edward Sapir è stato un linguista, etnologo e antropologo statunitense.",
+    "birthDate": "1884-01-26",
+    "deathDate": "1939-02-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Sapir.jpg",
+    "approved": true
+  },
+  {
+    "name": "Papa Pio XI",
+    "slugs": {
+      "IT": "Papa_Pio_XI",
+      "EN": "Papa_Pio_XI"
+    },
+    "bio": "Pio XI è stato il 259º vescovo di Roma e papa della Chiesa cattolica dal 1922 alla sua morte. Dal 7 giugno 1929 fu il 1° sovrano del nuovo Stato della Città del Vaticano.",
+    "birthDate": "1857-05-31",
+    "deathDate": "1939-02-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pius%20XI%2C%20by%20Nicola%20Perscheid%20%28retouched%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Antonio Machado",
+    "slugs": {
+      "IT": "Antonio_Machado",
+      "EN": "Antonio_Machado"
+    },
+    "bio": "Antonio Machado, il cui nome completo è Antonio Cipriano José María y Francisco de Santa Ana Machado Ruiz, è stato un poeta e scrittore spagnolo, tra i maggiori di tutti i tempi, appartenente alla cosiddetta generazione del '98.",
+    "birthDate": "1875-07-26",
+    "deathDate": "1939-02-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Machado%20-%20Poes%C3%ADas%20completas%20-%20bdh0000252161%20%28page%208%20crop%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nadežda Konstantinovna Krupskaja",
+    "slugs": {
+      "IT": "Nadežda_Konstantinovna_Krupskaja",
+      "EN": "Nadežda_Konstantinovna_Krupskaja"
+    },
+    "bio": "Nadežda Konstantinovna Krupskaja, in russo Надежда Константиновна Крупская?, è stata una rivoluzionaria, pedagogista e politica russa, moglie di Lenin.",
+    "birthDate": "1869-02-26",
+    "deathDate": "1939-02-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadezhda%20Krupskaya%20portrait.JPG",
+    "approved": true
+  },
+  {
+    "name": "Howard Carter",
+    "slugs": {
+      "IT": "Howard_Carter",
+      "EN": "Howard_Carter"
+    },
+    "bio": "Howard Carter è stato un archeologo ed egittologo britannico, scopritore della tomba di Tutankhamon.",
+    "birthDate": "1874-05-09",
+    "deathDate": "1939-03-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20carter.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joseph Roth",
+    "slugs": {
+      "IT": "Joseph_Roth",
+      "EN": "Joseph_Roth"
+    },
+    "bio": "Joseph Roth è stato uno scrittore e giornalista austriaco. Grande cantore della finis Austriae, della dissoluzione dell'Impero austro-ungarico che aveva riunito popoli di origini disparate, con lingue, religioni, tradizioni diverse. Lui stesso era nato alla periferia dell'impero, nell'odierna Ucraina.",
+    "birthDate": "1894-09-02",
+    "deathDate": "1939-05-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Roth%20%281926%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alphonse Mucha",
+    "slugs": {
+      "IT": "Alfons_Mucha",
+      "EN": "Alfons_Mucha"
+    },
+    "bio": "Alfons Maria Mucha è stato un pittore, scultore e pubblicitario ceco.",
+    "birthDate": "1860-07-24",
+    "deathDate": "1939-07-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20LOC%203c05828u%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Sigmund Freud",
     "slugs": {
       "IT": "Sigmund_Freud",
@@ -163,6 +2551,114 @@
     "birthDate": "1856-05-06",
     "deathDate": "1939-09-23",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigmund%20Freud%2C%20by%20Max%20Halberstadt%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Isaak Ėmmanuilovič Babel'",
+    "slugs": {
+      "IT": "Isaak_Ėmmanuilovič_Babel'",
+      "EN": "Isaak_Ėmmanuilovič_Babel'"
+    },
+    "bio": "Isaak Ėmmanuilovič Babel' è stato un giornalista, drammaturgo e scrittore sovietico.",
+    "birthDate": "1894-07-12",
+    "deathDate": "1940-01-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Babel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Michail Afanas'evič Bulgakov",
+    "slugs": {
+      "IT": "Michail_Afanas'evič_Bulgakov",
+      "EN": "Michail_Afanas'evič_Bulgakov"
+    },
+    "bio": "Michail Afanas'evič Bulgàkov è stato uno scrittore e drammaturgo russo, ritenuto uno dei maggiori romanzieri del XX secolo. Molti suoi scritti sono stati pubblicati postumi.",
+    "birthDate": "1891-05-15",
+    "deathDate": "1940-03-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Selma Lagerlöf",
+    "slugs": {
+      "IT": "Selma_Lagerlöf",
+      "EN": "Selma_Lagerlöf"
+    },
+    "bio": "Selma Ottilia Lovisa Lagerlöf è stata una scrittrice svedese, autrice di numerosi romanzi e racconti basati fra l'altro su vita, usi, costumi e tradizioni della Svezia del passato. Fu la prima donna a vincere il premio Nobel per la letteratura nel 1909.",
+    "birthDate": "1858-11-20",
+    "deathDate": "1940-03-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Atelje%20Jaeger%20-%20Selma%20Lagerl%C3%B6f%201928.jpeg",
+    "approved": true
+  },
+  {
+    "name": "Carl Bosch",
+    "slugs": {
+      "IT": "Carl_Bosch",
+      "EN": "Carl_Bosch"
+    },
+    "bio": "Carl Bosch è stato un chimico, ingegnere e imprenditore tedesco.",
+    "birthDate": "1874-08-27",
+    "deathDate": "1940-04-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Bosch.jpg",
+    "approved": true
+  },
+  {
+    "name": "Emma Goldman",
+    "slugs": {
+      "IT": "Emma_Goldman",
+      "EN": "Emma_Goldman"
+    },
+    "bio": "Emma Goldman è stata un'anarchica, attivista e saggista russa naturalizzata statunitense.",
+    "birthDate": "1869-06-27",
+    "deathDate": "1940-05-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Goldman%20seated.jpg",
+    "approved": true
+  },
+  {
+    "name": "Carl Gustaf Verner von Heidenstam",
+    "slugs": {
+      "IT": "Carl_Gustaf_Verner_von_Heidenstam",
+      "EN": "Carl_Gustaf_Verner_von_Heidenstam"
+    },
+    "bio": "Carl Gustav Verner von Heidenstam è stato uno scrittore e poeta svedese.",
+    "birthDate": "1859-07-06",
+    "deathDate": "1940-05-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Krouth%C3%A9n%20-%20Portr%C3%A4tt%20av%20Verner%20von%20Heidenstam.jpg",
+    "approved": true
+  },
+  {
+    "name": "Marcus Garvey",
+    "slugs": {
+      "IT": "Marcus_Garvey",
+      "EN": "Marcus_Garvey"
+    },
+    "bio": "Marcus Mosiah Garvey è stato un sindacalista e scrittore giamaicano.",
+    "birthDate": "1887-08-17",
+    "deathDate": "1940-06-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Garvey%201924-08-05.jpg",
+    "approved": true
+  },
+  {
+    "name": "Arthur Harden",
+    "slugs": {
+      "IT": "Arthur_Harden",
+      "EN": "Arthur_Harden"
+    },
+    "bio": "Arthur Harden è stato un biochimico inglese.",
+    "birthDate": "1865-10-12",
+    "deathDate": "1940-06-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ArthurHarden.jpg",
+    "approved": true
+  },
+  {
+    "name": "Paul Klee",
+    "slugs": {
+      "IT": "Paul_Klee",
+      "EN": "Paul_Klee"
+    },
+    "bio": "Paul Ernst Klee è stato un pittore tedesco con cittadinanza svizzera.",
+    "birthDate": "1879-12-18",
+    "deathDate": "1940-06-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg",
+    "approved": true
   },
   {
     "name": "Lev Trockij",
@@ -176,6 +2672,102 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D0%B2%20%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg"
   },
   {
+    "name": "Joseph John Thomson",
+    "slugs": {
+      "IT": "Joseph_John_Thomson",
+      "EN": "Joseph_John_Thomson"
+    },
+    "bio": "Sir Joseph John Thomson è stato un fisico britannico, noto per aver scoperto nel 1891 l'elettrone, la prima particella subatomica di carica elettrica negativa, mediante un esperimento con i cosiddetti tubi di Crookes.",
+    "birthDate": "1856-12-18",
+    "deathDate": "1940-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.J.%20Thomson%20LCCN2014715407.jpg",
+    "approved": true
+  },
+  {
+    "name": "Walter Benjamin",
+    "slugs": {
+      "IT": "Walter_Benjamin",
+      "EN": "Walter_Benjamin"
+    },
+    "bio": "Walter Benjamin nome completo Walter Bendix Schönflies Benjamin è stato un filosofo, scrittore, critico letterario e traduttore tedesco, pensatore eclettico che si è occupato di epistemologia, estetica, sociologia, misticismo ebraico e materialismo storico. Il lavoro di Benjamin, riconosciuto postumo, ha influenzato filosofi, mistici e drammaturghi.",
+    "birthDate": "1892-07-15",
+    "deathDate": "1940-09-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Benjamin%20vers%201928.jpg",
+    "approved": true
+  },
+  {
+    "name": "Manuel Azaña Díaz",
+    "slugs": {
+      "IT": "Manuel_Azaña_Díaz",
+      "EN": "Manuel_Azaña_Díaz"
+    },
+    "bio": "Manuel Azaña Díaz è stato un politico spagnolo. Ha ricoperto la carica di capo del governo spagnolo due volte, dal 14 ottobre 1931 al 12 settembre 1933 e dal 19 febbraio al 10 maggio 1936, e di Presidente della Seconda Repubblica spagnola dall'11 maggio 1936 al 3 marzo 1939.",
+    "birthDate": "1880-01-10",
+    "deathDate": "1940-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aza%C3%B1a%203.jpg",
+    "approved": true
+  },
+  {
+    "name": "Neville Chamberlain",
+    "slugs": {
+      "IT": "Neville_Chamberlain",
+      "EN": "Neville_Chamberlain"
+    },
+    "bio": "Arthur Neville Chamberlain è stato un politico inglese membro del Partito Conservatore nonché primo ministro del Regno Unito dal 28 maggio 1937 al 10 maggio 1940.",
+    "birthDate": "1869-03-18",
+    "deathDate": "1940-11-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Right%20Honourable%20Neville%20Chamberlain.%20Wellcome%20M0003096.jpg",
+    "approved": true
+  },
+  {
+    "name": "Francis Scott Fitzgerald",
+    "slugs": {
+      "IT": "Francis_Scott_Fitzgerald",
+      "EN": "Francis_Scott_Fitzgerald"
+    },
+    "bio": "Francis Scott Fitzgerald è stato uno scrittore e sceneggiatore statunitense, autore di romanzi e racconti. È considerato uno fra i maggiori autori dell'età del jazz e dei cosiddetti anni ruggenti e, più in generale, per la sua opera complessiva del XX secolo.",
+    "birthDate": "1896-09-24",
+    "deathDate": "1940-12-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/F.%20Scott%20Fitzgerald%20%281929%20photo%20portrait%20by%20Nickolas%20Muray%29%20Cropped.jpg",
+    "approved": true
+  },
+  {
+    "name": "Henri Bergson",
+    "slugs": {
+      "IT": "Henri_Bergson",
+      "EN": "Henri_Bergson"
+    },
+    "bio": "Henri-Louis Bergson è stato un filosofo francese.",
+    "birthDate": "1859-10-18",
+    "deathDate": "1941-01-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Bergson%2002.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Baden-Powell",
+    "slugs": {
+      "IT": "Robert_Baden-Powell",
+      "EN": "Robert_Baden-Powell"
+    },
+    "bio": "Robert Baden-Powell, titolo completo Lieutenant General The Right Honourable Robert Stephenson Smyth Baden-Powell, 1st Baron Baden-Powell of Gilwell, OM, GCMG, GCVO, KCB, KStJ, Bt., è stato un generale, educatore e scrittore britannico, noto soprattutto per essere stato il fondatore, nel 1907, del movimento mondiale dello scautismo e subito dopo di quello del guidismo.",
+    "birthDate": "1857-02-22",
+    "deathDate": "1941-01-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Baden-Powell%20USZ62-96893%20%28retouched%20and%20cropped%29.png",
+    "approved": true
+  },
+  {
+    "name": "Emanuel Lasker",
+    "slugs": {
+      "IT": "Emanuel_Lasker",
+      "EN": "Emanuel_Lasker"
+    },
+    "bio": "Emanuel Lasker è stato uno scacchista, matematico e goista tedesco, secondo campione del mondo di scacchi dal 1894 al 1921.",
+    "birthDate": "1868-12-24",
+    "deathDate": "1941-01-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-14194%2C%20Emanuel%20Lasker.jpg",
+    "approved": true
+  },
+  {
     "name": "James Joyce",
     "slugs": {
       "IT": "James_Joyce",
@@ -185,6 +2777,90 @@
     "birthDate": "1882-02-02",
     "deathDate": "1941-01-13",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20by%20Alex%20Ehrenzweig%2C%201915%20cropped.jpg"
+  },
+  {
+    "name": "Frederick Grant Banting",
+    "slugs": {
+      "IT": "Frederick_Grant_Banting",
+      "EN": "Frederick_Grant_Banting"
+    },
+    "bio": "Sir Frederick Grant Banting è stato un fisiologo ed endocrinologo canadese, scopritore dell'insulina insieme a John James Rickard Macleod, Charles Herbert Best e James Bertram Collip.",
+    "birthDate": "1891-11-14",
+    "deathDate": "1941-02-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrick%20banting.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfonso XIII di Spagna",
+    "slugs": {
+      "IT": "Alfonso_XIII_di_Spagna",
+      "EN": "Alfonso_XIII_di_Spagna"
+    },
+    "bio": "Alfonso XIII di Spagna figlio di Alfonso XII, divenne re di Spagna alla sua nascita, anche se assunse il potere solamente nel 1902. Fu deposto il 14 aprile 1931. Per una parte dei monarchici francesi, egli è stato anche pretendente legittimista al trono di Francia e di Navarra con il nome di Alfonso I.",
+    "birthDate": "1886-05-17",
+    "deathDate": "1941-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rey%20Alfonso%20XIII%20de%20Espa%C3%B1a%2C%20by%20Kaulak.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sherwood Anderson",
+    "slugs": {
+      "IT": "Sherwood_Anderson",
+      "EN": "Sherwood_Anderson"
+    },
+    "bio": "Sherwood Anderson è stato uno scrittore statunitense che si è dedicato soprattutto al racconto breve.",
+    "birthDate": "1876-09-13",
+    "deathDate": "1941-03-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sherwood%20Anderson%20Stieglitz%20portrait%20Theatre%20Magazine%201928.jpg",
+    "approved": true
+  },
+  {
+    "name": "Virginia Woolf",
+    "slugs": {
+      "IT": "Virginia_Woolf",
+      "EN": "Virginia_Woolf"
+    },
+    "bio": "Adeline Virginia Woolf, nata Stephen, è stata una scrittrice, saggista e attivista britannica.",
+    "birthDate": "1882-01-25",
+    "deathDate": "1941-03-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Virginia%20Woolf%201927.jpg",
+    "approved": true
+  },
+  {
+    "name": "Annie Jump Cannon",
+    "slugs": {
+      "IT": "Annie_Jump_Cannon",
+      "EN": "Annie_Jump_Cannon"
+    },
+    "bio": "Annie Jump Cannon è stata un'astronoma statunitense il cui lavoro di catalogazione fu utile nello sviluppo dell'attuale classificazione stellare.\nFu Annie Jump Cannon che propose di classificare le stelle in base all'intensità del loro spettro. Era figlia dell'armatore e senatore Wilson Lee Cannon e della sua seconda moglie, Mary Elizabeth Jump.",
+    "birthDate": "1863-12-11",
+    "deathDate": "1941-04-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Annie%20Jump%20Cannon%201922%20Portrait.jpg",
+    "approved": true
+  },
+  {
+    "name": "James Frazer",
+    "slugs": {
+      "IT": "James_George_Frazer",
+      "EN": "James_George_Frazer"
+    },
+    "bio": "Sir James George Frazer è stato un antropologo e storico delle religioni scozzese.",
+    "birthDate": "1854-01-01",
+    "deathDate": "1941-05-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesGeorgeFrazer.jpg",
+    "approved": true
+  },
+  {
+    "name": "Guglielmo II di Germania",
+    "slugs": {
+      "IT": "Guglielmo_II_di_Germania",
+      "EN": "Guglielmo_II_di_Germania"
+    },
+    "bio": "Guglielmo II di Germania e Prussia è stato il terzo e ultimo imperatore tedesco e il nono e ultimo re di Prussia. Guglielmo II rimase sul trono con entrambi i titoli dal 1888 al 1918.",
+    "birthDate": "1859-01-27",
+    "deathDate": "1941-06-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaiser%20Wilhelm%20II%20of%20Germany%20-%201902.jpg",
+    "approved": true
   },
   {
     "name": "Rabindranath Tagore",
@@ -198,6 +2874,222 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabindranath%20Tagore%20in%201909.jpg"
   },
   {
+    "name": "Paul Sabatier",
+    "slugs": {
+      "IT": "Paul_Sabatier",
+      "EN": "Paul_Sabatier"
+    },
+    "bio": "",
+    "birthDate": "1854-11-05",
+    "deathDate": "1941-08-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Sabatier.jpg",
+    "approved": true
+  },
+  {
+    "name": "Marina Ivanovna Cvetaeva",
+    "slugs": {
+      "IT": "Marina_Ivanovna_Cvetaeva",
+      "EN": "Marina_Ivanovna_Cvetaeva"
+    },
+    "bio": "Marina Ivanovna Cvetaeva è stata una poetessa e scrittrice russa.",
+    "birthDate": "1892-10-08",
+    "deathDate": "1941-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%B0%20%281925%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Walther Nernst",
+    "slugs": {
+      "IT": "Walther_Nernst",
+      "EN": "Walther_Nernst"
+    },
+    "bio": "Walther Hermann Nernst è stato un chimico tedesco.\nAiutò ad affermare il moderno campo della chimica fisica, contribuì all'elettrochimica, alla termodinamica, alla chimica dello stato solido e alla fotochimica. Egli è inoltre conosciuto per aver scoperto l'equazione di Nernst.",
+    "birthDate": "1864-06-25",
+    "deathDate": "1941-11-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Walther%20Nernst%20SI.jpg",
+    "approved": true
+  },
+  {
+    "name": "Carole Lombard",
+    "slugs": {
+      "IT": "Carole_Lombard",
+      "EN": "Carole_Lombard"
+    },
+    "bio": "Carole Lombard, pseudonimo di Alice Jane Peters, è stata un'attrice statunitense.",
+    "birthDate": "1908-10-06",
+    "deathDate": "1942-01-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Lombard%20still.jpg",
+    "approved": true
+  },
+  {
+    "name": "Stefan Zweig",
+    "slugs": {
+      "IT": "Stefan_Zweig",
+      "EN": "Stefan_Zweig"
+    },
+    "bio": "Stefan Zweig /ˈʃteːfan t͡svaɪ̯k/ è stato uno scrittore, drammaturgo, giornalista, biografo, storico e poeta austriaco naturalizzato britannico.",
+    "birthDate": "1881-11-28",
+    "deathDate": "1942-02-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Zweig%20Setzer%201927.jpg",
+    "approved": true
+  },
+  {
+    "name": "José Raúl Capablanca",
+    "slugs": {
+      "IT": "José_Raúl_Capablanca",
+      "EN": "José_Raúl_Capablanca"
+    },
+    "bio": "José Raúl Capablanca y Graupera è stato uno scacchista cubano, terzo campione del mondo di scacchi dal 1921 al 1927.",
+    "birthDate": "1888-11-19",
+    "deathDate": "1942-03-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ra%C3%BAl%20Capablanca%201931.jpg",
+    "approved": true
+  },
+  {
+    "name": "William Henry Bragg",
+    "slugs": {
+      "IT": "William_Henry_Bragg",
+      "EN": "William_Henry_Bragg"
+    },
+    "bio": "Sir William Henry Bragg è stato un fisico, chimico e cristallografo britannico.",
+    "birthDate": "1862-07-02",
+    "deathDate": "1942-03-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wh-bragg.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Musil",
+    "slugs": {
+      "IT": "Robert_Musil",
+      "EN": "Robert_Musil"
+    },
+    "bio": "Robert Musil, dal 1917 al 1919 Robert Edler von Musil, è stato uno scrittore e drammaturgo austriaco.\nIl suo capolavoro è il romanzo incompiuto Der Mann ohne Eigenschaften, una delle pietre miliari della letteratura di tutti i tempi, di cui il primo volume pubblicato nel 1930, prima parte del secondo volume edita nel 1933, e ultima parte, rimasta incompiuta dopo la morte dell'autore.",
+    "birthDate": "1880-11-06",
+    "deathDate": "1942-04-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Musil.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jean Perrin",
+    "slugs": {
+      "IT": "Jean_Baptiste_Perrin",
+      "EN": "Jean_Baptiste_Perrin"
+    },
+    "bio": "Jean Baptiste Perrin è stato un fisico francese.",
+    "birthDate": "1870-09-30",
+    "deathDate": "1942-04-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Perrin%201926.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lucy Maud Montgomery",
+    "slugs": {
+      "IT": "Lucy_Maud_Montgomery",
+      "EN": "Lucy_Maud_Montgomery"
+    },
+    "bio": "Lucy Maud Montgomery è stata una scrittrice canadese, autrice di numerosi libri per l'infanzia, ambientati spesso nell'Isola del Principe Edoardo, presso la costa meridionale del golfo di San Lorenzo.",
+    "birthDate": "1874-11-30",
+    "deathDate": "1942-04-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/LMM%20signed%20photo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Bronislaw Kasper Malinowski",
+    "slugs": {
+      "IT": "Bronisław_Malinowski",
+      "EN": "Bronisław_Malinowski"
+    },
+    "bio": "Bronisław Kasper Malinowski è stato un antropologo e sociologo polacco naturalizzato britannico.",
+    "birthDate": "1884-04-07",
+    "deathDate": "1942-05-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronislawmalinowski.jpg",
+    "approved": true
+  },
+  {
+    "name": "Reinhard Heydrich",
+    "slugs": {
+      "IT": "Reinhard_Heydrich",
+      "EN": "Reinhard_Heydrich"
+    },
+    "bio": "Reinhard Tristan Eugen Heydrich è stato un poliziotto e agente segreto tedesco.",
+    "birthDate": "1904-03-07",
+    "deathDate": "1942-06-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1969-054-16%2C%20Reinhard%20Heydrich.jpg",
+    "approved": true
+  },
+  {
+    "name": "Janka Kupala",
+    "slugs": {
+      "IT": "Janka_Kupała",
+      "EN": "Janka_Kupała"
+    },
+    "bio": "Ivan Daminikavič Lucevič, noto anche con lo pseudonimo di Janka Kupala, è stato un poeta e scrittore bielorusso.",
+    "birthDate": "1882-07-07",
+    "deathDate": "1942-06-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Lucevi%C4%8D%20%28Janka%20Kupala%29.%20%D0%AF%D0%BD%20%D0%9B%D1%83%D1%86%D1%8D%D0%B2%D1%96%D1%87%20%28%D0%AF%D0%BD%D0%BA%D0%B0%20%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0%29%20%281925%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Richard Martin Willstätter",
+    "slugs": {
+      "IT": "Richard_Martin_Willstätter",
+      "EN": "Richard_Martin_Willstätter"
+    },
+    "bio": "Richard Martin Willstätter è stato un chimico tedesco.",
+    "birthDate": "1872-08-13",
+    "deathDate": "1942-08-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Willst%C3%A4tter.jpg",
+    "approved": true
+  },
+  {
+    "name": "Janusz Korczak",
+    "slugs": {
+      "IT": "Janusz_Korczak",
+      "EN": "Janusz_Korczak"
+    },
+    "bio": "Janusz Korczak, nome d'arte di Henryk Goldszmit, è stato un pedagogista, scrittore e medico polacco di origine ebraica, vittima della Shoah.",
+    "birthDate": "1878-07-22",
+    "deathDate": "1942-08-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Janusz%20Korczak%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edith Stein",
+    "slugs": {
+      "IT": "Edith_Stein",
+      "EN": "Edith_Stein"
+    },
+    "bio": "Edith Stein, in religione Teresa Benedetta della Croce, è stata una monaca cristiana, filosofa e mistica tedesca dell'Ordine delle Carmelitane Scalze, vittima della Shoah. Di origine ebraica, si convertì al cattolicesimo dopo un periodo di ateismo che durava dall'adolescenza. Venne arrestata nei Paesi Bassi dai nazisti e rinchiusa nel campo di concentramento di Auschwitz-Birkenau dove, insieme alla sorella Rosa, terziaria carmelitana scalza, nel 1942 venne trucidata. Nel 1998 papa Giovanni Paolo II la proclamò santa e l'anno successivo la dichiarò patrona d'Europa.",
+    "birthDate": "1891-10-12",
+    "deathDate": "1942-08-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Stein%20%28ca.%201938-1939%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Franz Boas",
+    "slugs": {
+      "IT": "Franz_Boas",
+      "EN": "Franz_Boas"
+    },
+    "bio": "Franz Boas è stato un antropologo tedesco naturalizzato statunitense, tra i pionieri dell'antropologia moderna.",
+    "birthDate": "1858-07-09",
+    "deathDate": "1942-12-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/FranzBoas.jpg",
+    "approved": true
+  },
+  {
+    "name": "George Washington Carver",
+    "slugs": {
+      "IT": "George_Washington_Carver",
+      "EN": "George_Washington_Carver"
+    },
+    "bio": "George Washington Carver è stato un agronomo statunitense ed educatore nel campo dell'agronomia; a tale titolo lavorò nel Dipartimento di Agricoltura dell'Istituto Tuskegee a Tuskegee in Alabama insegnando sul campo a ex-schiavi le tecniche di agricoltura per l'autosufficienza.",
+    "birthDate": "1864-01-01",
+    "deathDate": "1943-01-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%20Carver%20c1910.jpg",
+    "approved": true
+  },
+  {
     "name": "Nikola Tesla",
     "slugs": {
       "IT": "Nikola_Tesla",
@@ -207,6 +3099,366 @@
     "birthDate": "1856-07-10",
     "deathDate": "1943-01-07",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20circa%201890.jpeg"
+  },
+  {
+    "name": "David Hilbert",
+    "slugs": {
+      "IT": "David_Hilbert",
+      "EN": "David_Hilbert"
+    },
+    "bio": "David Hilbert è stato un matematico tedesco.",
+    "birthDate": "1862-01-23",
+    "deathDate": "1943-02-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilbert.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sophie Scholl",
+    "slugs": {
+      "IT": "Sophie_Scholl",
+      "EN": "Sophie_Scholl"
+    },
+    "bio": "Sophie Magdalena Scholl è stata un'attivista tedesca legata alla resistenza d'ispirazione cristiana ed appartenente alla Rosa Bianca. Scelse la ribellione non violenta al regime. Viene generalmente considerata martire dalla chiesa cattolica e, insieme al fratello maggiore Hans, uno dei simboli della lotta alla dittatura nazista.",
+    "birthDate": "1921-05-09",
+    "deathDate": "1943-02-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gestapo%20photo%20of%20Sophie%20Scholl%20taken%20after%20her%20capture%20on%20February%2018%2C%201943-2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sergej Vasil'evič Rachmaninov",
+    "slugs": {
+      "IT": "Sergej_Vasil'evič_Rachmaninov",
+      "EN": "Sergej_Vasil'evič_Rachmaninov"
+    },
+    "bio": "Sergej Vasil'evič Rachmaninov è stato un compositore, pianista e direttore d'orchestra russo naturalizzato statunitense.\nÈ considerato uno dei maggiori pianisti di ogni tempo e uno dei più importanti compositori tardo romantici. Dopo le prime influenze di musicisti russi tra cui Čajkovskij, Rachmaninov riuscì a creare un proprio linguaggio personale ricco di melodia e di colore. Egli riteneva se stesso soprattutto un compositore piuttosto che un pianista, sebbene lo sviluppo della sua carriera sembrasse dimostrare il contrario.",
+    "birthDate": "1873-04-01",
+    "deathDate": "1943-03-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergei%20Rachmaninoff%2C%20pianist%20%28SAYRE%201608%29%20%28restored%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alexandre Millerand",
+    "slugs": {
+      "IT": "Alexandre_Millerand",
+      "EN": "Alexandre_Millerand"
+    },
+    "bio": "Alexandre Millerand è stato un politico francese.",
+    "birthDate": "1859-02-10",
+    "deathDate": "1943-04-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Millerand%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Isoroku Yamamoto",
+    "slugs": {
+      "IT": "Isoroku_Yamamoto",
+      "EN": "Isoroku_Yamamoto"
+    },
+    "bio": "Isoroku Yamamoto è stato un ammiraglio giapponese.",
+    "birthDate": "1884-04-04",
+    "deathDate": "1943-04-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamamoto-Isoroku.jpg",
+    "approved": true
+  },
+  {
+    "name": "Karl Landsteiner",
+    "slugs": {
+      "IT": "Karl_Landsteiner",
+      "EN": "Karl_Landsteiner"
+    },
+    "bio": "Karl Ernest Landsteiner è stato un medico, biologo e fisiologo austriaco naturalizzato statunitense.",
+    "birthDate": "1868-06-14",
+    "deathDate": "1943-06-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Henrik Pontoppidan",
+    "slugs": {
+      "IT": "Henrik_Pontoppidan",
+      "EN": "Henrik_Pontoppidan"
+    },
+    "bio": "Henrik Pontoppidan è stato uno scrittore danese.",
+    "birthDate": "1857-07-24",
+    "deathDate": "1943-08-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Pontoppidan%201917.jpg",
+    "approved": true
+  },
+  {
+    "name": "Simone Weil",
+    "slugs": {
+      "IT": "Simone_Weil",
+      "EN": "Simone_Weil"
+    },
+    "bio": "Simone Adolphine Weil è stata una filosofa, mistica e scrittrice francese, la cui fama è legata, oltre che alla vasta produzione saggistico-letteraria, alle drammatiche vicende esistenziali che ella attraversò, dalla scelta di lasciare l'insegnamento per sperimentare la condizione operaia, fino all'impegno come attivista partigiana, nonostante i persistenti problemi di salute.",
+    "birthDate": "1909-02-03",
+    "deathDate": "1943-08-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Weil%201943.jpg",
+    "approved": true
+  },
+  {
+    "name": "Pieter Zeeman",
+    "slugs": {
+      "IT": "Pieter_Zeeman",
+      "EN": "Pieter_Zeeman"
+    },
+    "bio": "Pieter Zeeman [zeːmɑn] è stato un fisico olandese.",
+    "birthDate": "1865-05-25",
+    "deathDate": "1943-10-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Zeeman.jpg",
+    "approved": true
+  },
+  {
+    "name": "Beatrix Potter",
+    "slugs": {
+      "IT": "Beatrix_Potter",
+      "EN": "Beatrix_Potter"
+    },
+    "bio": "Helen Beatrix Potter è stata un'illustratrice, scrittrice e naturalista britannica, ricordata soprattutto per i suoi libri illustrati per bambini.",
+    "birthDate": "1866-07-28",
+    "deathDate": "1943-12-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrix%20Potter%20by%20King%20cropped.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edvard Munch",
+    "slugs": {
+      "IT": "Edvard_Munch",
+      "EN": "Edvard_Munch"
+    },
+    "bio": "Edvard Munch è stato un pittore norvegese.\nLa sua opera più nota, L'urlo (1893), è diventata un'immagine iconica dell'arte.",
+    "birthDate": "1863-12-12",
+    "deathDate": "1944-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Piet Mondrian",
+    "slugs": {
+      "IT": "Piet_Mondrian",
+      "EN": "Piet_Mondrian"
+    },
+    "bio": "Piet Mondrian, pseudonimo di Pieter Cornelis Mondriaan, è stato un pittore olandese, fondatore assieme a Theo van Doesburg del \"neoplasticismo\".",
+    "birthDate": "1872-03-07",
+    "deathDate": "1944-02-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan.jpg",
+    "approved": true
+  },
+  {
+    "name": "Glenn Miller",
+    "slugs": {
+      "IT": "Glenn_Miller",
+      "EN": "Glenn_Miller"
+    },
+    "bio": "Alton Glenn Miller è stato un trombonista, direttore d'orchestra e compositore statunitense.",
+    "birthDate": "1904-03-01",
+    "deathDate": "1944-02-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20miller.jpg",
+    "approved": true
+  },
+  {
+    "name": "Claus Schenk von Stauffenberg",
+    "slugs": {
+      "IT": "Claus_Schenk_von_Stauffenberg",
+      "EN": "Claus_Schenk_von_Stauffenberg"
+    },
+    "bio": "Claus Philipp Maria Schenk Graf von Stauffenberg è stato un militare tedesco che svolse un ruolo di primo piano nella progettazione e successiva esecuzione dell'attentato del 20 luglio 1944 contro Adolf Hitler, e nel successivo tentativo di colpo di Stato. Il suo cognome completo era Schenk Graf von Stauffenberg, in quanto la famiglia Stauffenberg aveva aggiunto il termine Graf (conte), come parte del cognome, dopo l'abolizione dei titoli nobiliari da parte della Repubblica di Weimar.",
+    "birthDate": "1907-11-15",
+    "deathDate": "1944-07-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/VStauffenberg%20vQuirnheim.jpg",
+    "approved": true
+  },
+  {
+    "name": "Reza Pahlavi",
+    "slugs": {
+      "IT": "Reza_Pahlavi",
+      "EN": "Reza_Pahlavi"
+    },
+    "bio": "",
+    "birthDate": "1878-03-15",
+    "deathDate": "1944-07-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Reza%20shah%20uniform.jpg",
+    "approved": true
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "slugs": {
+      "IT": "Antoine_de_Saint-Exupéry",
+      "EN": "Antoine_de_Saint-Exupéry"
+    },
+    "bio": "Antoine Jean-Baptiste Marie Roger de Saint-Exupéry, semplicemente noto come Antoine de Saint-Exupéry, è stato uno scrittore, poeta e giornalista francese.",
+    "birthDate": "1900-06-29",
+    "deathDate": "1944-07-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/11exupery-inline1-500.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ernst Thälmann",
+    "slugs": {
+      "IT": "Ernst_Thälmann",
+      "EN": "Ernst_Thälmann"
+    },
+    "bio": "Ernst Johannes Fritz Thälmann è stato un politico e rivoluzionario tedesco.\nPresidente del Partito Comunista di Germania (KPD), fu uno dei più importanti capi del movimento operaio tedesco degli anni venti e trenta e uno dei principali oppositori al nazionalsocialismo di Adolf Hitler.",
+    "birthDate": "1886-04-16",
+    "deathDate": "1944-08-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Th%C3%A4lmann%201932.jpg",
+    "approved": true
+  },
+  {
+    "name": "Erwin Rommel",
+    "slugs": {
+      "IT": "Erwin_Rommel",
+      "EN": "Erwin_Rommel"
+    },
+    "bio": "Johannes Erwin Eugen Rommel è stato un generale (feldmaresciallo) tedesco, celebre per il ruolo avuto nelle vicende belliche durante la seconda guerra mondiale.",
+    "birthDate": "1891-11-15",
+    "deathDate": "1944-10-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-J16362%2C%20Erwin%20Rommel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Glover Barkla",
+    "slugs": {
+      "IT": "Charles_Glover_Barkla",
+      "EN": "Charles_Glover_Barkla"
+    },
+    "bio": "Charles Glover Barkla è stato un fisico britannico.",
+    "birthDate": "1877-06-07",
+    "deathDate": "1944-10-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Glover%20Barkla%2001.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alexis Carrel",
+    "slugs": {
+      "IT": "Alexis_Carrel",
+      "EN": "Alexis_Carrel"
+    },
+    "bio": "Alexis Carrel è stato un chirurgo e biologo francese che ha contribuito in modo fondamentale ai progressi nelle tecniche di sutura dei vasi sanguigni e alle ricerche sui trapianti di tessuti e organi, essenziali per le audaci operazioni chirurgiche del nostro tempo.",
+    "birthDate": "1873-06-28",
+    "deathDate": "1944-11-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20Carrel%201912.jpg",
+    "approved": true
+  },
+  {
+    "name": "Arthur Eddington",
+    "slugs": {
+      "IT": "Arthur_Eddington",
+      "EN": "Arthur_Eddington"
+    },
+    "bio": "Sir Arthur Stanley Eddington è stato un astrofisico inglese.",
+    "birthDate": "1882-12-28",
+    "deathDate": "1944-11-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Stanley%20Eddington.jpg",
+    "approved": true
+  },
+  {
+    "name": "Filippo Tommaso Marinetti",
+    "slugs": {
+      "IT": "Filippo_Tommaso_Marinetti",
+      "EN": "Filippo_Tommaso_Marinetti"
+    },
+    "bio": "Filippo Tommaso Marinetti è stato un poeta, scrittore, drammaturgo e militare italiano.\nÈ conosciuto soprattutto come il fondatore del movimento futurista, la prima avanguardia storica italiana del Novecento.",
+    "birthDate": "1876-12-22",
+    "deathDate": "1944-12-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emilio%20Sommariva%20%281883%20-%201956%29%20Ritratto%20di%20Filippo%20Tommaso%20Marinetti%2C%20intellettuale%20futurista%20%281913%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vasilij Vasil'evič Kandinskij",
+    "slugs": {
+      "IT": "Vasilij_Vasil'evič_Kandinskij",
+      "EN": "Vasilij_Vasil'evič_Kandinskij"
+    },
+    "bio": "Vasilij Vasil'evič Kandinskij è stato un pittore russo naturalizzato francese, anche noto con la traslitterazione germanizzante di Wassily Kandinsky, precursore e fondatore della pittura astratta.",
+    "birthDate": "1866-12-04",
+    "deathDate": "1944-12-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20kandinsky.jpg",
+    "approved": true
+  },
+  {
+    "name": "Romain Rolland",
+    "slugs": {
+      "IT": "Romain_Rolland",
+      "EN": "Romain_Rolland"
+    },
+    "bio": "Romain Rolland è stato uno scrittore e drammaturgo francese, premio Nobel per la Letteratura nel 1915.",
+    "birthDate": "1866-01-29",
+    "deathDate": "1944-12-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Romain%20Rolland%201915.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vladimir Ivanovič Vernadskij",
+    "slugs": {
+      "IT": "Vladimir_Ivanovič_Vernadskij",
+      "EN": "Vladimir_Ivanovič_Vernadskij"
+    },
+    "bio": "Vladimir Ivanovič Vernadskij è stato un mineralogista e geochimico russo che introdusse il concetto di noosfera dando un importante contributo al cosmismo russo.\nDivenne celebre in seguito alla pubblicazione del suo libro La Biosfera nel 1926, estendendo e rendendo popolare il termine biosfera precedentemente concepito da Eduard Suess nel 1885. Ipotizzò che la vita fosse la forza che dà forma alla Terra. Fu un padre fondatore di diverse discipline, incluse la geochimica, la biogeochimica e la radiogeologia.",
+    "birthDate": "1863-03-12",
+    "deathDate": "1945-01-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1934-V%20I%20Vernadsky.jpg",
+    "approved": true
+  },
+  {
+    "name": "Anna Frank",
+    "slugs": {
+      "IT": "Anna_Frank",
+      "EN": "Anna_Frank"
+    },
+    "bio": "Annelies Marie Frank, detta Anne, chiamata Anna Frank in italiano, è stata una giovane scrittrice ebrea tedesca, divenuta un simbolo della Shoah per il suo diario, scritto nel periodo in cui lei e la sua famiglia si nascondevano dai nazisti, e per la sua tragica morte nel campo di concentramento di Bergen-Belsen.",
+    "birthDate": "1929-06-12",
+    "deathDate": "1945-02-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleksej Nikolaevič Tolstoj",
+    "slugs": {
+      "IT": "Aleksej_Nikolaevič_Tolstoj",
+      "EN": "Aleksej_Nikolaevič_Tolstoj"
+    },
+    "bio": "Aleksej Nikolaevič Tolstoj è stato uno scrittore e politico russo.\nDiscendente da un ramo minore del casato dei conti Tolstoj, scrisse novelle storiche e opere di vario genere.",
+    "birthDate": "1883-01-10",
+    "deathDate": "1945-02-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ANTolstoy.jpg",
+    "approved": true
+  },
+  {
+    "name": "David Lloyd George",
+    "slugs": {
+      "IT": "David_Lloyd_George",
+      "EN": "David_Lloyd_George"
+    },
+    "bio": "David Lloyd George, I conte Lloyd-George di Dwyfor, è stato un politico britannico.\nFigura di passaggio fra il progressismo liberale di tradizione ottocentesca e quello laburista moderno, diede impulso alle riforme sociali in Gran Bretagna e fu responsabile, insieme a Wilson, Orlando e Clemenceau, dell’assetto mondiale dopo la grande guerra.",
+    "birthDate": "1863-01-17",
+    "deathDate": "1945-03-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Lloyd%20George.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hans Fischer",
+    "slugs": {
+      "IT": "Hans_Fischer",
+      "EN": "Hans_Fischer"
+    },
+    "bio": "Hans Fischer è stato un chimico tedesco.",
+    "birthDate": "1881-07-27",
+    "deathDate": "1945-03-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Fischer%20%28Nobel%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Dietrich Bonhoeffer",
+    "slugs": {
+      "IT": "Dietrich_Bonhoeffer",
+      "EN": "Dietrich_Bonhoeffer"
+    },
+    "bio": "Dietrich Bonhoeffer è stato un teologo, partigiano e pastore protestante tedesco, protagonista della resistenza al Nazismo.",
+    "birthDate": "1906-02-04",
+    "deathDate": "1945-04-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1987-074-16%2C%20Dietrich%20Bonhoeffer.jpg",
+    "approved": true
   },
   {
     "name": "Franklin Delano Roosevelt",
@@ -242,6 +3494,222 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Hitler%20cropped%20restored%203x4.jpg"
   },
   {
+    "name": "Eva Braun",
+    "slugs": {
+      "IT": "Eva_Braun",
+      "EN": "Eva_Braun"
+    },
+    "bio": "Eva Anna Paula Braun è stata una fotografa tedesca, nota per essere stata la compagna e, negli ultimi due giorni della sua vita, la moglie di Adolf Hitler.",
+    "birthDate": "1912-02-06",
+    "deathDate": "1945-04-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Braun%20portrait%20-%201%20of%203%20%28242-EB-26-01%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joseph Goebbels",
+    "slugs": {
+      "IT": "Joseph_Goebbels",
+      "EN": "Joseph_Goebbels"
+    },
+    "bio": "Paul Joseph Goebbels è stato un politico e giornalista tedesco.",
+    "birthDate": "1897-10-29",
+    "deathDate": "1945-05-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1968-101-20A%2C%20Joseph%20Goebbels.jpg",
+    "approved": true
+  },
+  {
+    "name": "Martin Bormann",
+    "slugs": {
+      "IT": "Martin_Bormann",
+      "EN": "Martin_Bormann"
+    },
+    "bio": "Martin Ludwig Bormann è stato un politico, generale e criminale di guerra tedesco. Capo della cancelleria del NSDAP (Parteikanzlei) e segretario personale di Adolf Hitler, fu tra i membri più importanti nella gerarchia della Germania nazista.",
+    "birthDate": "1900-06-17",
+    "deathDate": "1945-05-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-R14128A%2C%20Martin%20Bormann.jpg",
+    "approved": true
+  },
+  {
+    "name": "Heinrich Himmler",
+    "slugs": {
+      "IT": "Heinrich_Himmler",
+      "EN": "Heinrich_Himmler"
+    },
+    "bio": "Heinrich Luitpold Himmler è stato un politico, generale e criminale di guerra tedesco, Reichsführer delle Schutzstaffel dal 1929, comandante della polizia dal 1936 e delle forze di sicurezza del Terzo Reich (Reichssicherheitshauptamt) dal 1939.",
+    "birthDate": "1900-10-07",
+    "deathDate": "1945-05-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-S72707%2C%20Heinrich%20Himmler.jpg",
+    "approved": true
+  },
+  {
+    "name": "Paul Valéry",
+    "slugs": {
+      "IT": "Paul_Valéry",
+      "EN": "Paul_Valéry"
+    },
+    "bio": "Ambroise Paul Toussaint Jules Valéry è stato uno scrittore, poeta e filosofo francese.",
+    "birthDate": "1871-10-30",
+    "deathDate": "1945-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Val%C3%A9ry%20-%20photo%20Henri%20Manuel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Pietro Mascagni",
+    "slugs": {
+      "IT": "Pietro_Mascagni",
+      "EN": "Pietro_Mascagni"
+    },
+    "bio": "Pietro Antonio Stefano Mascagni è stato un compositore e direttore d'orchestra italiano.",
+    "birthDate": "1863-12-07",
+    "deathDate": "1945-08-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20Mascagni%201.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Goddard",
+    "slugs": {
+      "IT": "Robert_Goddard",
+      "EN": "Robert_Goddard"
+    },
+    "bio": "Robert Goddard è stato uno scienziato, ingegnere e docente statunitense, considerato uno dei pionieri della missilistica moderna.",
+    "birthDate": "1882-10-05",
+    "deathDate": "1945-08-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Robert%20H.%20Goddard%20-%20GPN-2002-000131.jpg",
+    "approved": true
+  },
+  {
+    "name": "Subhas Chandra Bose",
+    "slugs": {
+      "IT": "Subhas_Chandra_Bose",
+      "EN": "Subhas_Chandra_Bose"
+    },
+    "bio": "Subhas Chandra Bose è stato un politico e militare indiano, figura centrale della lotta per l'indipendenza dell'India e presidente e capo politico durante la Seconda guerra mondiale di un governo filo-giapponese alleato dell'Asse.",
+    "birthDate": "1897-01-23",
+    "deathDate": "1945-08-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Subhas%20Chandra%20Bose%20NRB.jpg",
+    "approved": true
+  },
+  {
+    "name": "Stefan Banach",
+    "slugs": {
+      "IT": "Stefan_Banach",
+      "EN": "Stefan_Banach"
+    },
+    "bio": "Stefan Banach è stato un matematico polacco, uno degli animatori della Scuola matematica di Leopoli nella Polonia tra le due guerre.\nEgli era sostanzialmente un autodidatta in matematica e il suo genio fu scoperto per caso da Hugo Steinhaus.",
+    "birthDate": "1892-03-30",
+    "deathDate": "1945-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefana%20Banach%20-%20%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%86%20%D8%A8%D9%86%D8%A7%D8%AE.jpg",
+    "approved": true
+  },
+  {
+    "name": "Béla Bartók",
+    "slugs": {
+      "IT": "Béla_Bartók",
+      "EN": "Béla_Bartók"
+    },
+    "bio": "Béla Viktor János Bartók è stato un compositore, pianista ed etnomusicologo ungherese.",
+    "birthDate": "1881-03-25",
+    "deathDate": "1945-09-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9la%20Bart%C3%B3k%201943.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vidkun Quisling",
+    "slugs": {
+      "IT": "Vidkun_Quisling",
+      "EN": "Vidkun_Quisling"
+    },
+    "bio": "Vidkun Abraham Lauritz Jonssøn Quisling è stato un militare e politico norvegese.",
+    "birthDate": "1887-07-18",
+    "deathDate": "1945-10-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrett%20av%20Vidkun%20Quisling%20i%20sivile%20kl%C3%A6r%2C%20ukjent%20datering.jpg",
+    "approved": true
+  },
+  {
+    "name": "Francis William Aston",
+    "slugs": {
+      "IT": "Francis_William_Aston",
+      "EN": "Francis_William_Aston"
+    },
+    "bio": "Francis William Aston è stato un fisico britannico.",
+    "birthDate": "1877-09-01",
+    "deathDate": "1945-11-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20William%20Aston.jpg",
+    "approved": true
+  },
+  {
+    "name": "Thomas Hunt Morgan",
+    "slugs": {
+      "IT": "Thomas_Hunt_Morgan",
+      "EN": "Thomas_Hunt_Morgan"
+    },
+    "bio": "Thomas Hunt Morgan è stato un genetista e biologo statunitense.",
+    "birthDate": "1866-09-25",
+    "deathDate": "1945-12-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Hunt%20Morgan.jpg",
+    "approved": true
+  },
+  {
+    "name": "Yun Chi-ho",
+    "slugs": {
+      "IT": "Yun_Chi-ho",
+      "EN": "Yun_Chi-ho"
+    },
+    "bio": "Yun Chi-ho è stato un politico, educatore ed attivista sudcoreano. Un suo altro nome era JwaOng(좌옹).",
+    "birthDate": "1864-12-26",
+    "deathDate": "1945-12-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yun%20%D0%A1hiho.jpg",
+    "approved": true
+  },
+  {
+    "name": "George Smith Patton",
+    "slugs": {
+      "IT": "George_Smith_Patton",
+      "EN": "George_Smith_Patton"
+    },
+    "bio": "George Smith Patton è stato un generale statunitense durante la seconda guerra mondiale e un grande esperto nell'impiego dei mezzi corazzati. Dotato di una solida personalità, determinato e risoluto, a volte eccessivamente impulsivo ed eccentrico, dimostrò grande capacità di comando e notevole preparazione strategica durante la campagna di Sicilia e soprattutto sul fronte occidentale nel 1944-45, guidando con grande energia le sue truppe in una serie di brillanti vittorie fino al cuore della Germania. La risolutezza e la determinazione gli valsero il soprannome di \"generale d'acciaio\".",
+    "birthDate": "1885-11-11",
+    "deathDate": "1945-12-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20George%20Patton%20by%20Robert%20F.%20Cranston%2C%20Lee%20Elkins%2C%20and%20Harry%20Warnecke%2C%201945%2C%20color%20carbro%20print%2C%20from%20the%20National%20Portrait%20Gallery%20-%20NPG-NPG%2095%20404Patton-000002.jpg",
+    "approved": true
+  },
+  {
+    "name": "Theodore Dreiser",
+    "slugs": {
+      "IT": "Theodore_Dreiser",
+      "EN": "Theodore_Dreiser"
+    },
+    "bio": "Theodore Herman Albert Dreiser è stato uno scrittore e drammaturgo statunitense fra i maggiori esponenti del realismo e caposcuola del moderno romanzo americano.",
+    "birthDate": "1871-08-27",
+    "deathDate": "1945-12-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodore%20Dreiser.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gilbert Lewis",
+    "slugs": {
+      "IT": "Gilbert_Lewis",
+      "EN": "Gilbert_Lewis"
+    },
+    "bio": "Gilbert Newton Lewis è stato un chimico statunitense.",
+    "birthDate": "1875-10-23",
+    "deathDate": "1946-03-23",
+    "imageUrl": null,
+    "approved": true
+  },
+  {
+    "name": "Aleksandr Aleksandrovič Alechin",
+    "slugs": {
+      "IT": "Aleksandr_Alechin",
+      "EN": "Aleksandr_Alechin"
+    },
+    "bio": "Aleksandr Aleksandrovič Alechin, anche conosciuto come Alexander Alekhine, è stato uno scacchista russo naturalizzato francese, quarto campione del mondo di scacchi dal 1927 al 1935 e dal 1937 al 1946.",
+    "birthDate": "1892-10-31",
+    "deathDate": "1946-03-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Alekhine%20Color.jpg",
+    "approved": true
+  },
+  {
     "name": "John Maynard Keynes",
     "slugs": {
       "IT": "John_Maynard_Keynes",
@@ -251,6 +3719,162 @@
     "birthDate": "1883-06-05",
     "deathDate": "1946-04-21",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg"
+  },
+  {
+    "name": "Ion Antonescu",
+    "slugs": {
+      "IT": "Ion_Antonescu",
+      "EN": "Ion_Antonescu"
+    },
+    "bio": "Ion Antonescu è stato un generale, politico e criminale di guerra rumeno. Figlio di un ufficiale dell'esercito e appartenente ad una famiglia di tradizione militare, Antonescu frequentò alcune scuole militari entrando così nell'Esercito rumeno. Dopo aver partecipato alla Rivolta contadina del 1907, agì sia nella Seconda guerra balcanica che nella Prima guerra mondiale, durante la quale la Romania venne accerchiata da Germania, Austria-Ungheria e Bulgaria, dopo che a causa della Rivoluzione d'Ottobre, la Russia era uscita dalla guerra, lasciando la Romania sola sul fronte orientale.",
+    "birthDate": "1882-06-02",
+    "deathDate": "1946-06-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Antonescu%201941.jpg",
+    "approved": true
+  },
+  {
+    "name": "Michail Ivanovič Kalinin",
+    "slugs": {
+      "IT": "Michail_Ivanovič_Kalinin",
+      "EN": "Michail_Ivanovič_Kalinin"
+    },
+    "bio": "Michail Ivanovič Kalinin è stato un politico e rivoluzionario sovietico.",
+    "birthDate": "1875-11-19",
+    "deathDate": "1946-06-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gerhart Hauptmann",
+    "slugs": {
+      "IT": "Gerhart_Hauptmann",
+      "EN": "Gerhart_Hauptmann"
+    },
+    "bio": "Gerhart Johann Robert Hauptmann è stato un poeta, drammaturgo e romanziere tedesco.",
+    "birthDate": "1862-11-15",
+    "deathDate": "1946-06-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerhart%20Hauptmann%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "John Logie Baird",
+    "slugs": {
+      "IT": "John_Logie_Baird",
+      "EN": "John_Logie_Baird"
+    },
+    "bio": "John Logie Baird è stato un inventore britannico, pioniere della televisione.",
+    "birthDate": "1888-08-13",
+    "deathDate": "1946-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Logie%20Baird%20in%201917.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gertrude Stein",
+    "slugs": {
+      "IT": "Gertrude_Stein",
+      "EN": "Gertrude_Stein"
+    },
+    "bio": "Gertrude Stein è stata una scrittrice e poetessa statunitense.",
+    "birthDate": "1874-02-03",
+    "deathDate": "1946-07-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gertrude%20Stein%201935-01-04.jpg",
+    "approved": true
+  },
+  {
+    "name": "H. G. Wells",
+    "slugs": {
+      "IT": "H._G._Wells",
+      "EN": "H._G._Wells"
+    },
+    "bio": "H. G. Wells, pseudonimo di Herbert George Wells, è stato uno scrittore britannico tra i più popolari della sua epoca. Autore di alcune delle opere fondamentali della fantascienza, è ricordato come uno degli iniziatori di tale genere narrativo, grazie alle sue opere, Wells è stato definito come un \"padre della fantascienza\", insieme a Jules Verne e Hugo Gernsback.",
+    "birthDate": "1866-09-21",
+    "deathDate": "1946-08-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/H.G.%20Wells%20by%20Beresford.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hermann Göring",
+    "slugs": {
+      "IT": "Hermann_Göring",
+      "EN": "Hermann_Göring"
+    },
+    "bio": "Hermann Wilhelm Göring è stato un politico, generale e criminale di guerra tedesco.",
+    "birthDate": "1893-01-12",
+    "deathDate": "1946-10-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20G%C3%B6ring%20-%20R%C3%B6hr.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joachim von Ribbentrop",
+    "slugs": {
+      "IT": "Joachim_von_Ribbentrop",
+      "EN": "Joachim_von_Ribbentrop"
+    },
+    "bio": "Ulrich Friedrich Wilhelm Joachim Ribbentrop, dal 1925 von Ribbentrop, è stato un politico, diplomatico e criminale di guerra tedesco, ministro degli esteri della Germania nazista dal 1938 al 1945, principalmente noto per il successo ottenuto con la firma del patto Molotov-Ribbentrop. Venne condannato a morte nel processo di Norimberga per crimini di guerra.",
+    "birthDate": "1893-04-30",
+    "deathDate": "1946-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-H04810%2C%20Joachim%20von%20Ribbentrop%20%28cropped%29%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred Rosenberg",
+    "slugs": {
+      "IT": "Alfred_Rosenberg",
+      "EN": "Alfred_Rosenberg"
+    },
+    "bio": "Alfred Ernst Rosenberg è stato un politico, saggista e criminale di guerra tedesco, considerato con Hitler stesso l'ideologo del Partito nazista, condannato a morte per crimini contro l'umanità e crimini di guerra al processo di Norimberga, per il suo ruolo durante la seconda guerra mondiale e l'Olocausto.",
+    "birthDate": "1893-01-12",
+    "deathDate": "1946-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nazi%20party%20member%20Alfred%20Rosenberg%20in%20cell%20Nuremberg%20Trials.jpeg",
+    "approved": true
+  },
+  {
+    "name": "Wilhelm Keitel",
+    "slugs": {
+      "IT": "Wilhelm_Keitel",
+      "EN": "Wilhelm_Keitel"
+    },
+    "bio": "Wilhelm Bodewin Johann Gustav Keitel è stato un generale e criminale di guerra tedesco.",
+    "birthDate": "1882-09-22",
+    "deathDate": "1946-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-H30220%2C%20Wilhelm%20Keitel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred Jodl",
+    "slugs": {
+      "IT": "Alfred_Jodl",
+      "EN": "Alfred_Jodl"
+    },
+    "bio": "Alfred Jodl è stato un generale e criminale di guerra tedesco.\nÈ stato Chef des Wehrmachtführungsstabes dell'OKW durante la seconda guerra mondiale, e il 7 maggio 1945 firmò la dichiarazione di resa incondizionata della Germania alle potenze alleate. Fu condannato a morte al Processo di Norimberga mediante impiccagione.",
+    "birthDate": "1890-05-10",
+    "deathDate": "1946-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1971-033-01%2C%20Alfred%20Jodl.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hans Frank",
+    "slugs": {
+      "IT": "Hans_Frank",
+      "EN": "Hans_Frank"
+    },
+    "bio": "Hans Michael Frank è stato un avvocato, politico e criminale di guerra tedesco, avvocato del Partito nazista e di Adolf Hitler e governatore della Polonia durante l'occupazione nazista nella seconda guerra mondiale.",
+    "birthDate": "1900-05-23",
+    "deathDate": "1946-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1989-011-13%2C%20Hans%20Frank.jpg",
+    "approved": true
+  },
+  {
+    "name": "Al Capone",
+    "slugs": {
+      "IT": "Al_Capone",
+      "EN": "Al_Capone"
+    },
+    "bio": "Alphonse Gabriel “Al” Capone, noto anche con lo pseudonimo di Scarface, è stato un mafioso statunitense di origini italiane, considerato un simbolo del gangsterismo statunitense e della crisi della legalità che gli Stati Uniti d'America dovettero affrontare durante il proibizionismo.",
+    "birthDate": "1899-01-17",
+    "deathDate": "1947-01-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Capone%20in%201930.jpg",
+    "approved": true
   },
   {
     "name": "Henry Ford",
@@ -264,6 +3888,54 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20ford%201919.jpg"
   },
   {
+    "name": "Cristiano X di Danimarca",
+    "slugs": {
+      "IT": "Cristiano_X_di_Danimarca",
+      "EN": "Cristiano_X_di_Danimarca"
+    },
+    "bio": "Cristiano X di Danimarca, nome completo Christian Carl Frederik Albert Alexander Wilhelm, è stato re di Danimarca dal 1912 al 1947 e di Islanda tra il 1918 e il 1944.",
+    "birthDate": "1870-09-26",
+    "deathDate": "1947-04-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20X%20of%20Denmark%20circa%201915.jpg",
+    "approved": true
+  },
+  {
+    "name": "Frederick Gowland Hopkins",
+    "slugs": {
+      "IT": "Frederick_Gowland_Hopkins",
+      "EN": "Frederick_Gowland_Hopkins"
+    },
+    "bio": "Sir Frederick Gowland Hopkins è stato un medico e biochimico britannico.",
+    "birthDate": "1861-06-20",
+    "deathDate": "1947-05-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Gowland%20Hopkins%20nobel.jpg",
+    "approved": true
+  },
+  {
+    "name": "Philipp von Lenard",
+    "slugs": {
+      "IT": "Philipp_von_Lenard",
+      "EN": "Philipp_von_Lenard"
+    },
+    "bio": "Philipp Eduard Anton von Lenard è stato un fisico tedesco.",
+    "birthDate": "1862-06-07",
+    "deathDate": "1947-05-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Phillipp%20Lenard%20in%201900.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aung San",
+    "slugs": {
+      "IT": "Aung_San",
+      "EN": "Aung_San"
+    },
+    "bio": "Aung San è stato un generale e politico birmano.\nStudiò all'Università di Rangoon laureandosi in storia, scienze politiche e letteratura inglese, e divenne anche presidente dei sindacati studenteschi e caporedattore della rivista studentesca Oway.",
+    "birthDate": "1915-02-13",
+    "deathDate": "1947-07-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aung%20San%20color%20portrait.jpg",
+    "approved": true
+  },
+  {
     "name": "Max Planck",
     "slugs": {
       "IT": "Max_Planck",
@@ -273,6 +3945,78 @@
     "birthDate": "1858-04-23",
     "deathDate": "1947-10-04",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Planck.png"
+  },
+  {
+    "name": "Godfrey Harold Hardy",
+    "slugs": {
+      "IT": "Godfrey_Harold_Hardy",
+      "EN": "Godfrey_Harold_Hardy"
+    },
+    "bio": "Godfrey Harold Hardy è stato un matematico britannico.",
+    "birthDate": "1877-02-07",
+    "deathDate": "1947-12-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Godfrey%20Harold%20Hardy%201.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleister Crowley",
+    "slugs": {
+      "IT": "Aleister_Crowley",
+      "EN": "Aleister_Crowley"
+    },
+    "bio": "Edward Alexander Crowley, detto Aleister, è stato un esoterista, astrologo, scrittore, poeta e alpinista britannico.",
+    "birthDate": "1875-10-12",
+    "deathDate": "1947-12-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleister%20Crowley%2C%20thinker.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nikolaj Konstantinovič Rerich",
+    "slugs": {
+      "IT": "Nikolaj_Konstantinovič_Rerich",
+      "EN": "Nikolaj_Konstantinovič_Rerich"
+    },
+    "bio": "Nikolaj Konstantinovič Rerich è stato un pittore, avvocato e diplomatico russo, esponente del simbolismo e del movimento teosofico.",
+    "birthDate": "1874-09-27",
+    "deathDate": "1947-12-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/N%20Roerich.jpg",
+    "approved": true
+  },
+  {
+    "name": "Stanley Baldwin",
+    "slugs": {
+      "IT": "Stanley_Baldwin",
+      "EN": "Stanley_Baldwin"
+    },
+    "bio": "Stanley Baldwin, I conte Baldwin di Bewdley, è stato un politico britannico, membro del Partito Conservatore.",
+    "birthDate": "1867-08-03",
+    "deathDate": "1947-12-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Baldwin%20LCCN2014712420%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vittorio Emanuele III di Savoia",
+    "slugs": {
+      "IT": "Vittorio_Emanuele_III_di_Savoia",
+      "EN": "Vittorio_Emanuele_III_di_Savoia"
+    },
+    "bio": "Vittorio Emanuele III di Savoia è stato Re d'Italia dal 1900 al 1946, Imperatore d'Etiopia dal 1936 al 1943, Primo maresciallo dell'Impero dal 4 aprile 1938 e Re d'Albania dal 1939 al 1943. Abdicò il 9 maggio 1946 e gli succedette il figlio Umberto II, il quale rimase in carica per poco più di un mese.",
+    "birthDate": "1869-11-11",
+    "deathDate": "1947-12-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vitorio%20Emanuel%20III.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alfred North Whitehead",
+    "slugs": {
+      "IT": "Alfred_North_Whitehead",
+      "EN": "Alfred_North_Whitehead"
+    },
+    "bio": "Alfred North Whitehead è stato un filosofo e matematico britannico.",
+    "birthDate": "1861-02-15",
+    "deathDate": "1947-12-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ANWhitehead.jpg",
+    "approved": true
   },
   {
     "name": "Mahatma Gandhi",
@@ -286,6 +4030,258 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20studio%2C%201931.jpg"
   },
   {
+    "name": "Sergej Michajlovič Ėjzenštejn",
+    "slugs": {
+      "IT": "Sergej_Michajlovič_Ėjzenštejn",
+      "EN": "Sergej_Michajlovič_Ėjzenštejn"
+    },
+    "bio": "Sergej Michajlovič Ėjzenštejn è stato un regista, sceneggiatore, montatore, scrittore, produttore cinematografico e scenografo sovietico, ritenuto una delle personalità più influenti della storia del cinema la cui opera, per l'uso innovativo del montaggio e della composizione formale dell'immagine, ha segnato indelebilmente la settima arte. Tra i suoi film, si annoverano capolavori come: La corazzata Potëmkin, Ottobre e Aleksandr Nevskij.",
+    "birthDate": "1898-01-22",
+    "deathDate": "1948-02-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergei%20Eisenstein%2003.jpg",
+    "approved": true
+  },
+  {
+    "name": "Antonin Artaud",
+    "slugs": {
+      "IT": "Antonin_Artaud",
+      "EN": "Antonin_Artaud"
+    },
+    "bio": "Antonin Artaud /ɑ̃tɔˈnɛ̃ aʁˈto/ è stato un drammaturgo, attore, saggista e regista teatrale francese.",
+    "birthDate": "1896-09-04",
+    "deathDate": "1948-03-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonin%20Artaud%201926.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edgar de Wahl",
+    "slugs": {
+      "IT": "Edgar_de_Wahl",
+      "EN": "Edgar_de_Wahl"
+    },
+    "bio": "Edgar de Wahl è stato un linguista estone e creatore della lingua ausiliaria internazionale Occidental/Interlingue.",
+    "birthDate": "1867-08-11",
+    "deathDate": "1948-03-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20von%20Wahl%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nikolaj Aleksandrovič Berdjaev",
+    "slugs": {
+      "IT": "Nikolaj_Aleksandrovič_Berdjaev",
+      "EN": "Nikolaj_Aleksandrovič_Berdjaev"
+    },
+    "bio": "Nikolaj Aleksandrovič Berdjaev è stato un filosofo e scrittore russo.",
+    "birthDate": "1874-03-18",
+    "deathDate": "1948-03-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/NBerdyaev.jpg",
+    "approved": true
+  },
+  {
+    "name": "Osamu Dazai",
+    "slugs": {
+      "IT": "Osamu_Dazai",
+      "EN": "Osamu_Dazai"
+    },
+    "bio": "Osamu Dazai è stato uno scrittore giapponese.",
+    "birthDate": "1909-06-19",
+    "deathDate": "1948-06-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Osamu%20Dazai.jpg",
+    "approved": true
+  },
+  {
+    "name": "David Wark Griffith",
+    "slugs": {
+      "IT": "David_Wark_Griffith",
+      "EN": "David_Wark_Griffith"
+    },
+    "bio": "David Wark Griffith, all'anagrafe David Llewelyn Wark Griffith, è stato un regista, produttore cinematografico e sceneggiatore statunitense.\nLa sua fama è probabilmente pari a quella del suo film Nascita di una nazione. La storiografia cinematografica, e non solo, lo riconosce come uno dei padri del cinema, in particolare colui che stabilì le regole del cinema narrativo.",
+    "birthDate": "1875-01-22",
+    "deathDate": "1948-07-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Wark%20Griffith%20portrait.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mileva Marić",
+    "slugs": {
+      "IT": "Mileva_Marić",
+      "EN": "Mileva_Marić"
+    },
+    "bio": "Mileva Marić è stata una fisica serba.",
+    "birthDate": "1875-12-19",
+    "deathDate": "1948-08-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mileva%20Maric%201912.jpg",
+    "approved": true
+  },
+  {
+    "name": "Babe Ruth",
+    "slugs": {
+      "IT": "Babe_Ruth",
+      "EN": "Babe_Ruth"
+    },
+    "bio": "George Herman Ruth, soprannominato \"Il Bambino\" e \"The Sultan of Swat\", detto Babe, è stato un giocatore di baseball statunitense nella Major League Baseball (MLB).",
+    "birthDate": "1895-02-06",
+    "deathDate": "1948-08-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Babe%20Ruth%2C%201933.jpg",
+    "approved": true
+  },
+  {
+    "name": "Edvard Beneš",
+    "slugs": {
+      "IT": "Edvard_Beneš",
+      "EN": "Edvard_Beneš"
+    },
+    "bio": "Edvard Beneš è stato un politico cecoslovacco, particolarmente importante durante il periodo di transizione del suo paese fra l'Impero Asburgico ed il Blocco sovietico, in bilico fra Oriente ed Occidente.",
+    "birthDate": "1884-05-28",
+    "deathDate": "1948-09-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Bene%C5%A1.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mohammad Ali Jinnah",
+    "slugs": {
+      "IT": "Mohammad_Ali_Jinnah",
+      "EN": "Mohammad_Ali_Jinnah"
+    },
+    "bio": "Mohammad Ali Jinnah, nato Mahomedali Jinnahbhai, è stato un politico pakistano. Avvocato e uomo di stato, è considerato il padre fondatore del Pakistan.",
+    "birthDate": "1876-12-25",
+    "deathDate": "1948-09-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jinnah1945c.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ruth Benedict",
+    "slugs": {
+      "IT": "Ruth_Benedict",
+      "EN": "Ruth_Benedict"
+    },
+    "bio": "Ruth Fulton Benedict è stata un'antropologa statunitense.",
+    "birthDate": "1887-06-05",
+    "deathDate": "1948-09-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth%20Benedict.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hideki Tōjō",
+    "slugs": {
+      "IT": "Hideki_Tōjō",
+      "EN": "Hideki_Tōjō"
+    },
+    "bio": "Hideki Tōjō è stato un generale, politico e criminale di guerra giapponese e ricoprì l'incarico di 40º Primo ministro del Giappone durante la seconda guerra mondiale, dal 18 ottobre 1941 al 22 luglio 1944.",
+    "birthDate": "1884-12-30",
+    "deathDate": "1948-12-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hideki%20Tojo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sarojini Naidu",
+    "slugs": {
+      "IT": "Sarojini_Naidu",
+      "EN": "Sarojini_Naidu"
+    },
+    "bio": "Sarojini Naidu, nata Chattopadhyay è stata una politica e poetessa indiana.",
+    "birthDate": "1879-02-13",
+    "deathDate": "1949-03-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarojini%20Naidu.jpg",
+    "approved": true
+  },
+  {
+    "name": "Friedrich Bergius",
+    "slugs": {
+      "IT": "Friedrich_Bergius",
+      "EN": "Friedrich_Bergius"
+    },
+    "bio": "Friedrich Bergius è stato un chimico tedesco, vincitore, insieme a Carl Bosch, del premio Nobel per la chimica nel 1931 «per i contributi all'invenzione e allo sviluppo di metodi chimici ad alta pressione».",
+    "birthDate": "1884-10-11",
+    "deathDate": "1949-03-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergius.jpg",
+    "approved": true
+  },
+  {
+    "name": "Maurice Maeterlinck",
+    "slugs": {
+      "IT": "Maurice_Maeterlinck",
+      "EN": "Maurice_Maeterlinck"
+    },
+    "bio": "Maurice Polydore Marie Bernard Maeterlinck è stato un poeta, drammaturgo e saggista belga, vincitore del Premio Nobel per la Letteratura nel 1911.",
+    "birthDate": "1862-08-29",
+    "deathDate": "1949-05-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Maurice%20Maeterlinck.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sigrid Undset",
+    "slugs": {
+      "IT": "Sigrid_Undset",
+      "EN": "Sigrid_Undset"
+    },
+    "bio": "Sigrid Undset è stata una scrittrice norvegese, vincitrice del Premio Nobel per la letteratura nel 1928.",
+    "birthDate": "1882-05-20",
+    "deathDate": "1949-06-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigrid%20Undset%201928.jpg",
+    "approved": true
+  },
+  {
+    "name": "Georgi Dimitrov",
+    "slugs": {
+      "IT": "Georgi_Dimitrov",
+      "EN": "Georgi_Dimitrov"
+    },
+    "bio": "Georgi Mihajlov Dimitrov è stato un politico bulgaro e primo ministro della Repubblica Popolare di Bulgaria.",
+    "birthDate": "1882-06-30",
+    "deathDate": "1949-07-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgi%20Dimitrow.png",
+    "approved": true
+  },
+  {
+    "name": "Margaret Mitchell",
+    "slugs": {
+      "IT": "Margaret_Mitchell",
+      "EN": "Margaret_Mitchell"
+    },
+    "bio": "Margaret Munnerlyn Mitchell è stata una scrittrice e giornalista statunitense.",
+    "birthDate": "1900-11-08",
+    "deathDate": "1949-08-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Mitchell%20NYWTS%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Richard Strauss",
+    "slugs": {
+      "IT": "Richard_Strauss",
+      "EN": "Richard_Strauss"
+    },
+    "bio": "Richard Georg Strauss è stato un compositore e direttore d'orchestra tedesco del periodo tardo-romantico.\nNoto soprattutto per i suoi poemi sinfonici e le sue opere liriche, Richard Strauss non è da confondere con gli Strauss viennesi, famosi compositori di musica da ballo, con i quali non aveva parentela.",
+    "birthDate": "1864-06-11",
+    "deathDate": "1949-09-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Strauss3.jpg",
+    "approved": true
+  },
+  {
+    "name": "Schack August Steenberg Krogh",
+    "slugs": {
+      "IT": "Schack_August_Steenberg_Krogh",
+      "EN": "Schack_August_Steenberg_Krogh"
+    },
+    "bio": "Schack August Steenberg Krogh è stato un fisiologo danese Premio Nobel nel 1920.",
+    "birthDate": "1874-11-15",
+    "deathDate": "1949-09-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Krogh%20Bain%2032006.jpg",
+    "approved": true
+  },
+  {
+    "name": "Joseph Schumpeter",
+    "slugs": {
+      "IT": "Joseph_Schumpeter",
+      "EN": "Joseph_Schumpeter"
+    },
+    "bio": "Joseph Alois Schumpeter è stato un economista austriaco, tra i maggiori del XX secolo.",
+    "birthDate": "1883-02-08",
+    "deathDate": "1950-01-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Schumpeter%20ekonomialaria.jpg",
+    "approved": true
+  },
+  {
     "name": "George Orwell",
     "slugs": {
       "IT": "George_Orwell",
@@ -297,6 +4293,90 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Orwell%2C%20c.%201940%20%2841928180381%29.jpg"
   },
   {
+    "name": "Albert Lebrun",
+    "slugs": {
+      "IT": "Albert_Lebrun",
+      "EN": "Albert_Lebrun"
+    },
+    "bio": "Albert François Lebrun è stato un politico francese, e presidente della Repubblica.",
+    "birthDate": "1871-08-29",
+    "deathDate": "1950-03-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Lebrun%201932%20%282%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Heinrich Mann",
+    "slugs": {
+      "IT": "Heinrich_Mann",
+      "EN": "Heinrich_Mann"
+    },
+    "bio": "Heinrich Johann Luiz Mann è stato uno scrittore tedesco e un oppositore del regime nazionalsocialista.",
+    "birthDate": "1871-03-27",
+    "deathDate": "1950-03-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20Mann%20in%20seinen%20M%C3%BCnchner%20Jahren.png",
+    "approved": true
+  },
+  {
+    "name": "Edgar Rice Burroughs",
+    "slugs": {
+      "IT": "Edgar_Rice_Burroughs",
+      "EN": "Edgar_Rice_Burroughs"
+    },
+    "bio": "Edgar Rice Burroughs è stato uno scrittore statunitense, autore, fra l'altro, del ciclo di romanzi incentrati sulla figura di Tarzan, il personaggio della giungla allevato dalle scimmie che ha alimentato la fantasia dei lettori e degli appassionati di cinema di più di una generazione.",
+    "birthDate": "1875-09-01",
+    "deathDate": "1950-03-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BurroughsEdgarRice.jpg",
+    "approved": true
+  },
+  {
+    "name": "Léon Blum",
+    "slugs": {
+      "IT": "Léon_Blum",
+      "EN": "Léon_Blum"
+    },
+    "bio": "Léon Blum è stato un politico francese.",
+    "birthDate": "1872-04-09",
+    "deathDate": "1950-03-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Blum%20Meurisse%20b%201927.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ramana Maharshi",
+    "slugs": {
+      "IT": "Ramana_Maharshi",
+      "EN": "Ramana_Maharshi"
+    },
+    "bio": "Ramaṇa Mahārṣi, in tamil: இரமண மகரிசி, Iramaṇa Makarici è stato un mistico indiano, ed un maestro dell'Advaita Vedānta del XX secolo. È uno dei saggi più celebrati in India.",
+    "birthDate": "1879-12-30",
+    "deathDate": "1950-04-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Ramana%20Maharshi%20-%20Portrait%20-%20G.%20G%20Welling%20-%201948.jpg",
+    "approved": true
+  },
+  {
+    "name": "Cesare Pavese",
+    "slugs": {
+      "IT": "Cesare_Pavese",
+      "EN": "Cesare_Pavese"
+    },
+    "bio": "Cesare Pavese è stato uno scrittore, poeta, traduttore e critico letterario italiano, tra i più influenti e rappresentativi della sua epoca.",
+    "birthDate": "1908-09-09",
+    "deathDate": "1950-08-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesare%20pavese.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gustavo V di Svezia",
+    "slugs": {
+      "IT": "Gustavo_V_di_Svezia",
+      "EN": "Gustavo_V_di_Svezia"
+    },
+    "bio": "Gustavo V di Svezia, nome completo Oscar Gustaf Adolf, fu re di Svezia dal 1907 fino alla sua morte. Era il primogenito di re Oscar II di Svezia e Norvegia e della regina Sofia di Nassau.\nInoltre detiene il titolo di terzo monarca svedese che ha regnato più a lungo, quasi 43 anni, e fu anche l'ultimo sovrano svedese ad esercitare le prerogative reali, che vennero abolite nel 1974.",
+    "birthDate": "1858-06-16",
+    "deathDate": "1950-10-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20V%20f%C3%A4rgfoto.jpg",
+    "approved": true
+  },
+  {
     "name": "George Bernard Shaw",
     "slugs": {
       "IT": "George_Bernard_Shaw",
@@ -306,6 +4386,42 @@
     "birthDate": "1856-07-26",
     "deathDate": "1950-11-02",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Bernard%20Shaw%201936.jpg"
+  },
+  {
+    "name": "Johannes Vilhelm Jensen",
+    "slugs": {
+      "IT": "Johannes_Vilhelm_Jensen",
+      "EN": "Johannes_Vilhelm_Jensen"
+    },
+    "bio": "Johannes Vilhelm Jensen, noto anche come Johannes V. Jensen, è stato uno scrittore e poeta danese, spesso considerato il primo grande scrittore danese del XX secolo. Vinse il Premio Nobel per la letteratura nel 1944. Una delle sue sorelle, Thit Jensen, fu ella stessa una nota scrittrice oltre che una delle prime femministe.",
+    "birthDate": "1873-01-20",
+    "deathDate": "1950-11-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vilhelm%20Jensen%201944.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sri Aurobindo",
+    "slugs": {
+      "IT": "Sri_Aurobindo",
+      "EN": "Sri_Aurobindo"
+    },
+    "bio": "Sri Aurobindo è stato un filosofo e mistico indiano, considerato dai suoi discepoli un avatar, un'incarnazione dell'Assoluto.",
+    "birthDate": "1872-08-15",
+    "deathDate": "1950-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20aurobindo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vallabhbhai Patel",
+    "slugs": {
+      "IT": "Vallabhbhai_Patel",
+      "EN": "Vallabhbhai_Patel"
+    },
+    "bio": "Sardār Vallabhbhai Jhaverbhai Patel è stato un politico indiano che giocò un ruolo di primo piano nel movimento indipendentista e nell'unificazione politica del paese.",
+    "birthDate": "1875-10-31",
+    "deathDate": "1950-12-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sardar%20patel%20%28cropped%29.jpg",
+    "approved": true
   },
   {
     "name": "Iosif Stalin",
