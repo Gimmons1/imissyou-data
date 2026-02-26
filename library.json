@@ -4975,6 +4975,18 @@
     "approved": true
   },
   {
+    "name": "Pablo_Escobar",
+    "slugs": {
+      "IT": "Pablo_Escobar",
+      "EN": "Pablo_Escobar"
+    },
+    "bio": "Pablo Emilio Escobar Gaviria è stato un criminale e politico colombiano, uno dei più noti e ricchi trafficanti di cocaina e marijuana della storia.",
+    "birthDate": "1900-01-01",
+    "deathDate": "2000-01-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pablo_Escobar_Mug.jpg",
+    "approved": true
+  },
+  {
     "name": "Ronald Reagan",
     "slugs": {
       "IT": "Ronald_Reagan",
