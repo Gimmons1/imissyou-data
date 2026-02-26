@@ -4552,7 +4552,8 @@
     },
     "bio": "35º Presidente degli Stati Uniti d'America, simbolo assoluto di carisma, rinnovamento e speranza durante gli anni più tesi della Guerra Fredda. È stato assassinato a 46 anni a Dallas, colpito alla testa da un cecchino mentre sfilava su un'auto scoperta in un corteo presidenziale.",
     "birthDate": "1917-05-29",
-    "deathDate": "1963-11-22"
+    "deathDate": "1963-11-22",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
   },
   {
     "name": "C.S. Lewis",
@@ -4562,7 +4563,8 @@
     },
     "bio": "Celebre scrittore, saggista e teologo britannico. Professore a Oxford e amico intimo di J.R.R. Tolkien, è conosciuto in tutto il mondo per aver scritto la monumentale saga fantasy 'Le cronache di Narnia'. È deceduto a 64 anni nella sua casa, lo stesso giorno dell'assassinio di JFK, a causa di un'insufficienza renale.",
     "birthDate": "1898-11-29",
-    "deathDate": "1963-11-22"
+    "deathDate": "1963-11-22",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/CS_Lewis_photo_on_dust_jacket.jpg"
   },
   {
     "name": "Aldous Huxley",
@@ -4572,7 +4574,8 @@
     },
     "bio": "Scrittore, saggista e filosofo britannico dalla mente brillante. È ricordato universalmente per il suo capolavoro distopico 'Il mondo nuovo' (Brave New World). È morto a 69 anni per un cancro alla laringe, spirando serenamente sotto l'effetto dell'LSD.",
     "birthDate": "1894-07-26",
-    "deathDate": "1963-11-22"
+    "deathDate": "1963-11-22",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aldous_Huxley_psychical_researcher.png"
   },
   {
     "name": "John Fitzgerald Kennedy",
@@ -4835,7 +4838,8 @@
     },
     "bio": "Membro fondatore dei Beatles, paroliere geniale e attivista pacifista globale. Con brani immortali e profondi come 'Imagine' ha ispirato intere generazioni sognando un mondo senza barriere. La sua vita fu spezzata a 40 anni a New York, assassinato con colpi di pistola alla schiena da uno squilibrato fuori dal suo appartamento (il Dakota Building).",
     "birthDate": "1940-10-09",
-    "deathDate": "1980-12-08"
+    "deathDate": "1980-12-08",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg"
   },
   {
     "name": "Huang Xianfan",
@@ -5186,7 +5190,8 @@
     },
     "bio": "Regina del Regno Unito per oltre 70 anni, il regno più lungo della storia britannica. Ha rappresentato una figura di incrollabile dedizione e stabilità attraversando enormi stravolgimenti storici, dalla Guerra Fredda all'era digitale. È morta serenamente a 96 anni per cause naturali (vecchiaia) nel Castello di Balmoral.",
     "birthDate": "1926-04-21",
-    "deathDate": "2022-09-08"
+    "deathDate": "2022-09-08",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg"
   },
   {
     "name": "Elisabetta II del Regno Unito",
@@ -5229,7 +5234,8 @@
     },
     "bio": "Attore brillante e amatissimo dal grande pubblico per il ruolo di Chandler Bing nell'iconica sitcom 'Friends'. Dopo una vita segnata dalla lotta pubblica contro le dipendenze, per cui aveva creato fondazioni di recupero, è stato trovato senza vita a 54 anni, annegato accidentalmente a causa degli effetti acuti della ketamina.",
     "birthDate": "1969-08-19",
-    "deathDate": "2023-10-28"
+    "deathDate": "2023-10-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg"
   },
   {
     "name": "Carl Weathers",
@@ -5239,7 +5245,8 @@
     },
     "bio": "Ex giocatore di football e attore statunitense, è entrato nella storia del cinema per aver interpretato l'indimenticabile Apollo Creed nella saga di 'Rocky' al fianco di Sylvester Stallone, e per ruoli in 'Predator' e 'The Mandalorian'. È scomparso nel sonno a 76 anni a causa di malattie cardiovascolari.",
     "birthDate": "1948-01-14",
-    "deathDate": "2024-02-01"
+    "deathDate": "2024-02-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Carl_Weathers_%28cropped_3_by_4%29.jpg"
   },
   {
     "name": "Akira Toriyama",
@@ -5249,7 +5256,8 @@
     },
     "bio": "Maestro assoluto e mangaka giapponese, creatore dell'iconico universo di 'Dragon Ball' e 'Dr. Slump'. Ha definito l'immaginario collettivo di intere generazioni, vendendo centinaia di milioni di copie in tutto il mondo. È venuto a mancare inaspettatamente a 68 anni a causa di un ematoma subdurale acuto.",
     "birthDate": "1955-04-05",
-    "deathDate": "2024-03-01"
+    "deathDate": "2024-03-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Akira_Toriyama_in_1982.jpg"
   },
   {
     "name": "Alain Delon",
@@ -5259,7 +5267,8 @@
     },
     "bio": "Leggenda del cinema francese e sex symbol globale del Novecento. Ha recitato in capolavori immortali come 'Il Gattopardo' e 'Rocco e i suoi fratelli', definendo l'epoca d'oro del cinema europeo. È deceduto a 88 anni nella sua tenuta di Douchy, dopo aver lottato a lungo contro un linfoma a lenta evoluzione.",
     "birthDate": "1935-11-08",
-    "deathDate": "2024-08-18"
+    "deathDate": "2024-08-18",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Alain_Delon_1959_Rome.jpg"
   },
   {
     "name": "Maggie Smith",
@@ -5269,7 +5278,8 @@
     },
     "bio": "Una delle più grandi attrici britanniche, vincitrice di due Premi Oscar, tre Golden Globe e innumerevoli BAFTA. Resa immortale al grande pubblico per i ruoli di Minerva McGranitt nella saga di 'Harry Potter' e Violet Crawley in 'Downton Abbey'. È scomparsa serenamente a 89 anni per cause naturali, circondata dall'affetto della sua famiglia in ospedale.",
     "birthDate": "1934-12-28",
-    "deathDate": "2024-09-27"
+    "deathDate": "2024-09-27",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Maggie_Smith_-_Vintage_%28trim%29.jpg"
   },
   {
     "name": "Jimmy Carter",
