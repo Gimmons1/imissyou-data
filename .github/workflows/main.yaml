@@ -2,7 +2,8 @@ name: Aggiorna e Importa Biblioteca
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # Gira automaticamente ogni 3 ore (0, 3, 6, 9, 12, 15, 18, 21)
+    - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
       job_type:
@@ -20,6 +21,7 @@ permissions:
 
 jobs:
   update_news:
+    # Esegue il segugio delle notizie se attivato dal timer o manualmente
     if: github.event.inputs.job_type == 'news_updater' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
     steps:
@@ -27,32 +29,35 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - run: pip install requests feedparser
-      - run: python updater.py
-      - uses: peter-evans/create-pull-request@v5
+      - name: Installa dipendenze
+        run: pip install requests feedparser
+      - name: Esegui Segugio Globale
+        run: python updater.py
+      - name: Crea Pull Request per Validazione Admin
+        uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: "🤖 Aggiornamento automatico biblioteca"
-          title: "Verifica nuovi decessi rilevati"
-          body: "Trovati potenziali decessi. Controlla il file JSON e approva."
+          commit-message: "🤖 Radar Globale: Rilevati potenziali decessi"
+          title: "Revisione Decessi Internazionali"
+          body: "Il segugio ha analizzato le testate mondiali (NYT, BBC, ANSA, ecc.) e ha trovato nuovi dati. Controlla e approva per pubblicare nell'app."
           branch: "update-library"
           delete-branch: true
 
   import_history:
+    # Esegue l'importatore storico solo se richiesto manualmente
     if: github.event.inputs.job_type == 'historical_importer'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
-          
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-          
-      - run: pip install requests
-      - run: python historical_importer.py
-      
-      - name: Salva i dati sul repository
+      - name: Installa dipendenze
+        run: pip install requests
+      - name: Esegui Importatore Storico
+        run: python historical_importer.py
+      - name: Salva i dati direttamente sul repository
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📚 Importazione storica da Wikidata completata"
