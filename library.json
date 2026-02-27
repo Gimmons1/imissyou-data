@@ -1,5 +1,17 @@
 [
   {
+    "name": "Antonio Vivaldi",
+    "slugs": {
+      "IT": "Antonio_Vivaldi",
+      "EN": ""
+    },
+    "bio": "Antonio Lucio Vivaldi è stato un compositore e violinista italiano, considerato tra i massimi esponenti del barocco musicale e tra i maggiori virtuosi del suo tempo.\nSacerdote, pur non potendo celebrare la messa per motivi di salute, era chiamato \"il Prete rosso\" per il colore dei capelli.",
+    "birthDate": "1678-03-04",
+    "deathDate": "1741-07-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vivaldi.jpg",
+    "approved": false
+  },
+  {
     "name": "Benito Pérez Galdós",
     "slugs": {
       "IT": "Benito_Pérez_Galdós",
