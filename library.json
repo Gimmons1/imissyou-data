@@ -4975,18 +4975,6 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
   },
   {
-    "name": "Alan_Rickman",
-    "slugs": {
-      "IT": "Alan_Rickman",
-      "EN": "Alan_Rickman"
-    },
-    "bio": "Alan Sidney Patrick Rickman è stato un attore britannico, vincitore di un BAFTA, un Golden Globe, un Premio Emmy e uno Screen Actors Guild Award. È stato inoltre candidato due volte al Tony Award come miglior attore nel 1987 per Les Liaisons Dangereuses e nel 2002 per Private Lives. Viene ricordato, in particolare, per i numerosi ruoli da antagonista ricoperti nella sua carriera, ma soprattutto per aver interpretato Severus Piton nella saga di Harry Potter e Hans Gruber in Die Hard - Trappola di cristallo.",
-    "birthDate": "1900-01-01",
-    "deathDate": "2000-01-01",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg",
-    "approved": true
-  },
-  {
     "name": "Ronald Reagan",
     "slugs": {
       "IT": "Ronald_Reagan",
