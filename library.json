@@ -5219,17 +5219,6 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GorbachevMS.jpg"
   },
   {
-    "name": "Queen Elizabeth II",
-    "slugs": {
-      "IT": "Elisabetta_II_del_Regno_Unito",
-      "EN": "Elizabeth_II"
-    },
-    "bio": "Regina del Regno Unito per oltre 70 anni, il regno più lungo della storia britannica. Ha rappresentato una figura di incrollabile dedizione e stabilità attraversando enormi stravolgimenti storici, dalla Guerra Fredda all'era digitale. È morta serenamente a 96 anni per cause naturali (vecchiaia) nel Castello di Balmoral.",
-    "birthDate": "1926-04-21",
-    "deathDate": "2022-09-08",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg"
-  },
-  {
     "name": "Elisabetta II del Regno Unito",
     "slugs": {
       "IT": "Elisabetta_II_del_Regno_Unito",
