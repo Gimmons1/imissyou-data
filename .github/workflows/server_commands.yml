@@ -30,9 +30,9 @@ jobs:
         if: github.event.inputs.job_type == 'news_updater'
         run: python updater.py
 
-      - name: 🕰️ Avvio Importatore Storico
-        if: github.event.inputs.job_type == 'historical_importer'
-        run: python historical_importer.py
+      - name: 🔄 Aggiornamento Globale Biografie
+        if: github.event.inputs.job_type == 'update_bios'
+        run: python bio_updater.py
 
       - name: Salva i risultati nel Database
         uses: stefanzweifel/git-auto-commit-action@v5
