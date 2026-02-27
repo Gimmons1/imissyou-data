@@ -4796,6 +4796,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Charles%20de%20Gaulle%20in%201945.jpg"
   },
   {
+    "name": "Jim Morrison",
+    "slugs": {
+      "IT": "Jim_Morrison",
+      "EN": "Jim_Morrison"
+    },
+    "bio": "James Douglas Morrison, detto Jim, è stato un cantautore e poeta statunitense.\nFu il leader carismatico e frontman della band statunitense The Doors, dal 1965 al 1971.",
+    "birthDate": "1943-12-08",
+    "deathDate": "1971-07-03",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jim_Morrison_-_Young_Lion_%281967%29_%282%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Louis Armstrong",
     "slugs": {
       "IT": "Louis_Armstrong",
@@ -4860,6 +4872,18 @@
     "birthDate": "1892-01-03",
     "deathDate": "1973-09-02",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20R.%20R.%20Tolkien%2C%20ca.%201925.jpg"
+  },
+  {
+    "name": "Pamela Courson",
+    "slugs": {
+      "IT": "Pamela_Courson",
+      "EN": "Pamela_Courson"
+    },
+    "bio": "Pamela Susan Courson è stata a lungo compagna del leader dei Doors Jim Morrison, anche se i due non si sposarono mai.",
+    "birthDate": "1946-12-22",
+    "deathDate": "1974-04-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jim_Morrison%27s_girlfriend_Pam.jpg",
+    "approved": false
   },
   {
     "name": "Agatha Christie",
@@ -5163,6 +5187,18 @@
     "deathDate": "2008-01-26",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Brando_Son_Of_Marlon.jpg",
     "approved": true
+  },
+  {
+    "name": "George Stephen Morrison",
+    "slugs": {
+      "IT": "George_Stephen_Morrison",
+      "EN": "George_Stephen_Morrison"
+    },
+    "bio": "George Stephen Morrison è stato un contrammiraglio della Marina degli Stati Uniti e aviatore navale.",
+    "birthDate": "1919-01-07",
+    "deathDate": "2008-11-17",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Admiral_George_Stephen_Morrison.jpg",
+    "approved": false
   },
   {
     "name": "Michael Jackson",
