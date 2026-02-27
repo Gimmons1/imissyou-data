@@ -3458,7 +3458,7 @@
     "birthDate": "1929-06-12",
     "deathDate": "1945-02-01",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Aleksej Nikolaevič Tolstoj",
