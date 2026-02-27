@@ -8148,16 +8148,5 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
     "approved": true
-  },
-  {
-    "name": "⛔ ANCORA IN VITA: Céline Dion",
-    "slugs": {
-      "IT": "",
-      "EN": ""
-    },
-    "bio": "Questa persona risulta essere ancora in vita secondo i database mondiali. La scheda non può essere pubblicata.",
-    "birthDate": "1968-03-30",
-    "deathDate": "2026-02-27",
-    "approved": false
   }
 ]
