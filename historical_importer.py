@@ -1,136 +1,135 @@
 import requests
 import json
 import os
-import sys
+import time
+from datetime import datetime
 import urllib.parse
 
 JSON_FILE = "library.json"
+SPARQL_URL = "https://query.wikidata.org/sparql"
 # Fonti certificate e affidabili
-HEADERS = {'User-Agent': 'iMissYouApp_Core/4.1 (https://github.com/Gimmons1)'}
+HEADERS = {
+    'User-Agent': 'iMissYouApp_Historical/9.1 (https://github.com/Gimmons1)',
+    'Accept': 'application/sparql-results+json'
+}
 
-def fetch_wikipedia_data(name, lang="it"):
-    slug = name.replace(' ', '_')
+# Il calendario dinamico calcola l'anno in automatico (2026, 2027, ecc.)
+ANNO_CORRENTE = datetime.now().year
+
+EPOCHE = [
+    (1980, 1989),
+    (1990, 1999),
+    (2000, 2009),
+    (2010, 2019),
+    (2020, ANNO_CORRENTE) # <- Si aggiorna da solo fino ad oggi!
+]
+
+def get_wikipedia_bio(slug, lang="it"):
+    # Usa l'URL esatto per evitare errori con spazi e caratteri strani
     url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{urllib.parse.quote(slug)}"
     try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        if res.status_code == 200:
-            data = res.json()
-            if "extract" in data and len(data["extract"]) > 30 and data.get("type") != "disambiguation":
-                return data
-    except: pass
-    return None
+        response = requests.get(url, headers=HEADERS, timeout=(5, 5))
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("titles", {}).get("canonical", slug), data.get("extract", "")
+    except:
+        pass
+    return slug.replace('_', ' '), "Biografia recuperata dagli archivi ufficiali."
 
-def fetch_wikidata_dates(slug, lang="it"):
-    # METODO INFALLIBILE: Usa il link esatto della pagina per trovare le date reali!
-    wiki_url = f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(slug)}"
-    query = f"""
-    SELECT ?birthDate ?deathDate WHERE {{
-      <{wiki_url}> schema:about ?item .
-      OPTIONAL {{ ?item wdt:P569 ?birthDate . }}
-      OPTIONAL {{ ?item wdt:P570 ?deathDate . }}
-    }} LIMIT 1
-    """
-    try:
-        res = requests.get("https://query.wikidata.org/sparql", params={'query': query, 'format': 'json'}, headers=HEADERS, timeout=10)
-        if res.status_code == 200:
-            bindings = res.json()['results']['bindings']
-            if bindings:
-                b = bindings[0].get('birthDate', {}).get('value', '1900-01-01').split('T')[0]
-                d = bindings[0].get('deathDate', {}).get('value', '2024-01-01').split('T')[0]
-                return b, d
-    except Exception as e:
-        print(f"Errore date: {e}")
-    return "1900-01-01", "2024-01-01"
-
-def run_processor():
-    issue_title = os.environ.get("ISSUE_TITLE", "")
-    if not issue_title: return
-
+def run_historical_import():
+    print(f"Avvio ricerca dinamica (fino al {ANNO_CORRENTE})...")
+    
+    library = []
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, "r", encoding="utf-8") as f:
             try: library = json.load(f)
-            except: library = []
-    else:
-        library = []
+            except: pass
 
-    # COMANDO 1: ELIMINA o RIFIUTA
-    if issue_title.startswith("DELETE: "):
-        name_to_del = issue_title.replace("DELETE: ", "").strip().lower()
-        name_to_del_alt = name_to_del.replace(" ", "_")
-        original_count = len(library)
-        library = [p for p in library if p["name"].lower() != name_to_del and p["name"].lower() != name_to_del_alt]
+    # FILTRO ANTI-DOPPIONI: Usa lo SLUG (ID univoco) e ignora il nome testuale
+    existing_slugs = set()
+    for p in library:
+        for val in p.get("slugs", {}).values():
+            existing_slugs.add(val.lower())
+
+    new_entries = []
+
+    for inizio, fine in EPOCHE:
+        print(f"\n--- Ricerca VIP: {inizio} - {fine} ---")
         
-        if len(library) < original_count:
-            with open(JSON_FILE, "w", encoding="utf-8") as f:
-                json.dump(library, f, indent=2, ensure_ascii=False)
-            print(f"✅ Rimosso/Rifiutato: {name_to_del}")
-        return
-
-    # COMANDO 2: APPROVA UNA RICHIESTA UTENTE
-    if issue_title.startswith("APPROVE: "):
-        name_to_approve = issue_title.replace("APPROVE: ", "").strip().lower()
-        found = False
-        for p in library:
-            if p["name"].lower() == name_to_approve or p["name"].lower() == name_to_approve.replace(" ", "_"):
-                p["approved"] = True
-                found = True
-                break
+        query = f"""
+        SELECT ?person ?personLabel ?birthDate ?deathDate ?image ?sitelinks ?article WHERE {{
+          ?person wdt:P31 wd:Q5. 
+          ?person wdt:P570 ?deathDate.
+          FILTER(YEAR(?deathDate) >= {inizio} && YEAR(?deathDate) <= {fine})
+          ?person wikibase:sitelinks ?sitelinks .
+          FILTER(?sitelinks >= 40)
+          ?person wdt:P569 ?birthDate.
+          OPTIONAL {{ ?person wdt:P18 ?image. }}
+          OPTIONAL {{
+            ?article schema:about ?person .
+            ?article schema:isPartOf <https://en.wikipedia.org/> .
+          }}
+          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "it,en". }}
+        }}
+        ORDER BY DESC(?sitelinks)
+        LIMIT 100
+        """
         
-        if found:
-            with open(JSON_FILE, "w", encoding="utf-8") as f:
-                json.dump(library, f, indent=2, ensure_ascii=False)
-            print(f"✅ Approvato ufficialmente: {name_to_approve}")
-        return
+        for attempt in range(3):
+            try:
+                response = requests.get(SPARQL_URL, params={'query': query}, headers=HEADERS, timeout=(10, 30))
+                if response.status_code == 200:
+                    results = response.json()['results']['bindings']
+                    print(f" -> Trovate {len(results)} figure di spicco.")
+                    
+                    for item in results:
+                        raw_name = item['personLabel']['value'].strip()
+                        # Se il nome inizia con Q è un errore temporaneo del database, lo saltiamo
+                        if raw_name.startswith("Q") and raw_name[1:].isdigit(): 
+                            continue
+                            
+                        # Estrae lo slug inglese pulito dall'URL per identificare la persona
+                        article_url = item.get('article', {}).get('value', '')
+                        slug_en = article_url.split('/')[-1] if article_url else raw_name.replace(' ', '_')
+                        slug_en = urllib.parse.unquote(slug_en)
+                        
+                        if slug_en.lower() in existing_slugs:
+                            continue
+                            
+                        birth = item['birthDate']['value'].split('T')[0]
+                        death = item['deathDate']['value'].split('T')[0]
+                        img = item['image']['value'] if 'image' in item else None
+                        
+                        # RIMUOVE GLI UNDERSCORE: Il nome mostrato nell'App sarà perfetto
+                        clean_name = raw_name.replace('_', ' ')
+                        it_slug, bio = get_wikipedia_bio(slug_en)
+                        
+                        new_entries.append({
+                            "name": clean_name, 
+                            "slugs": {"IT": it_slug.replace(' ', '_'), "EN": slug_en},
+                            "bio": bio, 
+                            "birthDate": birth, 
+                            "deathDate": death, 
+                            "imageUrl": img, 
+                            "approved": True
+                        })
+                        existing_slugs.add(slug_en.lower())
+                        existing_slugs.add(it_slug.lower().replace(' ', '_'))
+                        time.sleep(0.2)
+                    break
+                else:
+                    time.sleep(5)
+            except Exception as e:
+                time.sleep(5)
 
-    # COMANDO 3: AGGIUNGI (Da Admin o Da Utente)
-    is_admin = issue_title.startswith("ADMIN_REQUEST: ")
-    is_user = issue_title.startswith("USER_REQUEST: ")
-
-    if is_admin or is_user:
-        prefix = "ADMIN_REQUEST: " if is_admin else "USER_REQUEST: "
-        name_to_add = issue_title.replace(prefix, "").strip()
-        
-        wiki_data = fetch_wikipedia_data(name_to_add, "it")
-        lang_used = "it"
-        if not wiki_data:
-            wiki_data = fetch_wikipedia_data(name_to_add, "en")
-            lang_used = "en"
-        
-        if not wiki_data:
-            print(f"❌ Errore: '{name_to_add}' non ha una pagina Wikipedia valida.")
-            sys.exit(1)
-
-        # PULIZIA NOME: Rimuove i trattini bassi per mostrare "Alan Rickman" anziché "Alan_Rickman"
-        raw_title = wiki_data.get("title", name_to_add)
-        real_title = raw_title.replace("_", " ") 
-        slug = wiki_data.get("titles", {}).get("canonical", raw_title)
-
-        # EVITA DOPPIONI: Controlla anche lo slug, così blocca Queen Elizabeth se hai già Elisabetta II
-        for p in library:
-            if p["name"].lower() == real_title.lower() or p["slugs"].get("EN", "").lower() == slug.lower() or p["slugs"].get("IT", "").lower() == slug.lower():
-                print("Già in archivio.")
-                return
-
-        birth, death = fetch_wikidata_dates(slug, lang_used)
-        
-        library.append({
-            "name": real_title,
-            "slugs": {"IT": slug, "EN": slug},
-            "bio": wiki_data.get("extract", "Biografia non disponibile."),
-            "birthDate": birth,
-            "deathDate": death,
-            "imageUrl": wiki_data.get("originalimage", {}).get("source", None),
-            "approved": is_admin # TRUE se sei tu, FALSE se è un utente normale
-        })
-        
+    if new_entries:
+        library.extend(new_entries)
         library.sort(key=lambda x: x['deathDate'])
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
-        
-        if is_admin:
-            print(f"✅ Aggiunto e Pubblicato: {real_title}")
-        else:
-            print(f"⏳ Aggiunto (In attesa di approvazione Admin): {real_title}")
+        print(f"\n✅ SUCCESSO: {len(new_entries)} VIP aggiunti alla biblioteca!")
+    else:
+        print("\nNessun nuovo VIP trovato (o tutti i VIP scansionati sono già presenti).")
 
 if __name__ == "__main__":
-    run_processor()
+    run_historical_import()
