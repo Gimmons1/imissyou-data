@@ -5107,18 +5107,6 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garcia%20Marquez.jpg"
   },
   {
-    "name": "Alan Rickman",
-    "slugs": {
-      "IT": "Alan_Rickman",
-      "EN": "Alan_Rickman"
-    },
-    "bio": "Alan Sidney Patrick Rickman was an English actor. A graduate of the Royal Academy of Dramatic Art, he was renowned for his stage and screen roles and for his deep and distinctive voice. He received various accolades, including a BAFTA Award, a Golden Globe Award, a Primetime Emmy Award, and a Screen Actors Guild Award, in addition to nominations for two Tony Awards and a Laurence Olivier Award.",
-    "birthDate": "1946-02-21",
-    "deathDate": "2016-01-14",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Alan_Rickman_after_Seminar_%283%29.jpg",
-    "approved": true
-  },
-  {
     "name": "Muhammad Ali",
     "slugs": {
       "IT": "Muhammad_Ali",
