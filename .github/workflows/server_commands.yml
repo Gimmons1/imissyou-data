@@ -1,0 +1,41 @@
+name: Comandi Ricevuti dall'App
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_type:
+        description: 'Quale script avviare?'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  esegui_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: 📡 Avvio Radar (Ultimo Anno)
+        if: github.event.inputs.job_type == 'news_updater'
+        run: python updater.py
+
+      - name: 🕰️ Avvio Importatore Storico
+        if: github.event.inputs.job_type == 'historical_importer'
+        run: python historical_importer.py
+
+      - name: Salva i risultati nel Database
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Aggiornamento database da comando Admin"
+          file_pattern: "library.json"
