@@ -4939,7 +4939,7 @@
     "birthDate": "1949-12-01",
     "deathDate": "1993-12-02",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pablo_Escobar_Mug.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Richard Nixon",
