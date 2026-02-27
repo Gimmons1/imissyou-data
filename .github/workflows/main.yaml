@@ -1,50 +1,50 @@
-name: Administratio Bibliothecae
+name: Aggiorna e Importa Biblioteca
 
 on:
   schedule:
-    # Executio automatica (omni 6 hora)
     - cron: '0 */6 * * *'
   workflow_dispatch:
     inputs:
       job_type:
-        description: 'Elige scriptum (Auto-Fixer vel Historical)'
+        description: 'Scegli cosa eseguire'
         required: true
-        default: 'auto_fixer'
+        default: 'news_updater'
         type: choice
         options:
-          - auto_fixer
+          - news_updater
           - historical_importer
 
 permissions:
   contents: write
 
 jobs:
-  run_script:
+  run_tasks:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repositorii
+      - name: Checkout con permessi di scrittura
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          fetch-depth: 0 # Scarica tutta la cronologia per evitare errori di push
 
-      - name: Configuratio Python
+      - name: Configurazione Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Installatio bibliothecarum
+      - name: Installa dipendenze
         run: pip install requests
 
-      - name: Executio Auto-Fixer
-        if: github.event.inputs.job_type == 'auto_fixer' || github.event_name == 'schedule'
-        run: python auto_fixer.py
+      - name: 📡 Avvio Radar
+        if: github.event.inputs.job_type == 'news_updater' || github.event_name == 'schedule'
+        run: python updater.py
 
-      - name: Executio Importatoris Historici
+      - name: 🕰️ Avvio Importatore Storico
         if: github.event.inputs.job_type == 'historical_importer'
         run: python historical_importer.py
 
-      - name: Salva data in bibliotheca (Commit)
+      - name: 🤖 Sincronizzazione e Salvataggio Forzato
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Renovatio Bibliothecae (Imagines/Historia)"
+          commit_message: "🤖 Database Auto-Sync (Fix Conflitti)"
           file_pattern: "library.json"
+          push_options: '--force' # Forza il salvataggio se i file sono diversi
