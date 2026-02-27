@@ -5264,6 +5264,18 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg"
   },
   {
+    "name": "Zinedine Zidane",
+    "slugs": {
+      "IT": "Zinedine_Zidane",
+      "EN": "Zinedine_Zidane"
+    },
+    "bio": "Zinedine Yazid Zidane, popularly known as Zizou, is a French professional football manager and former player who played as an attacking midfielder. Widely regarded as one of the greatest players of all time, Zidane was a playmaker renowned for his elegance, vision, passing, and ball control. He received many individual accolades as a player, including being named FIFA World Player of the Year in 1998, 2000 and 2003, and winning the 1998 Ballon d'Or. He last coached La Liga club Real Madrid and is one of the most successful coaches in the world.",
+    "birthDate": "1972-06-23",
+    "deathDate": "2024-01-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "approved": true
+  },
+  {
     "name": "Carl Weathers",
     "slugs": {
       "IT": "Carl_Weathers",
