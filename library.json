@@ -6326,6 +6326,138 @@
     "approved": true
   },
   {
+    "name": "Qasem Soleimani",
+    "slugs": {
+      "IT": "Qasem_Soleimani",
+      "EN": "Qasem_Soleimani"
+    },
+    "bio": "Qasem Soleimani è stato un generale e agente segreto iraniano.",
+    "birthDate": "1957-03-11",
+    "deathDate": "2020-01-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Qasem%20Soleimani%20with%20Zolfaghar%20Order%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Qābūs bin Saʿīd Āl Saʿīd",
+    "slugs": {
+      "IT": "Qābūs_bin_Saʿīd_Āl_Saʿīd",
+      "EN": "Qaboos_bin_Said"
+    },
+    "bio": "Qābūs bin Saʿīd Āl Saʿīd è stato sultano di Mascate e Oman dal 1970 al 2020. Ascese al trono dopo aver rovesciato suo padre, Saʿīd bin Taymūr, con un colpo di Stato nel 1970. 14º discendente della dinastia Āl Bū Saʿīdī, al momento della morte era il più longevo dei leader arabi.",
+    "birthDate": "1940-11-18",
+    "deathDate": "2020-01-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/QaboosBinSaidAlSaid.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kobe Bryant",
+    "slugs": {
+      "IT": "Kobe_Bryant",
+      "EN": "Kobe_Bryant"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1978-08-23",
+    "deathDate": "2020-01-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/KBryant8.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kirk Douglas",
+    "slugs": {
+      "IT": "Kirk_Douglas",
+      "EN": "Kirk_Douglas"
+    },
+    "bio": "Kirk Douglas, nato Issur Danielovitch Demsky, è stato un attore e produttore cinematografico statunitense.",
+    "birthDate": "1916-12-09",
+    "deathDate": "2020-02-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirk%20douglas%20photo%20signed.JPG",
+    "approved": true
+  },
+  {
+    "name": "Hosni Mubarak",
+    "slugs": {
+      "IT": "Hosni_Mubarak",
+      "EN": "Hosni_Mubarak"
+    },
+    "bio": "Muhammad Hosni Sayyid Ibrahim Mubarak è stato un politico e generale egiziano, quarto presidente dell'Egitto, carica che ha ricoperto per quasi 30 anni, a partire dal 14 ottobre 1981 fino all'11 febbraio 2011.",
+    "birthDate": "1928-05-04",
+    "deathDate": "2020-02-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hosni%20Mubarak%20-%20Official%20Photo.JPG",
+    "approved": true
+  },
+  {
+    "name": "Carl Reiner",
+    "slugs": {
+      "IT": "Carl_Reiner",
+      "EN": "Carl_Reiner"
+    },
+    "bio": "Carl Reiner è stato un attore, comico, sceneggiatore, produttore televisivo, regista, commediografo, e scrittore statunitense.",
+    "birthDate": "1922-03-20",
+    "deathDate": "2020-06-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Reiner%20%282012%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ennio Morricone",
+    "slugs": {
+      "IT": "Ennio_Morricone",
+      "EN": "Ennio_Morricone"
+    },
+    "bio": "Ennio Morricone è stato un compositore, direttore d'orchestra e arrangiatore italiano.",
+    "birthDate": "1928-11-10",
+    "deathDate": "2020-07-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ennio%20Morricone%20Cannes%202007.jpg",
+    "approved": true
+  },
+  {
+    "name": "Olivia de Havilland",
+    "slugs": {
+      "IT": "Olivia_de_Havilland",
+      "EN": "Olivia_de_Havilland"
+    },
+    "bio": "Dame Olivia Mary de Havilland è stata un'attrice britannica naturalizzata statunitense.",
+    "birthDate": "1916-07-01",
+    "deathDate": "2020-07-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Olivia%20de%20Havilland%2C%201948%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Pranab Mukherjee",
+    "slugs": {
+      "IT": "Pranab_Mukherjee",
+      "EN": "Pranab_Mukherjee"
+    },
+    "bio": "Pranab Kumar Mukherjee è stato un politico indiano, dal 2012 al 2017 presidente dell'India.",
+    "birthDate": "1935-12-11",
+    "deathDate": "2020-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Tim%20Geithner%20and%20Finance%20Minister%20Pranab%20Mukherjee%202010%20crop.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ruth Bader Ginsburg",
+    "slugs": {
+      "IT": "Ruth_Bader_Ginsburg",
+      "EN": "Ruth_Bader_Ginsburg"
+    },
+    "bio": "Ruth Bader Ginsburg, nata Joan Ruth Bader, è stata una giurista e magistrata statunitense, giudice della Corte suprema degli Stati Uniti d'America.",
+    "birthDate": "1933-03-15",
+    "deathDate": "2020-09-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruth%20Bader%20Ginsburg%20official%20SCOTUS%20portrait%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sean Connery",
+    "slugs": {
+      "IT": "Sean_Connery",
+      "EN": "Sean_Connery"
+    },
+    "bio": "Sir Thomas Sean Connery è stato un attore e produttore cinematografico scozzese, vincitore di un Premio Oscar, tre Golden Globe e due Premi BAFTA.",
+    "birthDate": "1930-08-25",
+    "deathDate": "2020-10-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Connery%20%281983%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Diego Maradona",
     "slugs": {
       "IT": "Diego_Armando_Maradona",
@@ -6335,6 +6467,282 @@
     "birthDate": "1960-10-30",
     "deathDate": "2020-11-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maradona%201986%20vs%20italy.jpg"
+  },
+  {
+    "name": "Diego Maradona",
+    "slugs": {
+      "IT": "Diego_Armando_Maradona",
+      "EN": "Diego_Maradona"
+    },
+    "bio": "Diego Armando Maradona è stato un calciatore, allenatore di calcio e dirigente sportivo argentino, di ruolo centrocampista, campione del mondo nel 1986 e vicecampione del mondo nel 1990 con la nazionale argentina.",
+    "birthDate": "1960-10-30",
+    "deathDate": "2020-11-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maradona%201986%20vs%20italy.jpg",
+    "approved": true
+  },
+  {
+    "name": "Valéry Giscard d'Estaing",
+    "slugs": {
+      "IT": "Valéry_Giscard_d'Estaing",
+      "EN": "Valéry_Giscard_d'Estaing"
+    },
+    "bio": "Valéry René Marie Georges Giscard d'Estaing, comunemente chiamato Giscard o designato con le sue iniziali VGE, è stato un politico francese. Fu presidente della Repubblica francese dal 27 maggio 1974 al 21 maggio 1981.",
+    "birthDate": "1926-02-02",
+    "deathDate": "2020-12-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9ry%20Giscard%20d%27Estaing%20%281975%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Hal Holbrook",
+    "slugs": {
+      "IT": "Hal_Holbrook",
+      "EN": "Hal_Holbrook"
+    },
+    "bio": "Hal Holbrook, all'anagrafe Harold Rowe Holbrook Jr., è stato un attore statunitense.",
+    "birthDate": "1925-02-17",
+    "deathDate": "2021-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hal%20Holbrook%20Our%20Town%201977%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Larry King",
+    "slugs": {
+      "IT": "Larry_King",
+      "EN": "Larry_King"
+    },
+    "bio": "Larry King, pseudonimo di Lawrence Harvey Zeiger, è stato un conduttore televisivo, conduttore radiofonico, giornalista e attore statunitense.",
+    "birthDate": "1933-11-19",
+    "deathDate": "2021-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20King%20by%20Gage%20Skidmore%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Christopher Plummer",
+    "slugs": {
+      "IT": "Christopher_Plummer",
+      "EN": "Christopher_Plummer"
+    },
+    "bio": "Arthur Christopher Orme Plummer è stato un attore canadese.",
+    "birthDate": "1929-12-13",
+    "deathDate": "2021-02-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Plummer%202007.jpg",
+    "approved": true
+  },
+  {
+    "name": "Filippo di Edimburgo",
+    "slugs": {
+      "IT": "Prince_Philip,_Duke_of_Edinburgh",
+      "EN": "Prince_Philip,_Duke_of_Edinburgh"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1921-06-10",
+    "deathDate": "2021-04-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
+    "approved": true
+  },
+  {
+    "name": "Idriss Déby",
+    "slugs": {
+      "IT": "Idriss_Déby",
+      "EN": "Idriss_Déby"
+    },
+    "bio": "Idriss Déby Itno è stato un generale e politico ciadiano.",
+    "birthDate": "1952-06-18",
+    "deathDate": "2021-04-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Idriss%20D%C3%A9by%20at%20the%20White%20House%20in%202014.jpg",
+    "approved": true
+  },
+  {
+    "name": "Michael Collins",
+    "slugs": {
+      "IT": "Michael_Collins_(astronaut)",
+      "EN": "Michael_Collins_(astronaut)"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1930-10-31",
+    "deathDate": "2021-04-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Collins%20%28S69-31742%2C%20restoration%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Donald Rumsfeld",
+    "slugs": {
+      "IT": "Donald_Rumsfeld",
+      "EN": "Donald_Rumsfeld"
+    },
+    "bio": "Donald Henry Rumsfeld è stato un politico, militare e diplomatico statunitense, segretario della difesa sotto l'amministrazione del presidente Gerald Ford dal 1975 al 1977 e successivamente sotto quella di George W. Bush dal 2001 al 2006, diventando allo stesso tempo la persona più giovane e più anziana ad aver ricoperto tale incarico.",
+    "birthDate": "1932-07-09",
+    "deathDate": "2021-06-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rumsfeld1.jpg",
+    "approved": true
+  },
+  {
+    "name": "Steven Weinberg",
+    "slugs": {
+      "IT": "Steven_Weinberg",
+      "EN": "Steven_Weinberg"
+    },
+    "bio": "Steven Weinberg è stato un fisico statunitense, premio Nobel nel 1979.",
+    "birthDate": "1933-05-03",
+    "deathDate": "2021-07-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Weinberg%202010.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gerd Müller",
+    "slugs": {
+      "IT": "Gerd_Müller",
+      "EN": "Gerd_Müller"
+    },
+    "bio": "Gerhard Müller, detto Gerd, è stato un calciatore e dirigente sportivo tedesco, di ruolo attaccante.",
+    "birthDate": "1945-11-03",
+    "deathDate": "2021-08-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerd%20M%C3%BCller%20c1973%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jean-Paul Belmondo",
+    "slugs": {
+      "IT": "Jean-Paul_Belmondo",
+      "EN": "Jean-Paul_Belmondo"
+    },
+    "bio": "Jean-Paul Charles Belmondo è stato un attore francese.",
+    "birthDate": "1933-04-09",
+    "deathDate": "2021-09-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Belmondo%201960.jpg",
+    "approved": true
+  },
+  {
+    "name": "Abdelaziz Bouteflika",
+    "slugs": {
+      "IT": "Abdelaziz_Bouteflika",
+      "EN": "Abdelaziz_Bouteflika"
+    },
+    "bio": "Abdelaziz Bouteflika è stato un politico algerino, Presidente dell'Algeria dal 1999 al 2019.",
+    "birthDate": "1937-03-02",
+    "deathDate": "2021-09-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelaziz%20Bouteflika.jpg",
+    "approved": true
+  },
+  {
+    "name": "Colin Powell",
+    "slugs": {
+      "IT": "Colin_Powell",
+      "EN": "Colin_Powell"
+    },
+    "bio": "Colin Luther Powell è stato un generale e politico statunitense.",
+    "birthDate": "1937-04-05",
+    "deathDate": "2021-10-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Colin%20Powell%20official%20Secretary%20of%20State%20photo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Frederik de Klerk",
+    "slugs": {
+      "IT": "F._W._de_Klerk",
+      "EN": "F._W._de_Klerk"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1936-03-18",
+    "deathDate": "2021-11-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederik%20Willem%20de%20Klerk%2C%201990.jpg",
+    "approved": true
+  },
+  {
+    "name": "Desmond Tutu",
+    "slugs": {
+      "IT": "Desmond_Tutu",
+      "EN": "Desmond_Tutu"
+    },
+    "bio": "Desmond Mpilo Tutu è stato un arcivescovo anglicano e attivista sudafricano, che raggiunse una fama mondiale durante gli anni ottanta come oppositore dell'apartheid.",
+    "birthDate": "1931-10-07",
+    "deathDate": "2021-12-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Archbishop-Tutu-medium.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sidney Poitier",
+    "slugs": {
+      "IT": "Sidney_Poitier",
+      "EN": "Sidney_Poitier"
+    },
+    "bio": "Sidney Poitier, IPA: [ˈpwɑːtjeɪ], è stato un attore e regista cinematografico statunitense con cittadinanza bahamense, primo attore afroamericano a vincere il Premio Oscar come miglior attore protagonista per il film I gigli del campo (1963).",
+    "birthDate": "1927-02-20",
+    "deathDate": "2022-01-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sidney%20Poitier%201968.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lata Mangeshkar",
+    "slugs": {
+      "IT": "Lata_Mangeshkar",
+      "EN": "Lata_Mangeshkar"
+    },
+    "bio": "Lata Mangeshkar è stata una cantante indiana.",
+    "birthDate": "1929-09-28",
+    "deathDate": "2022-02-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lata%20Mangeshkar%20-%20still%2029065%20crop.jpg",
+    "approved": true
+  },
+  {
+    "name": "Madeleine Albright",
+    "slugs": {
+      "IT": "Madeleine_Albright",
+      "EN": "Madeleine_Albright"
+    },
+    "bio": "Madeleine Jana Korbel Albright è stata una politica e diplomatica statunitense di origine cecoslovacca.",
+    "birthDate": "1937-05-15",
+    "deathDate": "2022-03-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Madeleine%20Albright%201997.jpg",
+    "approved": true
+  },
+  {
+    "name": "Leonid Kravčuk",
+    "slugs": {
+      "IT": "Leonid_Kravčuk",
+      "EN": "Leonid_Kravchuk"
+    },
+    "bio": "Leonid Makarovyč Kravčuk è stato un politico ucraino.\nÈ stato il primo presidente dell'Ucraina indipendente, dal 1991 al 1994.",
+    "birthDate": "1934-01-10",
+    "deathDate": "2022-05-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonid%20Kravchuk%20Senate%20of%20Poland%20%28cropped%29.JPG",
+    "approved": true
+  },
+  {
+    "name": "Shinzō Abe",
+    "slugs": {
+      "IT": "Shinzō_Abe",
+      "EN": "Shinzo_Abe"
+    },
+    "bio": "Shinzō Abe è stato un politico giapponese.",
+    "birthDate": "1954-09-21",
+    "deathDate": "2022-07-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shinz%C5%8D%20Abe%2020120501.jpg",
+    "approved": true
+  },
+  {
+    "name": "José Eduardo dos Santos",
+    "slugs": {
+      "IT": "José_Eduardo_dos_Santos",
+      "EN": "José_Eduardo_dos_Santos"
+    },
+    "bio": "José Eduardo dos Santos è stato un politico, ingegnere e generale angolano, presidente dell'Angola dal 1979 al 2017.\nEntrato nel 1961 nel Movimento Popolare di Liberazione dell'Angola (MPLA), dopo gli studi universitari nell'URSS partecipò alla lotta di liberazione del suo paese. Nel 1975, divenuta l'Angola indipendente, ricoprì vari incarichi ministeriali sotto la storica Presidenza di Agostinho Neto. Ha mantenuto la presidenza del paese e la guida dell'MPLA dalla morte di Neto, il 21 settembre 1979, fino al suo ritiro il 26 settembre 2017.",
+    "birthDate": "1942-08-28",
+    "deathDate": "2022-07-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Eduardo%20dos%20Santos%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ayman al-Zawahiri",
+    "slugs": {
+      "IT": "Ayman_al-Zawahiri",
+      "EN": "Ayman_al-Zawahiri"
+    },
+    "bio": "Ayman Muḥammad Rabīʿ al-Ẓawāhirī è stato un terrorista egiziano.",
+    "birthDate": "1951-06-19",
+    "deathDate": "2022-07-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayman%20al-Zawahiri%20portrait.JPG",
+    "approved": true
   },
   {
     "name": "Michail Gorbačëv",
@@ -6348,6 +6756,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GorbachevMS.jpg"
   },
   {
+    "name": "Michail Gorbačëv",
+    "slugs": {
+      "IT": "Michail_Gorbačëv",
+      "EN": "Mikhail_Gorbachev"
+    },
+    "bio": "Michail Sergeevič Gorbačëv, spesso traslitterato anche come Mikhail Gorbachev o Gorbaciov, è stato un politico sovietico, dal 1991 russo.",
+    "birthDate": "1931-03-02",
+    "deathDate": "2022-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GorbachevMS.jpg",
+    "approved": true
+  },
+  {
     "name": "Elisabetta II del Regno Unito",
     "slugs": {
       "IT": "Elisabetta_II_del_Regno_Unito",
@@ -6357,6 +6777,54 @@
     "birthDate": "1926-04-21",
     "deathDate": "2022-09-08",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg"
+  },
+  {
+    "name": "Elisabetta II del Regno Unito",
+    "slugs": {
+      "IT": "Elizabeth_II",
+      "EN": "Elizabeth_II"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1926-04-21",
+    "deathDate": "2022-09-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20II%20in%20March%202015.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jean-Luc Godard",
+    "slugs": {
+      "IT": "Jean-Luc_Godard",
+      "EN": "Jean-Luc_Godard"
+    },
+    "bio": "Jean-Luc Godard è stato un regista, sceneggiatore, montatore e critico cinematografico francese con cittadinanza svizzera, fra i più significativi registi della seconda metà del Novecento e fra i principali esponenti della Nouvelle Vague.",
+    "birthDate": "1930-12-03",
+    "deathDate": "2022-09-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Luc%20Godard%20at%20Berkeley%2C%201968.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jiang Zemin",
+    "slugs": {
+      "IT": "Jiang_Zemin",
+      "EN": "Jiang_Zemin"
+    },
+    "bio": "Jiang Zemin è stato un politico cinese.",
+    "birthDate": "1926-08-17",
+    "deathDate": "2022-11-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiang%20Zemin1.png",
+    "approved": true
+  },
+  {
+    "name": "Ichirō Mizuki",
+    "slugs": {
+      "IT": "Ichirou_Mizuki",
+      "EN": "Ichirou_Mizuki"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1948-01-07",
+    "deathDate": "2022-12-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ichiro%20Mizuki%2020070706%20Japan%20Expo%2003.jpg",
+    "approved": true
   },
   {
     "name": "Pelé",
@@ -6381,6 +6849,66 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg"
   },
   {
+    "name": "Papa Benedetto XVI",
+    "slugs": {
+      "IT": "Pope_Benedict_XVI",
+      "EN": "Pope_Benedict_XVI"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1927-04-16",
+    "deathDate": "2022-12-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gina Lollobrigida",
+    "slugs": {
+      "IT": "Gina_Lollobrigida",
+      "EN": "Gina_Lollobrigida"
+    },
+    "bio": "Luigia Lollobrigida, detta Gina, è stata un'attrice e artista italiana.",
+    "birthDate": "1927-07-04",
+    "deathDate": "2023-01-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gina%20Lollobrigida%20-%20Publicity%20still%20%281956%29.png",
+    "approved": true
+  },
+  {
+    "name": "Pervez Musharraf",
+    "slugs": {
+      "IT": "Pervez_Musharraf",
+      "EN": "Pervez_Musharraf"
+    },
+    "bio": "Pervez Musharraf è stato un politico e generale pakistano, presidente del Pakistan dal 20 giugno 2001 al 18 agosto 2008, autore del colpo di Stato pakistano del 1999, e dal 6 ottobre 1998 al 28 novembre 2007, capo di stato maggiore delle forze armate pakistane.",
+    "birthDate": "1943-08-11",
+    "deathDate": "2023-02-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pervez%20Musharraf%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%20-%202008%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kenzaburō Ōe",
+    "slugs": {
+      "IT": "Kenzaburō_Ōe",
+      "EN": "Kenzaburō_Ōe"
+    },
+    "bio": "Kenzaburō Ōe è stato uno scrittore giapponese, premio Nobel per la letteratura nel 1994 per aver creato \"un mondo immaginario, dove la vita e il mito si condensano per formare un'immagine sconcertante della situazione umana di oggi\". I suoi romanzi, racconti e saggi, fortemente influenzati dalla letteratura francese e americana, trattano questioni politiche, sociali e filosofiche, comprese le armi nucleari, l'energia nucleare, l'anticonformismo sociale e l'esistenzialismo.",
+    "birthDate": "1935-01-31",
+    "deathDate": "2023-03-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%202012%20-%20Kenzabur%C5%8D%20%C5%8Ce%20-%20003.jpg",
+    "approved": true
+  },
+  {
+    "name": "Tina Turner",
+    "slugs": {
+      "IT": "Tina_Turner",
+      "EN": "Tina_Turner"
+    },
+    "bio": "Tina Turner, pseudonimo di Anna Mae Bullock, è stata una cantante statunitense naturalizzata svizzera, tra le più celebri e acclamate interpreti femminili della musica rock.",
+    "birthDate": "1939-11-26",
+    "deathDate": "2023-05-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tina%20Turner%2050th%20Anniversary%20Tour.jpg",
+    "approved": true
+  },
+  {
     "name": "Silvio Berlusconi",
     "slugs": {
       "IT": "Silvio_Berlusconi",
@@ -6390,6 +6918,102 @@
     "birthDate": "1936-09-29",
     "deathDate": "2023-06-12",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Silvio_Berlusconi_%282010%29_cropped.jpg",
+    "approved": true
+  },
+  {
+    "name": "Glenda Jackson",
+    "slugs": {
+      "IT": "Glenda_Jackson",
+      "EN": "Glenda_Jackson"
+    },
+    "bio": "Glenda May Jackson è stata un'attrice e politica britannica.",
+    "birthDate": "1936-05-09",
+    "deathDate": "2023-06-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Glenda%20Jackson.JPG",
+    "approved": true
+  },
+  {
+    "name": "Milan Kundera",
+    "slugs": {
+      "IT": "Milan_Kundera",
+      "EN": "Milan_Kundera"
+    },
+    "bio": "Milan Kundera è stato uno scrittore, poeta, saggista e drammaturgo cecoslovacco di etnia ceca, naturalizzato francese. La sua opera più nota è il romanzo L'insostenibile leggerezza dell'essere.",
+    "birthDate": "1929-04-01",
+    "deathDate": "2023-07-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Kundera%20redux.jpg",
+    "approved": true
+  },
+  {
+    "name": "Sinéad O'Connor",
+    "slugs": {
+      "IT": "Sinéad_O'Connor",
+      "EN": "Sinéad_O'Connor"
+    },
+    "bio": "Sinéad Marie Bernadette O'Connor è stata una cantautrice irlandese. Nel 2017 cambiò il suo nome all'anagrafe in Magda Davitt e, dopo la conversione all'Islam nel 2018, in Shuhada' Sadaqat.",
+    "birthDate": "1966-12-08",
+    "deathDate": "2023-07-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinead%20O%27Connor%20%2814828633401%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Evgenij Prigožin",
+    "slugs": {
+      "IT": "Evgenij_Prigožin",
+      "EN": "Yevgeny_Prigozhin"
+    },
+    "bio": "Evgenij Viktorovič Prigožin è stato un imprenditore, politico e mercenario russo, che ha avuto stretti legami con il presidente russo Vladimir Putin, poi compromessi con la ribellione da lui guidata nel giugno 2023.",
+    "birthDate": "1961-06-01",
+    "deathDate": "2023-08-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B6%D0%B8%D0%BD%20%2809-08-2016%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Giorgio Napolitano",
+    "slugs": {
+      "IT": "Giorgio_Napolitano",
+      "EN": "Giorgio_Napolitano"
+    },
+    "bio": "Giorgio Napolitano è stato un politico italiano, 11º presidente della Repubblica dal 15 maggio 2006 al 14 gennaio 2015.",
+    "birthDate": "1925-06-29",
+    "deathDate": "2023-09-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Napolitano.jpg",
+    "approved": true
+  },
+  {
+    "name": "Louise Glück",
+    "slugs": {
+      "IT": "Louise_Glück",
+      "EN": "Louise_Glück"
+    },
+    "bio": "Louise Elisabeth Glück è stata una poetessa e saggista statunitense.",
+    "birthDate": "1943-04-22",
+    "deathDate": "2023-10-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Gl%C3%BCck%20circa%201977.jpg",
+    "approved": true
+  },
+  {
+    "name": "Martti Ahtisaari",
+    "slugs": {
+      "IT": "Martti_Ahtisaari",
+      "EN": "Martti_Ahtisaari"
+    },
+    "bio": "Martti Oiva Kalevi Ahtisaari è stato un diplomatico e politico finlandese.",
+    "birthDate": "1937-06-23",
+    "deathDate": "2023-10-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Martti%20Ahtisaari%202012-04-16.jpg",
+    "approved": true
+  },
+  {
+    "name": "Li Keqiang",
+    "slugs": {
+      "IT": "Li_Keqiang",
+      "EN": "Li_Keqiang"
+    },
+    "bio": "Li Keqiang è stato un politico cinese, dal marzo 2013 al marzo 2023 primo ministro cinese, nonché membro del Comitato permanente dell'ufficio politico del Partito Comunista Cinese, secondo in ordine di importanza dopo il segretario generale Xi Jinping.",
+    "birthDate": "1955-07-03",
+    "deathDate": "2023-10-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Keqiang%20%2820230104%29.jpg",
     "approved": true
   },
   {
@@ -6404,6 +7028,42 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg"
   },
   {
+    "name": "Henry Kissinger",
+    "slugs": {
+      "IT": "Henry_Kissinger",
+      "EN": "Henry_Kissinger"
+    },
+    "bio": "Henry Kissinger, nato Heinz Alfred Kissinger, è stato un politico e diplomatico statunitense.",
+    "birthDate": "1923-05-27",
+    "deathDate": "2023-11-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20A.%20Kissinger%2C%20U.S.%20Secretary%20of%20State%2C%201973-1977.jpg",
+    "approved": true
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "slugs": {
+      "IT": "Franz_Beckenbauer",
+      "EN": "Franz_Beckenbauer"
+    },
+    "bio": "Franz Anton Beckenbauer è stato un calciatore, allenatore di calcio e dirigente sportivo tedesco, di ruolo difensore.",
+    "birthDate": "1945-09-11",
+    "deathDate": "2024-01-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Beckenbauer%20%281975%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Arno Penzias",
+    "slugs": {
+      "IT": "Arno_Penzias",
+      "EN": "Arno_Allan_Penzias"
+    },
+    "bio": "Arno Allan Penzias è stato un fisico tedesco naturalizzato statunitense.",
+    "birthDate": "1933-04-26",
+    "deathDate": "2024-01-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/32.%20Tagung%201982%20Physiker%3B%20Beim%20Studentenabend%20Arno%20A.%20Penzias%20-%20W134Nr.119142%20-%20Willy%20Pragher%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Carl Weathers",
     "slugs": {
       "IT": "Carl_Weathers",
@@ -6413,6 +7073,30 @@
     "birthDate": "1948-01-14",
     "deathDate": "2024-02-01",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Carl_Weathers_%28cropped_3_by_4%29.jpg"
+  },
+  {
+    "name": "Sebastián Piñera",
+    "slugs": {
+      "IT": "Sebastián_Piñera",
+      "EN": "Sebastián_Piñera"
+    },
+    "bio": "Miguel Juan Sebastián Piñera Echenique è stato un politico e imprenditore cileno, presidente del Cile per due mandati non consecutivi: dal 2010 al 2014 e dal 2018 al 2022.",
+    "birthDate": "1949-12-01",
+    "deathDate": "2024-02-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20Oficial%20Presidente%20Pi%C3%B1era%202018.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aleksej Naval'nyj",
+    "slugs": {
+      "IT": "Aleksej_Naval'nyj",
+      "EN": "Alexei_Navalny"
+    },
+    "bio": "Aleksej Anatol'evič Naval'nyj è stato un attivista, politico e blogger russo.",
+    "birthDate": "1976-06-04",
+    "deathDate": "2024-02-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Navalny%202018%20%28cropped%29.png",
+    "approved": true
   },
   {
     "name": "Akira Toriyama",
@@ -6426,6 +7110,90 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Akira_Toriyama_in_1982.jpg"
   },
   {
+    "name": "Peter Higgs",
+    "slugs": {
+      "IT": "Peter_Higgs",
+      "EN": "Peter_Higgs"
+    },
+    "bio": "Peter Ware Higgs è stato un fisico britannico, Premio Nobel per la fisica nel 2013, condiviso con François Englert, per il suo lavoro sulla massa delle particelle subatomiche.",
+    "birthDate": "1929-05-29",
+    "deathDate": "2024-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%2024%202013.jpg",
+    "approved": true
+  },
+  {
+    "name": "Alice Munro",
+    "slugs": {
+      "IT": "Alice_Munro",
+      "EN": "Alice_Munro"
+    },
+    "bio": "Alice Ann Munro, nata Alice Ann Laidlaw è stata una scrittrice canadese, vincitrice del premio Nobel per la letteratura nel 2013.",
+    "birthDate": "1931-07-10",
+    "deathDate": "2024-05-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Munro%202006%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ebrahim Raisi",
+    "slugs": {
+      "IT": "Ebrahim_Raisi",
+      "EN": "Ebrahim_Raisi"
+    },
+    "bio": "Sayyid Ebrahim Raisol-Sadati, conosciuto semplicemente come Ebrahim Raisi o Ebraim Raisi, è stato un politico e magistrato iraniano, 8º presidente dell'Iran dal 3 agosto 2021 al 19 maggio 2024, giorno della sua morte.",
+    "birthDate": "1960-12-14",
+    "deathDate": "2024-05-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ebrahim%20Raisi%20%2819.05.2024%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Donald Sutherland",
+    "slugs": {
+      "IT": "Donald_Sutherland",
+      "EN": "Donald_Sutherland"
+    },
+    "bio": "Donald McNichol Sutherland è stato un attore canadese.",
+    "birthDate": "1935-07-17",
+    "deathDate": "2024-06-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Donald%20Sutherland%20%28cropped%29.JPG",
+    "approved": true
+  },
+  {
+    "name": "Ismail Kadare",
+    "slugs": {
+      "IT": "Ismail_Kadare",
+      "EN": "Ismail_Kadare"
+    },
+    "bio": "Ismail Kadare è stato uno scrittore, poeta, saggista e sceneggiatore albanese.",
+    "birthDate": "1936-01-28",
+    "deathDate": "2024-07-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Kadare%20%28portret%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Richard Simmons",
+    "slugs": {
+      "IT": "Richard_Simmons",
+      "EN": "Richard_Simmons"
+    },
+    "bio": "Richard Simmons, nome completo Milton Teagle \"Richard\" Simmons, è stato un personaggio televisivo e scrittore statunitense, noto principalmente per i suoi programmi TV dedicati al fitness.",
+    "birthDate": "1948-07-12",
+    "deathDate": "2024-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/RichardSimmonsSept2011.jpg",
+    "approved": true
+  },
+  {
+    "name": "Isma'il Haniyeh",
+    "slugs": {
+      "IT": "Ismāʿīl_Haniyeh",
+      "EN": "Ismail_Haniyeh"
+    },
+    "bio": "Ismāʿīl Haniyeh, riportato anche come Ismail Haniya, è stato un politico palestinese.",
+    "birthDate": "1963-05-08",
+    "deathDate": "2024-07-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayatollah%20Khamenei%20welcomed%20Ismail%20Haniyeh%20to%20his%20office%20in%202023%20%284%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Alain Delon",
     "slugs": {
       "IT": "Alain_Delon",
@@ -6435,6 +7203,18 @@
     "birthDate": "1935-11-08",
     "deathDate": "2024-08-18",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Alain_Delon_1959_Rome.jpg"
+  },
+  {
+    "name": "Alberto Fujimori",
+    "slugs": {
+      "IT": "Alberto_Fujimori",
+      "EN": "Alberto_Fujimori"
+    },
+    "bio": "Alberto Kenya Fujimori Inomoto è stato un politico peruviano di origine giapponese, presidente e poi, in seguito a un autogolpe, dittatore del Perù dal 28 luglio 1990 al 17 novembre 2000. Fu condannato per crimini contro l'umanità tra cui la sterilizzazione forzata di centinaia di migliaia di donne indigene e l'essere stato il mandante di uccisioni extragiudiziali avvenute per mano dell'esercito durante il conflitto interno peruviano.",
+    "birthDate": "1938-07-26",
+    "deathDate": "2024-09-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alberto%20Fujimori%20en%201991.jpg",
+    "approved": true
   },
   {
     "name": "Maggie Smith",
@@ -6448,6 +7228,42 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Maggie_Smith_-_Vintage_%28trim%29.jpg"
   },
   {
+    "name": "Hassan Nasrallah",
+    "slugs": {
+      "IT": "Hassan_Nasrallah",
+      "EN": "Hassan_Nasrallah"
+    },
+    "bio": "Hassan Nasrallah è stato un religioso e politico libanese, terzo segretario del partito sciita Hezbollah fino a quando fu ucciso dalle forze di difesa israeliane (IDF) nel settembre 2024.",
+    "birthDate": "1960-08-31",
+    "deathDate": "2024-09-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sayyid%20Hassan%20Nasrallah%2001%20%281%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Fethullah Gülen",
+    "slugs": {
+      "IT": "Fethullah_Gülen",
+      "EN": "Fethullah_Gülen"
+    },
+    "bio": "Fethullah Gülen è stato un predicatore, politologo e scrittore turco, studioso dell'Islam e leader del movimento Gülen che ebbe nel 2016 milioni di seguaci ed è conosciuto anche col nome più significativo di Hizmet.",
+    "birthDate": "1941-04-27",
+    "deathDate": "2024-10-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fetullahgulen.png",
+    "approved": true
+  },
+  {
+    "name": "Manmohan Singh",
+    "slugs": {
+      "IT": "Manmohan_Singh",
+      "EN": "Manmohan_Singh"
+    },
+    "bio": "Manmohan Singh è stato un economista e politico indiano, Primo ministro dell'India per 10 anni, dal 22 maggio 2004 al 26 maggio 2014. Fu membro del Partito del Congresso Indiano guidato da Sonia Gandhi.",
+    "birthDate": "1932-09-26",
+    "deathDate": "2024-12-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Portrait%20of%20the%20Prime%20Minister%20Dr.%20Manmohan%20Singh.jpg",
+    "approved": true
+  },
+  {
     "name": "Jimmy Carter",
     "slugs": {
       "IT": "Jimmy_Carter",
@@ -6459,6 +7275,90 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JimmyCarterPortrait2.jpg"
   },
   {
+    "name": "Jean-Marie Le Pen",
+    "slugs": {
+      "IT": "Jean-Marie_Le_Pen",
+      "EN": "Jean-Marie_Le_Pen"
+    },
+    "bio": "Jean Louis Marie Le Pen, detto Jean-Marie, è stato un politico francese, leader e fondatore del partito politico di estrema destra Front National (FN).",
+    "birthDate": "1928-06-20",
+    "deathDate": "2025-01-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Pen%20Jean-Marie%201999.jpg",
+    "approved": true
+  },
+  {
+    "name": "David Lynch",
+    "slugs": {
+      "IT": "David_Lynch",
+      "EN": "David_Lynch"
+    },
+    "bio": "David Keith Lynch è stato un regista, sceneggiatore, attore, musicista, produttore cinematografico e pittore statunitense.",
+    "birthDate": "1946-01-20",
+    "deathDate": "2025-01-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Lynch%20at%20the%201990%20Emmy%20Awards.jpg",
+    "approved": true
+  },
+  {
+    "name": "Horst Köhler",
+    "slugs": {
+      "IT": "Horst_Köhler",
+      "EN": "Horst_Köhler"
+    },
+    "bio": "Horst Köhler è stato un politico, economista e funzionario tedesco, presidente federale della Germania dal 1º luglio 2004 al 31 maggio 2010.",
+    "birthDate": "1943-02-22",
+    "deathDate": "2025-02-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Horst%20K%C3%B6hler.jpg",
+    "approved": true
+  },
+  {
+    "name": "Gene Hackman",
+    "slugs": {
+      "IT": "Gene_Hackman",
+      "EN": "Gene_Hackman"
+    },
+    "bio": "Eugene Allen Hackman, detto Gene, è stato un attore statunitense.",
+    "birthDate": "1930-01-30",
+    "deathDate": "2025-02-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20Hackman%20-%201972.jpg",
+    "approved": true
+  },
+  {
+    "name": "Boris Vasil'evič Spasskij",
+    "slugs": {
+      "IT": "Boris_Spasskij",
+      "EN": "Boris_Spassky"
+    },
+    "bio": "Boris Vasil'evič Spasskij è stato uno scacchista sovietico, decimo campione del mondo dal 1969 al 1972.",
+    "birthDate": "1937-01-30",
+    "deathDate": "2025-02-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dhr.%20Boris%20Spassky%2C%20Bestanddeelnr%20932-7320.jpg",
+    "approved": true
+  },
+  {
+    "name": "Val Kilmer",
+    "slugs": {
+      "IT": "Val_Kilmer",
+      "EN": "Val_Kilmer"
+    },
+    "bio": "Val Edward Kilmer è stato un attore statunitense.",
+    "birthDate": "1959-12-31",
+    "deathDate": "2025-04-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Val%20Kilmer%20Cannes.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mario Vargas Llosa",
+    "slugs": {
+      "IT": "Mario_Vargas_Llosa",
+      "EN": "Mario_Vargas_Llosa"
+    },
+    "bio": "Jorge Mario Pedro Vargas Llosa è stato uno scrittore e drammaturgo peruviano naturalizzato spagnolo.",
+    "birthDate": "1936-03-28",
+    "deathDate": "2025-04-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Vargas%20Llosa%20%28crop%202%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Papa Francesco",
     "slugs": {
       "IT": "Papa_Francesco",
@@ -6468,6 +7368,174 @@
     "birthDate": "1936-12-17",
     "deathDate": "2025-04-21",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg"
+  },
+  {
+    "name": "Papa Francesco",
+    "slugs": {
+      "IT": "Pope_Francis",
+      "EN": "Pope_Francis"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1936-12-17",
+    "deathDate": "2025-04-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg",
+    "approved": true
+  },
+  {
+    "name": "José Mujica",
+    "slugs": {
+      "IT": "José_Mujica",
+      "EN": "José_Mujica"
+    },
+    "bio": "José Alberto Mujica Cordano è stato un politico e guerrigliero uruguaiano, conosciuto pubblicamente come Pepe Mujica, presidente dell'Uruguay dal 1º marzo 2010 al 1º marzo 2015. Con un passato da guerrigliero nei Tupamaros ai tempi della dittatura, fu eletto deputato, senatore e, tra il 2005 e il 2008, fu ministro dell'allevamento, agricoltura e pesca. Fu leader del Movimento di Partecipazione Popolare (MPP), raggruppamento maggioritario del Fronte Ampio, fino alle sue dimissioni avvenute il 24 maggio 2009. Il 30 novembre 2009 vinse le elezioni presidenziali, battendo al ballottaggio Luis Alberto Lacalle.",
+    "birthDate": "1935-05-20",
+    "deathDate": "2025-05-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/13.07.2023%20-%2059%C2%BA%20Congresso%20da%20Uni%C3%A3o%20Nacional%20dos%20Estudantes%20%E2%80%93%20UNE%20%2853044654694%29%20%28cropped2%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ngugi wa Thiong'o",
+    "slugs": {
+      "IT": "Ngugi_wa_Thiong'o",
+      "EN": "Ngũgĩ_wa_Thiong'o"
+    },
+    "bio": "Ngugi wa Thiong'o, noto anche come James Ngugi, è stato uno scrittore, poeta e drammaturgo keniota, considerato uno dei principali autori della letteratura africana.",
+    "birthDate": "1938-01-05",
+    "deathDate": "2025-05-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ng%C5%A9g%C4%A9%20wa%20Thiong%27o%202019%20%2848139052733%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Muhammadu Buhari",
+    "slugs": {
+      "IT": "Muhammadu_Buhari",
+      "EN": "Muhammadu_Buhari"
+    },
+    "bio": "Muhammadu Buhari è stato un politico e generale nigeriano, Presidente della Nigeria dal 29 maggio 2015 al 29 maggio 2023, già in carica dal 1983 al 1985 in qualità di Presidente del Consiglio Militare Supremo.",
+    "birthDate": "1942-12-17",
+    "deathDate": "2025-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammadu%20Buhari%2C%20President%20of%20the%20Federal%20Republic%20of%20Nigeria%20%28cropped3%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "slugs": {
+      "IT": "Ozzy_Osbourne",
+      "EN": "Ozzy_Osbourne"
+    },
+    "bio": "John Michael Osbourne, detto Ozzy, è stato un cantautore e compositore britannico.",
+    "birthDate": "1948-12-03",
+    "deathDate": "2025-07-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/OzzyChangingHands02-20-2010.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charlie Kirk",
+    "slugs": {
+      "IT": "Charlie_Kirk",
+      "EN": "Charlie_Kirk"
+    },
+    "bio": "Charles James Kirk, detto Charlie, è stato un attivista e opinionista statunitense.",
+    "birthDate": "1993-10-14",
+    "deathDate": "2025-09-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Kirk%20%2853952923573%29%20%28headshot%20cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Redford",
+    "slugs": {
+      "IT": "Robert_Redford",
+      "EN": "Robert_Redford"
+    },
+    "bio": "Charles Robert Redford Jr., detto Robert, è stato un attore, regista e produttore cinematografico statunitense.",
+    "birthDate": "1936-08-18",
+    "deathDate": "2025-09-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Redford%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Claudia Cardinale",
+    "slugs": {
+      "IT": "Claudia_Cardinale",
+      "EN": "Claudia_Cardinale"
+    },
+    "bio": "Claudia Cardinale, all'anagrafe Claude Joséphine Rose Cardinale, è stata un'attrice italiana.",
+    "birthDate": "1938-04-15",
+    "deathDate": "2025-09-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudia%20Cardinale%201960.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jane Goodall",
+    "slugs": {
+      "IT": "Jane_Goodall",
+      "EN": "Jane_Goodall"
+    },
+    "bio": "Dame Valerie Jane Morris-Goodall è stata un'etologa e antropologa britannica.",
+    "birthDate": "1934-04-03",
+    "deathDate": "2025-10-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Deputy%20Secretary%20Higginbottom%20Poses%20for%20a%20Photo%20With%20Dr.%20Jane%20Goodall%20and%20the%20State%20Department%27s%20Global%20Health%20Diplomacy%20Director%20Jordan%20in%20Washington%20%2822365513310%29%20%282%29%20%28cropped%202%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Diane Keaton",
+    "slugs": {
+      "IT": "Diane_Keaton",
+      "EN": "Diane_Keaton"
+    },
+    "bio": "Diane Keaton, pseudonimo di Diane Hall, è stata un'attrice, produttrice cinematografica e regista statunitense.",
+    "birthDate": "1946-01-05",
+    "deathDate": "2025-10-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Diane%20Keaton%20by%20Firooz%20Zahedi%202.jpg",
+    "approved": true
+  },
+  {
+    "name": "Chen Ning Yang",
+    "slugs": {
+      "IT": "Yang_Chen-Ning",
+      "EN": "Yang_Chen-Ning"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1922-10-01",
+    "deathDate": "2025-10-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang.jpg",
+    "approved": true
+  },
+  {
+    "name": "Dick Cheney",
+    "slugs": {
+      "IT": "Dick_Cheney",
+      "EN": "Dick_Cheney"
+    },
+    "bio": "Richard Bruce Cheney, detto Dick, è stato un politico statunitense, 46º vicepresidente degli Stati Uniti d'America dal 2001 al 2009 sotto la presidenza di George W. Bush.",
+    "birthDate": "1941-01-30",
+    "deathDate": "2025-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Cheney%202003%20official%20portrait.jpg",
+    "approved": true
+  },
+  {
+    "name": "James Dewey Watson",
+    "slugs": {
+      "IT": "James_Watson",
+      "EN": "James_Watson"
+    },
+    "bio": "",
+    "birthDate": "1928-04-06",
+    "deathDate": "2025-11-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20D.%20Watson%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Frank Gehry",
+    "slugs": {
+      "IT": "Frank_Gehry",
+      "EN": "Frank_Gehry"
+    },
+    "bio": "Frank Owen Gehry è stato un architetto canadese naturalizzato statunitense.",
+    "birthDate": "1929-02-28",
+    "deathDate": "2025-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Gehry%2C%20Viljo%20Revell%20Centenary%20reception%2C%202010%20%28S2311%20fl2969%20it0089%29%20%28cropped%29.jpg",
+    "approved": true
   },
   {
     "name": "James Ransone",
