@@ -5165,6 +5165,18 @@
     "approved": true
   },
   {
+    "name": "Michael Jackson",
+    "slugs": {
+      "IT": "Michael_Jackson",
+      "EN": "Michael_Jackson"
+    },
+    "bio": "Michael Joseph Jackson è stato un cantautore, ballerino, coreografo, compositore, imprenditore, produttore discografico, poeta, scrittore e filantropo statunitense.",
+    "birthDate": "1958-08-29",
+    "deathDate": "2009-06-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
+    "approved": true
+  },
+  {
     "name": "J. D. Salinger",
     "slugs": {
       "IT": "J._D._Salinger",
