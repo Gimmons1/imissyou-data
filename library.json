@@ -3449,6 +3449,18 @@
     "approved": true
   },
   {
+    "name": "Anne Frank",
+    "slugs": {
+      "IT": "",
+      "EN": "Anne_Frank"
+    },
+    "bio": "Annelies Marie Frank was a German-born Jewish diarist and Holocaust victim. She gained worldwide fame posthumously for keeping a diary documenting her life in hiding during the German occupation of the Netherlands. In the diary, she regularly described her family's everyday life in their hiding place in an Amsterdam attic from 1942 until their arrest in 1944.",
+    "birthDate": "1929-06-12",
+    "deathDate": "1945-02-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Aleksej Nikolaevič Tolstoj",
     "slugs": {
       "IT": "Aleksej_Nikolaevič_Tolstoj",
@@ -4878,6 +4890,18 @@
     "birthDate": "1899-08-13",
     "deathDate": "1980-04-29",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hitchcock%2C%20Alfred%2002.jpg"
+  },
+  {
+    "name": "Otto Frank",
+    "slugs": {
+      "IT": "Otto_Frank",
+      "EN": ""
+    },
+    "bio": "Otto Heinrich Frank è stato un dirigente d'azienda tedesco di famiglia ebraica, superstite dell'Olocausto. Deve la sua fama al fatto di aver pubblicato il diario di sua figlia, Anna Frank, vittima dell'Olocausto.",
+    "birthDate": "1889-05-12",
+    "deathDate": "1980-08-19",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Otto_Frank_%281961%29.jpg",
+    "approved": false
   },
   {
     "name": "John Lennon",
