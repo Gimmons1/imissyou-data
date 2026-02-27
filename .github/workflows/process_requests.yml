@@ -10,12 +10,13 @@ permissions:
 
 jobs:
   process_admin_command:
-    # FIX: Ora il server ascolta TUTTI i comandi (Approva, Rifiuta, Bulk, ecc.)
     if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del codice sorgente
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # FIX: Scarica la cronologia per evitare conflitti
 
       - name: Configurazione Python
         uses: actions/setup-python@v4
@@ -35,6 +36,7 @@ jobs:
         with:
           commit_message: "⚡ Aggiornamento Database Admin da App"
           file_pattern: "library.json"
+          push_options: '--force' # FIX: Forza il salvataggio sovrascrivendo i blocchi
 
       - name: Chiudi il Ticket elaborato
         uses: peter-evans/close-issue@v3
