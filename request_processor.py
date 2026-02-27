@@ -6,18 +6,21 @@ import urllib.parse
 from datetime import datetime
 
 JSON_FILE = "library.json"
-HEADERS = {'User-Agent': 'iMissYouApp_Core/6.0 (https://github.com/Gimmons1)'}
+# Fonti certificate
+HEADERS = {'User-Agent': 'iMissYouApp_Core/7.0 (https://github.com/Gimmons1)'}
 
-def suggest_correct_name(query, lang="it"):
-    url = f"https://{lang}.wikipedia.org/w/api.php?action=opensearch&search={urllib.parse.quote(query)}&limit=1&format=json"
+def search_wikipedia_titles(query, lang="it"):
+    # Usa l'API di ricerca di Wikipedia per trovare fino a 4 omonimi famosi
+    url = f"https://{lang}.wikipedia.org/w/api.php?action=query&list=search&srsearch={urllib.parse.quote(query)}&utf8=&format=json&srlimit=4"
+    titles = []
     try:
         res = requests.get(url, headers=HEADERS, timeout=5)
         if res.status_code == 200:
             data = res.json()
-            if len(data) > 1 and len(data[1]) > 0:
-                return data[1][0]
+            for item in data.get("query", {}).get("search", []):
+                titles.append(item["title"])
     except: pass
-    return None
+    return titles
 
 def fetch_wikipedia_data(name, lang="it"):
     slug = name.replace(' ', '_')
@@ -46,7 +49,6 @@ def fetch_wikidata_dates(slug, lang="it"):
             bindings = res.json()['results']['bindings']
             if bindings:
                 b = bindings[0].get('birthDate', {}).get('value', '1900-01-01').split('T')[0]
-                # SE NON HA UNA DATA DI MORTE, È VIVO (restituisco None)
                 d = bindings[0].get('deathDate', {}).get('value')
                 if d:
                     return b, d.split('T')[0]
@@ -66,37 +68,44 @@ def run_processor():
     else:
         library = []
 
-    # COMANDO: APPROVA TUTTE LE SCHEDE IN ATTESA IN UN COLPO SOLO
-    if issue_title.startswith("APPROVE_ALL"):
+    # COMANDO: APPROVA MULTIPLA
+    if issue_title.startswith("APPROVE_BULK: "):
+        names_to_approve = issue_title.replace("APPROVE_BULK: ", "").split("|")
+        names_to_approve = [n.strip().lower() for n in names_to_approve]
+        found = False
         for p in library:
-            if not p.get("approved", True):
+            name_clean = p["name"].lower()
+            name_alt = name_clean.replace(" ", "_")
+            if name_clean in names_to_approve or name_alt in names_to_approve:
                 p["approved"] = True
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(library, f, indent=2, ensure_ascii=False)
-        print("✅ Approvate tutte le schede in attesa.")
-        return
-
-    # COMANDO: ELIMINA o RIFIUTA
-    if issue_title.startswith("DELETE: "):
-        name_to_del = issue_title.replace("DELETE: ", "").strip().lower()
-        name_to_del_alt = name_to_del.replace(" ", "_")
-        
-        # Elimina anche se ci sono le diciture "⚠️ ERRORE" o "⛔ ANCORA IN VITA"
-        name_to_del_clean = name_to_del.replace("⚠️ errore: ", "").replace("⛔ ancora in vita: ", "")
-        
-        original_count = len(library)
-        library = [p for p in library if 
-                   p["name"].lower() != name_to_del and 
-                   p["name"].lower() != name_to_del_alt and
-                   p["name"].lower() != f"⚠️ errore: {name_to_del_clean}" and
-                   p["name"].lower() != f"⛔ ancora in vita: {name_to_del_clean}"]
-        
-        if len(library) < original_count:
+                found = True
+        if found:
             with open(JSON_FILE, "w", encoding="utf-8") as f:
                 json.dump(library, f, indent=2, ensure_ascii=False)
         return
 
-    # COMANDO: APPROVA SINGOLA RICHIESTA UTENTE
+    # COMANDO: ELIMINA MULTIPLA
+    if issue_title.startswith("DELETE_BULK: "):
+        names_to_del = issue_title.replace("DELETE_BULK: ", "").split("|")
+        names_to_del = [n.strip().lower() for n in names_to_del]
+        original_count = len(library)
+        new_library = []
+        for p in library:
+            p_name = p["name"].lower()
+            match = False
+            for target in names_to_del:
+                target_clean = target.replace("⚠️ errore: ", "").replace("⛔ ancora in vita: ", "")
+                if p_name == target or p_name == target.replace(" ", "_") or p_name == f"⚠️ errore: {target_clean}" or p_name == f"⛔ ancora in vita: {target_clean}":
+                    match = True
+                    break
+            if not match:
+                new_library.append(p)
+        if len(new_library) < original_count:
+            with open(JSON_FILE, "w", encoding="utf-8") as f:
+                json.dump(new_library, f, indent=2, ensure_ascii=False)
+        return
+
+    # COMANDO: APPROVA SINGOLA
     if issue_title.startswith("APPROVE: "):
         name_to_approve = issue_title.replace("APPROVE: ", "").strip().lower()
         found = False
@@ -110,7 +119,32 @@ def run_processor():
                 json.dump(library, f, indent=2, ensure_ascii=False)
         return
 
-    # COMANDO: AGGIUNGI (Admin o Utente)
+    # COMANDO: ELIMINA SINGOLA
+    if issue_title.startswith("DELETE: "):
+        name_to_del = issue_title.replace("DELETE: ", "").strip().lower()
+        name_to_del_alt = name_to_del.replace(" ", "_")
+        name_to_del_clean = name_to_del.replace("⚠️ errore: ", "").replace("⛔ ancora in vita: ", "")
+        original_count = len(library)
+        library = [p for p in library if 
+                   p["name"].lower() != name_to_del and 
+                   p["name"].lower() != name_to_del_alt and
+                   p["name"].lower() != f"⚠️ errore: {name_to_del_clean}" and
+                   p["name"].lower() != f"⛔ ancora in vita: {name_to_del_clean}"]
+        if len(library) < original_count:
+            with open(JSON_FILE, "w", encoding="utf-8") as f:
+                json.dump(library, f, indent=2, ensure_ascii=False)
+        return
+
+    # COMANDO: APPROVA TUTTE
+    if issue_title.startswith("APPROVE_ALL"):
+        for p in library:
+            if not p.get("approved", True):
+                p["approved"] = True
+        with open(JSON_FILE, "w", encoding="utf-8") as f:
+            json.dump(library, f, indent=2, ensure_ascii=False)
+        return
+
+    # COMANDO: AGGIUNGI (Cerca omonimi ed esegue il cross-check su tutti)
     is_admin = issue_title.startswith("ADMIN_REQUEST: ")
     is_user = issue_title.startswith("USER_REQUEST: ")
 
@@ -118,74 +152,94 @@ def run_processor():
         prefix = "ADMIN_REQUEST: " if is_admin else "USER_REQUEST: "
         name_to_add = issue_title.replace(prefix, "").strip()
         
-        wiki_data = fetch_wikipedia_data(name_to_add, "it")
-        lang_used = "it"
-        if not wiki_data:
-            wiki_data = fetch_wikipedia_data(name_to_add, "en")
-            lang_used = "en"
+        # Cerca i nomi potenziali (incluso l'omonimia)
+        candidates_it = search_wikipedia_titles(name_to_add, "it")
+        candidates_en = search_wikipedia_titles(name_to_add, "en")
+        
+        titles_it = []
+        for t in [name_to_add] + candidates_it:
+            if t.lower() not in [x.lower() for x in titles_it]: titles_it.append(t)
             
-        if not wiki_data:
-            suggested = suggest_correct_name(name_to_add, "it") or suggest_correct_name(name_to_add, "en")
-            if suggested:
-                wiki_data = fetch_wikipedia_data(suggested, "it")
-                lang_used = "it"
-                if not wiki_data:
-                    wiki_data = fetch_wikipedia_data(suggested, "en")
-                    lang_used = "en"
+        titles_en = []
+        for t in [name_to_add] + candidates_en:
+            if t.lower() not in [x.lower() for x in titles_en]: titles_en.append(t)
 
-        if not wiki_data:
-            library.append({
-                "name": f"⚠️ ERRORE: {name_to_add}",
-                "slugs": {"IT": "", "EN": ""},
-                "bio": "ATTENZIONE ADMIN: Il server non ha trovato nessuna pagina Wikipedia per questo nome. Usa il cestino rosso per eliminare questa scheda.",
-                "birthDate": "1900-01-01",
-                "deathDate": datetime.now().strftime("%Y-%m-%d"),
-                "imageUrl": None,
-                "approved": False 
-            })
-            with open(JSON_FILE, "w", encoding="utf-8") as f:
-                json.dump(library, f, indent=2, ensure_ascii=False)
-            sys.exit(0)
+        added_anyone = False
+        alive_found = False
+        alive_name = ""
 
-        raw_title = wiki_data.get("title", name_to_add)
-        real_title = raw_title.replace("_", " ") 
-        slug = wiki_data.get("titles", {}).get("canonical", raw_title)
+        # Setaccia tutti gli omonimi trovati
+        for lang, titles in [("it", titles_it), ("en", titles_en)]:
+            for title in titles:
+                wiki_data = fetch_wikipedia_data(title, lang)
+                if not wiki_data: continue
 
-        for p in library:
-            if p["name"].lower() == real_title.lower() or p["slugs"].get("EN", "").lower() == slug.lower() or p["slugs"].get("IT", "").lower() == slug.lower():
-                return
+                raw_title = wiki_data.get("title", title)
+                real_title = raw_title.replace("_", " ") 
+                slug = wiki_data.get("titles", {}).get("canonical", raw_title)
 
-        birth, death = fetch_wikidata_dates(slug, lang_used)
+                # Verifica se questo specifico omonimo è già nel database
+                already_exists = False
+                for p in library:
+                    if p["name"].lower() == real_title.lower() or p["slugs"].get("EN", "").lower() == slug.lower() or p["slugs"].get("IT", "").lower() == slug.lower():
+                        already_exists = True
+                        break
+                if already_exists:
+                    continue 
+
+                birth, death = fetch_wikidata_dates(slug, lang)
+                
+                # CROSS CHECK: Se non c'è una data di morte, è vivo!
+                if not death:
+                    if title.lower() == name_to_add.lower() or real_title.lower() == name_to_add.lower():
+                        alive_found = True
+                        alive_name = real_title
+                    continue
+                    
+                # È MORTO ED È FAMOSO! Lo estraiamo.
+                slug_dict = {"IT": slug, "EN": slug}
+                if lang == "it": slug_dict["EN"] = ""
+                else: slug_dict["IT"] = ""
+                    
+                library.append({
+                    "name": real_title,
+                    "slugs": slug_dict,
+                    "bio": wiki_data.get("extract", "Biografia non disponibile."),
+                    "birthDate": birth,
+                    "deathDate": death,
+                    "imageUrl": wiki_data.get("originalimage", {}).get("source", None),
+                    "approved": is_admin
+                })
+                added_anyone = True
+
+        # Se non abbiamo trovato NESSUN morto tra tutti gli omonimi indagati
+        if not added_anyone:
+            if alive_found:
+                library.append({
+                    "name": f"⛔ ANCORA IN VITA: {alive_name}",
+                    "slugs": {"IT": "", "EN": ""},
+                    "bio": "CROSS-CHECK FALLITO: Secondo i dati mondiali (Wikidata), questa persona è in vita e non sono stati trovati omonimi deceduti. Usa il cestino rosso per rimuovere questa scheda.",
+                    "birthDate": "1900-01-01",
+                    "deathDate": datetime.now().strftime("%Y-%m-%d"),
+                    "imageUrl": None,
+                    "approved": False 
+                })
+            else:
+                library.append({
+                    "name": f"⚠️ ERRORE: {name_to_add}",
+                    "slugs": {"IT": "", "EN": ""},
+                    "bio": "ATTENZIONE ADMIN: Il server non ha trovato nessuna persona celebre deceduta corrispondente a questo nome (né tra i suoi omonimi). Elimina questa scheda col cestino.",
+                    "birthDate": "1900-01-01",
+                    "deathDate": datetime.now().strftime("%Y-%m-%d"),
+                    "imageUrl": None,
+                    "approved": False 
+                })
         
-        # CROSS-CHECK VITA/MORTE RIGOROSO SULLE FONTI AFFIDABILI
-        if not death:
-            print(f"❌ BLOCCATO: {real_title} risulta in vita!")
-            library.append({
-                "name": f"⛔ ANCORA IN VITA: {real_title}",
-                "slugs": {"IT": "", "EN": ""},
-                "bio": "CROSS-CHECK FALLITO: Secondo i dati incrociati mondiali (Wikidata), questa persona è attualmente in vita. La scheda non può essere pubblicata nell'App. Eliminala usando il cestino rosso.",
-                "birthDate": birth,
-                "deathDate": datetime.now().strftime("%Y-%m-%d"),
-                "imageUrl": wiki_data.get("originalimage", {}).get("source", None),
-                "approved": False 
-            })
-            with open(JSON_FILE, "w", encoding="utf-8") as f:
-                json.dump(library, f, indent=2, ensure_ascii=False)
-            sys.exit(0)
-        
-        library.append({
-            "name": real_title,
-            "slugs": {"IT": slug, "EN": slug},
-            "bio": wiki_data.get("extract", "Biografia non disponibile."),
-            "birthDate": birth,
-            "deathDate": death,
-            "imageUrl": wiki_data.get("originalimage", {}).get("source", None),
-            "approved": is_admin
-        })
-        
+        # Scrive il file salvando tutti i nuovi omonimi
         library.sort(key=lambda x: x['deathDate'])
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
+        sys.exit(0)
 
 if __name__ == "__main__":
     run_processor()
