@@ -3504,7 +3504,7 @@
     "birthDate": "1889-04-20",
     "deathDate": "1945-04-30",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Joseph Goebbels",
