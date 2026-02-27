@@ -5,8 +5,19 @@ import sys
 import urllib.parse
 
 JSON_FILE = "library.json"
-# Fonti certificate e affidabili (Wikipedia e Wikidata)
-HEADERS = {'User-Agent': 'iMissYouApp_Core/5.0 (https://github.com/Gimmons1)'}
+HEADERS = {'User-Agent': 'iMissYouApp_Core/5.5 (https://github.com/Gimmons1)'}
+
+# NUOVA FUNZIONE: Tenta di auto-correggere gli errori di battitura (es. Emmywinhouse -> Amy Winehouse)
+def suggest_correct_name(query, lang="it"):
+    url = f"https://{lang}.wikipedia.org/w/api.php?action=opensearch&search={urllib.parse.quote(query)}&limit=1&format=json"
+    try:
+        res = requests.get(url, headers=HEADERS, timeout=5)
+        if res.status_code == 200:
+            data = res.json()
+            if len(data) > 1 and len(data[1]) > 0:
+                return data[1][0] # Restituisce il nome corretto suggerito
+    except: pass
+    return None
 
 def fetch_wikipedia_data(name, lang="it"):
     slug = name.replace(' ', '_')
@@ -21,7 +32,6 @@ def fetch_wikipedia_data(name, lang="it"):
     return None
 
 def fetch_wikidata_dates(slug, lang="it"):
-    # METODO INFALLIBILE: Usa il link esatto della pagina per trovare le date reali!
     wiki_url = f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(slug)}"
     query = f"""
     SELECT ?birthDate ?deathDate WHERE {{
@@ -38,8 +48,7 @@ def fetch_wikidata_dates(slug, lang="it"):
                 b = bindings[0].get('birthDate', {}).get('value', '1900-01-01').split('T')[0]
                 d = bindings[0].get('deathDate', {}).get('value', '2024-01-01').split('T')[0]
                 return b, d
-    except Exception as e:
-        print(f"Errore date: {e}")
+    except: pass
     return "1900-01-01", "2024-01-01"
 
 def run_processor():
@@ -53,7 +62,7 @@ def run_processor():
     else:
         library = []
 
-    # COMANDO 1: ELIMINA (Admin) o RIFIUTA (Richiesta Utente)
+    # COMANDO: ELIMINA o RIFIUTA
     if issue_title.startswith("DELETE: "):
         name_to_del = issue_title.replace("DELETE: ", "").strip().lower()
         name_to_del_alt = name_to_del.replace(" ", "_")
@@ -63,10 +72,9 @@ def run_processor():
         if len(library) < original_count:
             with open(JSON_FILE, "w", encoding="utf-8") as f:
                 json.dump(library, f, indent=2, ensure_ascii=False)
-            print(f"✅ Rimosso/Rifiutato: {name_to_del}")
         return
 
-    # COMANDO 2: APPROVA UNA RICHIESTA UTENTE (Admin)
+    # COMANDO: APPROVA UNA RICHIESTA UTENTE
     if issue_title.startswith("APPROVE: "):
         name_to_approve = issue_title.replace("APPROVE: ", "").strip().lower()
         found = False
@@ -75,14 +83,12 @@ def run_processor():
                 p["approved"] = True
                 found = True
                 break
-        
         if found:
             with open(JSON_FILE, "w", encoding="utf-8") as f:
                 json.dump(library, f, indent=2, ensure_ascii=False)
-            print(f"✅ Approvato ufficialmente: {name_to_approve}")
         return
 
-    # COMANDO 3: AGGIUNGI (Da Admin o Da Utente)
+    # COMANDO: AGGIUNGI (Admin o Utente)
     is_admin = issue_title.startswith("ADMIN_REQUEST: ")
     is_user = issue_title.startswith("USER_REQUEST: ")
 
@@ -95,17 +101,40 @@ def run_processor():
         if not wiki_data:
             wiki_data = fetch_wikipedia_data(name_to_add, "en")
             lang_used = "en"
-        
+            
+        # SE FALLISCE -> PROVA L'AUTOCORREZIONE (Emmywinhouse -> Amy Winehouse)
         if not wiki_data:
-            print(f"❌ Errore: '{name_to_add}' non ha una pagina Wikipedia valida.")
-            sys.exit(1)
+            print(f"Nome esatto non trovato. Tento autocorrezione per '{name_to_add}'...")
+            suggested = suggest_correct_name(name_to_add, "it") or suggest_correct_name(name_to_add, "en")
+            if suggested:
+                print(f"Forse intendevi: {suggested}")
+                wiki_data = fetch_wikipedia_data(suggested, "it")
+                lang_used = "it"
+                if not wiki_data:
+                    wiki_data = fetch_wikipedia_data(suggested, "en")
+                    lang_used = "en"
 
-        # PULIZIA NOME: Rimuove i trattini bassi per mostrare "Alan Rickman" anziché "Alan_Rickman"
+        # SE FALLISCE ANCORA -> CREA SCHEDA DI ERRORE PER L'ADMIN
+        if not wiki_data:
+            print(f"❌ Errore totale: '{name_to_add}' non trovato. Creo scheda di errore in attesa.")
+            library.append({
+                "name": f"⚠️ ERRORE: {name_to_add}",
+                "slugs": {"IT": "", "EN": ""},
+                "bio": "ATTENZIONE ADMIN: Il server non ha trovato nessuna pagina Wikipedia per questo nome (nemmeno provando a correggerlo). Usa il cestino rosso per eliminare questa scheda e prova a rifare la richiesta usando il Nome e Cognome esatti.",
+                "birthDate": "1900-01-01",
+                "deathDate": "2024-01-01",
+                "imageUrl": None,
+                "approved": False # Rimane "In attesa" così la vedi e la cestini!
+            })
+            with open(JSON_FILE, "w", encoding="utf-8") as f:
+                json.dump(library, f, indent=2, ensure_ascii=False)
+            sys.exit(0)
+
+        # SE È TUTTO OK -> SALVA NORMALMENTE
         raw_title = wiki_data.get("title", name_to_add)
         real_title = raw_title.replace("_", " ") 
         slug = wiki_data.get("titles", {}).get("canonical", raw_title)
 
-        # EVITA DOPPIONI: Controlla anche lo slug, così blocca Queen Elizabeth se hai già Elisabetta II
         for p in library:
             if p["name"].lower() == real_title.lower() or p["slugs"].get("EN", "").lower() == slug.lower() or p["slugs"].get("IT", "").lower() == slug.lower():
                 print("Già in archivio.")
@@ -120,17 +149,13 @@ def run_processor():
             "birthDate": birth,
             "deathDate": death,
             "imageUrl": wiki_data.get("originalimage", {}).get("source", None),
-            "approved": is_admin # TRUE se sei tu (Admin), FALSE se è un utente normale
+            "approved": is_admin
         })
         
         library.sort(key=lambda x: x['deathDate'])
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
-        
-        if is_admin:
-            print(f"✅ Aggiunto e Pubblicato direttamente: {real_title}")
-        else:
-            print(f"⏳ Aggiunto (In attesa di approvazione Admin): {real_title}")
+        print(f"✅ Salvato: {real_title}")
 
 if __name__ == "__main__":
     run_processor()
