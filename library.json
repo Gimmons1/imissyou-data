@@ -4975,6 +4975,18 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg"
   },
   {
+    "name": "Bob Marley",
+    "slugs": {
+      "IT": "Bob_Marley",
+      "EN": "Bob_Marley"
+    },
+    "bio": "Robert Nesta Marley, detto Bob, è stato un cantautore, chitarrista e attivista giamaicano.",
+    "birthDate": "1945-02-06",
+    "deathDate": "1981-05-11",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bob_Marley_performing_in_1976_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Huang Xianfan",
     "slugs": {
       "IT": "Huang_Xianfan",
