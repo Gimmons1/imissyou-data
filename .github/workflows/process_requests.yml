@@ -10,8 +10,8 @@ permissions:
 
 jobs:
   process_commands:
-    # Ascolta i nuovi comandi User e Admin!
-    if: startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE:') || startsWith(github.event.issue.title, 'DELETE:')
+    # Rimosso i due punti (:) da APPROVE e DELETE, così il server intercetta automaticamente anche APPROVE_BULK e DELETE_BULK!
+    if: startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del codice sorgente
