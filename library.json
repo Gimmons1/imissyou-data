@@ -3483,17 +3483,6 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20mezzobusto.jpg"
   },
   {
-    "name": "Adolf Hitler",
-    "slugs": {
-      "IT": "Adolf_Hitler",
-      "EN": "Adolf_Hitler"
-    },
-    "bio": "Adolf Hitler è stato un politico austriaco naturalizzato tedesco, cancelliere del Reich in Germania dal 1933 e Führer dal 1934, instaurando un regime dittatoriale fino alla morte nel 1945.",
-    "birthDate": "1889-04-20",
-    "deathDate": "1945-04-30",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20Hitler%20cropped%20restored%203x4.jpg"
-  },
-  {
     "name": "Eva Braun",
     "slugs": {
       "IT": "Eva_Braun",
