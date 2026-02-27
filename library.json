@@ -7056,16 +7056,5 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
     "approved": true
-  },
-  {
-    "name": "⚠️ ERRORE: Jamens Ransone",
-    "slugs": {
-      "IT": "",
-      "EN": ""
-    },
-    "bio": "Nessuna corrispondenza trovata su Wikipedia o Wikidata per questo nome.",
-    "birthDate": "1000-01-01",
-    "deathDate": "2026-02-27",
-    "approved": false
   }
 ]
