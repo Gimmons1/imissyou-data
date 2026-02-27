@@ -5816,6 +5816,18 @@
     "approved": true
   },
   {
+    "name": "René Angélil",
+    "slugs": {
+      "IT": "René_Angélil",
+      "EN": "René_Angélil"
+    },
+    "bio": "René Angélil è stato un cantante, imprenditore e produttore discografico canadese.",
+    "birthDate": "1942-01-16",
+    "deathDate": "2016-01-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ren%C3%A9_Angelil.jpg",
+    "approved": false
+  },
+  {
     "name": "Umberto Eco",
     "slugs": {
       "IT": "Umberto_Eco",
@@ -8136,5 +8148,16 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
     "approved": true
+  },
+  {
+    "name": "⛔ ANCORA IN VITA: Céline Dion",
+    "slugs": {
+      "IT": "",
+      "EN": ""
+    },
+    "bio": "Questa persona risulta essere ancora in vita secondo i database mondiali. La scheda non può essere pubblicata.",
+    "birthDate": "1968-03-30",
+    "deathDate": "2026-02-27",
+    "approved": false
   }
 ]
