@@ -4930,6 +4930,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Dietrich%20in%20No%20Highway%20%281951%29%20%28Cropped%29.png"
   },
   {
+    "name": "Pablo Escobar",
+    "slugs": {
+      "IT": "Pablo_Escobar",
+      "EN": "Pablo_Escobar"
+    },
+    "bio": "Pablo Emilio Escobar Gaviria was a Colombian drug lord, narcoterrorist, and politician who was the founder and leader of the Medellín Cartel. Dubbed the \"King of Cocaine\", Escobar was one of the wealthiest conventional criminals in history, having amassed an estimated net worth of US$30 billion by his death,\nwhile his drug cartel monopolized the cocaine trade into the US in the 1980s and early 1990s.",
+    "birthDate": "1949-12-01",
+    "deathDate": "1993-12-02",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pablo_Escobar_Mug.jpg",
+    "approved": false
+  },
+  {
     "name": "Richard Nixon",
     "slugs": {
       "IT": "Richard_Nixon",
