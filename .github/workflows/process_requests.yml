@@ -9,9 +9,9 @@ permissions:
   issues: write
 
 jobs:
-  process_commands:
-    # Rimosso i due punti (:) da APPROVE e DELETE, così il server intercetta automaticamente anche APPROVE_BULK e DELETE_BULK!
-    if: startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE')
+  process_admin_command:
+    # FIX: Ora il server ascolta TUTTI i comandi (Approva, Rifiuta, Bulk, ecc.)
+    if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del codice sorgente
@@ -25,7 +25,7 @@ jobs:
       - name: Installa dipendenze
         run: pip install requests
 
-      - name: Esecuzione comando su Database
+      - name: Esecuzione comando Admin
         env:
           ISSUE_TITLE: ${{ github.event.issue.title }}
         run: python request_processor.py
@@ -33,11 +33,11 @@ jobs:
       - name: Salva il database aggiornato
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "⚡ Aggiornamento Database da App"
+          commit_message: "⚡ Aggiornamento Database Admin da App"
           file_pattern: "library.json"
 
       - name: Chiudi il Ticket elaborato
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: "✅ Comando elaborato e salvato nel database."
+          comment: "✅ Comando elaborato e salvato."
