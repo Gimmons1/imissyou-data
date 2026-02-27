@@ -5074,6 +5074,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sungjaegi2013.png"
   },
   {
+    "name": "Paul Walker",
+    "slugs": {
+      "IT": "",
+      "EN": "Paul_Walker"
+    },
+    "bio": "Paul William Walker IV was an American actor. He was best known for his role as Brian O'Conner in the Fast & Furious franchise.",
+    "birthDate": "1973-09-12",
+    "deathDate": "2013-11-30",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/PaulWalkerEdit-1.jpg",
+    "approved": false
+  },
+  {
     "name": "Nelson Mandela",
     "slugs": {
       "IT": "Nelson_Mandela",
