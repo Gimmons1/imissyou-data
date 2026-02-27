@@ -5340,17 +5340,5 @@
     "deathDate": "2026-02-11",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/James_Van_Der_Beek_Photo_Op_GalaxyCon_Oklahoma_City_2025.jpg",
     "approved": true
-  },
-  {
-    "name": "⚠️ ERRORE: Emmywhinouse",
-    "slugs": {
-      "IT": "",
-      "EN": ""
-    },
-    "bio": "ATTENZIONE ADMIN: Il server non ha trovato nessuna pagina Wikipedia per questo nome (nemmeno provando a correggerlo). Usa il cestino rosso per eliminare questa scheda e prova a rifare la richiesta usando il Nome e Cognome esatti.",
-    "birthDate": "1900-01-01",
-    "deathDate": "2024-01-01",
-    "imageUrl": null,
-    "approved": true
   }
 ]
