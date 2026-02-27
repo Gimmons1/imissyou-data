@@ -5351,6 +5351,6 @@
     "birthDate": "1900-01-01",
     "deathDate": "2024-01-01",
     "imageUrl": null,
-    "approved": false
+    "approved": true
   }
 ]
