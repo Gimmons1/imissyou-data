@@ -5240,6 +5240,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg"
   },
   {
+    "name": "Silvio Berlusconi",
+    "slugs": {
+      "IT": "Silvio_Berlusconi",
+      "EN": "Silvio_Berlusconi"
+    },
+    "bio": "Silvio Berlusconi è stato un imprenditore e politico italiano, fondatore del gruppo Fininvest e di Forza Italia, quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, il che lo rende attualmente il più longevo dell'Italia repubblicana.",
+    "birthDate": "1936-09-29",
+    "deathDate": "2023-06-12",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Silvio_Berlusconi_%282010%29_cropped.jpg",
+    "approved": true
+  },
+  {
     "name": "Matthew Perry",
     "slugs": {
       "IT": "Matthew_Perry",
