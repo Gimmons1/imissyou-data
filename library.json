@@ -5327,5 +5327,17 @@
     "birthDate": "1936-12-17",
     "deathDate": "2025-04-21",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg"
+  },
+  {
+    "name": "James Van Der Beek",
+    "slugs": {
+      "IT": "James_Van_Der_Beek",
+      "EN": "James_Van_Der_Beek"
+    },
+    "bio": "James David Van Der Beek was an American actor. Known for his portrayal of Dawson Leery on The WB's Dawson's Creek (1998–2003), he also played a fictionalized version of himself on the cult ABC sitcom Don't Trust the B---- in Apartment 23 (2012–2013), starred as FBI agent Elijah Mundo on CSI: Cyber (2015–2016), and appeared as Matt Bromley during the first season of the FX drama Pose (2018).",
+    "birthDate": "1977-03-08",
+    "deathDate": "2026-02-11",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/James_Van_Der_Beek_Photo_Op_GalaxyCon_Oklahoma_City_2025.jpg",
+    "approved": true
   }
 ]
