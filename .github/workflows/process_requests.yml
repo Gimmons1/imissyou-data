@@ -1,4 +1,4 @@
-name: Processa Richieste App
+name: Processa Richieste Admin App
 
 on:
   issues:
@@ -9,12 +9,12 @@ permissions:
   issues: write
 
 jobs:
-  process_request:
-    # Si avvia SOLO se il titolo inizia con "REQUEST:"
-    if: startsWith(github.event.issue.title, 'REQUEST:')
+  process_admin_command:
+    # Si attiva SOLO se il comando inviato dall'app è REQUEST o DELETE
+    if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'DELETE:')
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del codice
+      - name: Checkout del codice sorgente
         uses: actions/checkout@v4
 
       - name: Configurazione Python
@@ -25,19 +25,19 @@ jobs:
       - name: Installa dipendenze
         run: pip install requests
 
-      - name: Esegui lo script di ricerca
+      - name: Esecuzione comando Admin
         env:
           ISSUE_TITLE: ${{ github.event.issue.title }}
         run: python request_processor.py
 
-      - name: Salva il nuovo personaggio nel database
+      - name: Salva il database aggiornato
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "✨ Aggiunto nuovo personaggio su richiesta dell'utente"
+          commit_message: "⚡ Aggiornamento Database Admin da App"
           file_pattern: "library.json"
 
-      - name: Chiudi il Ticket
+      - name: Chiudi il Ticket elaborato
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: "✅ Richiesta elaborata. Il personaggio è stato cercato negli archivi di Wikipedia e aggiunto all'App!"
+          comment: "✅ Comando Admin elaborato e salvato nel database."
