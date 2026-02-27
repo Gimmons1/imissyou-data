@@ -5988,5 +5988,17 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
     "approved": true
+  },
+  {
+    "name": "⚠️ ERRORE: Marlombrando",
+    "slugs": {
+      "IT": "",
+      "EN": ""
+    },
+    "bio": "ATTENZIONE ADMIN: Il server non ha trovato nessuna persona celebre deceduta corrispondente a questo nome (né tra i suoi omonimi). Elimina questa scheda col cestino.",
+    "birthDate": "1900-01-01",
+    "deathDate": "2026-02-27",
+    "imageUrl": null,
+    "approved": false
   }
 ]
