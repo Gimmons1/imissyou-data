@@ -3495,6 +3495,18 @@
     "approved": true
   },
   {
+    "name": "Adolf Hitler",
+    "slugs": {
+      "IT": "Adolf_Hitler",
+      "EN": "Adolf_Hitler"
+    },
+    "bio": "Adolf Hitler was an Austrian-born German politician who was the dictator of Germany during the Nazi era, which lasted from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor of Germany in 1933 and then taking the title of Führer und Reichskanzler in 1934. Germany's invasion of Poland on 1 September 1939 under his leadership marked the outbreak of the Second World War. Throughout the ensuing conflict, Hitler was closely involved in the direction of German military operations as well as the perpetration of the Holocaust, the genocide of about six million Jews and millions of other victims.",
+    "birthDate": "1889-04-20",
+    "deathDate": "1945-04-30",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Joseph Goebbels",
     "slugs": {
       "IT": "Joseph_Goebbels",
