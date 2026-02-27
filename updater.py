@@ -7,9 +7,9 @@ from datetime import datetime, timedelta
 
 JSON_FILE = "library.json"
 SPARQL_URL = "https://query.wikidata.org/sparql"
-# Fonti certificate e affidabili
+# Fonti certificate e affidabili (Wikidata)
 HEADERS = {
-    'User-Agent': 'iMissYouApp_RecentSentinel/6.0 (https://github.com/Gimmons1)',
+    'User-Agent': 'iMissYouApp_RecentSentinel/7.0 (https://github.com/Gimmons1)',
     'Accept': 'application/sparql-results+json'
 }
 
@@ -25,7 +25,7 @@ def get_wikipedia_bio(slug, lang="it"):
     return slug.replace('_', ' '), "Biografia in attesa di aggiornamento."
 
 def run_updater():
-    # Calcola la data di 365 giorni fa per pescare all'indietro
+    # Cerca nell'ultimo anno solare
     data_limite = (datetime.now() - timedelta(days=365)).strftime("%Y-%m-%dT00:00:00Z")
     print(f"--- Sentinel Attiva: Cerco decessi dal {data_limite[:10]} ad oggi ---")
     
@@ -36,7 +36,6 @@ def run_updater():
     else:
         library = []
 
-    # Filtro anti-doppioni basato sullo SLUG univoco
     existing_slugs = set()
     for p in library:
         for val in p.get("slugs", {}).values():
@@ -44,7 +43,6 @@ def run_updater():
 
     new_entries = []
 
-    # Cerca chi è morto di recente e ha almeno 25 pagine Wikipedia
     query = f"""
     SELECT ?person ?personLabel ?birthDate ?deathDate ?image ?sitelinks ?article WHERE {{
       ?person wdt:P31 wd:Q5. 
@@ -92,15 +90,14 @@ def run_updater():
                 new_entries.append({
                     "name": clean_name, 
                     "slugs": {"IT": it_slug.replace(' ', '_'), "EN": slug_en},
-                    "bio": bio + " [Rilevato dal Radar Automatico]", 
+                    "bio": bio, # ✅ Il testo tecnico è stato rimosso. Biografia perfettamente pulita.
                     "birthDate": birth, 
                     "deathDate": death, 
                     "imageUrl": img, 
-                    "approved": False # LI METTE IN ATTESA PER TE!
+                    "approved": False 
                 })
                 existing_slugs.add(slug_en.lower())
                 existing_slugs.add(it_slug.lower().replace(' ', '_'))
-                print(f" > Novità in attesa: {clean_name}")
                 time.sleep(0.2)
     except Exception as e:
         print(f"Errore durante la ricerca: {e}")
