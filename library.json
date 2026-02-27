@@ -5047,6 +5047,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20Reagan%201981%20presidential%20portrait.jpg"
   },
   {
+    "name": "Marlon Brando",
+    "slugs": {
+      "IT": "Marlon_Brando",
+      "EN": ""
+    },
+    "bio": "Marlon Brando Jr. è stato un attore e attivista statunitense.",
+    "birthDate": "1924-04-03",
+    "deathDate": "2004-07-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Marlon_Brando_in_The_Men.jpg",
+    "approved": true
+  },
+  {
     "name": "Papa Giovanni Paolo II",
     "slugs": {
       "IT": "Papa_Giovanni_Paolo_II",
@@ -5067,6 +5079,18 @@
     "birthDate": "1913-07-14",
     "deathDate": "2006-12-26",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerald%20Ford%20presidential%20portrait%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Christian Brando",
+    "slugs": {
+      "IT": "Christian_Brando",
+      "EN": ""
+    },
+    "bio": "Christian Devi Brando è stato un attore e criminale statunitense, noto per essere stato il primo figlio dell'attore Marlon Brando.",
+    "birthDate": "1958-05-11",
+    "deathDate": "2008-01-26",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Christian_Brando_Son_Of_Marlon.jpg",
+    "approved": true
   },
   {
     "name": "Osama bin Laden",
