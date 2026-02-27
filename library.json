@@ -5063,6 +5063,18 @@
     "approved": true
   },
   {
+    "name": "Kurt Cobain",
+    "slugs": {
+      "IT": "Kurt_Cobain",
+      "EN": "Kurt_Cobain"
+    },
+    "bio": "Kurt Donald Cobain è stato un cantautore e chitarrista statunitense.",
+    "birthDate": "1967-02-20",
+    "deathDate": "1994-04-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Richard Nixon",
     "slugs": {
       "IT": "Richard_Nixon",
