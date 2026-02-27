@@ -24,6 +24,30 @@
     "approved": true
   },
   {
+    "name": "Leopold Mozart",
+    "slugs": {
+      "IT": "Leopold_Mozart",
+      "EN": "Leopold_Mozart"
+    },
+    "bio": "Johann Georg Leopold Mozart è stato un compositore e musicista tedesco, padre di Wolfgang Amadeus Mozart e di Maria Anna Mozart.",
+    "birthDate": "1719-11-14",
+    "deathDate": "1787-05-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Leopold_Mozart.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "slugs": {
+      "IT": "Wolfgang_Amadeus_Mozart",
+      "EN": "Wolfgang_Amadeus_Mozart"
+    },
+    "bio": "Wolfgang Amadeus Mozart è stato un compositore austriaco.",
+    "birthDate": "1756-01-27",
+    "deathDate": "1791-12-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wolfgang-amadeus-mozart_1.jpg",
+    "approved": true
+  },
+  {
     "name": "Friedrich Schiller",
     "slugs": {
       "IT": "",
@@ -33,6 +57,30 @@
     "birthDate": "1759-11-10",
     "deathDate": "1805-05-09",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Anton_Graff_-_Friedrich_Schiller.jpg",
+    "approved": true
+  },
+  {
+    "name": "Maria Anna Mozart",
+    "slugs": {
+      "IT": "Maria_Anna_Mozart",
+      "EN": "Maria_Anna_Mozart"
+    },
+    "bio": "Maria Anna Walburga Ignatia Mozart, chiamata Nannerl da parenti e amici e divenuta Baronessa von Berchtold zu Sonnenburg, è stata una compositrice, pianista e clavicembalista austriaca, figlia di Leopold Mozart e di Anna Maria Pertl, nonché sorella maggiore di Wolfgang Amadeus Mozart.",
+    "birthDate": "1751-07-30",
+    "deathDate": "1829-10-29",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Maria_Anna_Mozart_%28Lorenzoni%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Constanze Weber",
+    "slugs": {
+      "IT": "Constanze_Weber",
+      "EN": "Constanze_Weber"
+    },
+    "bio": "Constanze Weber fu moglie di Wolfgang Amadeus Mozart e in seguito del diplomatico danese Georg Nikolaus Nissen. Era cugina del compositore Carl Maria von Weber.",
+    "birthDate": "1762-01-05",
+    "deathDate": "1842-03-06",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Constanze_Mozart.JPG",
     "approved": true
   },
   {
