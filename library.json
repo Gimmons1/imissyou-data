@@ -3483,18 +3483,6 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20mezzobusto.jpg"
   },
   {
-    "name": "Eva Braun",
-    "slugs": {
-      "IT": "Eva_Braun",
-      "EN": "Eva_Braun"
-    },
-    "bio": "Eva Anna Paula Braun è stata una fotografa tedesca, nota per essere stata la compagna e, negli ultimi due giorni della sua vita, la moglie di Adolf Hitler.",
-    "birthDate": "1912-02-06",
-    "deathDate": "1945-04-30",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Braun%20portrait%20-%201%20of%203%20%28242-EB-26-01%29.jpg",
-    "approved": true
-  },
-  {
     "name": "Adolf Hitler",
     "slugs": {
       "IT": "Adolf_Hitler",
