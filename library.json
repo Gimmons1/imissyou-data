@@ -6470,6 +6470,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Francis%20Korea%20Haemi%20Castle%2019.jpg"
   },
   {
+    "name": "James Ransone",
+    "slugs": {
+      "IT": "James_Ransone",
+      "EN": "James_Ransone"
+    },
+    "bio": "James Finley Ransone III è stato un attore statunitense.",
+    "birthDate": "1979-06-02",
+    "deathDate": "2025-12-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Ransone%202019.jpg",
+    "approved": false
+  },
+  {
     "name": "Chris Rea",
     "slugs": {
       "IT": "Chris_Rea",
