@@ -1,0 +1,34 @@
+name: Radar Quotidiano Decessi
+
+on:
+  schedule:
+    # Si avvia automaticamente tutti i giorni alle 08:00 e alle 20:00 (UTC)
+    - cron: '0 8,20 * * *'
+  workflow_dispatch: # Permette anche di avviarlo manualmente con un bottone se vuoi
+
+permissions:
+  contents: write
+
+jobs:
+  scansiona_ultimi_45_giorni:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installa le librerie
+        run: pip install requests
+
+      - name: Avvia il Segugio (updater.py)
+        run: python updater.py
+
+      - name: Salva i nuovi personaggi in attesa
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔍 Radar: Rilevati decessi recenti (da approvare)"
+          file_pattern: "library.json"
