@@ -3437,18 +3437,6 @@
     "approved": true
   },
   {
-    "name": "Anna Frank",
-    "slugs": {
-      "IT": "Anna_Frank",
-      "EN": "Anna_Frank"
-    },
-    "bio": "Annelies Marie Frank, detta Anne, chiamata Anna Frank in italiano, è stata una giovane scrittrice ebrea tedesca, divenuta un simbolo della Shoah per il suo diario, scritto nel periodo in cui lei e la sua famiglia si nascondevano dai nazisti, e per la sua tragica morte nel campo di concentramento di Bergen-Belsen.",
-    "birthDate": "1929-06-12",
-    "deathDate": "1945-02-01",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20%28cropped%29.jpg",
-    "approved": true
-  },
-  {
     "name": "Anne Frank",
     "slugs": {
       "IT": "",
