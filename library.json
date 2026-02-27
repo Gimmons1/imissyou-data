@@ -5153,6 +5153,54 @@
     "approved": true
   },
   {
+    "name": "J. D. Salinger",
+    "slugs": {
+      "IT": "J._D._Salinger",
+      "EN": "J._D._Salinger"
+    },
+    "bio": "J. D. Salinger, all'anagrafe Jerome David Salinger è stato uno scrittore statunitense. È divenuto celebre per aver scritto Il giovane Holden, romanzo di formazione che ha riscosso un'enorme popolarità fin dalla sua pubblicazione, nel 1951, per poi divenire un classico della letteratura americana.",
+    "birthDate": "1919-01-01",
+    "deathDate": "2010-01-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20D.%20Salinger%20%28Catcher%20in%20the%20Rye%20portrait%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lech Kaczyński",
+    "slugs": {
+      "IT": "Lech_Kaczyński",
+      "EN": "Lech_Kaczyński"
+    },
+    "bio": "Lech Aleksander Kaczyński è stato un politico polacco, morto mentre ricopriva la carica di presidente della Repubblica, nell'incidente aereo del 10 aprile 2010 a bordo di un Tupolev Tu-154 che tentava di atterrare alla base aerea di Smolensk in Russia, dove si stava recando per commemorare l'anniversario del massacro di Katyn'.",
+    "birthDate": "1949-06-18",
+    "deathDate": "2010-04-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Kaczy%C5%84ski.jpg",
+    "approved": true
+  },
+  {
+    "name": "José Saramago",
+    "slugs": {
+      "IT": "José_Saramago",
+      "EN": "José_Saramago"
+    },
+    "bio": "José de Sousa Saramago è stato uno scrittore, giornalista, drammaturgo, poeta, critico letterario e traduttore portoghese, insignito del Premio Nobel per la letteratura nel 1998.",
+    "birthDate": "1922-11-16",
+    "deathDate": "2010-06-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JSJoseSaramago.jpg",
+    "approved": true
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "slugs": {
+      "IT": "Elizabeth_Taylor",
+      "EN": "Elizabeth_Taylor"
+    },
+    "bio": "Dame Elizabeth Rosemond Taylor, nota anche con lo pseudonimo di Liz Taylor, è stata un'attrice britannica con cittadinanza statunitense.",
+    "birthDate": "1932-02-27",
+    "deathDate": "2011-03-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Taylor%20with%20Kennedy%20award.jpg",
+    "approved": true
+  },
+  {
     "name": "Osama bin Laden",
     "slugs": {
       "IT": "Osama_bin_Laden",
@@ -5162,6 +5210,30 @@
     "birthDate": "1957-03-10",
     "deathDate": "2011-05-02",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Osama%20bin%20Laden%20portrait.jpg"
+  },
+  {
+    "name": "Amy Winehouse",
+    "slugs": {
+      "IT": "Amy_Winehouse",
+      "EN": "Amy_Winehouse"
+    },
+    "bio": "Amy Jade Winehouse è stata una cantautrice e produttrice discografica britannica.",
+    "birthDate": "1983-09-14",
+    "deathDate": "2011-07-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Amy%20Winehouse%20f5048439.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wangari Maathai",
+    "slugs": {
+      "IT": "Wangarĩ_Maathai",
+      "EN": "Wangarĩ_Maathai"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1940-04-01",
+    "deathDate": "2011-09-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wangari%20Matthai%202001%20%28cropped%29.jpg",
+    "approved": true
   },
   {
     "name": "Steve Jobs",
@@ -5186,6 +5258,90 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muammar%20al-Gaddafi%20in%202010%20%28cropped%29.jpg"
   },
   {
+    "name": "Mu'ammar Gheddafi",
+    "slugs": {
+      "IT": "Muammar_Gaddafi",
+      "EN": "Muammar_Gaddafi"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1942-06-07",
+    "deathDate": "2011-10-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muammar%20al-Gaddafi%20in%202010%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Kim Jong-il",
+    "slugs": {
+      "IT": "Kim_Jong-il",
+      "EN": "Kim_Jong_Il"
+    },
+    "bio": "Kim Jong-il è stato un politico nordcoreano.",
+    "birthDate": "1941-02-16",
+    "deathDate": "2011-12-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Jong-il%20on%20August%2024%2C%202011.jpg",
+    "approved": true
+  },
+  {
+    "name": "Václav Havel",
+    "slugs": {
+      "IT": "Václav_Havel",
+      "EN": "Václav_Havel"
+    },
+    "bio": "Václav Havel è stato un politico, drammaturgo, saggista e poeta ceco.",
+    "birthDate": "1936-10-05",
+    "deathDate": "2011-12-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A1clav%20Havel%20cut%20out.jpg",
+    "approved": true
+  },
+  {
+    "name": "Wisława Szymborska",
+    "slugs": {
+      "IT": "Wisława_Szymborska",
+      "EN": "Wisława_Szymborska"
+    },
+    "bio": "Maria Wisława Anna Szymborska è stata una poetessa polacca.",
+    "birthDate": "1923-07-02",
+    "deathDate": "2012-02-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wis%C5%82awa%20Szymborska%202009.10.23%20%281%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Whitney Houston",
+    "slugs": {
+      "IT": "Whitney_Houston",
+      "EN": "Whitney_Houston"
+    },
+    "bio": "Whitney Elizabeth Houston è stata una cantautrice, attrice, modella, produttrice discografica, produttrice cinematografica e filantropa statunitense.",
+    "birthDate": "1963-08-09",
+    "deathDate": "2012-02-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Whitney%20Houston%20%28cropped3%29.JPEG",
+    "approved": true
+  },
+  {
+    "name": "Ray Bradbury",
+    "slugs": {
+      "IT": "Ray_Bradbury",
+      "EN": "Ray_Bradbury"
+    },
+    "bio": "Ray Douglas Bradbury è stato uno scrittore e sceneggiatore statunitense, innovatore del genere fantascientifico.",
+    "birthDate": "1920-08-22",
+    "deathDate": "2012-06-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Bradbury%20%281975%29%20-cropped-.jpg",
+    "approved": true
+  },
+  {
+    "name": "Elinor Ostrom",
+    "slugs": {
+      "IT": "Elinor_Ostrom",
+      "EN": "Elinor_Ostrom"
+    },
+    "bio": "Elinor Ostrom è stata una politologa ed economista statunitense prima donna al mondo insignita del Premio Nobel per l'economia, insieme a Oliver Williamson, per l'analisi della governance e, in particolare, delle risorse comuni.",
+    "birthDate": "1933-08-07",
+    "deathDate": "2012-06-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202009-Press%20Conference%20KVA-30.jpg",
+    "approved": true
+  },
+  {
     "name": "Neil Armstrong",
     "slugs": {
       "IT": "Neil_Armstrong",
@@ -5195,6 +5351,54 @@
     "birthDate": "1930-08-05",
     "deathDate": "2012-08-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Armstrong%20pose.jpg"
+  },
+  {
+    "name": "Hebe Camargo",
+    "slugs": {
+      "IT": "Hebe_Camargo",
+      "EN": "Hebe_Camargo"
+    },
+    "bio": "Hebe Maria Camargo, conosciuta anche col soprannome Rainha da TV Brasileira, è stata una conduttrice televisiva, cantante e attrice brasiliana.",
+    "birthDate": "1929-03-08",
+    "deathDate": "2012-09-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hebe%20Camargo.jpg",
+    "approved": true
+  },
+  {
+    "name": "Oscar Niemeyer",
+    "slugs": {
+      "IT": "Oscar_Niemeyer",
+      "EN": "Oscar_Niemeyer"
+    },
+    "bio": "Oscar Niemeyer, all'anagrafe Oscar Ribeiro de Almeida de Niemeyer Soares, è stato un architetto brasiliano.",
+    "birthDate": "1907-12-15",
+    "deathDate": "2012-12-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Niemeyer%2C%20Pic%2C%209%20-%20Restoration.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ravi Shankar",
+    "slugs": {
+      "IT": "Ravi_Shankar",
+      "EN": "Ravi_Shankar"
+    },
+    "bio": "Ravi Shankar è stato un compositore indiano.",
+    "birthDate": "1920-04-07",
+    "deathDate": "2012-12-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravi%20Shankar.jpg",
+    "approved": true
+  },
+  {
+    "name": "Rita Levi-Montalcini",
+    "slugs": {
+      "IT": "Rita_Levi-Montalcini",
+      "EN": "Rita_Levi-Montalcini"
+    },
+    "bio": "Rita Levi-Montalcini, nata Levi, è stata una neurologa italiana.",
+    "birthDate": "1909-04-22",
+    "deathDate": "2012-12-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rita%20Levi-Montalcini%20%281986%29.png",
+    "approved": true
   },
   {
     "name": "Hugo Chávez",
@@ -5208,6 +5412,30 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Ch%C3%A1vez%20%2802-04-2010%29%20%28cropped%29.jpg"
   },
   {
+    "name": "Chinua Achebe",
+    "slugs": {
+      "IT": "Chinua_Achebe",
+      "EN": "Chinua_Achebe"
+    },
+    "bio": "Albert Chinualumogu Achebe, soprannominato Chinua, è stato uno scrittore, saggista, critico letterario e poeta nigeriano.",
+    "birthDate": "1930-11-16",
+    "deathDate": "2013-03-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinua%20Achebe%2C%201966%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Roger Ebert",
+    "slugs": {
+      "IT": "Roger_Ebert",
+      "EN": "Roger_Ebert"
+    },
+    "bio": "Roger Joseph Ebert è stato un critico cinematografico statunitense.",
+    "birthDate": "1942-06-18",
+    "deathDate": "2013-04-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Ebert%20cropped.jpg",
+    "approved": true
+  },
+  {
     "name": "Margaret Thatcher",
     "slugs": {
       "IT": "Margaret_Thatcher",
@@ -5219,6 +5447,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Thatcher%20%281983%29.jpg"
   },
   {
+    "name": "James Gandolfini",
+    "slugs": {
+      "IT": "James_Gandolfini",
+      "EN": "James_Gandolfini"
+    },
+    "bio": "James Joseph Gandolfini Jr. è stato un attore e produttore televisivo statunitense di origine italiana, noto soprattutto per il ruolo del boss Tony Soprano nella serie televisiva I Soprano (1999-2007).",
+    "birthDate": "1961-09-18",
+    "deathDate": "2013-06-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Gandolfini%20in%20Kuwait%20City%202010%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Sung Jae-gi",
     "slugs": {
       "IT": "Sung_Jae-gi",
@@ -5228,6 +5468,30 @@
     "birthDate": "1967-09-11",
     "deathDate": "2013-07-26",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sungjaegi2013.png"
+  },
+  {
+    "name": "Seamus Heaney",
+    "slugs": {
+      "IT": "Seamus_Heaney",
+      "EN": "Seamus_Heaney"
+    },
+    "bio": "Seamus Justin Heaney è stato un poeta nordirlandese, Premio Nobel per la letteratura nel 1995, massimo rappresentante contemporaneo del rinascimento poetico irlandese.",
+    "birthDate": "1939-04-13",
+    "deathDate": "2013-08-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Seamus%20Heaney%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Doris Lessing",
+    "slugs": {
+      "IT": "Doris_Lessing",
+      "EN": "Doris_Lessing"
+    },
+    "bio": "Doris May Lessing, nata Tayler, è stata una scrittrice britannica.",
+    "birthDate": "1919-10-22",
+    "deathDate": "2013-11-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorisa%20Lesinga%20%28cropped%29.JPG",
+    "approved": true
   },
   {
     "name": "Paul Walker",
@@ -5253,6 +5517,78 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Mandela%201994.jpg"
   },
   {
+    "name": "Peter O'Toole",
+    "slugs": {
+      "IT": "Peter_O'Toole",
+      "EN": "Peter_O'Toole"
+    },
+    "bio": "Peter Seamus O'Toole è stato un attore britannico.",
+    "birthDate": "1932-08-02",
+    "deathDate": "2013-12-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20O%27Toole%20-%201968.jpg",
+    "approved": true
+  },
+  {
+    "name": "Michail Timofeevič Kalašnikov",
+    "slugs": {
+      "IT": "Michail_Timofeevič_Kalašnikov",
+      "EN": "Mikhail_Kalashnikov"
+    },
+    "bio": "Michail Timofeevič Kalašnikov è stato un militare, ingegnere e progettista sovietico, poi russo, famoso per l'invenzione dell’omonimo fucile d'assalto AK-47.",
+    "birthDate": "1919-11-10",
+    "deathDate": "2013-12-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalashnikov%20Mikhail%20%281%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Eusébio",
+    "slugs": {
+      "IT": "Eusébio",
+      "EN": "Eusébio"
+    },
+    "bio": "Eusébio da Silva Ferreira è stato un calciatore portoghese, di ruolo attaccante.",
+    "birthDate": "1942-01-25",
+    "deathDate": "2014-01-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eusebio%20en%201973.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ariel Sharon",
+    "slugs": {
+      "IT": "Ariel_Sharon",
+      "EN": "Ariel_Sharon"
+    },
+    "bio": "Ariel Sharon, nato Ariel Scheinermann, detto Arik, è stato un politico e generale israeliano.",
+    "birthDate": "1928-02-27",
+    "deathDate": "2014-01-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariel%20Sharon%20official%20portrait%202001.webp",
+    "approved": true
+  },
+  {
+    "name": "Philip Seymour Hoffman",
+    "slugs": {
+      "IT": "Philip_Seymour_Hoffman",
+      "EN": "Philip_Seymour_Hoffman"
+    },
+    "bio": "Philip Seymour Hoffman è stato un attore statunitense.",
+    "birthDate": "1967-07-23",
+    "deathDate": "2014-02-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20Seymour%20Hoffman%202011.jpg",
+    "approved": true
+  },
+  {
+    "name": "Shirley Temple",
+    "slugs": {
+      "IT": "Shirley_Temple",
+      "EN": "Shirley_Temple"
+    },
+    "bio": "Shirley Temple Black è stata un'attrice, cantante, ballerina e diplomatica statunitense.",
+    "birthDate": "1928-04-23",
+    "deathDate": "2014-02-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shirleytemple.jpg",
+    "approved": true
+  },
+  {
     "name": "Gabriel García Márquez",
     "slugs": {
       "IT": "Gabriel_García_Márquez",
@@ -5262,6 +5598,198 @@
     "birthDate": "1927-03-06",
     "deathDate": "2014-04-17",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garcia%20Marquez.jpg"
+  },
+  {
+    "name": "Maya Angelou",
+    "slugs": {
+      "IT": "Maya_Angelou",
+      "EN": "Maya_Angelou"
+    },
+    "bio": "Maya Angelou, nata Marguerite Annie Johnson, è stata una poetessa, attrice e ballerina statunitense.",
+    "birthDate": "1928-04-04",
+    "deathDate": "2014-05-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20photograph%20of%20Maya%20Angelou%2C%20c.%201974.webp",
+    "approved": true
+  },
+  {
+    "name": "Eduard Shevardnadze",
+    "slugs": {
+      "IT": "Eduard_Shevardnadze",
+      "EN": "Eduard_Shevardnadze"
+    },
+    "bio": "Eduard Ambrosis dze Shevardnadze è stato un politico sovietico, dal 1991 georgiano.",
+    "birthDate": "1928-01-25",
+    "deathDate": "2014-07-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduard%20shevardnadze%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nadine Gordimer",
+    "slugs": {
+      "IT": "Nadine_Gordimer",
+      "EN": "Nadine_Gordimer"
+    },
+    "bio": "Nadine Gordimer è stata una scrittrice sudafricana, autrice di romanzi e saggi, vincitrice del Booker Prize nel 1974 e del Premio Nobel per la letteratura nel 1991. Nel gennaio 2007 le viene assegnato il Premio Grinzane Cavour per la Lettura.",
+    "birthDate": "1923-11-20",
+    "deathDate": "2014-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadine%20Gordimer%2001.JPG",
+    "approved": true
+  },
+  {
+    "name": "Robin Williams",
+    "slugs": {
+      "IT": "Robin_Williams",
+      "EN": "Robin_Williams"
+    },
+    "bio": "Robin McLaurin Williams è stato un attore e comico statunitense.",
+    "birthDate": "1951-07-21",
+    "deathDate": "2014-08-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Williams%202011a%20%282%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lauren Bacall",
+    "slugs": {
+      "IT": "Lauren_Bacall",
+      "EN": "Lauren_Bacall"
+    },
+    "bio": "Lauren Bacall, pseudonimo di Betty Joan Perske, è stata un'attrice statunitense.",
+    "birthDate": "1924-09-16",
+    "deathDate": "2014-08-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lauren%20Bacall%20by%20Bernard%20Gotfryd.jpg",
+    "approved": true
+  },
+  {
+    "name": "Abd Allah dell'Arabia Saudita",
+    "slugs": {
+      "IT": "Abdullah_of_Saudi_Arabia",
+      "EN": "Abdullah_of_Saudi_Arabia"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1924-08-01",
+    "deathDate": "2015-01-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Abdullah%20bin%20Abdul%20al-Saud%20January%202007.jpg",
+    "approved": true
+  },
+  {
+    "name": "Terry Pratchett",
+    "slugs": {
+      "IT": "Terry_Pratchett",
+      "EN": "Terry_Pratchett"
+    },
+    "bio": "Sir Terry Pratchett, all'anagrafe Terence David John Pratchett, è stato uno scrittore britannico, noto per i suoi romanzi di fantasy umoristico. È conosciuto dai suoi fan come Pterry, suo nickname nel newsgroup dedicato alle sue opere.",
+    "birthDate": "1948-04-28",
+    "deathDate": "2015-03-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/10.12.12TerryPratchettByLuigiNovi1.jpg",
+    "approved": true
+  },
+  {
+    "name": "Lee Kuan Yew",
+    "slugs": {
+      "IT": "Lee_Kuan_Yew",
+      "EN": "Lee_Kuan_Yew"
+    },
+    "bio": "Lee Kwan Yew è stato un politico e avvocato singaporiano. Fu il 1º primo ministro di Singapore e viene considerato da alcuni il \"padre della Patria\". Governò il Paese con metodi autoritari e adottò una politica filo-occidentale.",
+    "birthDate": "1923-09-16",
+    "deathDate": "2015-03-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Kuan%20Yew.jpg",
+    "approved": true
+  },
+  {
+    "name": "Tomas Tranströmer",
+    "slugs": {
+      "IT": "Tomas_Tranströmer",
+      "EN": "Tomas_Tranströmer"
+    },
+    "bio": "Tomas Tranströmer è stato uno scrittore, poeta e traduttore svedese, molto conosciuto e apprezzato in patria.\n\n",
+    "birthDate": "1931-04-15",
+    "deathDate": "2015-03-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomas%20Transtr%C3%B6mer%202012-05-04%20001%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Günter Grass",
+    "slugs": {
+      "IT": "Günter_Grass",
+      "EN": "Günter_Grass"
+    },
+    "bio": "Günter Wilhelm Grass è stato uno scrittore, poeta, saggista, drammaturgo, scultore e pittore tedesco, insignito del Premio Nobel per la letteratura nel 1999.",
+    "birthDate": "1927-10-16",
+    "deathDate": "2015-04-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%BCnter%20Grass%20auf%20dem%20Blauen%20Sofa.jpg",
+    "approved": true
+  },
+  {
+    "name": "B.B. King",
+    "slugs": {
+      "IT": "B.B._King",
+      "EN": "B._B._King"
+    },
+    "bio": "B. B. King, all'anagrafe Riley B. King, è stato un chitarrista, cantante, compositore e produttore discografico statunitense.",
+    "birthDate": "1925-09-16",
+    "deathDate": "2015-05-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Publicity%20photo%20of%20B.B.%20King.%20-%20j9602118s%20files%207f3e5875-55ee-4389-8eb0-53e6b59f1df3%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "John Nash",
+    "slugs": {
+      "IT": "John_Forbes_Nash_Jr.",
+      "EN": "John_Forbes_Nash_Jr."
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1928-06-13",
+    "deathDate": "2015-05-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Forbes%20Nash%2C%20Jr.%20by%20Peter%20Badge.jpg",
+    "approved": true
+  },
+  {
+    "name": "Christopher Lee",
+    "slugs": {
+      "IT": "Christopher_Lee",
+      "EN": "Christopher_Lee"
+    },
+    "bio": "Sir Christopher Frank Carandini Lee è stato un attore e cantante britannico.",
+    "birthDate": "1922-05-27",
+    "deathDate": "2015-06-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Lee%202009.jpg",
+    "approved": true
+  },
+  {
+    "name": "Abdul Kalam",
+    "slugs": {
+      "IT": "A._P._J._Abdul_Kalam",
+      "EN": "A._P._J._Abdul_Kalam"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1931-10-15",
+    "deathDate": "2015-07-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/A.%20P.%20J.%20Abdul%20Kalam.jpg",
+    "approved": true
+  },
+  {
+    "name": "Helmut Schmidt",
+    "slugs": {
+      "IT": "Helmut_Schmidt",
+      "EN": "Helmut_Schmidt"
+    },
+    "bio": "Helmut Heinrich Waldemar Schmidt è stato un politico tedesco, cancelliere federale della Repubblica Federale di Germania dal 6 maggio 1974 al 1º ottobre 1982.",
+    "birthDate": "1918-12-23",
+    "deathDate": "2015-11-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundeskanzler%20Helmut%20Schmidt.jpg",
+    "approved": true
+  },
+  {
+    "name": "David Bowie",
+    "slugs": {
+      "IT": "David_Bowie",
+      "EN": "David_Bowie"
+    },
+    "bio": "David Bowie, pseudonimo di David Robert Jones, è stato un cantautore, polistrumentista e attore britannico.",
+    "birthDate": "1947-01-08",
+    "deathDate": "2016-01-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Bowie%20Chicago%202002-08-08%20photoby%20Adam-Bielawski-cropped.jpg",
+    "approved": true
   },
   {
     "name": "Alan Rickman",
@@ -5276,6 +5804,90 @@
     "approved": true
   },
   {
+    "name": "Umberto Eco",
+    "slugs": {
+      "IT": "Umberto_Eco",
+      "EN": "Umberto_Eco"
+    },
+    "bio": "Umberto Eco è stato un semiologo, filosofo, scrittore, traduttore, bibliofilo e medievalista italiano.",
+    "birthDate": "1932-01-05",
+    "deathDate": "2016-02-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Italiaanse%20schrijver%20Umberto%20Eco%20%2C%20kop%2C%20Bestanddeelnr%20932-9758.jpg",
+    "approved": true
+  },
+  {
+    "name": "Harper Lee",
+    "slugs": {
+      "IT": "Harper_Lee",
+      "EN": "Harper_Lee"
+    },
+    "bio": "Nelle Harper Lee è stata una scrittrice statunitense.",
+    "birthDate": "1926-04-28",
+    "deathDate": "2016-02-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Harper%20Lee%20Medal%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Nancy Reagan",
+    "slugs": {
+      "IT": "Nancy_Reagan",
+      "EN": "Nancy_Reagan"
+    },
+    "bio": "Nancy Davis Reagan, nata Anne Frances Robbins, è stata un'attrice e first lady statunitense, moglie di Ronald Reagan, 40º presidente degli Stati Uniti d'America.",
+    "birthDate": "1921-07-06",
+    "deathDate": "2016-03-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy%20Reagan.jpg",
+    "approved": true
+  },
+  {
+    "name": "Johan Cruijff",
+    "slugs": {
+      "IT": "Johan_Cruijff",
+      "EN": "Johan_Cruyff"
+    },
+    "bio": "Johan Cruijff, all'anagrafe Hendrik Johannes Cruijff, è stato un calciatore, allenatore di calcio e dirigente sportivo olandese, di ruolo attaccante o centrocampista.",
+    "birthDate": "1947-04-25",
+    "deathDate": "2016-03-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Cruijff%20%281974%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Imre Kertész",
+    "slugs": {
+      "IT": "Imre_Kertész",
+      "EN": "Imre_Kertész"
+    },
+    "bio": "Imre Kertész è stato uno scrittore ungherese, sopravvissuto ai campi di sterminio nazisti e Premio Nobel per la letteratura nel 2002.",
+    "birthDate": "1929-11-09",
+    "deathDate": "2016-03-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Mark%20-%20Imre%20Kert%C3%A9sz%2C%20Berlin%202005.jpg",
+    "approved": true
+  },
+  {
+    "name": "Zaha Hadid",
+    "slugs": {
+      "IT": "Zaha_Hadid",
+      "EN": "Zaha_Hadid"
+    },
+    "bio": "Dame Zaha Hadid Mohammad è stata un'architetta e designer irachena naturalizzata britannica.",
+    "birthDate": "1950-10-31",
+    "deathDate": "2016-03-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Zaha%20Hadid%20in%20Heydar%20Aliyev%20Cultural%20center%20in%20Baku%20nov%202013.jpg",
+    "approved": true
+  },
+  {
+    "name": "Prince",
+    "slugs": {
+      "IT": "Prince_(musician)",
+      "EN": "Prince_(musician)"
+    },
+    "bio": "Biografia recuperata dagli archivi ufficiali.",
+    "birthDate": "1958-06-07",
+    "deathDate": "2016-04-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince%20promo%20picture%20%281988%3B%20cropped%20and%20retouched%29.png",
+    "approved": true
+  },
+  {
     "name": "Muhammad Ali",
     "slugs": {
       "IT": "Muhammad_Ali",
@@ -5287,6 +5899,90 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Ali%2C%20gtfy.00140.jpg"
   },
   {
+    "name": "Elie Wiesel",
+    "slugs": {
+      "IT": "Elie_Wiesel",
+      "EN": "Elie_Wiesel"
+    },
+    "bio": "Elie Wiesel, all'anagrafe Eliezer, è stato uno scrittore, giornalista, saggista, filosofo, attivista per i diritti umani rumeno naturalizzato statunitense, di origine ebraica e poliglotta, originario della parte rumena del Maramureș e superstite dell'Olocausto.",
+    "birthDate": "1928-09-30",
+    "deathDate": "2016-07-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Elie%20Wiesel%202012%20Shankbone.JPG",
+    "approved": true
+  },
+  {
+    "name": "Gene Wilder",
+    "slugs": {
+      "IT": "Gene_Wilder",
+      "EN": "Gene_Wilder"
+    },
+    "bio": "Gene Wilder, pseudonimo di Jerome Silberman, è stato un attore, sceneggiatore, regista, comico e scrittore statunitense.",
+    "birthDate": "1933-06-11",
+    "deathDate": "2016-08-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20Wilder%201970.JPG",
+    "approved": true
+  },
+  {
+    "name": "Islom Karimov",
+    "slugs": {
+      "IT": "Islom_Karimov",
+      "EN": "Islam_Karimov"
+    },
+    "bio": "Islom Abdugʻaniyevich Karimov è stato un politico uzbeko, Presidente dell'Uzbekistan dal 1991 fino alla sua morte nel 2016.",
+    "birthDate": "1938-01-30",
+    "deathDate": "2016-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Karimov%20Ufa.jpg",
+    "approved": true
+  },
+  {
+    "name": "Shimon Peres",
+    "slugs": {
+      "IT": "Shimon_Peres",
+      "EN": "Shimon_Peres"
+    },
+    "bio": "Shimon Peres, nato Szymon Perski, è stato un politico israeliano, presidente d'Israele dal 2007 al 2014.",
+    "birthDate": "1923-08-02",
+    "deathDate": "2016-09-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimon%20Peres%20-%20portrait%20photograh%20-%201996%20%28full%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Bhumibol Adulyadej",
+    "slugs": {
+      "IT": "Bhumibol_Adulyadej",
+      "EN": "Bhumibol_Adulyadej"
+    },
+    "bio": "Bhumibol Adulyadej, per esteso Phumibon Abuyadej Ramadhibodi Chakrinarubodin Sayamindaradhraj Boromanatbophit, è stato re di Thailandia dal 9 giugno 1946 fino alla sua morte, nono sovrano della dinastia Chakri.",
+    "birthDate": "1927-12-05",
+    "deathDate": "2016-10-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Koning%20Bhumibol%20en%20Koningin%20Sirikit%20te%20Den%20Haag%2C%20Koning%20Bhumibol%2C%20Bestanddeelnr%20911-6993%20%28cropped%29%282%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Dario Fo",
+    "slugs": {
+      "IT": "Dario_Fo",
+      "EN": "Dario_Fo"
+    },
+    "bio": "Dario Luigi Angelo Fo è stato un drammaturgo, attore, regista, scrittore, autore, illustratore, pittore, scenografo, attivista e comico italiano.",
+    "birthDate": "1926-03-24",
+    "deathDate": "2016-10-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dario%20Fo%2C%20Italian%20playwright.jpg",
+    "approved": true
+  },
+  {
+    "name": "Leonard Cohen",
+    "slugs": {
+      "IT": "Leonard_Cohen",
+      "EN": "Leonard_Cohen"
+    },
+    "bio": "Leonard Norman Eliezer Cohen è stato un cantautore, poeta, scrittore e compositore canadese.",
+    "birthDate": "1934-09-21",
+    "deathDate": "2016-11-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Cohen%2C%201988%2001.jpg",
+    "approved": true
+  },
+  {
     "name": "Fidel Castro",
     "slugs": {
       "IT": "Fidel_Castro",
@@ -5296,6 +5992,138 @@
     "birthDate": "1926-08-13",
     "deathDate": "2016-11-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%201950s.jpg"
+  },
+  {
+    "name": "George Michael",
+    "slugs": {
+      "IT": "George_Michael",
+      "EN": "George_Michael"
+    },
+    "bio": "George Michael, pseudonimo di Georgios Kyriacos Panayiotou, è stato un cantante, compositore e produttore discografico britannico di musica pop, soul e rhythm and blues.",
+    "birthDate": "1963-06-25",
+    "deathDate": "2016-12-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Michael.jpeg",
+    "approved": true
+  },
+  {
+    "name": "Carrie Fisher",
+    "slugs": {
+      "IT": "Carrie_Fisher",
+      "EN": "Carrie_Fisher"
+    },
+    "bio": "Carrie Frances Fisher è stata un'attrice, cabarettista, sceneggiatrice e scrittrice statunitense, conosciuta soprattutto per il ruolo della principessa Leila nella celebre saga di Guerre Stellari.",
+    "birthDate": "1956-10-21",
+    "deathDate": "2016-12-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carrie%20Fisher%202013-a%20straightened.jpg",
+    "approved": true
+  },
+  {
+    "name": "Derek Walcott",
+    "slugs": {
+      "IT": "Derek_Walcott",
+      "EN": "Derek_Walcott"
+    },
+    "bio": "Derek Walcott è stato un poeta e scrittore santaluciano, insignito del premio Nobel per la letteratura nel 1992, noto soprattutto per le sue opere poetiche e teatrali in lingua inglese.",
+    "birthDate": "1930-01-23",
+    "deathDate": "2017-03-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Derek%20Walcott.jpg",
+    "approved": true
+  },
+  {
+    "name": "Chuck Berry",
+    "slugs": {
+      "IT": "Chuck_Berry",
+      "EN": "Chuck_Berry"
+    },
+    "bio": "Charles Edward Anderson Berry, detto Chuck, è stato un cantautore, chitarrista e ballerino statunitense, esponente in particolare di musica blues e rock and roll.",
+    "birthDate": "1926-10-18",
+    "deathDate": "2017-03-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chuck%20Berry%20%288275961%29.jpeg",
+    "approved": true
+  },
+  {
+    "name": "Roger Moore",
+    "slugs": {
+      "IT": "Roger_Moore",
+      "EN": "Roger_Moore"
+    },
+    "bio": "Sir Roger George Moore è stato un attore britannico, noto per la partecipazione alle serie televisive Ivanhoe (1958-1959), Il Santo (1962-1969) e Attenti a quei due (1971-1972), nonché per essere stato il terzo interprete, dopo Sean Connery e George Lazenby, di James Bond nella serie ufficiale, con un totale di sette pellicole dal 1973 al 1985. Inoltre è stato ambasciatore dell'UNICEF e si è impegnato nel sostegno dei diritti degli animali.",
+    "birthDate": "1927-10-14",
+    "deathDate": "2017-05-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Roger%20Moore%20Allan%20Warren.jpg",
+    "approved": true
+  },
+  {
+    "name": "Helmut Kohl",
+    "slugs": {
+      "IT": "Helmut_Kohl",
+      "EN": "Helmut_Kohl"
+    },
+    "bio": "Helmut Josef Michael Kohl /ˈhεlmʊt koːl/ è stato un politico e storico tedesco.\nCancelliere federale della Germania dal 1º ottobre 1982 al 27 ottobre 1998. Fino al 3 ottobre 1990, data dell'unificazione delle due Germanie, fu cancelliere della sola Germania Occidentale, poi della Germania unita. È stato anche leader del partito dell'Unione Cristiano-Democratica (CDU) dal 1973 al 1998. Dai presidenti degli Stati Uniti George H. W. Bush e Bill Clinton, venne descritto come \"il più grande leader europeo della seconda metà del XX secolo\". Nel 1970 Helmut Kohl fu uno dei più giovani politici della CDU a diventare presidente del suo partito, nel 1969 per la prima volta ebbe un ruolo nell'opposizione.",
+    "birthDate": "1930-04-03",
+    "deathDate": "2017-06-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Kohl%20%281996%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Liu Xiaobo",
+    "slugs": {
+      "IT": "Liu_Xiaobo",
+      "EN": "Liu_Xiaobo"
+    },
+    "bio": "Liu Xiaobo è stato un attivista, critico letterario e scrittore cinese impegnato per molti anni nella difesa dei diritti umani nel suo Paese.",
+    "birthDate": "1955-12-28",
+    "deathDate": "2017-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Liu%20Xiaobo%20by%20Wang%20Liming%20%282017%2C%20cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Maryam Mirzakhani",
+    "slugs": {
+      "IT": "Maryam_Mirzakhani",
+      "EN": "Maryam_Mirzakhani"
+    },
+    "bio": "Maryam Mirzakhani è stata una matematica iraniana.",
+    "birthDate": "1977-05-12",
+    "deathDate": "2017-07-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maryam%20Mirzakhani%20in%20Seoul%202014.jpg",
+    "approved": true
+  },
+  {
+    "name": "Chester Bennington",
+    "slugs": {
+      "IT": "Chester_Bennington",
+      "EN": "Chester_Bennington"
+    },
+    "bio": "Chester Charles Bennington è stato un cantante statunitense, conosciuto principalmente per essere stato il frontman del gruppo musicale Linkin Park e, tra il 2013 e il 2015, anche degli Stone Temple Pilots, oltre che del progetto parallelo Dead by Sunrise.",
+    "birthDate": "1976-03-20",
+    "deathDate": "2017-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Linkin%20Park-Rock%20im%20Park%202014-%20by%202eight%203SC0327.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Manson",
+    "slugs": {
+      "IT": "Charles_Manson",
+      "EN": "Charles_Manson"
+    },
+    "bio": "Charles Milles Manson è stato un criminale statunitense, ritenuto il mandante di due fatti di sangue famigerati nella storia degli Stati Uniti d'America: quello dell'eccidio di Cielo Drive, in cui furono assassinati l'attrice Sharon Tate e quattro suoi amici, e quello ai danni di Leno LaBianca e di sua moglie.",
+    "birthDate": "1934-11-12",
+    "deathDate": "2017-11-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MansonB33920%208-14-17%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ursula K. LeGuin",
+    "slugs": {
+      "IT": "Ursula_K._Le_Guin",
+      "EN": "Ursula_K._Le_Guin"
+    },
+    "bio": "Ursula Kroeber Le Guin, meglio conosciuta come Ursula K. Le Guin, è stata una scrittrice e glottoteta statunitense, autrice di fantascienza e di fantasy.",
+    "birthDate": "1929-10-21",
+    "deathDate": "2018-01-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula%20Le%20Guin%20%283551195631%29%20-%20Restoration.jpg",
+    "approved": true
   },
   {
     "name": "Stephen Hawking",
@@ -5320,6 +6148,42 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Hawking.StarChild.jpg"
   },
   {
+    "name": "Anthony Bourdain",
+    "slugs": {
+      "IT": "Anthony_Bourdain",
+      "EN": "Anthony_Bourdain"
+    },
+    "bio": "Anthony Michael Bourdain è stato un cuoco, gastronomo e scrittore statunitense, diventato famoso per la prima volta per il suo libro bestseller Kitchen Confidential: Adventures in the Culinary Underbelly (2000).",
+    "birthDate": "1956-06-25",
+    "deathDate": "2018-06-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Bourdain%20Peabody%202014b.jpg",
+    "approved": true
+  },
+  {
+    "name": "Vidiadhar Surajprasad Naipaul",
+    "slugs": {
+      "IT": "Vidiadhar_Surajprasad_Naipaul",
+      "EN": "V._S._Naipaul"
+    },
+    "bio": "Sir Vidiadhar Surajprasad Naipaul, noto anche come V. S. Naipaul, è stato uno scrittore trinidadiano naturalizzato britannico.",
+    "birthDate": "1932-08-17",
+    "deathDate": "2018-08-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/VS%20Naipaul%202016%20Dhaka.jpg",
+    "approved": true
+  },
+  {
+    "name": "Aretha Franklin",
+    "slugs": {
+      "IT": "Aretha_Franklin",
+      "EN": "Aretha_Franklin"
+    },
+    "bio": "Aretha Louise Franklin è stata una cantautrice e pianista statunitense.",
+    "birthDate": "1942-03-25",
+    "deathDate": "2018-08-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aretha%20Franklin%201968.jpg",
+    "approved": true
+  },
+  {
     "name": "Kofi Annan",
     "slugs": {
       "IT": "Kofi_Annan",
@@ -5331,6 +6195,42 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kofi%20Annan%202012%20%28cropped%29.jpg"
   },
   {
+    "name": "John McCain",
+    "slugs": {
+      "IT": "John_McCain",
+      "EN": "John_McCain"
+    },
+    "bio": "John Sidney McCain III è stato un politico e militare statunitense, senatore per lo stato dell'Arizona dal 1987 al 2018 e candidato alla presidenza degli Stati Uniti d'America per il Partito Repubblicano nel 2008. Prima della carriera politica combatté la guerra del Vietnam nella marina militare, e nell'ottobre 1967, mentre era in missione su Hanoi, fu abbattuto con il suo aereo, ferito e catturato dai nordvietnamiti, rimanendo loro prigioniero fino al 1973. Candidato alla presidenza già alle elezioni del 2000, fu sconfitto alle primarie repubblicane da George W. Bush. Ottenne invece facilmente la nomination nel 2008 per le presidenziali di quell'anno, uscendone però sconfitto da Barack Obama.",
+    "birthDate": "1936-08-29",
+    "deathDate": "2018-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20McCain%20official%20portrait%202009.jpg",
+    "approved": true
+  },
+  {
+    "name": "Charles Aznavour",
+    "slugs": {
+      "IT": "Charles_Aznavour",
+      "EN": "Charles_Aznavour"
+    },
+    "bio": "Charles Aznavour, nome d'arte di Shahnourh Varinag Aznavourian, è stato un cantautore, attore e diplomatico francese di origine armena.",
+    "birthDate": "1924-05-22",
+    "deathDate": "2018-10-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/2014.06.23.%20Charles%20Aznavour%20Fot%20Mariusz%20Kubik%2001.jpg",
+    "approved": true
+  },
+  {
+    "name": "Stan Lee",
+    "slugs": {
+      "IT": "Stan_Lee",
+      "EN": "Stan_Lee"
+    },
+    "bio": "Stan Lee, pseudonimo di Stanley Martin Lieber, è stato un fumettista, scrittore, editore, produttore cinematografico e televisivo statunitense.",
+    "birthDate": "1922-12-28",
+    "deathDate": "2018-11-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20Lee%20December%202016.jpg",
+    "approved": true
+  },
+  {
     "name": "George H. W. Bush",
     "slugs": {
       "IT": "George_H._W._Bush",
@@ -5340,6 +6240,78 @@
     "birthDate": "1924-06-12",
     "deathDate": "2018-11-30",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20H.%20W.%20Bush%20presidential%20portrait%20%28cropped%29.jpg"
+  },
+  {
+    "name": "Doris Day",
+    "slugs": {
+      "IT": "Doris_Day",
+      "EN": "Doris_Day"
+    },
+    "bio": "Doris Day, pseudonimo di Doris Mary Anne Kappelhoff, è stata un'attrice e cantante statunitense.",
+    "birthDate": "1922-04-03",
+    "deathDate": "2019-05-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Day%201958%20crop.jpg",
+    "approved": true
+  },
+  {
+    "name": "Mohamed Morsi",
+    "slugs": {
+      "IT": "Mohamed_Morsi",
+      "EN": "Mohamed_Morsi"
+    },
+    "bio": "Muḥammad Mursī ʿĪsā al-ʿAyyāṭ è stato un politico egiziano, del Partito Libertà e Giustizia.",
+    "birthDate": "1951-08-08",
+    "deathDate": "2019-06-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Mohamed%20Morsi.jpg",
+    "approved": true
+  },
+  {
+    "name": "Toni Morrison",
+    "slugs": {
+      "IT": "Toni_Morrison",
+      "EN": "Toni_Morrison"
+    },
+    "bio": "Toni Morrison, pseudonimo di Chloe Ardelia Wofford, è stata una scrittrice statunitense.",
+    "birthDate": "1931-02-18",
+    "deathDate": "2019-08-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Morrison.jpg",
+    "approved": true
+  },
+  {
+    "name": "Robert Mugabe",
+    "slugs": {
+      "IT": "Robert_Mugabe",
+      "EN": "Robert_Mugabe"
+    },
+    "bio": "Robert Gabriel Mugabe è stato un politico e rivoluzionario zimbabwese.",
+    "birthDate": "1924-02-21",
+    "deathDate": "2019-09-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Mugabe%20Official%20Portrait.jpg",
+    "approved": true
+  },
+  {
+    "name": "Jacques Chirac",
+    "slugs": {
+      "IT": "Jacques_Chirac",
+      "EN": "Jacques_Chirac"
+    },
+    "bio": "Jacques René Chirac è stato un politico e funzionario francese.",
+    "birthDate": "1932-11-29",
+    "deathDate": "2019-09-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Chirac%20%281997%29%20%28cropped%29.jpg",
+    "approved": true
+  },
+  {
+    "name": "Abu Bakr al-Baghdadi",
+    "slugs": {
+      "IT": "Abu_Bakr_al-Baghdadi",
+      "EN": "Abu_Bakr_al-Baghdadi"
+    },
+    "bio": "Ibrāhīm ʿAwed Ibrāhīm ʿAlī al-Badrī al-Sāmarrāʾī o semplicemente Ibrāhīm al-Badrī è stato un terrorista iracheno, noto universalmente col nome di battaglia di Abū Bakr al-Baghdādī, 1º califfo dello Stato Islamico (ISIS), entità statuale non riconosciuta sorta nel giugno 2014 in alcuni territori tra l'Iraq nord-occidentale e la Siria orientale, di cui era considerato il leader.",
+    "birthDate": "1971-07-28",
+    "deathDate": "2019-10-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mugshot%20of%20Abu%20Bakr%20al-Baghdadi%2C%202004.jpg",
+    "approved": true
   },
   {
     "name": "Diego Maradona",
