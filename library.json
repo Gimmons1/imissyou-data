@@ -5904,5 +5904,17 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Tejero.jpg",
     "approved": true
+  },
+  {
+    "name": "Ludwig Scotty",
+    "slugs": {
+      "IT": "Ludwig_Scotty",
+      "EN": "Ludwig_Scotty"
+    },
+    "bio": "Ludwig Derangadage Scotty è stato un politico nauruano.",
+    "birthDate": "1948-06-20",
+    "deathDate": "2026-02-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
+    "approved": false
   }
 ]
