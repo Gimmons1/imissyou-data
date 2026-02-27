@@ -5339,7 +5339,7 @@
     "birthDate": "1951-03-04",
     "deathDate": "2025-12-22",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Rea%2001%20AB.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Anatolij Bondarčuk",
@@ -5351,7 +5351,7 @@
     "birthDate": "1940-05-31",
     "deathDate": "2025-12-23",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatoliy%20Bondarchuk%20c1974.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Vera Valentinovna Alentova",
@@ -5363,7 +5363,7 @@
     "birthDate": "1942-02-21",
     "deathDate": "2025-12-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Menshov%20Alentova%20%28cropped%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "John Robertson",
@@ -5375,7 +5375,7 @@
     "birthDate": "1953-01-20",
     "deathDate": "2025-12-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Robertson%20%281980%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Bahram Bayzai",
