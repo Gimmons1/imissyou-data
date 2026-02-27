@@ -1,5 +1,17 @@
 [
   {
+    "name": "Sallust",
+    "slugs": {
+      "IT": "",
+      "EN": "Sallust"
+    },
+    "bio": "Gaius Sallustius Crispus, usually anglicised as Sallust, was a historian and politician of the Roman Republic from a plebeian family. Probably born at Amiternum in the country of the Sabines, Sallust became a partisan of Julius Caesar, circa 50s BC. He is the earliest known Latin-language Roman historian with surviving works to his name, of which Conspiracy of Catiline on the eponymous conspiracy, The Jugurthine War on the eponymous war, and the Histories remain extant. As a writer, Sallust was primarily influenced by the works of the fifth-century BC Greek historian Thucydides. During his political career he amassed great and ill-gotten wealth from his governorship of Africa.",
+    "birthDate": "-0085-09-29",
+    "deathDate": "-0034-05-11",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg",
+    "approved": true
+  },
+  {
     "name": "Antonio Vivaldi",
     "slugs": {
       "IT": "Antonio_Vivaldi",
@@ -9,6 +21,18 @@
     "birthDate": "1678-03-04",
     "deathDate": "1741-07-28",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vivaldi.jpg",
+    "approved": true
+  },
+  {
+    "name": "Friedrich Schiller",
+    "slugs": {
+      "IT": "",
+      "EN": "Friedrich_Schiller"
+    },
+    "bio": "Johann Christoph Friedrich von Schiller was a German playwright, poet, philosopher and historian. Schiller is considered to be one of Germany's most important classical playwrights.",
+    "birthDate": "1759-11-10",
+    "deathDate": "1805-05-09",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Anton_Graff_-_Friedrich_Schiller.jpg",
     "approved": true
   },
   {
@@ -1309,6 +1333,18 @@
     "birthDate": "1852-12-19",
     "deathDate": "1931-05-09",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Abraham%20Michelson2.jpg",
+    "approved": true
+  },
+  {
+    "name": "Ulrich von Wilamowitz-Moellendorff",
+    "slugs": {
+      "IT": "Ulrich_von_Wilamowitz-Moellendorff",
+      "EN": ""
+    },
+    "bio": "Ulrich Friedrich Wichard Emmo von Wilamowitz-Moellendorff è stato un filologo classico e grecista tedesco.",
+    "birthDate": "1848-12-22",
+    "deathDate": "1931-09-25",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Professor_Dr._Ulrich_von_Wilamowitz-Moellendorf.jpg",
     "approved": true
   },
   {
@@ -4546,6 +4582,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Niels%20Bohr.jpg"
   },
   {
+    "name": "Clara Porges",
+    "slugs": {
+      "IT": "Clara_Porges",
+      "EN": ""
+    },
+    "bio": "Clara Porges, nata Sommer, è stata una pittrice tedesca.",
+    "birthDate": "1879-09-17",
+    "deathDate": "1963-05-17",
+    "imageUrl": null,
+    "approved": true
+  },
+  {
     "name": "John F. Kennedy",
     "slugs": {
       "IT": "John_Fitzgerald_Kennedy",
@@ -4918,6 +4966,18 @@
     "birthDate": "1946-09-05",
     "deathDate": "1991-11-24",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Freddie%20Mercury%20at%20Sheraton%20Hotel%20Buenos%20Aires.jpg"
+  },
+  {
+    "name": "Friedrich Hayek",
+    "slugs": {
+      "IT": "",
+      "EN": "Friedrich_Hayek"
+    },
+    "bio": "Friedrich August von Hayek was an Austrian economist and philosopher. He is known for his contributions to political economy, political philosophy and intellectual history. Hayek shared the 1974 Nobel Memorial Prize in Economic Sciences with Gunnar Myrdal for work on money and economic fluctuations, and the interdependence of economic, social and institutional phenomena. His account of how prices communicate information is widely regarded as an important contribution to economics that led to him receiving the prize. He was a major contributor to the Austrian school of economics.",
+    "birthDate": "1899-05-08",
+    "deathDate": "1992-03-23",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Friedrich_Hayek_portrait.jpg",
+    "approved": true
   },
   {
     "name": "Marlene Dietrich",
