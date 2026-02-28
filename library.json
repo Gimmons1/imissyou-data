@@ -6232,6 +6232,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Hawking.StarChild.jpg"
   },
   {
+    "name": "Avicii",
+    "slugs": {
+      "IT": "Avicii",
+      "EN": "Avicii"
+    },
+    "bio": "Avicii, pseudonimo di Tim Bergling, è stato un produttore discografico, disc jockey e compositore svedese.",
+    "birthDate": "1989-09-08",
+    "deathDate": "2018-04-20",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Avicii_2014_003.jpg",
+    "approved": true
+  },
+  {
     "name": "Anthony Bourdain",
     "slugs": {
       "IT": "Anthony_Bourdain",
