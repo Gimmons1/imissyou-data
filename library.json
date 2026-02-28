@@ -6554,6 +6554,18 @@
     "approved": true
   },
   {
+    "name": "Gigi Proietti",
+    "slugs": {
+      "IT": "Gigi_Proietti",
+      "EN": "Gigi_Proietti"
+    },
+    "bio": "Luigi Proietti, detto Gigi, è stato un attore, doppiatore, cantante e conduttore televisivo italiano.",
+    "birthDate": "1940-11-02",
+    "deathDate": "2020-11-02",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gigi_proietti_autografo1.jpg",
+    "approved": false
+  },
+  {
     "name": "Diego Maradona",
     "slugs": {
       "IT": "Diego_Armando_Maradona",
