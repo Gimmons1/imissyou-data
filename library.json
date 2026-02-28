@@ -4863,6 +4863,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Picasso%2C%201908%20%28background%20retouched%29.jpg"
   },
   {
+    "name": "Bruce Lee",
+    "slugs": {
+      "IT": "Bruce_Lee",
+      "EN": "Bruce_Lee"
+    },
+    "bio": "Bruce Lee è stato un artista marziale, attore, regista, sceneggiatore e produttore cinematografico hongkonghese con cittadinanza statunitense.",
+    "birthDate": "1940-11-27",
+    "deathDate": "1973-07-20",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
+    "approved": false
+  },
+  {
     "name": "J. R. R. Tolkien",
     "slugs": {
       "IT": "J._R._R._Tolkien",
@@ -5085,6 +5097,18 @@
     "birthDate": "1901-12-27",
     "deathDate": "1992-05-06",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Dietrich%20in%20No%20Highway%20%281951%29%20%28Cropped%29.png"
+  },
+  {
+    "name": "Brandon Lee",
+    "slugs": {
+      "IT": "Brandon_Lee",
+      "EN": "Brandon_Lee"
+    },
+    "bio": "Brandon Bruce Lee è stato un attore e artista marziale statunitense.",
+    "birthDate": "1965-02-01",
+    "deathDate": "1993-03-31",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brandon_lee_%28cropped%29.jpg",
+    "approved": false
   },
   {
     "name": "Pablo Escobar",
