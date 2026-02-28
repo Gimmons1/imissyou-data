@@ -4883,7 +4883,7 @@
     "birthDate": "1946-12-22",
     "deathDate": "1974-04-25",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Jim_Morrison%27s_girlfriend_Pam.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Agatha Christie",
@@ -4984,7 +4984,7 @@
     "birthDate": "1945-02-06",
     "deathDate": "1981-05-11",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bob_Marley_performing_in_1976_%28cropped%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Huang Xianfan",
@@ -5210,7 +5210,7 @@
     "birthDate": "1919-01-07",
     "deathDate": "2008-11-17",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Admiral_George_Stephen_Morrison.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Michael Jackson",
