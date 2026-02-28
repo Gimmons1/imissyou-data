@@ -8162,6 +8162,18 @@
     "approved": true
   },
   {
+    "name": "Dan Simmons",
+    "slugs": {
+      "IT": "Dan_Simmons",
+      "EN": "Dan_Simmons"
+    },
+    "bio": "Dan Simmons è stato uno scrittore e autore di fantascienza statunitense.",
+    "birthDate": "1948-04-04",
+    "deathDate": "2026-02-21",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nemesio Oseguera Cervantes",
     "slugs": {
       "IT": "Nemesio_Oseguera_Cervantes",
@@ -8208,5 +8220,17 @@
     "deathDate": "2026-02-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Scotty%20%28cropped%203x4%29.jpg",
     "approved": true
+  },
+  {
+    "name": "Neil Sedaka",
+    "slugs": {
+      "IT": "Neil_Sedaka",
+      "EN": "Neil_Sedaka"
+    },
+    "bio": "Neil Sedaka è stato un cantautore, compositore e produttore discografico statunitense.",
+    "birthDate": "1939-03-13",
+    "deathDate": "2026-02-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Sedaka%20-%20Royal%20Albert%20Hall%20-%20Monday%2018th%20September%202017%20SedakaRAH180917-4%20%2837448314971%29%20%28cropped%29.jpg",
+    "approved": false
   }
 ]
