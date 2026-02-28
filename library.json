@@ -5156,6 +5156,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
   },
   {
+    "name": "Fabrizio De André",
+    "slugs": {
+      "IT": "Fabrizio_De_André",
+      "EN": "Fabrizio_De_André"
+    },
+    "bio": "Fabrizio Cristiano De André è stato un cantautore italiano.",
+    "birthDate": "1940-02-18",
+    "deathDate": "1999-01-11",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/it/9/9f/De_Andr%C3%A9_backstage.jpg",
+    "approved": true
+  },
+  {
     "name": "Ronald Reagan",
     "slugs": {
       "IT": "Ronald_Reagan",
