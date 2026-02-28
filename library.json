@@ -5122,6 +5122,18 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Nixon%20presidential%20portrait.jpg"
   },
   {
+    "name": "Jeff Buckley",
+    "slugs": {
+      "IT": "Jeff_Buckley",
+      "EN": "Jeff_Buckley"
+    },
+    "bio": "Jeffrey Scott Buckley, detto Jeff, è stato un cantautore e chitarrista statunitense.",
+    "birthDate": "1966-11-17",
+    "deathDate": "1997-05-29",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Jeff_Buckley_yearbook_%281984%29.png",
+    "approved": false
+  },
+  {
     "name": "Madre Teresa di Calcutta",
     "slugs": {
       "IT": "Madre_Teresa_di_Calcutta",
