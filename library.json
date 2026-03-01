@@ -5276,6 +5276,18 @@
     "birthDate": "1958-05-11"
   },
   {
+    "name": "Oreste Rizzini",
+    "slugs": {
+      "IT": "Oreste_Rizzini",
+      "EN": "Oreste_Rizzini"
+    },
+    "bio": "Oreste Rizzini è stato un attore, doppiatore, dialoghista, direttore del doppiaggio e conduttore radiofonico italiano.",
+    "birthDate": "1940-03-27",
+    "deathDate": "2008-03-18",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/it/e/ed/Oreste_Rizzini_2004_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "George Stephen Morrison",
     "bio": "George Stephen Morrison, né le 7 janvier 1919 à Rome (Géorgie) et mort le 17 novembre 2008 à Coronado (Californie), est un amiral et aviateur naval de la marine des États-Unis. Morrison a été le commandant des forces navales américaines dans le golfe du Tonkin au cours de l'incident du Golfe du Tonkin d'août 1964, qui a servi de prétexte à l'engagement des États-Unis dans la guerre du Viêt Nam. \nIl est le père de Jim Morrison, le chanteur du groupe de rock The Doors.",
     "slugs": {
@@ -6751,6 +6763,18 @@
     "birthDate": "1933-05-03"
   },
   {
+    "name": "Tarcisio Meira",
+    "slugs": {
+      "IT": "Tarcisio_Meira",
+      "EN": "Tarcisio_Meira"
+    },
+    "bio": "Tarcisio Meira, pseudonimo di Tarcisio Magalhaes Sobrinho, è stato un attore brasiliano.",
+    "birthDate": "1935-10-05",
+    "deathDate": "2021-08-12",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TarcisioMeira2020.jpg",
+    "approved": false
+  },
+  {
     "name": "Gerd Müller",
     "bio": "⚕️ Causa del decesso: Malattia di Alzheimer.\n\nGerhard Müller, conocido deportivamente como Gerd Müller, apodado «der Bomber der Nation» y «Torpedo Müller», fue un futbolista alemán que jugaba como delantero centro. Es reconocido como uno de los mejores futbolistas de todos los tiempos. Es uno de los seis mayores goleadores de la historia del fútbol, tras anotar 735 goles y 106 asistencias, en partidos oficiales según FIFA y la RSSSF. Es el goleador histórico de la Bundesliga con 365 goles. En copas internacionales es uno de los máximos goleadores europeos, con 66 goles, anotados en 74 partidos.",
     "slugs": {
@@ -6893,6 +6917,18 @@
     "deathDate": "2022-07-08",
     "approved": true,
     "birthDate": "1942-08-28"
+  },
+  {
+    "name": "Franco Zucca",
+    "slugs": {
+      "IT": "Franco_Zucca",
+      "EN": "Franco_Zucca"
+    },
+    "bio": "Franco Zucca è stato un doppiatore, attore teatrale e direttore del doppiaggio italiano.",
+    "birthDate": "1952-08-26",
+    "deathDate": "2022-07-24",
+    "imageUrl": null,
+    "approved": false
   },
   {
     "name": "Ayman al-Zawahiri",
