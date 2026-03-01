@@ -8338,5 +8338,16 @@
     "deathDate": "2026-02-28",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Nasirzadeh%20in%202024%20%281%29.jpg",
     "approved": true
+  },
+  {
+    "name": "⚠️ ERRORE: Tarsisio meira",
+    "slugs": {
+      "IT": "",
+      "EN": ""
+    },
+    "bio": "Nessuna corrispondenza trovata.",
+    "birthDate": "1000-01-01",
+    "deathDate": "2026-03-01",
+    "approved": false
   }
 ]
