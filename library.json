@@ -4687,17 +4687,6 @@
     "name": "Aldous Huxley"
   },
   {
-    "bio": "John Fitzgerald Kennedy  fue un político estadounidense que se desempeñó como el trigésimo quinto presidente de los Estados Unidos desde 1961 hasta su asesinato en 1963. También fue conocido como Jack por sus amigos o por su sobrenombre JFK. Fue la persona más joven elegida presidente, a los 43 años. Kennedy sirvió en el apogeo de la Guerra Fría, y la mayor parte de su política exterior se refería a las relaciones con la Unión Soviética y Cuba. Miembro del Partido Demócrata, Kennedy representó a Massachusetts en ambas cámaras del Congreso de los Estados Unidos antes de su presidencia.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20F.%20Kennedy%2C%20White%20House%20color%20photo%20portrait.jpg",
-    "deathDate": "1963-11-22",
-    "birthDate": "1917-05-29",
-    "slugs": {
-      "IT": "John_Fitzgerald_Kennedy",
-      "EN": "John_Fitzgerald_Kennedy"
-    },
-    "name": "John Fitzgerald Kennedy"
-  },
-  {
     "bio": "⚕️ Causa del decesso: Infarto del miocardio.\n\nPaṇḍit Jawaharlal Nehru è stato un politico indiano, primo ministro indiano dal 1947 al 1964 e una delle personalità politiche più in vista del mondo nella sua epoca. Erede spirituale di Gandhi, egli diede una fisionomia politica al movimento nazionalista della nonviolenza del grande capo spirituale dell'India, e seppe condurre felicemente in porto la battaglia per l'indipendenza.",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal%20Nehru%2C%201947.jpg",
     "deathDate": "1964-05-27",
@@ -5010,17 +4999,6 @@
     "deathDate": "1981-05-11",
     "approved": true,
     "birthDate": "1945-02-06"
-  },
-  {
-    "bio": "Huang Xianfan fue un historiador, etnólogo y antropólogo chino, especializado en la China antigüedad y antropología, y fundador de la Escuela de Bagui y Estudios zhuang, así como un China intelectual muy influyente en la segunda mitad del siglo XX, y es considerado como el \"padre de la Estudios zhuang\".",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Xianfan%20Graduation%20Photo.jpg",
-    "deathDate": "1982-01-18",
-    "birthDate": "1899-11-13",
-    "slugs": {
-      "IT": "Huang_Xianfan",
-      "EN": "Huang_Xianfan"
-    },
-    "name": "Huang Xianfan"
   },
   {
     "bio": "Huang Xianfan fue un historiador, etnólogo y antropólogo chino, especializado en la China antigüedad y antropología, y fundador de la Escuela de Bagui y Estudios zhuang, así como un China intelectual muy influyente en la segunda mitad del siglo XX, y es considerado como el \"padre de la Estudios zhuang\".",
@@ -5378,17 +5356,6 @@
       "EN": "Steve_Jobs"
     },
     "name": "Steve Jobs"
-  },
-  {
-    "bio": "Mu'ammar Muhammad Abu Minyar 'Abd al-Salam al-Qadhdhafi, semplificato come Muʿammar Gheddafi, è stato un rivoluzionario, politico e militare libico.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Muammar%20al-Gaddafi%20in%202010%20%28cropped%29.jpg",
-    "deathDate": "2011-10-20",
-    "birthDate": "1942-06-07",
-    "slugs": {
-      "EN": "Muʿammar_Gheddafi",
-      "IT": "Muʿammar_Gheddafi"
-    },
-    "name": "Mu'ammar Gheddafi"
   },
   {
     "name": "Mu'ammar Gheddafi",
@@ -6604,17 +6571,6 @@
     "birthDate": "1940-11-02"
   },
   {
-    "bio": "Diego Armando Maradona è stato un calciatore, allenatore di calcio e dirigente sportivo argentino, di ruolo centrocampista, campione del mondo nel 1986 e vicecampione del mondo nel 1990 con la nazionale argentina.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maradona%201986%20vs%20italy.jpg",
-    "deathDate": "2020-11-25",
-    "birthDate": "1960-10-30",
-    "slugs": {
-      "EN": "Diego_Armando_Maradona",
-      "IT": "Diego_Armando_Maradona"
-    },
-    "name": "Diego Maradona"
-  },
-  {
     "name": "Diego Maradona",
     "bio": "⚕️ Causa del decesso: Arresto cardiaco.\n\nDiego Armando Maradona è stato un calciatore, allenatore di calcio e dirigente sportivo argentino, di ruolo centrocampista, campione del mondo nel 1986 e vicecampione del mondo nel 1990 con la nazionale argentina.",
     "slugs": {
@@ -6960,17 +6916,6 @@
       "IT": "Pelé"
     },
     "name": "Pelé"
-  },
-  {
-    "bio": "Papa Benedetto XVI, in latino Benedictus PP. XVI; in tedesco Benedikt XVI, è stato il 265º papa della Chiesa cattolica e vescovo di Roma, 7º sovrano dello Stato della Città del Vaticano, primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 19 aprile 2005 al 28 febbraio 2013.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg",
-    "deathDate": "2022-12-31",
-    "birthDate": "1927-04-16",
-    "slugs": {
-      "IT": "Papa_Benedetto_XVI",
-      "EN": "Papa_Benedetto_XVI"
-    },
-    "name": "Papa Benedetto XVI"
   },
   {
     "name": "Papa Benedetto XVI",
