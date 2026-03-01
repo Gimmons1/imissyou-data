@@ -8309,5 +8309,29 @@
     "deathDate": "2026-02-28",
     "approved": true,
     "birthDate": "1939-04-19"
+  },
+  {
+    "name": "Mohammad Pakpour",
+    "slugs": {
+      "IT": "Mohammad_Pakpour",
+      "EN": "Mohammad_Pakpour"
+    },
+    "bio": "Mohammad Pakpour è stato un generale iraniano, dal 13 giugno 2025 al 28 febbraio 2026 è stato il comandante del Corpo delle guardie della rivoluzione islamica in seguito alla morte del suo predecessore Hossein Salami nel corso dei bombardamenti israeliani sull'Iran del giugno 2025. In precedenza, dal 2009 era il comandante delle forze terrestri del Corpo delle guardie della rivoluzione islamica.",
+    "birthDate": "1961-06-02",
+    "deathDate": "2026-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sardar%20Mohammad%20Pakpour-by%20Tasnimnews.com%2002%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Aziz Nasirzadeh",
+    "slugs": {
+      "IT": "Aziz_Nasirzadeh",
+      "EN": "Aziz_Nasirzadeh"
+    },
+    "bio": "{{Bio\n|Nome = Aziz\n|Cognome = Nasirzadeh\n|Sesso = M\n|LuogoNascita = Sarab\n|GiornoMeseNascita = \n|AnnoNascita = 1965\n|LuogoMorte = Teheran\n|GiornoMeseMorte = 28 febbraio\n|AnnoMorte = 2026\n|Epoca = 2000\n|Attività = generale\n|Nazionalità = iraniano\n|PostNazionalità =, è stato Ministro della difesa e della logistica delle forze armate dell'Iran dal 21 agosto 2024 al 28 febbraio 2026. In precedenza è stato vice-capo di stato maggiore delle Forze armate dell'Iran dal settembre 2021 al 2024, e comandante della Forza aerea iraniana dall'agosto 2018 al settembre. Veterano della Guerra Iran-Iraq, è stato certificato come pilota di F-14 ma non ha avuto modo di partecipare ai combattimenti",
+    "birthDate": "1964-01-01",
+    "deathDate": "2026-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Nasirzadeh%20in%202024%20%281%29.jpg",
+    "approved": false
   }
 ]
