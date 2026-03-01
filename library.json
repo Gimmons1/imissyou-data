@@ -8353,5 +8353,16 @@
     "deathDate": "2026-02-28",
     "approved": true,
     "birthDate": "1939-04-19"
+  },
+  {
+    "name": "⚠️ ERRORE: Eurigien",
+    "slugs": {
+      "IT": "",
+      "EN": ""
+    },
+    "bio": "Nessuna corrispondenza trovata.",
+    "birthDate": "1000-01-01",
+    "deathDate": "2026-03-01",
+    "approved": false
   }
 ]
