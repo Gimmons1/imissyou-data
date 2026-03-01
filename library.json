@@ -8280,5 +8280,29 @@
     },
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Sedaka%20-%20Royal%20Albert%20Hall%20-%20Monday%2018th%20September%202017%20SedakaRAH180917-4%20%2837448314971%29%20%28cropped%29.jpg",
     "bio": "Neil Sedaka fue un cantante pop, pianista y compositor estadounidense. Desde que comenzó su carrera musical en 1957, vendió millones de discos en todo el mundo y Escribió o coescribió más de 500 canciones para él y otros artistas, colaborando principalmente con los letristas Howard \"Howie\" Greenfield y Phil Cody."
+  },
+  {
+    "name": "Sandro Munari",
+    "slugs": {
+      "IT": "Sandro_Munari",
+      "EN": "Sandro_Munari"
+    },
+    "bio": "Sandro Munari è stato un pilota di rally italiano.",
+    "birthDate": "1940-03-27",
+    "deathDate": "2026-02-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Munari%20%28Lancia%20Alitalia%29%20-%201975%20Rallye%20Sanremo.jpg",
+    "approved": false
+  },
+  {
+    "name": "Ali Schamchani",
+    "slugs": {
+      "IT": "Ali_Shamkhani",
+      "EN": "Ali_Shamkhani"
+    },
+    "bio": "Ali Shamkhani è un ammiraglio e politico iraniano, Segretario del Supremo consiglio per la sicurezza nazionale dell'Iran dal 2013 al 2023.",
+    "birthDate": "1955-09-29",
+    "deathDate": "2026-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Shamkhani%20by%20Tasnim%2001%20%28cropped%29.jpg",
+    "approved": false
   }
 ]
