@@ -8234,6 +8234,18 @@
     "bio": "⚕️ Causa del decesso: Esecuzione per fucilata.\n\nNemesio Oseguera Cervantes, detto El Mencho, è stato un criminale messicano, capo del Cartello di Jalisco Nuova Generazione (CJNG). [Rilevato dal Radar Automatico]"
   },
   {
+    "name": "Nemesio Oseguera Cervantes",
+    "slugs": {
+      "IT": "El_Mencho",
+      "EN": "El_Mencho"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1966-07-07",
+    "deathDate": "2026-02-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mencho%20-%202018%20Wanted%20Poster%20%28cropped%29%20%28cropped%29.PNG",
+    "approved": false
+  },
+  {
     "deathDate": "2026-02-23",
     "birthDate": "1954-03-24",
     "name": "Robert Carradine",
