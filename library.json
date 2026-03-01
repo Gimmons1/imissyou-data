@@ -5285,7 +5285,7 @@
     "birthDate": "1940-03-27",
     "deathDate": "2008-03-18",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/it/e/ed/Oreste_Rizzini_2004_%28cropped%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "George Stephen Morrison",
@@ -6772,7 +6772,7 @@
     "birthDate": "1935-10-05",
     "deathDate": "2021-08-12",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/TarcisioMeira2020.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "Gerd Müller",
@@ -6928,7 +6928,7 @@
     "birthDate": "1952-08-26",
     "deathDate": "2022-07-24",
     "imageUrl": null,
-    "approved": false
+    "approved": true
   },
   {
     "name": "Ayman al-Zawahiri",
