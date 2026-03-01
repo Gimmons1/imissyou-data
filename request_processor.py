@@ -9,7 +9,7 @@ JSON_FILE = "library.json"
 ANALYTICS_FILE = "analytics.json"
 
 HEADERS = {
-    'User-Agent': 'iMissYouApp_Core/10.0 (https://github.com/Gimmons1)',
+    'User-Agent': 'iMissYouApp_Core/10.2 (https://github.com/Gimmons1)',
     'Accept': 'application/json'
 }
 
@@ -58,11 +58,14 @@ def run_processor():
     issue_title = os.environ.get("ISSUE_TITLE", "")
     if not issue_title: return
 
-    # 1. NUOVO SISTEMA ANALYTICS
-    # Se il comando inizia per "VIEW:", aggiorniamo solo il file delle statistiche!
+    # 1. GESTIONE ANALYTICS (Tracciamento del tempo)
     if issue_title.startswith("VIEW: "):
-        viewed_name = issue_title.replace("VIEW: ", "").strip()
-        print(f"📊 Registrazione visualizzazione per: {viewed_name}")
+        # Il formato in arrivo dall'app è: "VIEW: Nome | Secondi"
+        parts = issue_title.replace("VIEW: ", "").split("|")
+        viewed_name = parts[0].strip()
+        duration = int(parts[1].strip()) if len(parts) > 1 and parts[1].strip().isdigit() else 0
+        
+        print(f"📊 Registrazione per: {viewed_name} (Tempo: {duration}s)")
         
         analytics = {}
         if os.path.exists(ANALYTICS_FILE):
@@ -71,15 +74,24 @@ def run_processor():
                     analytics = json.load(f)
             except: pass
             
-        # Incrementa il contatore
-        analytics[viewed_name] = analytics.get(viewed_name, 0) + 1
+        # Retrocompatibilità se il file è vecchio
+        if viewed_name in analytics and isinstance(analytics[viewed_name], int):
+            old_views = analytics[viewed_name]
+            analytics[viewed_name] = {"views": old_views, "time": 0}
+            
+        if viewed_name not in analytics:
+            analytics[viewed_name] = {"views": 0, "time": 0}
+            
+        # Aggiorna i contatori
+        analytics[viewed_name]["views"] += 1
+        analytics[viewed_name]["time"] += duration
         
         with open(ANALYTICS_FILE, "w", encoding="utf-8") as f:
             json.dump(analytics, f, indent=2, ensure_ascii=False)
         print("📊 Analytics salvate con successo.")
-        return # Ferma lo script qui per non toccare la library.json
+        return 
 
-    # 2. GESTIONE DATABASE TRADIZIONALE (Il resto del codice invariato)
+    # 2. GESTIONE DATABASE TRADIZIONALE
     library = []
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, "r", encoding="utf-8") as f:
@@ -95,7 +107,14 @@ def run_processor():
 
     if issue_title.startswith("DELETE_BULK: "):
         names = [n.strip().lower() for n in issue_title.replace("DELETE_BULK: ", "").split("|")]
-        library = [p for p in library if p["name"].lower() not in names]
+        new_library = []
+        for p in library:
+            name_lower = p["name"].lower()
+            if name_lower in names:
+                names.remove(name_lower) # Rimuove solo un'istanza alla volta dalla lista di bersagli
+                continue
+            new_library.append(p)
+        library = new_library
         with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
 
@@ -110,7 +129,15 @@ def run_processor():
         return
     elif issue_title.startswith("DELETE: "):
         name_to_delete = issue_title.replace("DELETE: ", "").strip()
-        library = [p for p in library if p["name"].lower() != name_to_delete.lower()]
+        new_library = []
+        deleted = False
+        for p in library:
+            # Se trova una corrispondenza e non l'ha ancora cancellata, la salta (quindi la elimina)
+            if not deleted and p["name"].lower() == name_to_delete.lower():
+                deleted = True 
+                continue
+            new_library.append(p)
+        library = new_library
         with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
     
