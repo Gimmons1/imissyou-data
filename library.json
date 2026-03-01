@@ -7073,6 +7073,18 @@
     "deathDate": "2023-02-05"
   },
   {
+    "name": "Maurizio Costanzo",
+    "slugs": {
+      "IT": "Maurizio_Costanzo",
+      "EN": "Maurizio_Costanzo"
+    },
+    "bio": "Maurizio Costanzo è stato un giornalista, conduttore televisivo, conduttore radiofonico, accademico, scrittore, sceneggiatore, regista, attore e paroliere italiano.\nVolto tra i più noti della televisione italiana è considerato un vero innovatore in tale contesto come iniziatore del genere del talk show.",
+    "birthDate": "1938-08-28",
+    "deathDate": "2023-02-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Costanzobau_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "bio": "⚕️ Causa del decesso: Infarto del miocardio.\n\nKenzaburō Ōe è stato uno scrittore giapponese, premio Nobel per la letteratura nel 1994 per aver creato \"un mondo immaginario, dove la vita e il mito si condensano per formare un'immagine sconcertante della situazione umana di oggi\". I suoi romanzi, racconti e saggi, fortemente influenzati dalla letteratura francese e americana, trattano questioni politiche, sociali e filosofiche, comprese le armi nucleari, l'energia nucleare, l'anticonformismo sociale e l'esistenzialismo.",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%202012%20-%20Kenzabur%C5%8D%20%C5%8Ce%20-%20003.jpg",
     "slugs": {
@@ -7426,6 +7438,18 @@
     "name": "Hassan Nasrallah",
     "approved": true,
     "deathDate": "2024-09-27"
+  },
+  {
+    "name": "Sammy Basso",
+    "slugs": {
+      "IT": "Sammy_Basso",
+      "EN": "Sammy_Basso"
+    },
+    "bio": "Sammy Basso è stato un attivista italiano.",
+    "birthDate": "1995-12-01",
+    "deathDate": "2024-10-05",
+    "imageUrl": null,
+    "approved": false
   },
   {
     "bio": "Fethullah Gülen è stato un predicatore, politologo e scrittore turco, studioso dell'Islam e leader del movimento Gülen che ebbe nel 2016 milioni di seguaci ed è conosciuto anche col nome più significativo di Hizmet.",
