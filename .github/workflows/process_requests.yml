@@ -4,13 +4,17 @@ on:
   issues:
     types: [opened]
 
+# 🚨 LA MAGIA È QUI: Questa istruzione mette in coda i comandi se arrivano nello stesso istante!
+concurrency:
+  group: database-sync
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
 
 jobs:
   process_admin_command:
-    # ✅ FIX: Ora si accende anche quando arriva un "ping" di visualizzazione (VIEW:)
     if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE') || startsWith(github.event.issue.title, 'VIEW')
     runs-on: ubuntu-latest
     steps:
@@ -36,7 +40,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "⚡ Aggiornamento Database e Statistiche"
-          # ✅ FIX: Ora salva sia la library che il file delle analytics
           file_pattern: "library.json analytics.json"
           push_options: '--force' 
 
@@ -44,4 +47,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: "✅ Comando elaborato e salvato."
+          comment: "✅ Comando elaborato e salvato in coda."
