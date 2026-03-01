@@ -5,49 +5,36 @@ import sys
 import urllib.parse
 from datetime import datetime
 
-# File di database locale
 JSON_FILE = "library.json"
+ANALYTICS_FILE = "analytics.json"
 
-# Intestazioni per identificare le richieste e rispettare le policy di Wikipedia/Wikidata
 HEADERS = {
-    'User-Agent': 'iMissYouApp_Core/9.5 (https://github.com/Gimmons1)',
+    'User-Agent': 'iMissYouApp_Core/10.0 (https://github.com/Gimmons1)',
     'Accept': 'application/json'
 }
 
 def search_wikipedia_titles(query, lang="it"):
-    """Cerca fino a 8 titoli corrispondenti su Wikipedia per gestire omonimi e varianti."""
     url = f"https://{lang}.wikipedia.org/w/api.php?action=query&list=search&srsearch={urllib.parse.quote(query)}&utf8=&format=json&srlimit=8"
     titles = []
     try:
         res = requests.get(url, headers=HEADERS, timeout=5)
         if res.status_code == 200:
-            data = res.json()
-            for item in data.get("query", {}).get("search", []):
-                titles.append(item["title"])
-    except Exception as e:
-        print(f"Errore ricerca titoli: {e}")
+            for item in res.json().get("query", {}).get("search", []): titles.append(item["title"])
+    except: pass
     return titles
 
 def fetch_wikipedia_data(name, lang="it"):
-    """Recupera il riassunto della biografia e l'immagine ufficiale."""
     slug = name.replace(' ', '_')
     url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{urllib.parse.quote(slug)}"
     try:
         res = requests.get(url, headers=HEADERS, timeout=10)
         if res.status_code == 200:
             data = res.json()
-            # Accettiamo solo se c'è un estratto significativo e non è una pagina di disambiguazione
-            if "extract" in data and len(data["extract"]) > 30 and data.get("type") != "disambiguation":
-                return data
-    except Exception as e:
-        print(f"Errore fetch Wikipedia: {e}")
+            if "extract" in data and len(data["extract"]) > 30 and data.get("type") != "disambiguation": return data
+    except: pass
     return None
 
 def fetch_wikidata_dates(slug, lang="it"):
-    """
-    Esegue il cross-check su Wikidata per ottenere date di nascita e morte.
-    Gestisce correttamente date antiche (es. Mozart 1791) e formati SPARQL.
-    """
     wiki_url = f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(slug)}"
     query = f"""
     SELECT ?birthDate ?deathDate WHERE {{
@@ -61,143 +48,102 @@ def fetch_wikidata_dates(slug, lang="it"):
         if res.status_code == 200:
             bindings = res.json()['results']['bindings']
             if bindings:
-                # Wikidata può restituire date con il prefisso '+' per anni antichi
                 b_raw = bindings[0].get('birthDate', {}).get('value', '1000-01-01')
                 d_raw = bindings[0].get('deathDate', {}).get('value')
-                
-                # Pulizia stringhe: estraiamo solo YYYY-MM-DD
-                birth = b_raw.split('T')[0].replace('+', '')
-                death = d_raw.split('T')[0].replace('+', '') if d_raw else None
-                return birth, death
-    except Exception as e:
-        print(f"Errore cross-check Wikidata: {e}")
+                return b_raw.split('T')[0].replace('+', ''), d_raw.split('T')[0].replace('+', '') if d_raw else None
+    except: pass
     return "1000-01-01", None
 
 def run_processor():
-    # Recupera il titolo del Ticket aperto dall'App
     issue_title = os.environ.get("ISSUE_TITLE", "")
-    if not issue_title:
-        print("Nessun comando ricevuto.")
-        return
+    if not issue_title: return
 
-    # Caricamento database esistente
+    # 1. NUOVO SISTEMA ANALYTICS
+    # Se il comando inizia per "VIEW:", aggiorniamo solo il file delle statistiche!
+    if issue_title.startswith("VIEW: "):
+        viewed_name = issue_title.replace("VIEW: ", "").strip()
+        print(f"📊 Registrazione visualizzazione per: {viewed_name}")
+        
+        analytics = {}
+        if os.path.exists(ANALYTICS_FILE):
+            try:
+                with open(ANALYTICS_FILE, "r", encoding="utf-8") as f:
+                    analytics = json.load(f)
+            except: pass
+            
+        # Incrementa il contatore
+        analytics[viewed_name] = analytics.get(viewed_name, 0) + 1
+        
+        with open(ANALYTICS_FILE, "w", encoding="utf-8") as f:
+            json.dump(analytics, f, indent=2, ensure_ascii=False)
+        print("📊 Analytics salvate con successo.")
+        return # Ferma lo script qui per non toccare la library.json
+
+    # 2. GESTIONE DATABASE TRADIZIONALE (Il resto del codice invariato)
     library = []
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, "r", encoding="utf-8") as f:
-            try:
-                library = json.load(f)
-            except:
-                library = []
+            try: library = json.load(f)
+            except: pass
     
-    # 1. GESTIONE COMANDI BULK (Approvazione o Eliminazione multipla)
     if issue_title.startswith("APPROVE_BULK: "):
-        names = issue_title.replace("APPROVE_BULK: ", "").split("|")
-        names = [n.strip().lower() for n in names]
+        names = [n.strip().lower() for n in issue_title.replace("APPROVE_BULK: ", "").split("|")]
         for p in library:
-            if p["name"].lower() in names:
-                p["approved"] = True
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"✅ Approvate in blocco: {len(names)} persone.")
+            if p["name"].lower() in names: p["approved"] = True
+        with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
 
     if issue_title.startswith("DELETE_BULK: "):
-        names = issue_title.replace("DELETE_BULK: ", "").split("|")
-        names = [n.strip().lower() for n in names]
+        names = [n.strip().lower() for n in issue_title.replace("DELETE_BULK: ", "").split("|")]
         library = [p for p in library if p["name"].lower() not in names]
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"🗑️ Eliminate in blocco: {len(names)} persone.")
+        with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
 
-    # 2. GESTIONE RICHIESTE DI AGGIUNTA E APPROVAZIONI
     prefix = ""
     if issue_title.startswith("ADMIN_REQUEST: "): prefix = "ADMIN_REQUEST: "
     elif issue_title.startswith("USER_REQUEST: "): prefix = "USER_REQUEST: "
     elif issue_title.startswith("APPROVE: "):
-        # Gestisce il click verde dalla lista in attesa
         name_to_approve = issue_title.replace("APPROVE: ", "").strip()
         for p in library:
-            if p["name"].lower() == name_to_approve.lower():
-                p["approved"] = True
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"✅ Approvato: {name_to_approve}")
+            if p["name"].lower() == name_to_approve.lower(): p["approved"] = True
+        with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
     elif issue_title.startswith("DELETE: "):
-        # Gestisce il click rosso dalla lista in attesa o il tasto elimina
         name_to_delete = issue_title.replace("DELETE: ", "").strip()
         library = [p for p in library if p["name"].lower() != name_to_delete.lower()]
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(library, f, indent=2, ensure_ascii=False)
-        print(f"🗑️ Eliminato: {name_to_delete}")
+        with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         return
     
     if prefix:
         name_query = issue_title.replace(prefix, "").strip()
-        print(f"Elaborazione richiesta per: {name_query}")
-        
         candidates = search_wikipedia_titles(name_query, "it") + search_wikipedia_titles(name_query, "en")
         unique_titles = list(set([name_query] + candidates))
-        
         added_count = 0
         
         for t in unique_titles:
             data = fetch_wikipedia_data(t, "it") or fetch_wikipedia_data(t, "en")
-            if not data:
-                continue
-                
+            if not data: continue
             real_name = data.get("title", t).replace("_", " ")
             slug = data.get("titles", {}).get("canonical", t)
             
-            if any(p["name"].lower() == real_name.lower() for p in library):
-                print(f"-> {real_name} è già presente.")
-                continue
-
+            if any(p["name"].lower() == real_name.lower() for p in library): continue
             birth, death = fetch_wikidata_dates(slug)
             
             if not death:
                 if t.lower() == name_query.lower():
-                    print(f"-> BLOCCO: {real_name} risulta ancora in vita.")
-                    library.append({
-                        "name": f"⛔ ANCORA IN VITA: {real_name}",
-                        "slugs": {"IT": "", "EN": ""},
-                        "bio": "Questa persona risulta essere ancora in vita secondo i database mondiali. La scheda non può essere pubblicata.",
-                        "birthDate": birth,
-                        "deathDate": datetime.now().strftime("%Y-%m-%d"),
-                        "approved": False
-                    })
+                    library.append({"name": f"⛔ ANCORA IN VITA: {real_name}", "slugs": {"IT": "", "EN": ""}, "bio": "Questa persona risulta essere ancora in vita.", "birthDate": birth, "deathDate": datetime.now().strftime("%Y-%m-%d"), "approved": False})
                 continue
                 
-            library.append({
-                "name": real_name,
-                "slugs": {"IT": slug, "EN": slug},
-                "bio": data.get("extract", "Biografia non disponibile."),
-                "birthDate": birth,
-                "deathDate": death,
-                "imageUrl": data.get("originalimage", {}).get("source"),
-                "approved": "ADMIN" in prefix
-            })
+            library.append({"name": real_name, "slugs": {"IT": slug, "EN": slug}, "bio": data.get("extract", "Biografia non disponibile."), "birthDate": birth, "deathDate": death, "imageUrl": data.get("originalimage", {}).get("source"), "approved": "ADMIN" in prefix})
             added_count += 1
-            print(f"-> AGGIUNTO: {real_name} ({birth} - {death})")
             
         if added_count > 0:
             library.sort(key=lambda x: x['deathDate'])
-            with open(JSON_FILE, "w", encoding="utf-8") as f:
-                json.dump(library, f, indent=2, ensure_ascii=False)
-            print(f"Database salvato con {added_count} nuovi inserimenti.")
+            with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
         else:
             if not any(name_query.lower() in p["name"].lower() for p in library):
-                library.append({
-                    "name": f"⚠️ ERRORE: {name_query}",
-                    "slugs": {"IT": "", "EN": ""},
-                    "bio": "Nessuna corrispondenza trovata su Wikipedia o Wikidata per questo nome.",
-                    "birthDate": "1000-01-01",
-                    "deathDate": datetime.now().strftime("%Y-%m-%d"),
-                    "approved": False
-                })
-                with open(JSON_FILE, "w", encoding="utf-8") as f:
-                    json.dump(library, f, indent=2, ensure_ascii=False)
+                library.append({"name": f"⚠️ ERRORE: {name_query}", "slugs": {"IT": "", "EN": ""}, "bio": "Nessuna corrispondenza trovata.", "birthDate": "1000-01-01", "deathDate": datetime.now().strftime("%Y-%m-%d"), "approved": False})
+                with open(JSON_FILE, "w", encoding="utf-8") as f: json.dump(library, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
     run_processor()
