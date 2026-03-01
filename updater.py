@@ -25,8 +25,8 @@ def get_wikipedia_bio(slug, lang="it"):
     return slug.replace('_', ' '), "Biografia in attesa di aggiornamento."
 
 def run_updater():
-    # Cerca nell'ultimo anno solare
-    data_limite = (datetime.now() - timedelta(days=365)).strftime("%Y-%m-%dT00:00:00Z")
+    # Cerca negli ultimi due anni solari (730 giorni)
+    data_limite = (datetime.now() - timedelta(days=730)).strftime("%Y-%m-%dT00:00:00Z")
     print(f"--- Sentinel Attiva: Cerco decessi dal {data_limite[:10]} ad oggi ---")
     
     if os.path.exists(JSON_FILE):
