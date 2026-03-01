@@ -7703,6 +7703,18 @@
     "deathDate": "2025-11-06"
   },
   {
+    "name": "Ornella Vanoni",
+    "slugs": {
+      "IT": "Ornella_Vanoni",
+      "EN": "Ornella_Vanoni"
+    },
+    "bio": "Ornella Vanoni è stata una cantante, attrice e conduttrice televisiva italiana.",
+    "birthDate": "1934-09-22",
+    "deathDate": "2025-11-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ornella_Vanoni_1960s.jpg",
+    "approved": false
+  },
+  {
     "bio": "Frank Owen Gehry was a Canadian and American architect and designer known for his postmodern designs and use of unconventional forms and materials. A number of his buildings, including his private residence in Santa Monica, California, have become attractions. His most famous works include the Guggenheim Museum Bilbao in Spain, the Walt Disney Concert Hall in Los Angeles, and the Louis Vuitton Foundation in Paris. These buildings are characterized by their sculptural, often undulating exteriors and innovative use of materials such as titanium and stainless steel.",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Gehry%2C%20Viljo%20Revell%20Centenary%20reception%2C%202010%20%28S2311%20fl2969%20it0089%29%20%28cropped%29.jpg",
     "slugs": {
