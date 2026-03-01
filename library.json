@@ -4930,7 +4930,7 @@
     "birthDate": "1920-12-10",
     "deathDate": "1977-12-09",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Clarice_Lispector_%28cropped%29.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "bio": "⚕️ Causa del decesso: Ictus.\n\nSir Charles Spencer Chaplin Jr., detto Charlie, è stato un attore, comico, regista, sceneggiatore, compositore e produttore cinematografico britannico, autore di oltre novanta film e tra i più importanti e influenti cineasti del XX secolo.",
@@ -5285,7 +5285,7 @@
     "birthDate": "1935-07-09",
     "deathDate": "2009-10-04",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg",
-    "approved": false
+    "approved": true
   },
   {
     "name": "J. D. Salinger",
@@ -8301,6 +8301,6 @@
     "birthDate": "1964-01-01",
     "deathDate": "2026-02-28",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Nasirzadeh%20in%202024%20%281%29.jpg",
-    "approved": false
+    "approved": true
   }
 ]
