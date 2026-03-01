@@ -10,13 +10,14 @@ permissions:
 
 jobs:
   process_admin_command:
-    if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE')
+    # ✅ FIX: Ora si accende anche quando arriva un "ping" di visualizzazione (VIEW:)
+    if: startsWith(github.event.issue.title, 'REQUEST:') || startsWith(github.event.issue.title, 'USER_REQUEST:') || startsWith(github.event.issue.title, 'ADMIN_REQUEST:') || startsWith(github.event.issue.title, 'APPROVE') || startsWith(github.event.issue.title, 'DELETE') || startsWith(github.event.issue.title, 'VIEW')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del codice sorgente
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # FIX: Scarica la cronologia per evitare conflitti
+          fetch-depth: 0 
 
       - name: Configurazione Python
         uses: actions/setup-python@v4
@@ -31,12 +32,13 @@ jobs:
           ISSUE_TITLE: ${{ github.event.issue.title }}
         run: python request_processor.py
 
-      - name: Salva il database aggiornato
+      - name: Salva il database aggiornato e le Statistiche
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "⚡ Aggiornamento Database Admin da App"
-          file_pattern: "library.json"
-          push_options: '--force' # FIX: Forza il salvataggio sovrascrivendo i blocchi
+          commit_message: "⚡ Aggiornamento Database e Statistiche"
+          # ✅ FIX: Ora salva sia la library che il file delle analytics
+          file_pattern: "library.json analytics.json"
+          push_options: '--force' 
 
       - name: Chiudi il Ticket elaborato
         uses: peter-evans/close-issue@v3
