@@ -5161,6 +5161,18 @@
     "name": "Richard Nixon"
   },
   {
+    "name": "Ayrton Senna",
+    "slugs": {
+      "IT": "Ayrton_Senna",
+      "EN": "Ayrton_Senna"
+    },
+    "bio": "Ayrton Senna da Silva è stato un pilota automobilistico brasiliano, tre volte campione del mondo di Formula 1 con la McLaren.",
+    "birthDate": "1960-03-21",
+    "deathDate": "1994-05-01",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ayrton_Senna_9_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Jeff Buckley",
     "bio": "⚕️ Causa del decesso: Annegamento.\n\nJeffrey «Jeff» Scott Buckley fue un músico y cantautor estadounidense de rock alternativo, reconocido por la revista Rolling Stone en el listado de Los 100 cantantes más grandes de todos los tiempos según Rolling Stone con el número 39°. Es reconocido por su primer y único álbum de estudio, titulado Grace en 1994. Fue considerado uno de los músicos de rock más prometedores de su generación, pero por desgracia, en la cima de su éxito, murió ahogado en el río Wolf mientras nadaba a la altura de la ciudad de Memphis, donde residía. Fue hijo del también cantautor Tim Buckley (1947-1975), quien falleció también muy joven, a los 28 años.",
     "slugs": {
