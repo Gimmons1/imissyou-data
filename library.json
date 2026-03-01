@@ -6763,6 +6763,18 @@
     "deathDate": "2021-06-29"
   },
   {
+    "name": "Raffaella Carrà",
+    "slugs": {
+      "IT": "Raffaella_Carrà",
+      "EN": "Raffaella_Carrà"
+    },
+    "bio": "Raffaella Carrà, pseudonimo di Raffaella Maria Roberta Pelloni, è stata una cantante, attrice, ballerina, conduttrice televisiva, conduttrice radiofonica e autrice italiana.",
+    "birthDate": "1943-06-18",
+    "deathDate": "2021-07-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Raffaella-carra-2-1384f6-1024.jpg",
+    "approved": false
+  },
+  {
     "bio": "Steven Weinberg was an American theoretical physicist. He shared the 1979 Nobel Prize in Physics with Abdus Salam and Sheldon Glashow \"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\".",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Weinberg%202010.jpg",
     "slugs": {
