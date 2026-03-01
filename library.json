@@ -12,6 +12,18 @@
     "bio": "Gaius Sallustius Crispus, usually anglicised as Sallust, was a historian and politician of the Roman Republic from a plebeian family. Probably born at Amiternum in the country of the Sabines, Sallust became a partisan of Julius Caesar, circa 50s BC. He is the earliest known Latin-language Roman historian with surviving works to his name, of which Conspiracy of Catiline on the eponymous conspiracy, The Jugurthine War on the eponymous war, and the Histories remain extant. As a writer, Sallust was primarily influenced by the works of the fifth-century BC Greek historian Thucydides. During his political career he amassed great and ill-gotten wealth from his governorship of Africa."
   },
   {
+    "name": "Francesco d'Assisi",
+    "slugs": {
+      "IT": "Francesco_d'Assisi",
+      "EN": "Francesco_d'Assisi"
+    },
+    "bio": "Francesco d'Assisi, nato Giovanni di Pietro di Bernardone, è stato un religioso, mistico e poeta italiano.\nFondatore dell'Ordine francescano, fu proclamato santo da papa Gregorio IX nel 1228. Ispirato a condurre una vita cristiana di povertà, divenne un mendicante e un predicatore itinerante. È comunemente raffigurato con un saio marrone e una corda legata in vita, con tre nodi che simboleggiano i consigli evangelici di povertà, castità e obbedienza.",
+    "birthDate": "1182-07-01",
+    "deathDate": "1226-10-10",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Luca_Giordano_-_San_Francisco_de_Asis.jpg",
+    "approved": true
+  },
+  {
     "deathDate": "1741-07-28",
     "birthDate": "1678-03-04",
     "name": "Antonio Vivaldi",
@@ -4641,6 +4653,18 @@
     "bio": "Clara Porges, nata Sommer, è stata una pittrice tedesca."
   },
   {
+    "name": "Papa Giovanni XXIII",
+    "slugs": {
+      "IT": "Papa_Giovanni_XXIII",
+      "EN": "Papa_Giovanni_XXIII"
+    },
+    "bio": "Papa Giovanni XXIII, nato Angelo Giuseppe Roncalli, è stato il 261º papa della Chiesa cattolica e vescovo di Roma, primate d'Italia e 3º sovrano dello Stato della Città del Vaticano, oltre agli altri titoli propri del romano pontefice, dal 28 ottobre 1958 fino alla morte.",
+    "birthDate": "1881-11-25",
+    "deathDate": "1963-06-03",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg",
+    "approved": true
+  },
+  {
     "bio": "⚕️ Causa del decesso: Colpo di arma da fuoco alla testa.\n\n35º Presidente degli Stati Uniti d'America, simbolo assoluto di carisma, rinnovamento e speranza durante gli anni più tesi della Guerra Fredda. È stato assassinato a 46 anni a Dallas, colpito alla testa da un cecchino mentre sfilava su un'auto scoperta in un corteo presidenziale.",
     "name": "John F. Kennedy",
     "birthDate": "1917-05-29",
@@ -4939,6 +4963,18 @@
     },
     "deathDate": "1977-12-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Chaplin%20portrait%20Getty%201739411952.jpg"
+  },
+  {
+    "name": "Papa Giovanni Paolo I",
+    "slugs": {
+      "IT": "Papa_Giovanni_Paolo_I",
+      "EN": "Papa_Giovanni_Paolo_I"
+    },
+    "bio": "Papa Giovanni Paolo I è stato il 263º papa della Chiesa cattolica e vescovo di Roma, 5º sovrano dello Stato della Città del Vaticano, oltre agli altri titoli propri del Romano Pontefice, dal 26 agosto 1978 fino alla morte.",
+    "birthDate": "1912-10-17",
+    "deathDate": "1978-09-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/it/d/dc/Giovanni-Paolo-I%C2%B0-5.jpg",
+    "approved": true
   },
   {
     "bio": "⚕️ Causa del decesso: Edema.\n\nJean-Paul-Charles-Aymard Sartre è stato un filosofo, scrittore, drammaturgo e critico letterario francese, considerato uno dei più importanti rappresentanti dell'esistenzialismo, che in lui prende la forma di un umanesimo ateo in cui ogni individuo è radicalmente libero e responsabile delle sue scelte, ma in una prospettiva soggettivista e relativista.\n\n",
@@ -7500,6 +7536,18 @@
     },
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Vargas%20Llosa%20%28crop%202%29.jpg",
     "bio": "Jorge Mario Pedro Vargas Llosa, i marqués de Vargas Llosa, fue un escritor peruano con nacionalidad española desde 1993 y nacionalidad dominicana desde junio de 2022. Considerado como uno de los más importantes novelistas y ensayistas contemporáneos, sus obras han obtenido numerosos premios, entre los que destacan el Premio Nobel de Literatura 2010, el Premio Cervantes 1994 —considerado como el más importante en la lengua española—, el Premio Príncipe de Asturias de las Letras 1986, el Premio Biblioteca Breve 1962, el Premio Rómulo Gallegos 1967 y el Premio Planeta 1993, entre otros. Junto a Gabriel García Márquez, Julio Cortázar y Carlos Fuentes, es uno de los exponentes centrales del boom latinoamericano."
+  },
+  {
+    "name": "Papa Francesco",
+    "slugs": {
+      "IT": "Papa_Francesco",
+      "EN": "Papa_Francesco"
+    },
+    "bio": "Papa Francesco è stato il 266º papa della Chiesa cattolica e vescovo di Roma, 8º sovrano dello Stato della Città del Vaticano e primate d'Italia, oltre agli altri titoli propri del romano pontefice, dal 13 marzo 2013 fino alla morte.",
+    "birthDate": "1936-12-17",
+    "deathDate": "2025-04-21",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Portrait_of_Pope_Francis_%282021%29_FXD_%28removed_figure%29.jpg",
+    "approved": true
   },
   {
     "deathDate": "2025-05-13",
