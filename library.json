@@ -4731,6 +4731,18 @@
     }
   },
   {
+    "name": "John Coltrane",
+    "slugs": {
+      "IT": "John_Coltrane",
+      "EN": "John_Coltrane"
+    },
+    "bio": "John William Coltrane was an American jazz saxophonist, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+    "birthDate": "1926-09-23",
+    "deathDate": "1967-07-17",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/John_Coltrane_1963_cropped_ver2.jpg",
+    "approved": false
+  },
+  {
     "bio": "⚕️ Causa del decesso: Trauma balistico.\n\nErnesto Guevara de la Serna, più noto come il Che, Che Guevara o semplicemente Che, è stato un rivoluzionario, guerrigliero, scrittore, politico e medico argentino.",
     "birthDate": "1928-06-14",
     "deathDate": "1967-10-09",
@@ -7012,6 +7024,18 @@
     "approved": true,
     "birthDate": "1930-12-03",
     "name": "Jean-Luc Godard"
+  },
+  {
+    "name": "Robbie Coltrane",
+    "slugs": {
+      "IT": "Robbie_Coltrane",
+      "EN": "Robbie_Coltrane"
+    },
+    "bio": "Robbie Coltrane, pseudonimo di Anthony Robert McMillan, è stato un attore e comico britannico.",
+    "birthDate": "1950-03-30",
+    "deathDate": "2022-10-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Robbiecoltrane_%28cropped%29.jpg",
+    "approved": false
   },
   {
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiang%20Zemin1.png",
