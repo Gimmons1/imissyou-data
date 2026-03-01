@@ -4921,6 +4921,18 @@
     "name": "Elvis Presley"
   },
   {
+    "name": "Clarice Lispector",
+    "slugs": {
+      "IT": "Clarice_Lispector",
+      "EN": "Clarice_Lispector"
+    },
+    "bio": "Chaja Pinkasivna Lispektor, meglio conosciuta come Clarice Lispector, è stata una scrittrice, giornalista e traduttrice ucraina naturalizzata brasiliana.",
+    "birthDate": "1920-12-10",
+    "deathDate": "1977-12-09",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Clarice_Lispector_%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "bio": "⚕️ Causa del decesso: Ictus.\n\nSir Charles Spencer Chaplin Jr., detto Charlie, è stato un attore, comico, regista, sceneggiatore, compositore e produttore cinematografico britannico, autore di oltre novanta film e tra i più importanti e influenti cineasti del XX secolo.",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Chaplin%20portrait%20Getty%201739411952.jpg",
     "deathDate": "1977-12-25",
@@ -5262,6 +5274,18 @@
     "deathDate": "2009-06-25",
     "approved": true,
     "birthDate": "1958-08-29"
+  },
+  {
+    "name": "Mercedes Sosa",
+    "slugs": {
+      "IT": "Mercedes_Sosa",
+      "EN": "Mercedes_Sosa"
+    },
+    "bio": "Haydée Mercedes Sosa è stata una cantante e attivista argentina, simbolo della sua terra e della lotta per la pace e i diritti civili contro la dittatura. Era solita definirsi cantora popular.\nEra nota anche con il soprannome La Negra.",
+    "birthDate": "1935-07-09",
+    "deathDate": "2009-10-04",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg",
+    "approved": false
   },
   {
     "name": "J. D. Salinger",
@@ -8277,6 +8301,17 @@
     "birthDate": "1964-01-01",
     "deathDate": "2026-02-28",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Nasirzadeh%20in%202024%20%281%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "⛔ ANCORA IN VITA: Odair José",
+    "slugs": {
+      "IT": "",
+      "EN": ""
+    },
+    "bio": "Questa persona risulta essere ancora in vita.",
+    "birthDate": "1000-01-01",
+    "deathDate": "2026-03-01",
     "approved": false
   }
 ]
