@@ -5068,6 +5068,18 @@
     "name": "Salvador Dalí"
   },
   {
+    "name": "Cazuza",
+    "slugs": {
+      "IT": "Cazuza",
+      "EN": "Cazuza"
+    },
+    "bio": "Agenor Miranda Araújo Neto detto Cazuza è stato un cantautore brasiliano.",
+    "birthDate": "1958-04-04",
+    "deathDate": "1990-07-07",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cazuza_flickr.jpg",
+    "approved": false
+  },
+  {
     "bio": "⚕️ Causa del decesso: Broncopolmonite.\n\nFreddie Mercury [ˈfɹɛdi ˈmɜːkjəɹi], né Farrokh Bulsara, le 5 septembre 1946 à Stone Town, dans le protectorat de Zanzibar et mort le 24 novembre 1991 à Kensington, dans le Grand Londres, en Angleterre, est un auteur-compositeur-interprète, chanteur, musicien et producteur britannique. Il est l'un des cofondateurs, en 1970, du groupe de rock Queen, dans lequel il est chanteur et pianiste. C'est au sein de celui-ci qu'il établit sa réputation internationale, en compagnie du guitariste Brian May, du batteur Roger Taylor et du bassiste John Deacon, tous auteurs-compositeurs comme lui.",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Freddie%20Mercury%20at%20Sheraton%20Hotel%20Buenos%20Aires.jpg",
     "deathDate": "1991-11-24",
@@ -5628,6 +5640,18 @@
     "deathDate": "2013-11-30",
     "approved": true,
     "birthDate": "1973-09-12"
+  },
+  {
+    "name": "João Araújo",
+    "slugs": {
+      "IT": "João_Araújo",
+      "EN": "João_Araújo"
+    },
+    "bio": "João Araújo, all'anagrafe João Alfredo Rangel de Araújo, è stato un produttore discografico brasiliano.",
+    "birthDate": "1935-07-02",
+    "deathDate": "2013-11-30",
+    "imageUrl": null,
+    "approved": false
   },
   {
     "bio": "⚕️ Causa del decesso: Malattie dell'apparato respiratorio.\n\nNelson Rolihlahla Mandela, nacido Rolihlahla Mandela, fue un abogado, activista contra el apartheid, político y filántropo sudafricano que presidió el gobierno de su país de 1994 a 1999. Fue el primer mandatario afrodescendiente que encabezó el poder ejecutivo, y el primero en resultar elegido por sufragio universal en su país. Su gobierno se dedicó a desmontar la estructura social y política heredada del apartheid a través del combate del racismo institucionalizado, la pobreza, la desigualdad social y la promoción de la reconciliación social. Como nacionalista africano presidió el Congreso Nacional Africano (CNA) entre 1991 y 1997, y a nivel internacional fue secretario general del Movimiento de Países No Alineados entre 1998 y 2002.",
