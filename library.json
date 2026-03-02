@@ -8469,5 +8469,29 @@
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aziz%20Nasirzadeh%20in%202024%20%281%29.jpg",
     "bio": "{{Bio\n|Nome = Aziz\n|Cognome = Nasirzadeh\n|Sesso = M\n|LuogoNascita = Sarab\n|GiornoMeseNascita = \n|AnnoNascita = 1965\n|LuogoMorte = Teheran\n|GiornoMeseMorte = 28 febbraio\n|AnnoMorte = 2026\n|Epoca = 2000\n|Attività = generale\n|Nazionalità = iraniano\n|PostNazionalità =, è stato Ministro della difesa e della logistica delle forze armate dell'Iran dal 21 agosto 2024 al 28 febbraio 2026. In precedenza è stato vice-capo di stato maggiore delle Forze armate dell'Iran dal settembre 2021 al 2024, e comandante della Forza aerea iraniana dall'agosto 2018 al settembre. Veterano della Guerra Iran-Iraq, è stato certificato come pilota di F-14 ma non ha avuto modo di partecipare ai combattimenti",
     "name": "Aziz Nasirzadeh"
+  },
+  {
+    "name": "Mahmud Ahmadinejad",
+    "slugs": {
+      "IT": "Mahmud_Ahmadinejad",
+      "EN": "Mahmoud_Ahmadinejad"
+    },
+    "bio": "Maḥmūd Aḥmadinežād, traslitterato anche Ahmadinejad è un politico iraniano, 6⁰ presidente della Repubblica Islamica dell'Iran dal 3 agosto 2005 al 3 agosto 2013.",
+    "birthDate": "1956-10-28",
+    "deathDate": "2026-02-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahmoud%20Ahmadinejad%202019%2002.jpg",
+    "approved": false
+  },
+  {
+    "name": "Davíð Oddsson",
+    "slugs": {
+      "IT": "Davíð_Oddsson",
+      "EN": "Davíð_Oddsson"
+    },
+    "bio": "Davíð Oddsson è stato un politico islandese.",
+    "birthDate": "1948-01-17",
+    "deathDate": "2026-03-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilden%20ar%20tagen%20vid%20Nordiska%20radets%20session%20i%20Oslo%2C%202003.jpg",
+    "approved": false
   }
 ]
