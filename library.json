@@ -6310,6 +6310,18 @@
     "name": "Charles Manson"
   },
   {
+    "name": "Johnny Hallyday",
+    "slugs": {
+      "IT": "Johnny_Hallyday",
+      "EN": "Johnny_Hallyday"
+    },
+    "bio": "Johnny Hallyday, pseudonimo di Jean-Philippe Léo Smet, è stato un cantante e attore francese.\nConsiderato tra i maggiori esponenti del rock del suo Paese, ha venduto oltre cento milioni di dischi.",
+    "birthDate": "1943-06-15",
+    "deathDate": "2017-12-05",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Johnny_Hallyday_avp_2014.jpg",
+    "approved": false
+  },
+  {
     "approved": true,
     "deathDate": "2018-01-22",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula%20Le%20Guin%20%283551195631%29%20-%20Restoration.jpg",
