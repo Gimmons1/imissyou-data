@@ -8505,5 +8505,17 @@
     "deathDate": "2026-03-01",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilden%20ar%20tagen%20vid%20Nordiska%20radets%20session%20i%20Oslo%2C%202003.jpg",
     "approved": true
+  },
+  {
+    "name": "António Lobo Antunes",
+    "slugs": {
+      "IT": "António_Lobo_Antunes",
+      "EN": "António_Lobo_Antunes"
+    },
+    "bio": "António Lobo Antunes è stato uno scrittore portoghese.",
+    "birthDate": "1942-09-01",
+    "deathDate": "2026-03-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Lobo%20Antunes%20%282010%29.jpg",
+    "approved": false
   }
 ]
