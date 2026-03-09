@@ -8541,5 +8541,17 @@
     "deathDate": "2026-03-08",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Laureate%20Sir%20Anthony%20James%20Leggett%20in%202007.jpg",
     "approved": false
+  },
+  {
+    "name": "Nzinga di Ndongo e Matamba",
+    "slugs": {
+      "IT": "Nzinga_of_Ndongo_and_Matamba",
+      "EN": "Nzinga_of_Ndongo_and_Matamba"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1582-01-01",
+    "deathDate": "2030-12-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Zingha.jpg",
+    "approved": false
   }
 ]
