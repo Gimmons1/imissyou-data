@@ -8531,6 +8531,30 @@
     "approved": true
   },
   {
+    "name": "Tony Hoare",
+    "slugs": {
+      "IT": "Tony_Hoare",
+      "EN": "Tony_Hoare"
+    },
+    "bio": "Charles Antony Richard Hoare, detto Tony, è un informatico britannico.",
+    "birthDate": "1934-01-11",
+    "deathDate": "2026-03-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Tony%20Hoare%20IMG%205125.jpg",
+    "approved": false
+  },
+  {
+    "name": "Country Joe McDonald",
+    "slugs": {
+      "IT": "Country_Joe_McDonald",
+      "EN": "Country_Joe_McDonald"
+    },
+    "bio": "Joseph Allen McDonald, detto Country Joe, è stato un cantautore statunitense, leader del gruppo di rock psichedelico statunitense Country Joe and the Fish..",
+    "birthDate": "1942-01-01",
+    "deathDate": "2026-03-07",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Countryjoe%2079.jpg",
+    "approved": false
+  },
+  {
     "name": "Anthony James Leggett",
     "slugs": {
       "IT": "Anthony_James_Leggett",
