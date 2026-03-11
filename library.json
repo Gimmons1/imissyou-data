@@ -8579,6 +8579,18 @@
     "approved": false
   },
   {
+    "name": "Salih Muslim",
+    "slugs": {
+      "IT": "Salih_Muslim",
+      "EN": "Salih_Muslim"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1951-03-01",
+    "deathDate": "2026-03-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Salih%20Muslim%202014%20in%20Berlin.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
