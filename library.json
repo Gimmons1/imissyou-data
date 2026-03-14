@@ -8591,6 +8591,18 @@
     "approved": false
   },
   {
+    "name": "Ron Delany",
+    "slugs": {
+      "IT": "Ron_Delany",
+      "EN": "Ron_Delany"
+    },
+    "bio": "Ronald Michael Delany, detto Ron, è stato un mezzofondista irlandese, campione olimpico dei 1500 metri piani ai Giochi di Melbourne 1956.",
+    "birthDate": "1935-03-06",
+    "deathDate": "2026-03-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ron%20Delany%201957.jpg",
+    "approved": false
+  },
+  {
     "name": "İlber Ortaylı",
     "slugs": {
       "IT": "İlber_Ortaylı",
