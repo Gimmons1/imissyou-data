@@ -8651,6 +8651,18 @@
     "approved": false
   },
   {
+    "name": "Christopher Sims",
+    "slugs": {
+      "IT": "Christopher_Sims",
+      "EN": "Christopher_A._Sims"
+    },
+    "bio": "Christopher Albert Sims è un economista statunitense insignito del Premio Nobel per l'economia nel 2011.",
+    "birthDate": "1942-10-21",
+    "deathDate": "2026-03-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207720.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
