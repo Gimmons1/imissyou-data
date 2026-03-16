@@ -8639,6 +8639,18 @@
     "approved": false
   },
   {
+    "name": "Paul R. Ehrlich",
+    "slugs": {
+      "IT": "Paul_R._Ehrlich",
+      "EN": "Paul_R._Ehrlich"
+    },
+    "bio": "Paul R. Ehrlich è stato un ambientalista, biologo ed entomologo statunitense.",
+    "birthDate": "1932-05-29",
+    "deathDate": "2026-03-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20-%201974.jpg",
+    "approved": false
+  },
+  {
     "name": "Jürgen Habermas",
     "slugs": {
       "IT": "Jürgen_Habermas",
