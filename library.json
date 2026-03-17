@@ -8675,6 +8675,18 @@
     "approved": false
   },
   {
+    "name": "Len Deighton",
+    "slugs": {
+      "IT": "Len_Deighton",
+      "EN": "Len_Deighton"
+    },
+    "bio": "Leonard Cyril Deighton è stato uno scrittore inglese.\nLa sua produzione letteraria spazia dai romanzi di spionaggio e di suspense, ai libri di cucina e ai saggi storici.",
+    "birthDate": "1929-02-18",
+    "deathDate": "2026-03-17",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
