@@ -8699,6 +8699,18 @@
     "approved": false
   },
   {
+    "name": "Ali Larijani",
+    "slugs": {
+      "IT": "Ali_Larijani",
+      "EN": "Ali_Larijani"
+    },
+    "bio": "Ali Ardashir Larijani è stato un politico, filosofo e generale iraniano.",
+    "birthDate": "1958-06-03",
+    "deathDate": "2026-03-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Larijani%202025%20%28cropped%29%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
