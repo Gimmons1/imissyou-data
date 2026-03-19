@@ -8723,6 +8723,18 @@
     "approved": false
   },
   {
+    "name": "Umberto Bossi",
+    "slugs": {
+      "IT": "Umberto_Bossi",
+      "EN": "Umberto_Bossi"
+    },
+    "bio": "Umberto Bossi è stato un politico e giornalista italiano.",
+    "birthDate": "1941-09-19",
+    "deathDate": "2026-03-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MEP%20Umberto%20Bossi%2C%201994%20%2803%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
