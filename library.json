@@ -8747,6 +8747,18 @@
     "approved": false
   },
   {
+    "name": "Chuck Norris",
+    "slugs": {
+      "IT": "Chuck_Norris",
+      "EN": "Chuck_Norris"
+    },
+    "bio": "Carlos Ray Norris, detto Chuck, è stato un attore, artista marziale, produttore televisivo e sceneggiatore statunitense.",
+    "birthDate": "1940-03-10",
+    "deathDate": "2026-03-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chuck%20Norris%20May%202015.jpg",
+    "approved": false
+  },
+  {
     "name": "Filarete di Kiev",
     "slugs": {
       "IT": "Filaret_Denysenko",
