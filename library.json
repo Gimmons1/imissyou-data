@@ -8363,6 +8363,18 @@
     "deathDate": "2026-02-21"
   },
   {
+    "name": "Willie Colón",
+    "slugs": {
+      "IT": "Willie_Colón",
+      "EN": "Willie_Colón"
+    },
+    "bio": "William Anthony Colón Román è stato un musicista e attivista statunitense.",
+    "birthDate": "1950-04-28",
+    "deathDate": "2026-02-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Col%C3%B3n%20on%20Trumpet.jpg",
+    "approved": false
+  },
+  {
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mencho_-_2018_Wanted_Poster_%28cropped%29_%28cropped%29.PNG",
     "approved": true,
     "birthDate": "1966-07-07",
@@ -8732,6 +8744,18 @@
     "birthDate": "1941-09-19",
     "deathDate": "2026-03-19",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MEP%20Umberto%20Bossi%2C%201994%20%2803%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Filarete di Kiev",
+    "slugs": {
+      "IT": "Filaret_Denysenko",
+      "EN": "Filaret_Denysenko"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1929-01-23",
+    "deathDate": "2026-03-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Philaret%20%28Denysenko%29.jpg",
     "approved": false
   },
   {
