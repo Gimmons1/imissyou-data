@@ -8771,6 +8771,18 @@
     "approved": false
   },
   {
+    "name": "Nicholas Brendon",
+    "slugs": {
+      "IT": "Nicholas_Brendon",
+      "EN": "Nicholas_Brendon"
+    },
+    "bio": "Nicholas Brendon, nome completo Nicholas Brendon Schultz, è stato un attore statunitense, conosciuto principalmente per il ruolo di Xander Harris nella serie televisiva Buffy l'ammazzavampiri.",
+    "birthDate": "1971-04-12",
+    "deathDate": "2026-03-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20Brendon%202011.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
