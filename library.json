@@ -8795,6 +8795,18 @@
     "approved": false
   },
   {
+    "name": "John Michael Bishop",
+    "slugs": {
+      "IT": "John_Michael_Bishop",
+      "EN": "J._Michael_Bishop"
+    },
+    "bio": "John Michael Bishop è un biologo statunitense, premio Nobel per la medicina nel 1989.\nHa studiato all'Università di Harvard, ma ha scelto San Francisco come propria città di residenza; prima di passare all'Università della California, San Francisco, nel 1968, ha lavorato in America e in Europa, ad Amburgo. È stato cancelliere dell'Università della California, San Francisco.",
+    "birthDate": "1936-02-22",
+    "deathDate": "2026-03-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-8172-300%20j%20michael%20bishop.jpg",
+    "approved": false
+  },
+  {
     "name": "Jean-Baptiste Phạm Minh Mẫn",
     "slugs": {
       "IT": "Phạm_Minh_Mẫn",
