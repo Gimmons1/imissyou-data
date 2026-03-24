@@ -8843,6 +8843,18 @@
     "approved": false
   },
   {
+    "name": "Gino Paoli",
+    "slugs": {
+      "IT": "Gino_Paoli",
+      "EN": "Gino_Paoli"
+    },
+    "bio": "Gino Paoli è stato un cantautore e politico italiano.",
+    "birthDate": "1934-09-23",
+    "deathDate": "2026-03-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gino%20Paoli%20cropped.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
