@@ -8855,6 +8855,18 @@
     "approved": false
   },
   {
+    "name": "Birutė Galdikas",
+    "slugs": {
+      "IT": "Biruté_Galdikas",
+      "EN": "Biruté_Galdikas"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1946-05-10",
+    "deathDate": "2026-03-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Birute%20Galdikas.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
