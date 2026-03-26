@@ -8867,6 +8867,18 @@
     "approved": false
   },
   {
+    "name": "Alexander Kluge",
+    "slugs": {
+      "IT": "Alexander_Kluge",
+      "EN": "Alexander_Kluge"
+    },
+    "bio": "Alexander Kluge è stato un regista, sceneggiatore, scrittore, saggista, produttore cinematografico ed attore tedesco.",
+    "birthDate": "1932-02-14",
+    "deathDate": "2026-03-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Kluge%2001.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
