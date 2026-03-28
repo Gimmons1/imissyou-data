@@ -8879,6 +8879,18 @@
     "approved": false
   },
   {
+    "name": "James Tolkan",
+    "slugs": {
+      "IT": "James_Tolkan",
+      "EN": "James_Tolkan"
+    },
+    "bio": "James Stewart Tolkan è stato un attore statunitense.",
+    "birthDate": "1931-06-20",
+    "deathDate": "2026-03-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Tolkan.jpg",
+    "approved": false
+  },
+  {
     "name": "Epeli Nailatikau",
     "slugs": {
       "IT": "Epeli_Nailatikau",
@@ -8888,6 +8900,18 @@
     "birthDate": "1941-07-05",
     "deathDate": "2026-03-27",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Epeli%20Nailatikau%202012.jpg",
+    "approved": false
+  },
+  {
+    "name": "Mary Rand",
+    "slugs": {
+      "IT": "Mary_Rand",
+      "EN": "Mary_Rand"
+    },
+    "bio": "Mary Denise Bignal-Rand  è stata una lunghista, multiplista e velocista britannica.",
+    "birthDate": "1940-02-10",
+    "deathDate": "2026-03-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Rand%201966.jpg",
     "approved": false
   },
   {
