@@ -8927,6 +8927,42 @@
     "approved": false
   },
   {
+    "name": "Chan Santokhi",
+    "slugs": {
+      "IT": "Chan_Santokhi",
+      "EN": "Chan_Santokhi"
+    },
+    "bio": "Chandrikapersad Santokhi, detto Chan, è stato un politico surinamese, capo della polizia e presidente della Repubblica del Suriname dal 2020 al 2025.",
+    "birthDate": "1959-02-03",
+    "deathDate": "2026-03-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chan%20Santokhi%2C%20Sep%202020%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Carlos Westendorp",
+    "slugs": {
+      "IT": "Carlos_Westendorp",
+      "EN": "Carlos_Westendorp"
+    },
+    "bio": "Carlos Westendorp y Cabeza è stato un politico e diplomatico spagnolo, Segretario Generale del Club de Madrid.",
+    "birthDate": "1937-01-07",
+    "deathDate": "2026-03-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/19990000%20WESTENDORP.jpg",
+    "approved": false
+  },
+  {
+    "name": "Borislav Mihajlov",
+    "slugs": {
+      "IT": "Borislav_Mihajlov",
+      "EN": "Borislav_Mihaylov"
+    },
+    "bio": "Borislav Biserov Mihajlov è un dirigente sportivo ed ex calciatore bulgaro, di ruolo portiere, ex presidente della Federazione calcistica della Bulgaria.",
+    "birthDate": "1963-02-12",
+    "deathDate": "2026-03-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Borislav%20Mikhailov.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
