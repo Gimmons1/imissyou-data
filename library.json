@@ -8927,6 +8927,18 @@
     "approved": false
   },
   {
+    "name": "Marinella",
+    "slugs": {
+      "IT": "Marinella",
+      "EN": "Marinella"
+    },
+    "bio": "",
+    "birthDate": "1938-05-19",
+    "deathDate": "2026-03-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marinella2008.jpg",
+    "approved": false
+  },
+  {
     "name": "Chan Santokhi",
     "slugs": {
       "IT": "Chan_Santokhi",
@@ -8960,6 +8972,18 @@
     "birthDate": "1963-02-12",
     "deathDate": "2026-03-31",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Borislav%20Mikhailov.jpg",
+    "approved": false
+  },
+  {
+    "name": "Hans-Jürgen Kreische",
+    "slugs": {
+      "IT": "Hans-Jürgen_Kreische",
+      "EN": "Hans-Jürgen_Kreische"
+    },
+    "bio": "Hans-Jürgen Kreische, detto Hansi, è stato un calciatore e allenatore di calcio tedesco orientale, dal 1990 tedesco, di ruolo attaccante, osservatore della Dinamo Dresda.",
+    "birthDate": "1947-07-19",
+    "deathDate": "2026-04-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans-J%C3%BCrgen%20Kreische%20World%20Cup%201974.jpg",
     "approved": false
   },
   {
