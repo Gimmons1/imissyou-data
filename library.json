@@ -8939,6 +8939,18 @@
     "approved": false
   },
   {
+    "name": "Mary Beth Hurt",
+    "slugs": {
+      "IT": "Mary_Beth_Hurt",
+      "EN": "Mary_Beth_Hurt"
+    },
+    "bio": "Mary Beth Hurt, nata Mary Beth Supinger, è stata un'attrice statunitense.",
+    "birthDate": "1946-09-26",
+    "deathDate": "2026-03-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/MaryBethHurt02.JPG",
+    "approved": false
+  },
+  {
     "name": "Chan Santokhi",
     "slugs": {
       "IT": "Chan_Santokhi",
