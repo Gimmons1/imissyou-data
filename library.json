@@ -8999,6 +8999,18 @@
     "approved": false
   },
   {
+    "name": "Ling Liong Sik",
+    "slugs": {
+      "IT": "Ling_Liong_Sik",
+      "EN": "Ling_Liong_Sik"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1943-09-18",
+    "deathDate": "2026-04-04",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
