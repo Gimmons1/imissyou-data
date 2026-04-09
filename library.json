@@ -8843,6 +8843,18 @@
     "approved": false
   },
   {
+    "name": "Chip Taylor",
+    "slugs": {
+      "IT": "Chip_Taylor",
+      "EN": "Chip_Taylor"
+    },
+    "bio": "Chip Taylor, pseudonimo di James Wesley Voight, è stato un cantautore statunitense.",
+    "birthDate": "1940-03-21",
+    "deathDate": "2026-03-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chip%20Taylor.jpg",
+    "approved": false
+  },
+  {
     "name": "Gino Paoli",
     "slugs": {
       "IT": "Gino_Paoli",
