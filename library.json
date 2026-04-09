@@ -9047,6 +9047,18 @@
     "approved": false
   },
   {
+    "name": "Afrika Bambaataa",
+    "slugs": {
+      "IT": "Afrika_Bambaataa",
+      "EN": "Afrika_Bambaataa"
+    },
+    "bio": "Afrika Bambaataa, pseudonimo di Lance Taylor, è stato un rapper e disc jockey statunitense e una delle figure storiche più rappresentative dell'hip hop. Generalmente ritenuto uno dei primi e più importanti musicisti del genere hip hop, Bambaataa contribuì a inventare l'\"electro rap\", uno stile destinato a caratterizzare molta musica degli anni ottanta.",
+    "birthDate": "1957-04-17",
+    "deathDate": "2026-04-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20Bambaataa%202009%20IMG%208349%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
