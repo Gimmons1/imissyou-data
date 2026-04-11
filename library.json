@@ -8555,6 +8555,18 @@
     "approved": false
   },
   {
+    "name": "Jane Lapotaire",
+    "slugs": {
+      "IT": "Jane_Lapotaire",
+      "EN": "Jane_Lapotaire"
+    },
+    "bio": "Jane Elizabeth Marie Lapotaire, nata Burgess, è stata un'attrice britannica.",
+    "birthDate": "1944-12-26",
+    "deathDate": "2026-03-05",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Country Joe McDonald",
     "slugs": {
       "IT": "Country_Joe_McDonald",
