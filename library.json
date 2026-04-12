@@ -9083,6 +9083,18 @@
     "approved": false
   },
   {
+    "name": "Asha Bhosle",
+    "slugs": {
+      "IT": "Asha_Bhosle",
+      "EN": "Asha_Bhosle"
+    },
+    "bio": "Asha Bhosle, nata Asha Mangeshkar, è stata una cantante e attrice indiana.",
+    "birthDate": "1933-09-08",
+    "deathDate": "2026-04-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Asha%20Bhosle%20-%20still%2047160%20cropped.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
