@@ -9107,6 +9107,18 @@
     "approved": false
   },
   {
+    "name": "Michael Rabin",
+    "slugs": {
+      "IT": "Michael_Rabin",
+      "EN": "Michael_O._Rabin"
+    },
+    "bio": "Michael Oser Rabin è un informatico israeliano, vincitore del Premio Turing nel 1976 per l'introduzione degli automi a stati finiti non deterministici.",
+    "birthDate": "1931-09-01",
+    "deathDate": "2026-04-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20rabin.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
