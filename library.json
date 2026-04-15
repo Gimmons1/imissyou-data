@@ -9107,6 +9107,18 @@
     "approved": false
   },
   {
+    "name": "Ljudmila Ševcova",
+    "slugs": {
+      "IT": "Ljudmila_Ševcova",
+      "EN": "Lyudmila_Shevtsova"
+    },
+    "bio": "Ljudmila Ivanovna Ševcova, coniugata Lysenko e, successivamente, Gurevič, è stata una mezzofondista sovietica, specializzata negli 800 metri piani, disciplina di cui è stata campionessa olimpica a Roma 1960.",
+    "birthDate": "1934-11-26",
+    "deathDate": "2026-04-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyudmila%20Shevtsova%201960.jpg",
+    "approved": false
+  },
+  {
     "name": "Michael Rabin",
     "slugs": {
       "IT": "Michael_Rabin",
