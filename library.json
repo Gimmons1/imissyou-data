@@ -9119,6 +9119,18 @@
     "approved": false
   },
   {
+    "name": "José Santamaría",
+    "slugs": {
+      "IT": "José_Santamaría",
+      "EN": "José_Santamaría"
+    },
+    "bio": "José Emilio Santamaría Iglesias è stato un allenatore di calcio e calciatore uruguaiano naturalizzato spagnolo.",
+    "birthDate": "1929-07-31",
+    "deathDate": "2026-04-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Santamar%C3%ADa%201976.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
