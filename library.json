@@ -9143,6 +9143,30 @@
     "approved": false
   },
   {
+    "name": "Alexander Manninger",
+    "slugs": {
+      "IT": "Alexander_Manninger",
+      "EN": "Alex_Manninger"
+    },
+    "bio": "Alexander Manninger è un ex calciatore austriaco, di ruolo portiere.",
+    "birthDate": "1977-06-04",
+    "deathDate": "2026-04-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Juventus%20-%202010%20-%20Alexander%20Manninger.jpg",
+    "approved": false
+  },
+  {
+    "name": "Kazuo Imanishi",
+    "slugs": {
+      "IT": "Kazuo_Imanishi",
+      "EN": "Kazuo_Imanishi"
+    },
+    "bio": "Kazuo Imanishi è stato un calciatore giapponese, di ruolo difensore.",
+    "birthDate": "1941-01-12",
+    "deathDate": "2026-04-16",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
