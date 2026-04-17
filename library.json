@@ -9167,6 +9167,18 @@
     "approved": false
   },
   {
+    "name": "Oscar Schmidt",
+    "slugs": {
+      "IT": "Oscar_Schmidt",
+      "EN": "Oscar_Schmidt"
+    },
+    "bio": "Oscar Daniel Bezerra Schmidt è stato un cestista brasiliano.\nDal 2013 fa parte della Naismith Memorial Basketball Hall of Fame. Deteneva il record mondiale assoluto di punti segnati in carriera (49.737), fino a quando venne superato da LeBron James il 22 novembre 2024.",
+    "birthDate": "1958-02-16",
+    "deathDate": "2026-04-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Schmidt%20%283x4%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
