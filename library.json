@@ -9059,6 +9059,18 @@
     "approved": false
   },
   {
+    "name": "David Kabua",
+    "slugs": {
+      "IT": "David_Kabua",
+      "EN": "David_Kabua"
+    },
+    "bio": "David Kabua è stato un politico marshallese, presidente delle Isole Marshall dal 14 gennaio 2020 al 3 gennaio 2024.",
+    "birthDate": "1951-05-26",
+    "deathDate": "2026-04-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20the%20Marshall%20Islands%20David%20Kabua.jpg",
+    "approved": false
+  },
+  {
     "name": "Afrika Bambaataa",
     "slugs": {
       "IT": "Afrika_Bambaataa",
@@ -9176,6 +9188,18 @@
     "birthDate": "1958-02-16",
     "deathDate": "2026-04-17",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Schmidt%20%283x4%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Nathalie Baye",
+    "slugs": {
+      "IT": "Nathalie_Baye",
+      "EN": "Nathalie_Baye"
+    },
+    "bio": "Nathalie Baye è stata un'attrice francese di cinema, teatro e televisione.",
+    "birthDate": "1948-07-06",
+    "deathDate": "2026-04-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BAYE%20Nathalie-24x30-1994b.jpg",
     "approved": false
   },
   {
