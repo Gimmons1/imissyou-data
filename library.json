@@ -9203,6 +9203,18 @@
     "approved": false
   },
   {
+    "name": "Nadia Farès",
+    "slugs": {
+      "IT": "Nadia_Farès",
+      "EN": "Nadia_Farès"
+    },
+    "bio": "Nadia Farès è stata un'attrice e modella francese di origini marocchine e armene.",
+    "birthDate": "1968-12-20",
+    "deathDate": "2026-04-17",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
