@@ -9215,6 +9215,18 @@
     "approved": false
   },
   {
+    "name": "Desmond Morris",
+    "slugs": {
+      "IT": "Desmond_Morris",
+      "EN": "Desmond_Morris"
+    },
+    "bio": "Desmond John Morris è uno zoologo, etologo, illustratore, divulgatore scientifico e conduttore televisivo britannico, autore di libri sulla sociobiologia umana.",
+    "birthDate": "1928-01-24",
+    "deathDate": "2026-04-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Desmond%20Morris%20%281969%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
