@@ -9227,6 +9227,18 @@
     "approved": false
   },
   {
+    "name": "David Malouf",
+    "slugs": {
+      "IT": "David_Malouf",
+      "EN": "David_Malouf"
+    },
+    "bio": "David George Joseph Malouf è stato uno scrittore australiano vincitore di prestigiosissimi premi letterari, tra i quali il Neustadt International Prize for Literature, riconoscimento biennale conferito dall'Università dell'Oklahoma, nel 2000, e l'International IMPAC Dublin Literary Award, che è stato il primo a ricevere, nel 1996 per il romanzo Remembering Babylon (1993); inoltre è stato spesso selezionato per il più noto Booker Prize. Ha scritto, oltre ai romanzi storici, tre libretti d'opera, tra i quali uno per Voss del compositore connazionale Richard Meale, ispirata all'opera del Premio Nobel per la Letteratura Patrick White, rappresentata per la prima volta all'Adelaide Festival of Arts, e per Baa Baa Black Sheep, tratto dal Libro della giungla di Rudyard Kipling, musicato dal britannico Michael Berkeley.",
+    "birthDate": "1934-03-20",
+    "deathDate": "2026-04-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Malouf%2C%20February%202019%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
