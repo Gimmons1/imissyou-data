@@ -9251,6 +9251,18 @@
     "approved": false
   },
   {
+    "name": "Georg Baselitz",
+    "slugs": {
+      "IT": "Georg_Baselitz",
+      "EN": "Georg_Baselitz"
+    },
+    "bio": "Georg Baselitz è stato un pittore e scultore tedesco.",
+    "birthDate": "1938-01-23",
+    "deathDate": "2026-04-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Baselitz%20by%20Erling%20Mandelmann.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
