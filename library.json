@@ -9263,6 +9263,18 @@
     "approved": false
   },
   {
+    "name": "Alex Zanardi",
+    "slugs": {
+      "IT": "Alex_Zanardi",
+      "EN": "Alex_Zanardi"
+    },
+    "bio": "Alessandro Leone Zanardi, detto Alex, è stato un pilota automobilistico e paraciclista italiano.",
+    "birthDate": "1966-10-23",
+    "deathDate": "2026-05-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Zanardi%20%28cropped%29.JPG",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
