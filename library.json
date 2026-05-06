@@ -9287,6 +9287,18 @@
     "approved": false
   },
   {
+    "name": "László Fazekas",
+    "slugs": {
+      "IT": "László_Fazekas",
+      "EN": "László_Fazekas"
+    },
+    "bio": "László Fazekas detto Kapa è stato un allenatore di calcio e calciatore ungherese.",
+    "birthDate": "1947-10-15",
+    "deathDate": "2026-05-06",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
