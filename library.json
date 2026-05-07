@@ -9309,17 +9309,5 @@
     "deathDate": "2030-12-17",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Zingha.jpg",
     "approved": true
-  },
-  {
-    "name": "Dmitrij Ivanovič Mendeleev",
-    "slugs": {
-      "IT": "Dmitrij_Ivanovič_Mendeleev",
-      "EN": "Dmitri_Mendeleev"
-    },
-    "bio": "Dmitrij Ivanovič Mendeleev è stato un chimico russo.\nInventore della tavola periodica degli elementi, a differenza di altri precedenti contributori alla tavola fornì un sistema di classificazione che prevedeva le caratteristiche di elementi non ancora scoperti.",
-    "birthDate": "1834-02-08",
-    "deathDate": "2076-01-01",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitri%20Mendeleev.jpg",
-    "approved": true
   }
 ]
