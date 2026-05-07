@@ -18,23 +18,35 @@ def fetch_wikipedia_data(name, lang="it"):
     return None
 
 def fetch_wikidata_dates(title, lang="it"):
+    # Usa l'URL esatto di Wikipedia per trovare l'elemento perfetto su Wikidata senza ambiguità
+    wiki_url = f"https://{lang}.wikipedia.org/wiki/{urllib.parse.quote(title.replace(' ', '_'))}"
     query = f"""
     SELECT ?birthDate ?deathDate WHERE {{
-      ?article schema:about ?item ; schema:isPartOf <https://{lang}.wikipedia.org/> ; schema:name "{title}"@str .
+      <{wiki_url}> schema:about ?item .
       OPTIONAL {{ ?item wdt:P569 ?birthDate . }}
       OPTIONAL {{ ?item wdt:P570 ?deathDate . }}
     }} LIMIT 1
     """
     try:
-        res = requests.get("https://query.wikidata.org/sparql", params={'query': query, 'format': 'json'}, headers=HEADERS, timeout=5)
+        res = requests.get("https://query.wikidata.org/sparql", params={'query': query, 'format': 'json'}, headers=HEADERS, timeout=10)
         if res.status_code == 200:
             bindings = res.json()['results']['bindings']
             if bindings:
-                b = bindings[0].get('birthDate', {}).get('value', '1900-01-01').split('T')[0]
-                d = bindings[0].get('deathDate', {}).get('value', '2000-01-01').split('T')[0]
-                return b, d
-    except:
-        pass
+                b = bindings[0].get('birthDate', {}).get('value', '1900-01-01')
+                d = bindings[0].get('deathDate', {}).get('value', '2000-01-01')
+                
+                # Estrae solo YYYY-MM-DD
+                b_clean = b.split('T')[0] if 'T' in b else b
+                d_clean = d.split('T')[0] if 'T' in d else d
+                
+                # Pulisce eventuali simboli strani di Wikidata (es. +1907-02-02)
+                b_clean = b_clean.replace('+', '').strip()
+                d_clean = d_clean.replace('+', '').strip()
+                
+                return b_clean, d_clean
+    except Exception as e:
+        print(f"Errore Wikidata: {e}")
+        
     return "1900-01-01", "2000-01-01"
 
 def process_issue():
@@ -112,6 +124,7 @@ def process_issue():
 
     # Salva solo se è stato cambiato qualcosa
     if modified:
+        # Ordina sempre il database per data di morte (dal più antico al più recente)
         library.sort(key=lambda x: x.get('deathDate', '2000-01-01'))
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(library, f, indent=2, ensure_ascii=False)
