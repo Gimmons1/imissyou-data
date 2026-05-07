@@ -9299,6 +9299,18 @@
     "approved": false
   },
   {
+    "name": "Ted Turner",
+    "slugs": {
+      "IT": "Ted_Turner",
+      "EN": "Ted_Turner"
+    },
+    "bio": "Robert Edward Turner III, detto Ted, è stato un imprenditore, produttore televisivo, dirigente sportivo, filantropo e attore statunitense.",
+    "birthDate": "1938-11-19",
+    "deathDate": "2026-05-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Turner%20April%201985%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Nzinga di Ndongo e Matamba",
     "slugs": {
       "IT": "Nzinga_of_Ndongo_and_Matamba",
