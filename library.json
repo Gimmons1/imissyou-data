@@ -96,6 +96,18 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Constanze_Mozart.JPG"
   },
   {
+    "name": "Dmitrij_Ivanovič_Mendeleev",
+    "slugs": {
+      "IT": "Dmitrij_Ivanovič_Mendeleev",
+      "EN": "Dmitrij_Ivanovič_Mendeleev"
+    },
+    "bio": "Dmitrij Ivanovič Mendeleev è stato un chimico russo.\nInventore della tavola periodica degli elementi, a differenza di altri precedenti contributori alla tavola fornì un sistema di classificazione che prevedeva le caratteristiche di elementi non ancora scoperti.",
+    "birthDate": "1834-02-08",
+    "deathDate": "1907-02-02",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/DIMendeleevCab.jpg",
+    "approved": false
+  },
+  {
     "approved": true,
     "birthDate": "1843-05-10",
     "deathDate": "1920-01-04",
