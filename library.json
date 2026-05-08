@@ -9309,5 +9309,17 @@
     "deathDate": "2026-05-06",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Turner%20April%201985%20%28cropped%29.jpg",
     "approved": true
+  },
+  {
+    "name": "Festus Mogae",
+    "slugs": {
+      "IT": "Festus_Mogae",
+      "EN": "Festus_Mogae"
+    },
+    "bio": "Festus Gontebanye Mogae è stato un politico botswano, Presidente del Botswana in carica dal 1998 al 2008.",
+    "birthDate": "1939-08-21",
+    "deathDate": "2026-05-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Festus%20Mogae%202009-06-23.jpg",
+    "approved": false
   }
 ]
