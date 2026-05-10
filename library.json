@@ -9321,5 +9321,17 @@
     "deathDate": "2026-05-08",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Festus%20Mogae%202009-06-23.jpg",
     "approved": false
+  },
+  {
+    "name": "Kōji Suzuki",
+    "slugs": {
+      "IT": "Kōji_Suzuki",
+      "EN": "Koji_Suzuki"
+    },
+    "bio": "Suzuki Kōji è stato uno scrittore giapponese.",
+    "birthDate": "1957-05-13",
+    "deathDate": "2026-05-08",
+    "imageUrl": null,
+    "approved": false
   }
 ]
