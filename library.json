@@ -9333,5 +9333,17 @@
     "deathDate": "2026-05-08",
     "imageUrl": null,
     "approved": false
+  },
+  {
+    "name": "Emil Paul Tscherrig",
+    "slugs": {
+      "IT": "Emil_Paul_Tscherrig",
+      "EN": "Emil_Paul_Tscherrig"
+    },
+    "bio": "Emil Paul Tscherrig è stato un cardinale, arcivescovo cattolico e diplomatico svizzero.",
+    "birthDate": "1947-02-03",
+    "deathDate": "2026-05-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Paul%20Tscherrig%20%28cropped%29.jpg",
+    "approved": false
   }
 ]
