@@ -9335,6 +9335,18 @@
     "approved": false
   },
   {
+    "name": "Malcolm Anderson",
+    "slugs": {
+      "IT": "Malcolm_Anderson",
+      "EN": "Mal_Anderson"
+    },
+    "bio": "Malcolm James Anderson, detto Mal, è stato un tennista australiano.",
+    "birthDate": "1935-03-03",
+    "deathDate": "2026-05-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mal%20Anderson%20%281972%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Emil Paul Tscherrig",
     "slugs": {
       "IT": "Emil_Paul_Tscherrig",
