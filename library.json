@@ -9345,5 +9345,17 @@
     "deathDate": "2026-05-12",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Paul%20Tscherrig%20%28cropped%29.jpg",
     "approved": false
+  },
+  {
+    "name": "Jason Collins",
+    "slugs": {
+      "IT": "Jason_Collins",
+      "EN": "Jason_Collins"
+    },
+    "bio": "Jason Paul Collins è stato un ex cestista statunitense, professionista nella NBA. È il fratello gemello di Jarron Collins.",
+    "birthDate": "1978-12-02",
+    "deathDate": "2026-05-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Collins%20Nets%202014.jpg",
+    "approved": false
   }
 ]
