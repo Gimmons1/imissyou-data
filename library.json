@@ -9287,6 +9287,18 @@
     "approved": true
   },
   {
+    "name": "Edmund Phelps",
+    "slugs": {
+      "IT": "Edmund_Phelps",
+      "EN": "Edmund_Phelps"
+    },
+    "bio": "Edmund Strother Phelps è un economista statunitense, considerato capostipite dei neo-keynesiani.",
+    "birthDate": "1933-07-26",
+    "deathDate": "2026-05-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Phelps%202008-01-23.jpg",
+    "approved": false
+  },
+  {
     "name": "László Fazekas",
     "slugs": {
       "IT": "László_Fazekas",
@@ -9368,6 +9380,18 @@
     "birthDate": "1978-12-02",
     "deathDate": "2026-05-12",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Collins%20Nets%202014.jpg",
+    "approved": false
+  },
+  {
+    "name": "Félicien Kabuga",
+    "slugs": {
+      "IT": "Félicien_Kabuga",
+      "EN": "Félicien_Kabuga"
+    },
+    "bio": "Félicien Kabuga è stato un imprenditore ruandese, accusato del coinvolgimento nel genocidio del Ruanda.",
+    "birthDate": "1933-03-01",
+    "deathDate": "2026-05-16",
+    "imageUrl": null,
     "approved": false
   }
 ]
