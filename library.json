@@ -9393,5 +9393,29 @@
     "deathDate": "2026-05-16",
     "imageUrl": null,
     "approved": false
+  },
+  {
+    "name": "Ole Nydahl",
+    "slugs": {
+      "IT": "Ole_Nydahl",
+      "EN": "Ole_Nydahl"
+    },
+    "bio": "Lama Ole Nydahl è stato uno scrittore e insegnante buddista danese, appartenente alla scuola Karma Kagyu del Buddismo tibetano Vajrayana. Dal 1970 ha viaggiato per il mondo diffondendo il buddismo e fondando centri di meditazione. Ha dato vita, insieme alla moglie Hannah (1946-2007), all'associazione internazionale \"Buddismo della Via di Diamante\".",
+    "birthDate": "1941-03-19",
+    "deathDate": "2026-05-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20Ole%20Nydahl.jpg",
+    "approved": false
+  },
+  {
+    "name": "Goffredo il Villoso",
+    "slugs": {
+      "IT": "Wilfred_the_Hairy",
+      "EN": "Wilfred_the_Hairy"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "2026-01-01",
+    "deathDate": "2027-01-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Guifred1Barcelonsky.jpg",
+    "approved": false
   }
 ]
