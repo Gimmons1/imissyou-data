@@ -9407,6 +9407,18 @@
     "approved": false
   },
   {
+    "name": "Coolio",
+    "slugs": {
+      "IT": "Coolio",
+      "EN": "Coolio"
+    },
+    "bio": "Coolio, pseudonimo di Artis Leon Ivey Jr., è stato un rapper e attore statunitense, famoso per essere l'autore di Gangsta's Paradise. Per questo brano l'artista ha vinto un Grammy Award e tre MTV Video Music Awards.",
+    "birthDate": "1963-08-01",
+    "deathDate": "2026-05-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Coolio.jpg",
+    "approved": false
+  },
+  {
     "name": "Goffredo il Villoso",
     "slugs": {
       "IT": "Wilfred_the_Hairy",
