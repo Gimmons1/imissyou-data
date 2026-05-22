@@ -9443,6 +9443,18 @@
     "approved": false
   },
   {
+    "name": "Al-Mu'izz li-Din Allah",
+    "slugs": {
+      "IT": "Al-Mu'izz_li-din_Allah",
+      "EN": "Al-Mu'izz_li-Din_Allah"
+    },
+    "bio": "al-Muʿizz li-dīn Allāh, noto più semplicemente come al-Muʿizz è stato il quarto Imam/califfo della dinastia Fatimide e il 16º Imam ismailita.",
+    "birthDate": "0931-10-01",
+    "deathDate": "2026-12-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Enthroned%20king%20with%20courtiers%20%28ruler%20detail%29%2C%20fol.%20Walters%20Ms.%20W.676%20Ca%2C%20Six%20leaves%20from%20Majma%60%20al-tavarikh%20by%20Hafiz%20Abru.jpg",
+    "approved": false
+  },
+  {
     "name": "Goffredo il Villoso",
     "slugs": {
       "IT": "Wilfred_the_Hairy",
