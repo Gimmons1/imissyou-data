@@ -9443,6 +9443,18 @@
     "approved": false
   },
   {
+    "name": "Dick Parry",
+    "slugs": {
+      "IT": "Dick_Parry",
+      "EN": "Dick_Parry"
+    },
+    "bio": "Dick Parry è stato un sassofonista britannico.",
+    "birthDate": "1942-12-22",
+    "deathDate": "2026-05-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dick%20Parry%2C%20Glasgow%20dsc00121%20%28154402273%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
