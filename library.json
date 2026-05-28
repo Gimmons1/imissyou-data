@@ -9467,6 +9467,18 @@
     "approved": false
   },
   {
+    "name": "'Abd Rabbih Mansur Hadi",
+    "slugs": {
+      "IT": "Abdrabbuh_Mansour_Hadi",
+      "EN": "Abdrabbuh_Mansour_Hadi"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1945-09-01",
+    "deathDate": "2026-05-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdrabbuh%20Mansur%20Hadi.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
