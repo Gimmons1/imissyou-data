@@ -9479,6 +9479,18 @@
     "approved": false
   },
   {
+    "name": "Edgar Morin",
+    "slugs": {
+      "IT": "Edgar_Morin",
+      "EN": "Edgar_Morin"
+    },
+    "bio": "Edgar Morin, pseudonimo di Edgar Nahoum, è stato un filosofo e sociologo francese.\nÈ noto soprattutto per l'approccio transdisciplinare con il quale ha trattato un'ampia gamma di argomenti, fra cui l'epistemologia.",
+    "birthDate": "1921-07-08",
+    "deathDate": "2026-05-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Morin%20LslaP%201549751.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
