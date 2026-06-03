@@ -9503,6 +9503,18 @@
     "approved": false
   },
   {
+    "name": "Peabo Bryson",
+    "slugs": {
+      "IT": "Peabo_Bryson",
+      "EN": "Peabo_Bryson"
+    },
+    "bio": "Robert Peabo Bryson è stato un cantante statunitense noto soprattutto per le partecipazioni alle colonne sonore dei film Disney.",
+    "birthDate": "1951-04-13",
+    "deathDate": "2026-06-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Peabo%20Bryson.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
