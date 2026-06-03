@@ -9491,6 +9491,18 @@
     "approved": false
   },
   {
+    "name": "Rick Adelman",
+    "slugs": {
+      "IT": "Rick_Adelman",
+      "EN": "Rick_Adelman"
+    },
+    "bio": "Richard Leonard Adelman, detto Rick, è stato un cestista e allenatore di pallacanestro statunitense, professionista nella NBA.",
+    "birthDate": "1946-06-16",
+    "deathDate": "2026-06-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rick%20Adelman.png",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
