@@ -9515,6 +9515,18 @@
     "approved": false
   },
   {
+    "name": "Marjane Satrapi",
+    "slugs": {
+      "IT": "Marjane_Satrapi",
+      "EN": "Marjane_Satrapi"
+    },
+    "bio": "Marjane Satrapi è stata una fumettista, regista, sceneggiatrice e illustratrice iraniana naturalizzata francese.",
+    "birthDate": "1969-11-22",
+    "deathDate": "2026-06-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Marjane%20Satrapi%20Cannes%202008%28Cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
