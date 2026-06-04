@@ -9527,6 +9527,18 @@
     "approved": false
   },
   {
+    "name": "José Sanfilippo",
+    "slugs": {
+      "IT": "José_Sanfilippo",
+      "EN": "José_Sanfilippo"
+    },
+    "bio": "José Francisco Sanfilippo è stato un ex calciatore argentino, di ruolo attaccante. Quinto miglior marcatore della storia della Primera División argentina con 226 reti in 330 partite, autore di 21 gol in 29 presenze nella Nazionale di calcio argentina, è uno dei giocatori più rappresentativi della storia del San Lorenzo, club di cui è il miglior realizzatore di sempre.",
+    "birthDate": "1935-05-04",
+    "deathDate": "2026-06-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Sanfilippo%201962.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
