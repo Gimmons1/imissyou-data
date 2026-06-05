@@ -9539,6 +9539,18 @@
     "approved": false
   },
   {
+    "name": "Anthony Head",
+    "slugs": {
+      "IT": "Anthony_Head",
+      "EN": "Anthony_Head"
+    },
+    "bio": "Anthony Stewart Head è stato un attore britannico.",
+    "birthDate": "1954-02-20",
+    "deathDate": "2026-06-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%2C%20Anthony%20Stewart%20%282007%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
