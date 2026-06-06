@@ -9551,6 +9551,18 @@
     "approved": false
   },
   {
+    "name": "Bernadette Chirac",
+    "slugs": {
+      "IT": "Bernadette_Chirac",
+      "EN": "Bernadette_Chirac"
+    },
+    "bio": "Bernadette Thérèse Marie Chirac, nata Chodron de Courcel, è stata una politica francese, vedova dell'ex presidente della Repubblica francese Jacques Chirac.",
+    "birthDate": "1933-05-18",
+    "deathDate": "2026-06-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernadette%20Chirac%201%20%282009%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
