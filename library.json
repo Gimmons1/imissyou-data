@@ -9575,6 +9575,18 @@
     "approved": false
   },
   {
+    "name": "Alan Hale",
+    "slugs": {
+      "IT": "Alan_Hale_(astronomer)",
+      "EN": "Alan_Hale_(astronomer)"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1958-03-07",
+    "deathDate": "2026-06-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Astronomer%20Alan%20Hale%20at%20the%20Cosmic%20Carnival%20held%20at%20Cottonwood%20Mall%20in%20Albuquerque%20on%20Sept.%2010th%2C%202005%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
