@@ -9587,6 +9587,18 @@
     "approved": false
   },
   {
+    "name": "Jean Ziegler",
+    "slugs": {
+      "IT": "Jean_Ziegler",
+      "EN": "Jean_Ziegler"
+    },
+    "bio": "Jean Ziegler è un sociologo e politico svizzero, autore di numerosi saggi sui temi della povertà e sugli abusi e le storture dei sistemi finanziari internazionali in particolare nel suo Paese.",
+    "birthDate": "1934-04-19",
+    "deathDate": "2026-06-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Ziegler%2C%202009%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
