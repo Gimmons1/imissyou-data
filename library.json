@@ -9599,6 +9599,18 @@
     "approved": false
   },
   {
+    "name": "Bajrakitiyabha",
+    "slugs": {
+      "IT": "Bajrakitiyabha",
+      "EN": "Bajrakitiyabha"
+    },
+    "bio": "Bajrakitiyabha è stata una principessa e diplomatica thailandese.",
+    "birthDate": "1978-12-07",
+    "deathDate": "2026-06-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Princess%20Bajrakitiyabha.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
