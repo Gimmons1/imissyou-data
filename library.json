@@ -9527,6 +9527,18 @@
     "approved": false
   },
   {
+    "name": "Anne Schedeen",
+    "slugs": {
+      "IT": "Anne_Schedeen",
+      "EN": "Anne_Schedeen"
+    },
+    "bio": "Anne Schedeen, nata Luanne Ruth Schedeen, è stata un'attrice statunitense.",
+    "birthDate": "1949-01-08",
+    "deathDate": "2026-06-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Schedeen%20-%20Never%20Say%20Never%20press%20photo.jpg",
+    "approved": false
+  },
+  {
     "name": "Peabo Bryson",
     "slugs": {
       "IT": "Peabo_Bryson",
