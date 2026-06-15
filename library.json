@@ -9647,6 +9647,18 @@
     "approved": false
   },
   {
+    "name": "Oliver Tree",
+    "slugs": {
+      "IT": "Oliver_Tree",
+      "EN": "Oliver_Tree"
+    },
+    "bio": "Oliver Tree Nickell è stato un cantautore, rapper e produttore discografico statunitense.",
+    "birthDate": "1993-06-29",
+    "deathDate": "2026-06-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Tree%2C%20cantante%20en%202022%20%28cropped%29.png",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
