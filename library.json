@@ -9695,6 +9695,18 @@
     "approved": false
   },
   {
+    "name": "Carlo Ginzburg",
+    "slugs": {
+      "IT": "Carlo_Ginzburg",
+      "EN": "Carlo_Ginzburg"
+    },
+    "bio": "Carlo Ginzburg è stato uno storico e saggista italiano.\nI suoi libri sono tradotti in più di venti lingue.",
+    "birthDate": "1939-04-15",
+    "deathDate": "2026-06-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Ginzburg%20par%20Claude%20Truong-Ngoc%20mars%202013%20%281%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
