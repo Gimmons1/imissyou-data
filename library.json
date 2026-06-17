@@ -9707,6 +9707,18 @@
     "approved": false
   },
   {
+    "name": "Daveigh Chase",
+    "slugs": {
+      "IT": "Daveigh_Chase",
+      "EN": "Daveigh_Chase"
+    },
+    "bio": "Daveigh Elizabeth Chase, nata Daveigh Elizabeth Schwallier, è stata un'attrice e doppiatrice statunitense.",
+    "birthDate": "1990-07-24",
+    "deathDate": "2026-06-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Daveigh%20Chase%20LF%20adjusted.jpg",
+    "approved": false
+  },
+  {
     "name": "Aleksandr Michajlovič Samokutjaev",
     "slugs": {
       "IT": "Aleksandr_Samokutyaev",
