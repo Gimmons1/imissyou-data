@@ -9683,6 +9683,18 @@
     "approved": false
   },
   {
+    "name": "Camillo Ruini",
+    "slugs": {
+      "IT": "Camillo_Ruini",
+      "EN": "Camillo_Ruini"
+    },
+    "bio": "Camillo Ruini è stato un cardinale e arcivescovo cattolico italiano.",
+    "birthDate": "1931-02-19",
+    "deathDate": "2026-06-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruini.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
