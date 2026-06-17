@@ -9707,6 +9707,18 @@
     "approved": false
   },
   {
+    "name": "Aleksandr Michajlovič Samokutjaev",
+    "slugs": {
+      "IT": "Aleksandr_Samokutyaev",
+      "EN": "Aleksandr_Samokutyaev"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1970-03-13",
+    "deathDate": "2026-06-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Samokutyayev%202011.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
