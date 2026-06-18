@@ -9719,6 +9719,18 @@
     "approved": false
   },
   {
+    "name": "Nicholas Braun",
+    "slugs": {
+      "IT": "Nicholas_Braun",
+      "EN": "Nicholas_Braun"
+    },
+    "bio": "Nicholas Braun è un attore statunitense.",
+    "birthDate": "1988-05-01",
+    "deathDate": "2026-06-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20Braun%202017.jpg",
+    "approved": false
+  },
+  {
     "name": "Aleksandr Michajlovič Samokutjaev",
     "slugs": {
       "IT": "Aleksandr_Samokutyaev",
