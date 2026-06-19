@@ -9743,6 +9743,18 @@
     "approved": false
   },
   {
+    "name": "François Englert",
+    "slugs": {
+      "IT": "François_Englert",
+      "EN": "François_Englert"
+    },
+    "bio": "François Englert è stato un fisico teorico belga, premio Nobel per la fisica nel 2013.",
+    "birthDate": "1932-11-06",
+    "deathDate": "2026-06-18",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Francois%20Englert%20%283x4%20cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Kirsti Sparboe",
     "slugs": {
       "IT": "Kirsti_Sparboe",
