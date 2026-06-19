@@ -9743,6 +9743,18 @@
     "approved": false
   },
   {
+    "name": "Kirsti Sparboe",
+    "slugs": {
+      "IT": "Kirsti_Sparboe",
+      "EN": "Kirsti_Sparboe"
+    },
+    "bio": "Kirsti Sparboe è stata una cantante norvegese.",
+    "birthDate": "1946-12-07",
+    "deathDate": "2026-06-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirsti%20Sparboe.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
