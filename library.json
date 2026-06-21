@@ -9779,6 +9779,18 @@
     "approved": false
   },
   {
+    "name": "Yaacov Agam",
+    "slugs": {
+      "IT": "Yaacov_Agam",
+      "EN": "Yaacov_Agam"
+    },
+    "bio": "Yaacov Agam, pseudonimo di Yaacov Gipstein, è uno scultore e artista israeliano, appartenente alla corrente artistica dell'Op art e dell'arte cinetica.",
+    "birthDate": "1928-05-11",
+    "deathDate": "2026-06-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaacov%20Agam.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
