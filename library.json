@@ -9767,6 +9767,18 @@
     "approved": false
   },
   {
+    "name": "Slavenka Drakulić",
+    "slugs": {
+      "IT": "Slavenka_Drakulić",
+      "EN": "Slavenka_Drakulić"
+    },
+    "bio": "Slavenka Drakulić è stata una scrittrice e giornalista croata, nota per i suoi lavori sul femminismo, il comunismo e il post-comunismo, tradotti in varie lingue.",
+    "birthDate": "1949-07-04",
+    "deathDate": "2026-06-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Slavenka%20Drakuli%C4%87%20%282016%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
