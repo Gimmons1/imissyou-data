@@ -9815,6 +9815,18 @@
     "approved": false
   },
   {
+    "name": "Alan Greenspan",
+    "slugs": {
+      "IT": "Alan_Greenspan",
+      "EN": "Alan_Greenspan"
+    },
+    "bio": "Alan Greenspan è stato un economista statunitense.",
+    "birthDate": "1926-03-06",
+    "deathDate": "2026-06-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Greenspan%20color%20photo%20portrait.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
