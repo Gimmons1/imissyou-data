@@ -9803,6 +9803,18 @@
     "approved": false
   },
   {
+    "name": "Abdul Ahad Momand",
+    "slugs": {
+      "IT": "Abdul_Ahad_Momand",
+      "EN": "Abdul_Ahad_Momand"
+    },
+    "bio": "Abdul Ahad Momand è un cosmonauta afghano naturalizzato tedesco.",
+    "birthDate": "1959-01-01",
+    "deathDate": "2026-06-21",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
