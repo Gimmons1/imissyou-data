@@ -9827,6 +9827,18 @@
     "approved": false
   },
   {
+    "name": "Clive Davis",
+    "slugs": {
+      "IT": "Clive_Davis",
+      "EN": "Clive_Davis"
+    },
+    "bio": "Clive Jay Davis è stato un produttore discografico statunitense, fondatore della Arista Records e della J Records. Fu membro della Rock and Roll Hall of Fame, inserito tra i non musicisti. Era direttore operativo della Sony Music.",
+    "birthDate": "1932-04-04",
+    "deathDate": "2026-06-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Clive%20Davis%20speaks%20during%20the%20Kennedy%20Center%20Honors%20Dinner%20at%20the%20State%20Department%20in%20Washington%2C%20D.C.%20on%20December%202%2C%202023%20-%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
