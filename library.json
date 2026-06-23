@@ -9491,6 +9491,18 @@
     "approved": false
   },
   {
+    "name": "Paraskevas Antzas",
+    "slugs": {
+      "IT": "Paraskeuas_Antzas",
+      "EN": "Paraskevas_Antzas"
+    },
+    "bio": "Paraskeuas Antzas è stato un calciatore greco, di ruolo difensore.",
+    "birthDate": "1976-08-18",
+    "deathDate": "2026-05-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Voulis%20Antzas.jpg",
+    "approved": false
+  },
+  {
     "name": "'Abd Rabbih Mansur Hadi",
     "slugs": {
       "IT": "Abdrabbuh_Mansour_Hadi",
