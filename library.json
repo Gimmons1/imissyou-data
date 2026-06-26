@@ -9863,6 +9863,18 @@
     "approved": false
   },
   {
+    "name": "Sergej Borisovič Ivanov",
+    "slugs": {
+      "IT": "Sergei_Ivanov",
+      "EN": "Sergei_Ivanov"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1953-01-31",
+    "deathDate": "2026-06-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergei%20Ivanov2016%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
