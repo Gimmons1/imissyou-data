@@ -9779,6 +9779,18 @@
     "approved": false
   },
   {
+    "name": "James Burrows",
+    "slugs": {
+      "IT": "James_Burrows",
+      "EN": "James_Burrows"
+    },
+    "bio": "James Burrows è un attore britannico. Attivo fin dall'adolescenza, ha acquisito popolarità a partire dal 2018 grazie alla sua partecipazione alla soap opera Coronation Street.",
+    "birthDate": "1940-12-30",
+    "deathDate": "2026-06-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Abe%20and%20James%20Burrows%20%281970%29%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Slavenka Drakulić",
     "slugs": {
       "IT": "Slavenka_Drakulić",
