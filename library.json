@@ -9887,6 +9887,18 @@
     "approved": false
   },
   {
+    "name": "Ervin László",
+    "slugs": {
+      "IT": "Ervin_László",
+      "EN": "Ervin_László"
+    },
+    "bio": "Ervin László è stato un filosofo e pianista ungherese con cittadinanza statunitense, considerato il fondatore della teoria dei sistemi.",
+    "birthDate": "1932-06-12",
+    "deathDate": "2026-06-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Laszlo%20Ervin.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
