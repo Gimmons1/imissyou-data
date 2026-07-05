@@ -9503,6 +9503,18 @@
     "approved": false
   },
   {
+    "name": "Kōji Tanaka",
+    "slugs": {
+      "IT": "Kōji_Tanaka",
+      "EN": "Koji_Tanaka"
+    },
+    "bio": "Kōji Tanaka è stato un allenatore di calcio e calciatore giapponese, di ruolo centrocampista.",
+    "birthDate": "1955-11-02",
+    "deathDate": "2026-05-26",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "'Abd Rabbih Mansur Hadi",
     "slugs": {
       "IT": "Abdrabbuh_Mansour_Hadi",
