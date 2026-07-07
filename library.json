@@ -9911,6 +9911,18 @@
     "approved": false
   },
   {
+    "name": "Teejan Bai",
+    "slugs": {
+      "IT": "Teejan_Bai",
+      "EN": "Teejan_Bai"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1956-08-08",
+    "deathDate": "2026-07-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Teejan%20Bai%20after%20performnce%20at%20Bharat%20Bhawan%20Bhopal.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
