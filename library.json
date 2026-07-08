@@ -9923,6 +9923,18 @@
     "approved": false
   },
   {
+    "name": "Louise Lasser",
+    "slugs": {
+      "IT": "Louise_Lasser",
+      "EN": "Louise_Lasser"
+    },
+    "bio": "Louise Marie Lasser è stata un'attrice statunitense, celebre principalmente per essere stata la seconda moglie di Woody Allen e per aver interpretato a lungo il ruolo della protagonista nella sitcom Mary Hartman, Mary Hartman, parodia del genere soap opera.",
+    "birthDate": "1939-04-11",
+    "deathDate": "2026-07-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Lasser%20Mary%20Hartman%201976.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
