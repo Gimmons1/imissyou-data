@@ -9947,6 +9947,18 @@
     "approved": false
   },
   {
+    "name": "Wally Funk",
+    "slugs": {
+      "IT": "Wally_Funk",
+      "EN": "Wally_Funk"
+    },
+    "bio": "Mary Wallace Funk, più conosciuta come Wally Funk, è stata un'aviatrice e astronauta statunitense, nota per essere stata la prima donna investigatrice della sicurezza aerea per il National Transportation Safety Board, la prima donna istruttrice di volo civile, la prima donna ispettore della Federal Aviation Administration, una delle Mercury 13 e la donna più anziana ad essere mai stata nello spazio.",
+    "birthDate": "1939-02-01",
+    "deathDate": "2026-07-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Members%20of%20the%20First%20Lady%20Astronaut%20Trainees%20in%201995%20-%20GPN-2002-000196-crop.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
