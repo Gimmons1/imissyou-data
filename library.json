@@ -9539,6 +9539,18 @@
     "approved": false
   },
   {
+    "name": "Lauren Bennett",
+    "slugs": {
+      "IT": "Lauren_Bennett",
+      "EN": "Lauren_Bennett"
+    },
+    "bio": "Lauren Bennett è stata una cantante, ballerina e modella britannica.",
+    "birthDate": "1989-06-23",
+    "deathDate": "2026-05-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lauren%20Bennett%202013.jpg",
+    "approved": false
+  },
+  {
     "name": "Rick Adelman",
     "slugs": {
       "IT": "Rick_Adelman",
@@ -9956,6 +9968,18 @@
     "birthDate": "1939-02-01",
     "deathDate": "2026-07-08",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Members%20of%20the%20First%20Lady%20Astronaut%20Trainees%20in%201995%20-%20GPN-2002-000196-crop.jpg",
+    "approved": false
+  },
+  {
+    "name": "Aleksandăr Panajotov Aleksandrov",
+    "slugs": {
+      "IT": "Aleksandr_Panayotov_Aleksandrov",
+      "EN": "Aleksandr_Panayotov_Aleksandrov"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1951-12-01",
+    "deathDate": "2026-07-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Panayotov%20Aleksandrov%20b.jpg",
     "approved": false
   },
   {
