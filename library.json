@@ -10007,6 +10007,18 @@
     "approved": false
   },
   {
+    "name": "Antonio Rattín",
+    "slugs": {
+      "IT": "Antonio_Rattín",
+      "EN": "Antonio_Rattín"
+    },
+    "bio": "Antonio Ubaldo Rattín è stato un politico, calciatore e allenatore di calcio argentino, di ruolo centrocampista. Fu capitano del Boca Juniors e della nazionale argentina.",
+    "birthDate": "1937-05-16",
+    "deathDate": "2026-07-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/AntonioRattin.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
