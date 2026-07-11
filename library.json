@@ -10019,6 +10019,18 @@
     "approved": false
   },
   {
+    "name": "Jayden Adams",
+    "slugs": {
+      "IT": "Jayden_Adams",
+      "EN": "Jayden_Adams"
+    },
+    "bio": "Jayden Oswin Adams è stato un calciatore sudafricano, di ruolo centrocampista.",
+    "birthDate": "2001-05-05",
+    "deathDate": "2026-07-11",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
