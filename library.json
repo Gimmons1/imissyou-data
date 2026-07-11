@@ -9983,6 +9983,18 @@
     "approved": false
   },
   {
+    "name": "Peppino di Capri",
+    "slugs": {
+      "IT": "Peppino_di_Capri",
+      "EN": "Peppino_di_Capri"
+    },
+    "bio": "Peppino di Capri, pseudonimo di Giuseppe Faiella, è stato un cantante, pianista e attore italiano.",
+    "birthDate": "1939-07-27",
+    "deathDate": "2026-07-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Peppino%20Di%20Capri%20a%20Torino%2C%20dopo%20il%20concerto%20al%20Teatro%20Alfieri%20del%2020%20ottobre%202008.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
