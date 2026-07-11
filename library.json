@@ -9971,6 +9971,18 @@
     "approved": false
   },
   {
+    "name": "Ann Widdecombe",
+    "slugs": {
+      "IT": "Ann_Widdecombe",
+      "EN": "Ann_Widdecombe"
+    },
+    "bio": "Ann Noreen Widdecombe è stata una politica, personaggio televisivo e scrittrice britannica.",
+    "birthDate": "1947-10-04",
+    "deathDate": "2026-07-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Ann%20Widdecombe%20as%20an%20MEP.jpg",
+    "approved": false
+  },
+  {
     "name": "Aleksandăr Panajotov Aleksandrov",
     "slugs": {
       "IT": "Aleksandr_Panayotov_Aleksandrov",
