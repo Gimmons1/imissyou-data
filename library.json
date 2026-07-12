@@ -10031,6 +10031,30 @@
     "approved": false
   },
   {
+    "name": "Lindsey Graham",
+    "slugs": {
+      "IT": "Lindsey_Graham",
+      "EN": "Lindsey_Graham"
+    },
+    "bio": "Lindsey Olin Graham è stato un politico e militare statunitense, senatore per lo stato della Carolina del Sud dal 2003 al 2026 ed in precedenza membro della Camera dei rappresentanti per lo stesso stato dal 1995 al 2003.",
+    "birthDate": "1955-07-09",
+    "deathDate": "2026-07-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Senator%20Lindsey%20Graham%2C%20Official%20Photo%2C%20113th%20Congress.jpg",
+    "approved": false
+  },
+  {
+    "name": "Hamad bin Khalifa Al Thani",
+    "slugs": {
+      "IT": "Hamad_bin_Khalifa_Al_Thani",
+      "EN": "Hamad_bin_Khalifa_Al_Thani"
+    },
+    "bio": "Hamad bin Khalifa Al Thani è stato dal 1995 al 2013 l'emiro del Qatar.",
+    "birthDate": "1952-01-01",
+    "deathDate": "2026-07-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/5th%20Global%20Forum%20Vienna%202013%20%288512954534%29%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
