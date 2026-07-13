@@ -10067,6 +10067,18 @@
     "approved": false
   },
   {
+    "name": "Sam Neill",
+    "slugs": {
+      "IT": "Sam_Neill",
+      "EN": "Sam_Neill"
+    },
+    "bio": "Sir Nigel John Dermot Neill, meglio noto come Sam Neill, è stato un attore neozelandese con cittadinanza irlandese.",
+    "birthDate": "1947-09-14",
+    "deathDate": "2026-07-13",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Neill%202017%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
