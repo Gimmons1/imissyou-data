@@ -10103,6 +10103,42 @@
     "approved": false
   },
   {
+    "name": "John Louis Esposito",
+    "slugs": {
+      "IT": "John_Louis_Esposito",
+      "EN": "John_Esposito"
+    },
+    "bio": "John Louis Esposito è stato un islamista statunitense esperto in storia delle religioni e, in particolare, di cultura islamica.",
+    "birthDate": "1940-05-19",
+    "deathDate": "2026-07-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20L.%20Esposito%20c.%201983.png",
+    "approved": false
+  },
+  {
+    "name": "Brenda Fricker",
+    "slugs": {
+      "IT": "Brenda_Fricker",
+      "EN": "Brenda_Fricker"
+    },
+    "bio": "Brenda Fricker è stata un'attrice irlandese, vincitrice dell'Oscar alla miglior attrice non protagonista nel 1990 per l'interpretazione ne Il mio piede sinistro.",
+    "birthDate": "1945-02-17",
+    "deathDate": "2026-07-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Brenda%20Fricker%20March%201990.jpg",
+    "approved": false
+  },
+  {
+    "name": "Rudolph Marcus",
+    "slugs": {
+      "IT": "Rudolph_Marcus",
+      "EN": "Rudolph_A._Marcus"
+    },
+    "bio": "Rudolph Arthur Marcus è un chimico canadese naturalizzato statunitense, Premio Nobel per la chimica nel 1992 \"per i suoi contributi alla teoria delle reazioni di trasferimento di elettroni nei sistemi chimici\". La teoria di Marcus, che prende il nome da lui, fornisce un quadro termodinamico e cinetico per descrivere il trasferimento di un elettrone dalla sfera esterna.",
+    "birthDate": "1923-07-21",
+    "deathDate": "2026-07-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Prof.%20Dr.%20Rudolph%20A.%20Marcus.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
