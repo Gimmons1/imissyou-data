@@ -10139,6 +10139,18 @@
     "approved": false
   },
   {
+    "name": "Olaf Tufte",
+    "slugs": {
+      "IT": "Olaf_Tufte",
+      "EN": "Olaf_Tufte"
+    },
+    "bio": "Olaf Karl Tufte è stato un canottiere norvegese, vincitore di due ori nel singolo a Atene 2004 e a Pechino 2008 e un argento nel 2 di coppia a Sydney 2000.",
+    "birthDate": "1976-04-27",
+    "deathDate": "2026-07-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Aviron%202015%20-%20World%20Championships%20-%2029%20%28Olaf%20Tufte%20-%20cropped%29.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
