@@ -10151,6 +10151,18 @@
     "approved": false
   },
   {
+    "name": "Kaylee Hottle",
+    "slugs": {
+      "IT": "Kaylee_Hottle",
+      "EN": "Kaylee_Hottle"
+    },
+    "bio": "Kaylee Hottle è stata un'attrice statunitense.",
+    "birthDate": "1900-01-01",
+    "deathDate": "2026-07-21",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
