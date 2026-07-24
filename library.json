@@ -10139,6 +10139,18 @@
     "approved": false
   },
   {
+    "name": "Kevin Keegan",
+    "slugs": {
+      "IT": "Kevin_Keegan",
+      "EN": "Kevin_Keegan"
+    },
+    "bio": "Joseph Kevin Keegan, detto Kevin, è stato un calciatore e allenatore di calcio inglese, di ruolo centrocampista e attaccante.",
+    "birthDate": "1951-02-14",
+    "deathDate": "2026-07-20",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20keegan%20panini%20card%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Olaf Tufte",
     "slugs": {
       "IT": "Olaf_Tufte",
