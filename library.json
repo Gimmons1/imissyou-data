@@ -10175,6 +10175,18 @@
     "approved": false
   },
   {
+    "name": "Chuck Russell",
+    "slugs": {
+      "IT": "Chuck_Russell",
+      "EN": "Chuck_Russell"
+    },
+    "bio": "Charles Russell, detto Chuck, è stato un regista, sceneggiatore e produttore cinematografico statunitense.",
+    "birthDate": "1952-05-09",
+    "deathDate": "2026-07-22",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
