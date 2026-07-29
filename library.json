@@ -10187,6 +10187,18 @@
     "approved": false
   },
   {
+    "name": "Gunther von Hagens",
+    "slugs": {
+      "IT": "Gunther_von_Hagens",
+      "EN": "Gunther_von_Hagens"
+    },
+    "bio": "Gunther von Hagens, nato Gunther Gerhard Liebchen, è stato un anatomopatologo tedesco, inventore della plastinazione, un procedimento che permette la conservazione dei corpi umani tramite la sostituzione dei liquidi con dei polimeri di silicone. Questa tecnica rende i reperti organici rigidi e inodori, mantenendo inalterati i colori. Von Hagens è l'autore delle mostre intitolate Körperwelten, in cui espone i corpi umani da lui elaborati.",
+    "birthDate": "1945-01-10",
+    "deathDate": "2026-07-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GuntherVonHagens%20Cologne2000.jpg",
+    "approved": false
+  },
+  {
     "name": "Kavinsky",
     "slugs": {
       "IT": "Kavinsky",
