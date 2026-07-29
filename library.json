@@ -10187,6 +10187,18 @@
     "approved": false
   },
   {
+    "name": "Kavinsky",
+    "slugs": {
+      "IT": "Kavinsky",
+      "EN": "Kavinsky"
+    },
+    "bio": "Kavinsky, pseudonimo di Vincent Belorgey, è stato un disc jockey, produttore discografico e attore francese.",
+    "birthDate": "1975-07-31",
+    "deathDate": "2026-07-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kavinsky%202.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
