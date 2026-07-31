@@ -10223,6 +10223,18 @@
     "approved": false
   },
   {
+    "name": "Kazimira Prunskienė",
+    "slugs": {
+      "IT": "Kazimira_Prunskienė",
+      "EN": "Kazimira_Prunskienė"
+    },
+    "bio": "Kazimira Danutė Prunskienė è stata una politica lituana, prima persona e prima donna a divenire Primo ministro della Lituania dopo lo scioglimento dell'URSS, dall'11 marzo 1990 al 10 gennaio 1991.",
+    "birthDate": "1943-02-26",
+    "deathDate": "2026-07-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimira%20Prunskien%C4%97%202010.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
