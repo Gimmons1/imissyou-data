@@ -10187,6 +10187,18 @@
     "approved": false
   },
   {
+    "name": "Kōzō Okamoto",
+    "slugs": {
+      "IT": "Kōzō_Okamoto",
+      "EN": "Kōzō_Okamoto"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1947-12-07",
+    "deathDate": "2026-07-23",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C5%8Dz%C5%8D%20Okamoto.png",
+    "approved": false
+  },
+  {
     "name": "Gunther von Hagens",
     "slugs": {
       "IT": "Gunther_von_Hagens",
@@ -10232,6 +10244,18 @@
     "birthDate": "1943-02-26",
     "deathDate": "2026-07-30",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazimira%20Prunskien%C4%97%202010.jpg",
+    "approved": false
+  },
+  {
+    "name": "Franco Baresi",
+    "slugs": {
+      "IT": "Franco_Baresi",
+      "EN": "Franco_Baresi"
+    },
+    "bio": "Franchino Baresi, detto Franco, è stato un calciatore italiano, di ruolo difensore.",
+    "birthDate": "1960-05-08",
+    "deathDate": "2026-07-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Franco%20baresi%20panini%20card%201979.jpg",
     "approved": false
   },
   {
