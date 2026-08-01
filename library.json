@@ -10247,6 +10247,18 @@
     "approved": false
   },
   {
+    "name": "Nirmal Purja",
+    "slugs": {
+      "IT": "Nirmal_Purja",
+      "EN": "Nirmal_Purja"
+    },
+    "bio": "Nirmal Purja, chiamato anche Nims Purja o Nimsdai, è stato un alpinista nepalese, celebre per aver scalato tutti i quattordici Ottomila e in un tempo record di 189 giorni, poco più di 6 mesi.",
+    "birthDate": "1983-07-25",
+    "deathDate": "2026-07-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/NIRMAL%20PURJA%20%22NIMS%22.jpg",
+    "approved": false
+  },
+  {
     "name": "Franco Baresi",
     "slugs": {
       "IT": "Franco_Baresi",
