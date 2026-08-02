@@ -10271,6 +10271,18 @@
     "approved": false
   },
   {
+    "name": "Vincent Pastore",
+    "slugs": {
+      "IT": "Vincent_Pastore",
+      "EN": "Vincent_Pastore"
+    },
+    "bio": "Vincent Pastore è stato un attore statunitense.",
+    "birthDate": "1946-07-14",
+    "deathDate": "2026-08-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Pastore%202017%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
