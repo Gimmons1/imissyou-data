@@ -10283,6 +10283,18 @@
     "approved": false
   },
   {
+    "name": "Júlio Duarte Langa",
+    "slugs": {
+      "IT": "Júlio_Duarte_Langa",
+      "EN": "Júlio_Duarte_Langa"
+    },
+    "bio": "Júlio Duarte Langa è stato un cardinale e vescovo cattolico mozambicano.",
+    "birthDate": "1927-10-27",
+    "deathDate": "2026-08-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Langa%20Francisco.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
