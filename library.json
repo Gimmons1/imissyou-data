@@ -10295,6 +10295,18 @@
     "approved": false
   },
   {
+    "name": "Francesco Guccini",
+    "slugs": {
+      "IT": "Francesco_Guccini",
+      "EN": "Francesco_Guccini"
+    },
+    "bio": "Francesco Guccini è stato un cantautore, scrittore e attore italiano.",
+    "birthDate": "1940-06-14",
+    "deathDate": "2026-08-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Guccini%20on%209%20December%202015.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
