@@ -10319,6 +10319,18 @@
     "approved": false
   },
   {
+    "name": "Don Nelson",
+    "slugs": {
+      "IT": "Don_Nelson",
+      "EN": "Don_Nelson"
+    },
+    "bio": "Donald Arvid Nelson, detto Don, è stato un cestista, allenatore di pallacanestro e dirigente sportivo statunitense.",
+    "birthDate": "1940-05-15",
+    "deathDate": "2026-08-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Nelson.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
