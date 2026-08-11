@@ -10331,6 +10331,18 @@
     "approved": false
   },
   {
+    "name": "Alaksandar Milinkievič",
+    "slugs": {
+      "IT": "Alaksandar_Milinkievič",
+      "EN": "Alaksandar_Milinkievič"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1947-07-25",
+    "deathDate": "2026-08-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alaksandar%20Milinkevich.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
