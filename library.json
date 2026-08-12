@@ -10343,6 +10343,18 @@
     "approved": false
   },
   {
+    "name": "Zhu Rongji",
+    "slugs": {
+      "IT": "Zhu_Rongji",
+      "EN": "Zhu_Rongji"
+    },
+    "bio": "Zhu Rongji è stato un politico cinese, discendente diretto della dinastia Ming.",
+    "birthDate": "1928-10-01",
+    "deathDate": "2026-08-12",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhu%20Rongji%201986.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
