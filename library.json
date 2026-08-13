@@ -10355,6 +10355,18 @@
     "approved": false
   },
   {
+    "name": "Takamitsu Ōta",
+    "slugs": {
+      "IT": "Takamitsu_Ōta",
+      "EN": "Takamitsu_Ota"
+    },
+    "bio": "Takamitsu Ōta è stato un calciatore giapponese, di ruolo centrocampista.",
+    "birthDate": "1970-07-19",
+    "deathDate": "2026-08-12",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
