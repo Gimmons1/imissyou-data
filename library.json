@@ -10367,6 +10367,18 @@
     "approved": false
   },
   {
+    "name": "Mark Rydell",
+    "slugs": {
+      "IT": "Mark_Rydell",
+      "EN": "Mark_Rydell"
+    },
+    "bio": "Mark Rydell è stato un attore, regista e produttore cinematografico statunitense, candidato al premio Oscar al miglior regista nel 1982 per la direzione di Sul lago dorato.",
+    "birthDate": "1929-03-23",
+    "deathDate": "2026-08-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Rydell%20%28Amiens%20nov.2008%29%203a.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
