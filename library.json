@@ -10367,6 +10367,18 @@
     "approved": false
   },
   {
+    "name": "Yukio Shimomura",
+    "slugs": {
+      "IT": "Yukio_Shimomura",
+      "EN": "Yukio_Shimomura"
+    },
+    "bio": "Yukio Shimomura è un allenatore di calcio, ex calciatore e dirigente sportivo giapponese.",
+    "birthDate": "1932-01-25",
+    "deathDate": "2026-08-13",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Mark Rydell",
     "slugs": {
       "IT": "Mark_Rydell",
