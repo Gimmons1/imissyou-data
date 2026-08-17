@@ -10391,6 +10391,18 @@
     "approved": false
   },
   {
+    "name": "Hayden Panettiere",
+    "slugs": {
+      "IT": "Hayden_Panettiere",
+      "EN": "Hayden_Panettiere"
+    },
+    "bio": "Hayden Lesley Panettiere è stata un'attrice e cantante statunitense.",
+    "birthDate": "1989-08-21",
+    "deathDate": "2026-08-16",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hayden%20Panettiere%20in%202011%2004%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
