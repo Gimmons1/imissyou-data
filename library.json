@@ -10403,6 +10403,18 @@
     "approved": false
   },
   {
+    "name": "Frank Beard",
+    "slugs": {
+      "IT": "Frank_Beard_(musician)",
+      "EN": "Frank_Beard_(musician)"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1949-06-11",
+    "deathDate": "2026-08-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Beard%20ZZ%20Top%20BBK%20Live%202008.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
