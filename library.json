@@ -10427,6 +10427,18 @@
     "approved": false
   },
   {
+    "name": "Siim Kallas",
+    "slugs": {
+      "IT": "Siim_Kallas",
+      "EN": "Siim_Kallas"
+    },
+    "bio": "Siim Kallas è un politico estone.",
+    "birthDate": "1948-10-02",
+    "deathDate": "2026-08-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kallas%20EC%20Portrait%202010.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
