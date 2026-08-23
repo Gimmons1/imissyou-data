@@ -10427,6 +10427,18 @@
     "approved": false
   },
   {
+    "name": "Nancy Landon Kassebaum",
+    "slugs": {
+      "IT": "Nancy_Kassebaum",
+      "EN": "Nancy_Kassebaum"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1932-07-29",
+    "deathDate": "2026-08-21",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/LandonNancy.jpg",
+    "approved": false
+  },
+  {
     "name": "Siim Kallas",
     "slugs": {
       "IT": "Siim_Kallas",
