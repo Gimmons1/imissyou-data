@@ -10451,6 +10451,18 @@
     "approved": false
   },
   {
+    "name": "Dolly Parton",
+    "slugs": {
+      "IT": "Dolly_Parton",
+      "EN": "Dolly_Parton"
+    },
+    "bio": "Dolly Rebecca Parton è stata una cantautrice, musicista, paroliera, attrice, imprenditrice e filantropa statunitense, celebre soprattutto per il suo contributo al genere country.",
+    "birthDate": "1946-01-19",
+    "deathDate": "2026-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Dolly-Parton.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
