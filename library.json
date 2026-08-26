@@ -10451,6 +10451,18 @@
     "approved": false
   },
   {
+    "name": "Shelley Fabares",
+    "slugs": {
+      "IT": "Shelley_Fabares",
+      "EN": "Shelley_Fabares"
+    },
+    "bio": "Michele Ann Marie Fabares, detta Shelley, è stata un'attrice e cantante statunitense.",
+    "birthDate": "1944-01-19",
+    "deathDate": "2026-08-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shelley%20Fabares%20at%20the%201991%20Emmy%20Awards%20cropped.jpg",
+    "approved": false
+  },
+  {
     "name": "Dolly Parton",
     "slugs": {
       "IT": "Dolly_Parton",
@@ -10460,6 +10472,18 @@
     "birthDate": "1946-01-19",
     "deathDate": "2026-08-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Dolly-Parton.jpg",
+    "approved": false
+  },
+  {
+    "name": "Tim Curry",
+    "slugs": {
+      "IT": "Tim_Curry",
+      "EN": "Tim_Curry"
+    },
+    "bio": "Timothy James Curry, detto Tim, è stato un attore, doppiatore, cantante e compositore britannico, noto soprattutto per le interpretazioni del Dr. Frank-N-Furter in The Rocky Horror Picture Show (1975) e del pagliaccio assassino Pennywise nella miniserie televisiva It (1990).",
+    "birthDate": "1946-04-19",
+    "deathDate": "2026-08-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Curry%20cropped.jpg",
     "approved": false
   },
   {
