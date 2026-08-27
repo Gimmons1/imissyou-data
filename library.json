@@ -10391,6 +10391,18 @@
     "approved": false
   },
   {
+    "name": "Yayoi Kusama",
+    "slugs": {
+      "IT": "Yayoi_Kusama",
+      "EN": "Yayoi_Kusama"
+    },
+    "bio": "Yayoi Kusama è stata un'artista giapponese.",
+    "birthDate": "1929-03-22",
+    "deathDate": "2026-08-14",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/20130918Yayoi%20Kusama1%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Hayden Panettiere",
     "slugs": {
       "IT": "Hayden_Panettiere",
@@ -10496,6 +10508,30 @@
     "birthDate": "1942-10-14",
     "deathDate": "2026-08-26",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1das%20P%C3%A9ter.jpg",
+    "approved": false
+  },
+  {
+    "name": "Peter Cullen",
+    "slugs": {
+      "IT": "Peter_Cullen",
+      "EN": "Peter_Cullen"
+    },
+    "bio": "Peter Claver Cullen è stato un doppiatore canadese.",
+    "birthDate": "1941-07-28",
+    "deathDate": "2026-08-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Cullen%20Photo%20Op%20GalaxyCon%20Richmond%202020.jpg",
+    "approved": false
+  },
+  {
+    "name": "Ratko Mladić",
+    "slugs": {
+      "IT": "Ratko_Mladić",
+      "EN": "Ratko_Mladić"
+    },
+    "bio": "Ratko Mladić è stato un generale e criminale di guerra serbo-bosniaco, comandante militare yugoslavo e successivamente capo di stato maggiore dei serbo-bosniaci durante la guerra in Bosnia.",
+    "birthDate": "1943-03-12",
+    "deathDate": "2026-08-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-ratko-mladic-1993-w.jpg",
     "approved": false
   },
   {
