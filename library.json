@@ -10535,6 +10535,18 @@
     "approved": false
   },
   {
+    "name": "Harald V di Norvegia",
+    "slugs": {
+      "IT": "Harald_V_di_Norvegia",
+      "EN": "Harald_V"
+    },
+    "bio": "Harald V di Norvegia è il re di Norvegia dal 1991, unico figlio maschio di Olav V e della principessa Marta di Svezia.",
+    "birthDate": "1937-02-21",
+    "deathDate": "2026-08-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Harald%20V%20in%202025.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
