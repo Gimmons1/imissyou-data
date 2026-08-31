@@ -10547,6 +10547,30 @@
     "approved": false
   },
   {
+    "name": "Ada Yonath",
+    "slugs": {
+      "IT": "Ada_Yonath",
+      "EN": "Ada_Yonath"
+    },
+    "bio": "Ada E. Yonath, in ebraico עדה יונת‎?, è stata una chimica e cristallografa israeliana, vincitrice del premio Nobel per la chimica nel 2009 assieme a Thomas Arthur Steitz e a Venkatraman Ramakrishnan per i suoi studi sulla struttura e sulla funzione dei ribosomi. Dirige lo Helen and Milton A. Kimmelman Center for Biomolecular Structure and Assembly del Weizmann Institute of Science.",
+    "birthDate": "1939-06-22",
+    "deathDate": "2026-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ada%20E.%20Yonath.jpg",
+    "approved": false
+  },
+  {
+    "name": "Édouard Balladur",
+    "slugs": {
+      "IT": "Édouard_Balladur",
+      "EN": "Édouard_Balladur"
+    },
+    "bio": "Édouard Léon Raoul Balladur è stato un politico e funzionario francese, Primo ministro della Francia dal 29 marzo 1993 al 10 maggio 1995, durante la seconda cohabitation della Quinta Repubblica francese, si candidò alle elezioni presidenziali del 1995, classificandosi terzo.",
+    "birthDate": "1929-05-02",
+    "deathDate": "2026-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Balladur%20-%201993%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
