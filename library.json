@@ -10523,6 +10523,18 @@
     "approved": false
   },
   {
+    "name": "Toyohiro Akiyama",
+    "slugs": {
+      "IT": "Toyohiro_Akiyama",
+      "EN": "Toyohiro_Akiyama"
+    },
+    "bio": "Toyohiro Akiyama è stato un giornalista e astronauta giapponese.",
+    "birthDate": "1942-07-22",
+    "deathDate": "2026-08-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Toyohiro-Akiyama-First-Japanese-Person-in-Space-1990.png",
+    "approved": false
+  },
+  {
     "name": "Ratko Mladić",
     "slugs": {
       "IT": "Ratko_Mladić",
@@ -10568,6 +10580,18 @@
     "birthDate": "1929-05-02",
     "deathDate": "2026-08-31",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Balladur%20-%201993%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Wendell Berry",
+    "slugs": {
+      "IT": "Wendell_Berry",
+      "EN": "Wendell_Berry"
+    },
+    "bio": "Wendell Berry è stato uno scrittore, poeta e ambientalista statunitense.",
+    "birthDate": "1934-08-05",
+    "deathDate": "2026-08-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20New%20Harvest%2C%20with%20Wendell%20Berry%2C%20Henry%20County%2C%20KY%2C%202011%20-%20photograph%20by%20Guy%20Mendes%20%28cropped%29.jpg",
     "approved": false
   },
   {
