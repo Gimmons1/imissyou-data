@@ -10595,6 +10595,30 @@
     "approved": false
   },
   {
+    "name": "Jean-Paul Rappeneau",
+    "slugs": {
+      "IT": "Jean-Paul_Rappeneau",
+      "EN": "Jean-Paul_Rappeneau"
+    },
+    "bio": "Jean-Paul Rappeneau è stato un regista e sceneggiatore francese, conosciuto soprattutto per Cyrano de Bergerac (1990), film vincitore di 10 premi César, fra cui quello per il miglior regista.",
+    "birthDate": "1932-04-08",
+    "deathDate": "2026-09-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Rappeneau.jpg",
+    "approved": false
+  },
+  {
+    "name": "Raif Dizdarević",
+    "slugs": {
+      "IT": "Raif_Dizdarević",
+      "EN": "Raif_Dizdarević"
+    },
+    "bio": "Raif Dizdarević è stato un politico bosniaco.",
+    "birthDate": "1926-12-09",
+    "deathDate": "2026-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Raif%20Dizdarevi%C4%87%20%28politi%C4%8Dar%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
