@@ -10619,6 +10619,18 @@
     "approved": false
   },
   {
+    "name": "Cassandra Wilson",
+    "slugs": {
+      "IT": "Cassandra_Wilson",
+      "EN": "Cassandra_Wilson"
+    },
+    "bio": "Cassandra Wilson è stata una cantante jazz statunitense.",
+    "birthDate": "1955-12-04",
+    "deathDate": "2026-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassandra%20Wilson.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
