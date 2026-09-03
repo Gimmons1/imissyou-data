@@ -10475,6 +10475,18 @@
     "approved": false
   },
   {
+    "name": "Hideki Shirakawa",
+    "slugs": {
+      "IT": "Hideki_Shirakawa",
+      "EN": "Hideki_Shirakawa"
+    },
+    "bio": "Hideki Shirakawa è stato un chimico giapponese che ha vinto il Premio Nobel per la Chimica nel 2000 insieme a Alan G. MacDiarmid e Alan J. Heeger, per la scoperta e lo sviluppo dei polimeri conduttivi.",
+    "birthDate": "1936-08-20",
+    "deathDate": "2026-08-24",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hideki%20Shirakawa.jpg",
+    "approved": false
+  },
+  {
     "name": "Dolly Parton",
     "slugs": {
       "IT": "Dolly_Parton",
@@ -10628,6 +10640,18 @@
     "birthDate": "1955-12-04",
     "deathDate": "2026-09-02",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassandra%20Wilson.jpg",
+    "approved": false
+  },
+  {
+    "name": "Gloria Steinem",
+    "slugs": {
+      "IT": "Gloria_Steinem",
+      "EN": "Gloria_Steinem"
+    },
+    "bio": "Gloria Marie Steinem è stata una scrittrice, giornalista e attivista statunitense.\nÈ ricordata per essere stata una delle cofondatrici della rivista Ms., la prima rivista femminista, e una delle voci più influenti del femminismo, nella seconda metà del XX secolo. Nel 2005 fu anche cofondatrice del Women's Media Center, un'organizzazione che \"lavora per rendere le donne visibili e potenti nei media\".",
+    "birthDate": "1934-03-25",
+    "deathDate": "2026-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Steinem%20%2829126367513%29%20%28cropped%29.jpg",
     "approved": false
   },
   {
