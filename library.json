@@ -10571,6 +10571,18 @@
     "approved": false
   },
   {
+    "name": "Richard E. Stearns",
+    "slugs": {
+      "IT": "Richard_E._Stearns",
+      "EN": "Richard_E._Stearns"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1936-07-05",
+    "deathDate": "2026-08-29",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dick%20Stearns%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Ada Yonath",
     "slugs": {
       "IT": "Ada_Yonath",
@@ -10652,6 +10664,18 @@
     "birthDate": "1934-03-25",
     "deathDate": "2026-09-02",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Steinem%20%2829126367513%29%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Tony Gatlif",
+    "slugs": {
+      "IT": "Tony_Gatlif",
+      "EN": "Tony_Gatlif"
+    },
+    "bio": "Tony Gatlif, nome d'arte di Michel Dahmani, è un regista, sceneggiatore, compositore, attore e produttore cinematografico francese.",
+    "birthDate": "1948-09-10",
+    "deathDate": "2026-09-02",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Gatlif%20%282016%29.jpg",
     "approved": false
   },
   {
