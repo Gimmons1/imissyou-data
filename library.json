@@ -10679,6 +10679,18 @@
     "approved": false
   },
   {
+    "name": "Robin Morgan",
+    "slugs": {
+      "IT": "Robin_Morgan",
+      "EN": "Robin_Morgan"
+    },
+    "bio": "Robin Morgan è stata un'attrice, poetessa e politica statunitense. Già nota come attrice bambina nel cast principale della serie televisiva Mama (1949-1956), è divenuta poetessa, scrittrice e attivista politica di primo piano. Il suo libro Sisterhood Is Powerful (1970) è uno dei testi fondanti del movimento femminista internazionale ed è stato citato dalla New York Public Library nel 1995 come \"uno dei 100 libri più influenti del XX secolo\".",
+    "birthDate": "1941-01-29",
+    "deathDate": "2026-09-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/RobinMorgan%20profile.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
