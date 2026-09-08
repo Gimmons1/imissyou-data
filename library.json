@@ -10691,6 +10691,18 @@
     "approved": false
   },
   {
+    "name": "Tung Chee-Hwa",
+    "slugs": {
+      "IT": "Tung_Chee-hwa",
+      "EN": "Tung_Chee-hwa"
+    },
+    "bio": "Tung Chee-hwa è stato un politico e imprenditore cinese.",
+    "birthDate": "1937-07-07",
+    "deathDate": "2026-09-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tung%20Chee%20Hwa.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
