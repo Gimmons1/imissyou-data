@@ -10727,6 +10727,18 @@
     "approved": false
   },
   {
+    "name": "Astrid di Norvegia",
+    "slugs": {
+      "IT": "Princess_Astrid,_Mrs._Ferner",
+      "EN": "Princess_Astrid,_Mrs._Ferner"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1932-02-12",
+    "deathDate": "2026-09-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Prinsesse%20Astrid%20-%20no-nb%20digifoto%2020160111%2000009%20bldsa%20pk%20kgl0077%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
