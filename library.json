@@ -10715,6 +10715,18 @@
     "approved": false
   },
   {
+    "name": "Emma Bonino",
+    "slugs": {
+      "IT": "Emma_Bonino",
+      "EN": "Emma_Bonino"
+    },
+    "bio": "Emma Bonino è stata una politica italiana.",
+    "birthDate": "1948-03-09",
+    "deathDate": "2026-09-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Bonino%20-%20World%20Economic%20Forum%20on%20Europe%202010.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
