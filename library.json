@@ -10739,6 +10739,18 @@
     "approved": false
   },
   {
+    "name": "Flora Brovina",
+    "slugs": {
+      "IT": "Flora_Brovina",
+      "EN": "Flora_Brovina"
+    },
+    "bio": "Flora Brovina è stata una pediatra, poetessa e politica kosovara di origine albanese, attivista per i diritti delle donne, Presidente ad interim dell'Assemblea del Kosovo dal luglio al dicembre 2014.",
+    "birthDate": "1949-09-30",
+    "deathDate": "2026-09-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Flora%20Brovina.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
