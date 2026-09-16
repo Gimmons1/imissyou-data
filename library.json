@@ -10751,6 +10751,18 @@
     "approved": false
   },
   {
+    "name": "Annie Dillard",
+    "slugs": {
+      "IT": "Annie_Dillard",
+      "EN": "Annie_Dillard"
+    },
+    "bio": "Annie Dillard è stata una scrittrice e saggista statunitense, vincitrice del premio Pulitzer per la saggistica (1975) con il libro Pilgrim at Tinker Creek.",
+    "birthDate": "1945-04-30",
+    "deathDate": "2026-09-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Annie-dillard.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
