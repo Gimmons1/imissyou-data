@@ -10763,6 +10763,30 @@
     "approved": false
   },
   {
+    "name": "Sergej Čepikov",
+    "slugs": {
+      "IT": "Sergej_Čepikov",
+      "EN": "Sergei_Tchepikov"
+    },
+    "bio": "Sergej Vladimirovič Čepikov è stato un biatleta, fondista e politico russo.\nPrima della dissoluzione dell'Unione Sovietica (1991), ha gareggiato per la nazionale sovietica; ai XVI Giochi olimpici invernali di Albertville 1992 ha fatto parte della squadra unificata.",
+    "birthDate": "1967-01-30",
+    "deathDate": "2026-09-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergey%20Chepikov.jpg",
+    "approved": false
+  },
+  {
+    "name": "Jon Kyl",
+    "slugs": {
+      "IT": "Jon_Kyl",
+      "EN": "Jon_Kyl"
+    },
+    "bio": "Jon Llewellyn Kyl è stato un politico statunitense, senatore per lo stato dell'Arizona dal 1995 al 2013 e nuovamente dal 5 settembre 2018 al 3 gennaio 2019, in precedenza membro della Camera dei rappresentanti per lo stesso stato dal 1987 al 1995.",
+    "birthDate": "1942-04-25",
+    "deathDate": "2026-09-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Kyl%2C%20official%20109th%20Congress%20photo.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
