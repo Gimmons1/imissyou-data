@@ -10763,6 +10763,18 @@
     "approved": false
   },
   {
+    "name": "Patricio Guzmán",
+    "slugs": {
+      "IT": "Patricio_Guzmán",
+      "EN": "Patricio_Guzmán"
+    },
+    "bio": "Patricio Guzmán Lozanes è stato un regista, sceneggiatore, attore, scrittore e fotografo cileno.",
+    "birthDate": "1941-08-11",
+    "deathDate": "2026-09-15",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricio%20Guzman%20cortado.jpg",
+    "approved": false
+  },
+  {
     "name": "Sergej Čepikov",
     "slugs": {
       "IT": "Sergej_Čepikov",
@@ -10784,6 +10796,18 @@
     "birthDate": "1942-04-25",
     "deathDate": "2026-09-17",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Kyl%2C%20official%20109th%20Congress%20photo.jpg",
+    "approved": false
+  },
+  {
+    "name": "Sandro Mazzola",
+    "slugs": {
+      "IT": "Sandro_Mazzola",
+      "EN": "Sandro_Mazzola"
+    },
+    "bio": "Alessandro Mazzola, detto Sandro, è stato un calciatore e dirigente sportivo italiano, di ruolo centrocampista e attaccante. Con la nazionale italiana è stato campione d'Europa nel 1968 e vicecampione del mondo nel 1970.",
+    "birthDate": "1942-11-08",
+    "deathDate": "2026-09-19",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Inter%20Milan%201971-1972%20Sandro%20Mazzola.jpg",
     "approved": false
   },
   {
