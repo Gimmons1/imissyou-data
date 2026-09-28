@@ -10835,6 +10835,30 @@
     "approved": false
   },
   {
+    "name": "Pac",
+    "slugs": {
+      "IT": "Pac_(wrestler)",
+      "EN": "Pac_(wrestler)"
+    },
+    "bio": "Benjamin Satterley, meglio conosciuto con il ring name Pac, è stato un wrestler britannico, sotto contratto con la All Elite Wrestling.",
+    "birthDate": "1986-08-22",
+    "deathDate": "2026-09-27",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Neville2017.jpg",
+    "approved": false
+  },
+  {
+    "name": "Siti Hasmah Mohamad Ali",
+    "slugs": {
+      "IT": "Siti_Hasmah_Mohamad_Ali",
+      "EN": "Siti_Hasmah_Mohamad_Ali"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1926-07-12",
+    "deathDate": "2026-09-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Siti%20Hasmah%20Mohamad%20Ali%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
