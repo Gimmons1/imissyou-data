@@ -10859,6 +10859,18 @@
     "approved": false
   },
   {
+    "name": "Biljana Plavšić",
+    "slugs": {
+      "IT": "Biljana_Plavšić",
+      "EN": "Biljana_Plavšić"
+    },
+    "bio": "Biljana Plavšić è stata una politica, botanica e docente bosniaca, presidente della Repubblica dei Serbi di Bosnia dal 1996 al 1998. Personaggio politico di grande importanza durante la guerra in Bosnia, è l'unica donna processata dal Tribunale penale internazionale per l'ex-Jugoslavia per aver partecipato ai crimini commessi durante la guerra.",
+    "birthDate": "1930-07-07",
+    "deathDate": "2026-10-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Biljana%20Plavsic.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
