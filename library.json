@@ -10883,6 +10883,18 @@
     "approved": false
   },
   {
+    "name": "Dennis Hastert",
+    "slugs": {
+      "IT": "Dennis_Hastert",
+      "EN": "Dennis_Hastert"
+    },
+    "bio": "John Dennis Hastert è stato un politico e criminale statunitense, membro della Camera dei rappresentanti per lo Stato dell'Illinois dal 1987 al 2007 e Speaker della Camera dal 1999 al 2007.",
+    "birthDate": "1942-01-02",
+    "deathDate": "2026-10-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Speaker%20of%20the%20United%20States%20House%20of%20Representatives%20Dennis%20Hastert%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
