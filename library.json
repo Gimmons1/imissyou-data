@@ -10895,6 +10895,30 @@
     "approved": false
   },
   {
+    "name": "Carlos Alberto Dias",
+    "slugs": {
+      "IT": "Carlos_Alberto_Dias",
+      "EN": "Carlos_Alberto_Dias"
+    },
+    "bio": "Carlos Alberto Costa Dias è stato un calciatore brasiliano, di ruolo attaccante.",
+    "birthDate": "1967-05-05",
+    "deathDate": "2026-10-05",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
+    "name": "Jeffrey Archer",
+    "slugs": {
+      "IT": "Jeffrey_Archer",
+      "EN": "Jeffrey_Archer"
+    },
+    "bio": "Jeffrey Howard Archer, Barone Archer di Weston-super-Mare, è stato un politico e scrittore inglese.",
+    "birthDate": "1940-04-15",
+    "deathDate": "2026-10-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeffrey%20Archer%20%282024%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
