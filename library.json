@@ -10919,6 +10919,18 @@
     "approved": false
   },
   {
+    "name": "Eva Marie Saint",
+    "slugs": {
+      "IT": "Eva_Marie_Saint",
+      "EN": "Eva_Marie_Saint"
+    },
+    "bio": "Eva Marie Saint è stata un'attrice statunitense.",
+    "birthDate": "1924-07-04",
+    "deathDate": "2026-10-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Marie%20Saint%20Promo%20Portrait%2C%20c.%201951.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
