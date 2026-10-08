@@ -10943,6 +10943,18 @@
     "approved": false
   },
   {
+    "name": "Nana Patekar",
+    "slugs": {
+      "IT": "Nana_Patekar",
+      "EN": "Nana_Patekar"
+    },
+    "bio": "Vishwanath Patekar, noto semplicemente come Nana Patekar, è un attore indiano.\nSi tratta di uno dei volti più famosi di Bollywood.\nHa recitato in moltissimi film e ricevuto vari premi in patria.",
+    "birthDate": "1951-01-01",
+    "deathDate": "2026-10-08",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nana%20patekar.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
