@@ -10739,6 +10739,18 @@
     "approved": false
   },
   {
+    "name": "Astrid di Norvegia",
+    "slugs": {
+      "IT": "Princess_Astrid_of_Norway",
+      "EN": "Princess_Astrid_of_Norway"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1932-02-12",
+    "deathDate": "2026-09-11",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Prinsesse%20Astrid%20on%20her%2080th%20birthday%202012%20%28cropped%202%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Flora Brovina",
     "slugs": {
       "IT": "Flora_Brovina",
