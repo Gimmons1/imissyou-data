@@ -11003,6 +11003,18 @@
     "approved": false
   },
   {
+    "name": "Ryū Murakami",
+    "slugs": {
+      "IT": "Ryū_Murakami",
+      "EN": "Ryū_Murakami"
+    },
+    "bio": "Ryūnosuke Murakami, detto Ryū, è stato uno scrittore, saggista, sceneggiatore e regista giapponese.",
+    "birthDate": "1952-02-19",
+    "deathDate": "2026-10-17",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryu%20Murakami.jpg",
+    "approved": false
+  },
+  {
     "name": "Tom Skerritt",
     "slugs": {
       "IT": "Tom_Skerritt",
@@ -11012,6 +11024,18 @@
     "birthDate": "1933-08-25",
     "deathDate": "2026-10-21",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Skerritt%202014%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Claude Cohen-Tannoudji",
+    "slugs": {
+      "IT": "Claude_Cohen-Tannoudji",
+      "EN": "Claude_Cohen-Tannoudji"
+    },
+    "bio": "Claude Cohen-Tannoudji è un fisico francese, conosciuto per aver vinto, assieme a Steven Chu e William Phillips, il premio Nobel per la fisica nel 1997 per i suoi lavori sul raffreddamento laser, e per aver realizzato una serie di volumi didattici sulla meccanica quantistica.",
+    "birthDate": "1933-04-01",
+    "deathDate": "2026-10-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/COHEN%20TANNOUDJI%20Claude-24x30-1999.jpg",
     "approved": false
   },
   {
