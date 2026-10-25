@@ -11039,6 +11039,18 @@
     "approved": false
   },
   {
+    "name": "Paolo Romeo",
+    "slugs": {
+      "IT": "Paolo_Romeo",
+      "EN": "Paolo_Romeo"
+    },
+    "bio": "Paolo Romeo è stato un cardinale e arcivescovo cattolico italiano.",
+    "birthDate": "1938-02-20",
+    "deathDate": "2026-10-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/PaoloRomeo.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
