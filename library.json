@@ -11075,6 +11075,18 @@
     "approved": false
   },
   {
+    "name": "Walter Koenig",
+    "slugs": {
+      "IT": "Walter_Koenig",
+      "EN": "Walter_Koenig"
+    },
+    "bio": "Walter Marvin Koenig è stato un attore statunitense, noto per aver interpretato Pavel Chekov nel franchise di fantascienza Star Trek.",
+    "birthDate": "1936-09-14",
+    "deathDate": "2026-10-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/WalterKoenigHWOFSept2012.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
