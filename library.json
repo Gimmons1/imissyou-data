@@ -11039,6 +11039,18 @@
     "approved": false
   },
   {
+    "name": "Yasuo Fukuda",
+    "slugs": {
+      "IT": "Yasuo_Fukuda",
+      "EN": "Yasuo_Fukuda"
+    },
+    "bio": "Yasuo Fukuda è stato un politico giapponese.",
+    "birthDate": "1936-07-16",
+    "deathDate": "2026-10-22",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasuo%20Fukuda%20200709.jpg",
+    "approved": false
+  },
+  {
     "name": "Paolo Romeo",
     "slugs": {
       "IT": "Paolo_Romeo",
@@ -11048,6 +11060,18 @@
     "birthDate": "1938-02-20",
     "deathDate": "2026-10-25",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/PaoloRomeo.jpg",
+    "approved": false
+  },
+  {
+    "name": "Eric Bauza",
+    "slugs": {
+      "IT": "Eric_Bauza",
+      "EN": "Eric_Bauza"
+    },
+    "bio": "Eric Adrian Bauza è stato un doppiatore e comico canadese.",
+    "birthDate": "1979-12-07",
+    "deathDate": "2026-10-25",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Bauza%20by%20Gage%20Skidmore%202.jpg",
     "approved": false
   },
   {
