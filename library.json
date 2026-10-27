@@ -11087,6 +11087,18 @@
     "approved": false
   },
   {
+    "name": "Susan Saint James",
+    "slugs": {
+      "IT": "Susan_Saint_James",
+      "EN": "Susan_Saint_James"
+    },
+    "bio": "Susan Saint James, all'anagrafe Susan Jane Miller, è stata un'attrice statunitense, attiva soprattutto in televisione tra la fine degli anni sessanta e gli ottanta.",
+    "birthDate": "1946-08-14",
+    "deathDate": "2026-10-26",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Saint%20James%201970.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
