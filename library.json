@@ -11111,6 +11111,18 @@
     "approved": false
   },
   {
+    "name": "Dolores Huerta",
+    "slugs": {
+      "IT": "Dolores_Huerta",
+      "EN": "Dolores_Huerta"
+    },
+    "bio": "Dolores Clara Fernández Huerta è stata una sindacalista e attivista statunitense.",
+    "birthDate": "1930-04-10",
+    "deathDate": "2026-10-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Dolores%20Huerta%20%2833552046043%29%20%281%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
