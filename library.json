@@ -11099,6 +11099,18 @@
     "approved": false
   },
   {
+    "name": "Liu Yandong",
+    "slugs": {
+      "IT": "Liu_Yandong",
+      "EN": "Liu_Yandong"
+    },
+    "bio": "Liu Yandong è stata una politica cinese.",
+    "birthDate": "1945-11-22",
+    "deathDate": "2026-10-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Yandong%202011.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
