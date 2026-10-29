@@ -11135,6 +11135,18 @@
     "approved": false
   },
   {
+    "name": "Elke Sommer",
+    "slugs": {
+      "IT": "Elke_Sommer",
+      "EN": "Elke_Sommer"
+    },
+    "bio": "Elke Sommer, pseudonimo di Elke Schletz, è stata un'attrice, cantante e pittrice tedesca.",
+    "birthDate": "1940-11-05",
+    "deathDate": "2026-10-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Elke%20Sommer%201965.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
