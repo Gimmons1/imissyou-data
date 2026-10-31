@@ -11147,6 +11147,18 @@
     "approved": false
   },
   {
+    "name": "Fátima Báñez García",
+    "slugs": {
+      "IT": "Fátima_Báñez_García",
+      "EN": "Fátima_Báñez"
+    },
+    "bio": "Fátima Báñez García è stata una politica ed economista spagnola.",
+    "birthDate": "1967-01-06",
+    "deathDate": "2026-10-28",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A1tima%20B%C3%A1%C3%B1ez%202012%20%28cropped%29.JPG",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
