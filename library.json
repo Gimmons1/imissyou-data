@@ -11159,6 +11159,18 @@
     "approved": false
   },
   {
+    "name": "William Nordhaus",
+    "slugs": {
+      "IT": "William_Nordhaus",
+      "EN": "William_Nordhaus"
+    },
+    "bio": "William Dawbney Nordhaus, detto \"Bill\", è un economista statunitense che insegna alla Yale University. Nordhaus vive a New Haven, Connecticut.\nÈ stato insignito del Premio Nobel per l'economia nel 2018, insieme a Paul Romer, per i suoi studi su economia e cambiamento climatico.",
+    "birthDate": "1941-05-31",
+    "deathDate": "2026-10-30",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Nordhaus%20EM1B6005%20%2846234137031%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
