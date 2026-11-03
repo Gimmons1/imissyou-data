@@ -11183,6 +11183,18 @@
     "approved": false
   },
   {
+    "name": "Juan Atkins",
+    "slugs": {
+      "IT": "Juan_Atkins",
+      "EN": "Juan_Atkins"
+    },
+    "bio": "Juan Atkins, noto anche con lo pseudonimo di Model 500 o Infiniti, è stato un musicista, disc jockey e polistrumentista statunitense.\nEra considerato, insieme a Derrick May e Kevin Saunderson, uno degli inventori della Detroit techno.",
+    "birthDate": "1962-09-12",
+    "deathDate": "2026-10-31",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Atkins.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
