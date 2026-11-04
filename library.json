@@ -11195,6 +11195,30 @@
     "approved": false
   },
   {
+    "name": "Janosch",
+    "slugs": {
+      "IT": "Janosch",
+      "EN": "Janosch"
+    },
+    "bio": "Horst Eckert, nome d'arte in Janosch è stato uno scrittore, drammaturgo e illustratore tedesco, noto per i suoi libri per l'infanzia.",
+    "birthDate": "1931-03-11",
+    "deathDate": "2026-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Janosch.jpg",
+    "approved": false
+  },
+  {
+    "name": "Tinto Brass",
+    "slugs": {
+      "IT": "Tinto_Brass",
+      "EN": "Tinto_Brass"
+    },
+    "bio": "Giovanni Brass, detto Tinto, è stato un regista, sceneggiatore, montatore e scrittore italiano, considerato il maestro del cinema erotico italiano.",
+    "birthDate": "1933-03-26",
+    "deathDate": "2026-11-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinto%20Brass%2001.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
@@ -11216,6 +11240,18 @@
     "birthDate": "2026-01-01",
     "deathDate": "2027-01-01",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Guifred1Barcelonsky.jpg",
+    "approved": false
+  },
+  {
+    "name": "Caroline Lucretia Herschel",
+    "slugs": {
+      "IT": "Caroline_Lucretia_Herschel",
+      "EN": "Caroline_Herschel"
+    },
+    "bio": "Caroline Lucretia Herschel è stata un'astronoma, matematica e cantante lirica britannica di origine tedesca e una delle prime due donne elette membro onorario della Royal Astronomical Society.\nÈ ricordata per aver scoperto 8 comete ed essere stata la prima donna al mondo a ricevere uno stipendio come scienziata (1787).",
+    "birthDate": "1750-03-16",
+    "deathDate": "6767-01-09",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/1829%20Melchior%20Gommar%20Tieleman%2C%20%C3%96lgem%C3%A4lde%20Caroline%20Herschel%20Hannover.tif",
     "approved": false
   }
 ]
