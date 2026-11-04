@@ -11195,6 +11195,18 @@
     "approved": false
   },
   {
+    "name": "Ciara Mageean",
+    "slugs": {
+      "IT": "Ciara_Mageean",
+      "EN": "Ciara_Mageean"
+    },
+    "bio": "Ciara Mageean è stata una mezzofondista irlandese.",
+    "birthDate": "1992-03-12",
+    "deathDate": "2026-11-01",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-08-19%20European%20Championships%202022%20%E2%80%93%20Women%27s%201500%20Metres%20by%20Sandro%20Halank%E2%80%93026.jpg",
+    "approved": false
+  },
+  {
     "name": "Janosch",
     "slugs": {
       "IT": "Janosch",
@@ -11207,6 +11219,18 @@
     "approved": false
   },
   {
+    "name": "Jesús de Miguel Alameda",
+    "slugs": {
+      "IT": "Jesús_de_Miguel",
+      "EN": "Jesús_de_Miguel"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1996-09-21",
+    "deathDate": "2026-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Deportivo%20da%20Coru%C3%B1a%20-%20CD%20Castell%C3%B3n%2C%20ida%20da%20final%20da%20Primeira%20RFEF%202023-24%20-%2013%20%28Jes%C3%BAs%20de%20Miguel%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Tinto Brass",
     "slugs": {
       "IT": "Tinto_Brass",
@@ -11216,6 +11240,18 @@
     "birthDate": "1933-03-26",
     "deathDate": "2026-11-04",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinto%20Brass%2001.jpg",
+    "approved": false
+  },
+  {
+    "name": "Herbert Blomstedt",
+    "slugs": {
+      "IT": "Herbert_Blomstedt",
+      "EN": "Herbert_Blomstedt"
+    },
+    "bio": "Herbert Blomstedt è stato un direttore d'orchestra svedese.",
+    "birthDate": "1927-07-11",
+    "deathDate": "2026-11-04",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Blomstedt%20-%20Er%C3%B6ffnung%20Leipziger%20Buchmesse%202023%20%28cropped%29.jpg",
     "approved": false
   },
   {
