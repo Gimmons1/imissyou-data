@@ -11291,6 +11291,18 @@
     "approved": false
   },
   {
+    "name": "Sergej Šojgu",
+    "slugs": {
+      "IT": "Sergej_Šojgu",
+      "EN": "Sergei_Shoigu"
+    },
+    "bio": "Sergej Kužugetovič Šojgu è un generale e politico russo di etnia tuvana, Eroe della Russia.",
+    "birthDate": "2055-05-21",
+    "deathDate": "2666-06-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shoigu%202024-10-10.jpg",
+    "approved": false
+  },
+  {
     "name": "Caroline Lucretia Herschel",
     "slugs": {
       "IT": "Caroline_Lucretia_Herschel",
