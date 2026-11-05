@@ -11255,6 +11255,18 @@
     "approved": false
   },
   {
+    "name": "Alan Jones",
+    "slugs": {
+      "IT": "Alan_Jones_(racing_driver)",
+      "EN": "Alan_Jones_(racing_driver)"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1946-11-02",
+    "deathDate": "2026-11-05",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jones%201980%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
