@@ -11231,6 +11231,18 @@
     "approved": false
   },
   {
+    "name": "Oleksij Arestovyč",
+    "slugs": {
+      "IT": "Oleksii_Arestovych",
+      "EN": "Oleksii_Arestovych"
+    },
+    "bio": "Biografia in attesa di aggiornamento.",
+    "birthDate": "1975-08-03",
+    "deathDate": "2026-11-03",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Oleksiy%20Arestovych%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Tinto Brass",
     "slugs": {
       "IT": "Tinto_Brass",
@@ -11264,6 +11276,18 @@
     "birthDate": "1946-11-02",
     "deathDate": "2026-11-05",
     "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jones%201980%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
+    "name": "Jay Rockefeller",
+    "slugs": {
+      "IT": "Jay_Rockefeller",
+      "EN": "Jay_Rockefeller"
+    },
+    "bio": "John Davison Rockefeller IV detto Jay è stato un politico statunitense, senatore per lo stato della Virginia Occidentale dal 1985 al 2015 e in precedenza governatore dello stesso stato dal 1977 al 1985. Membro del Partito Democratico, Rockefeller è membro della prestigiosa famiglia dei Rockefeller, una delle dinastie imprenditoriali e politiche più conosciute degli Stati Uniti d'America.",
+    "birthDate": "1937-06-18",
+    "deathDate": "2026-11-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jay%20Rockefeller%20official%20photo.jpg",
     "approved": false
   },
   {
