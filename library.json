@@ -11003,6 +11003,18 @@
     "approved": false
   },
   {
+    "name": "Bo Johansson",
+    "slugs": {
+      "IT": "Bo_Johansson",
+      "EN": "Bo_Johansson"
+    },
+    "bio": "Bo Johansson, soprannominato Bosse, è stato un allenatore di calcio e calciatore svedese.",
+    "birthDate": "1942-11-28",
+    "deathDate": "2026-10-15",
+    "imageUrl": null,
+    "approved": false
+  },
+  {
     "name": "Ryū Murakami",
     "slugs": {
       "IT": "Ryū_Murakami",
