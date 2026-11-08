@@ -11303,6 +11303,18 @@
     "approved": false
   },
   {
+    "name": "Sebastián Lelio",
+    "slugs": {
+      "IT": "Sebastián_Lelio",
+      "EN": "Sebastián_Lelio"
+    },
+    "bio": "Sebastián Lelio è stato un regista, sceneggiatore e produttore cinematografico cileno.",
+    "birthDate": "1974-03-08",
+    "deathDate": "2026-11-06",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebasti%C3%A1n%20Lelio%20%28Berlinale%202017%29%20%28cropped%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
