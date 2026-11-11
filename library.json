@@ -11315,6 +11315,18 @@
     "approved": false
   },
   {
+    "name": "Stacy Keach",
+    "slugs": {
+      "IT": "Stacy_Keach",
+      "EN": "Stacy_Keach"
+    },
+    "bio": "Walter Stacy Keach è stato un attore statunitense.",
+    "birthDate": "1941-06-02",
+    "deathDate": "2026-11-10",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Stacy%20Keach%20%22Murder%20Me%2C%20Murder%20You%22%20%281983%20Columbia%20Pictures%20Television%20press%20photo%29.jpg",
+    "approved": false
+  },
+  {
     "name": "Al-Mu'izz li-Din Allah",
     "slugs": {
       "IT": "Al-Mu'izz_li-din_Allah",
